@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="42528-shi-jian-n 事件-n">
+
+
+
+<commentary>
+
+</commentary>
+
+
+
+
+
+
+<sense n="1" type="" name="happening, occurrence, 事件," group="1">
+
+
+
+<commentary>
+
+</commentary>
+
+
+
+<examples>
+
+
+
+上星期在学校里发生了一些不寻常的事件。
+
+
+
+There were some unusual happenings at school last week.
+
+
+
+随机事件
+
+
+
+a random occurrence
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="event, incident, 事件,大事," group="1">
+
+
+
+<commentary>
+
+</commentary>
+
+
+
+<examples>
+
+
+
+灾变性事件
+
+
+
+a catastrophic event
+
+
+
+在最近一次恶性事件中有两颗炸弹爆炸了。
+
+
+
+In a recent vicious incident two bombs exploded.
+
+
+
+国际性事件
+
+
+
+an international incident
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="3" type="" name="affair 事件,事情" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+恋爱事件
+
+
+
+affair of the heart
+
+
+
+
+
+预谋事件
+
+
+
+a got-up affair
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

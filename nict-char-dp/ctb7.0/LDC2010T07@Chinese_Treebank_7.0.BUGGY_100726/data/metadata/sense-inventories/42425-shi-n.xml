@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="shi, 市-n">
+<commentary></commentary>
+<sense n="1" name="市, market" group="" type="">
+<commentary>Any market or marketplace.</commentary><examples>黑市
+black market
+
+它已开始上市.
+It has appeared on the market.
+
+菜市
+vegetable market
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="市, city, municipality," group="" type="">
+<commentary>Any city or municipality.</commentary><examples>港市
+port city,
+
+省辖市
+provincial city
+
+市中心
+the heart of the city.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="市, pertaining to the Chinese system of weights and measures" group="" type="">
+<commentary>pertaining to the Chinese system of weights and measures.</commentary><examples>市尺
+chi ( a unit of length.)
+
+市斤
+jin ( a unit of weight)
+
+市寸
+cun (a unit of lenghth)
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

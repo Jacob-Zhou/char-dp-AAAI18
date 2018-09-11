@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="陷-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be traped, to get stuck, to be mired" group="1">
+<commentary>
+</commentary>
+<examples>
+尽管 工作 多 年 稍 有 积蓄 ， 姜 小姐 辞职 後 的 前 三 个 月 仍 不免 陷 在 恐惧 里 ， 怕 自己 就 此 被 社会 甩开 、 也 怕 亲友 责难 的 眼光
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to cave in" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to falsely incriminate" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

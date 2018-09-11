@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="并列-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stand/arrange side by side, to juxtapose,
+abrest to, side by side" group="1">
+<commentary>
+</commentary>
+<examples>
+另 一 头 则 并列 著 枝条 匀长 的 金 钱 树
+罗马尼亚 的 丹・布林卡 和 德国 的 瓦・贝林基 均 以 ９・７００ 分 并列 第三 名
+台湾 一直 与 日本 并列 为 帛琉 最 主要 的 旅客 来源 国
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

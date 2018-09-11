@@ -1,0 +1,18 @@
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 0 8 gold 透露-v 透露.01 ----- 8:0-rel 0:4-ARG0 7:1-ARGM-TMP 10:5-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 0 13 gold 抵达-v 抵达.01 ----- 13:0-rel 12:1-ARGM-ADV 14:1-ARG1 10:0*10:1*11:0*11:1*17:1-ARG0
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 0 27 gold 来-v 来.05 ----- 27:0-rel 26:1-ARG0 28:1-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 0 28 gold 看-v 看.02 ----- 28:0-rel 26:1-ARG0 29:1-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 1 12 gold 乘坐-v 乘坐.01 ----- 12:0-rel 0:2-ARGM-TMP 7:3-ARG0 13:2-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 1 19 gold 抵达-v 抵达.01 ----- 19:0-rel 0:2-ARGM-TMP 7:3-ARG0 20:2-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 2 8 gold 给-v 给.01 ----- 8:0-rel
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 2 15 gold 旅居-v 旅居.01 ----- 15:0-rel 0:2-ARG0 11:1-ARGM-DIS 12:1-ARGM-ADV 13:1-ARGM-LOC 16:1-ARGM-EXT
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 3 12 gold 交纳-v 交纳.01 ----- 12:0-rel 0:2-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 6:1-ARGM-DIR 13:3-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 4 8 gold 透露-v 透露.01 ----- 8:0-rel 0:4-ARG0 7:1-ARGM-TMP 10:5-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 4 24 gold 说-v 说.01 ----- 24:0-rel 22:1-ARGM-ADV 23:1-ARG0 25:3-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 4 29 gold 举行-v 举行.01 ----- 29:0-rel 25:1-ARG0 27:1-ARGM-BNF 30:2-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 4 34 gold 隆重-v 隆重.01 ----- 34:0-rel 32:0*32:1*33:0*33:1*36:1-ARG0
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 5 9 gold 有-v 有.05 ----- 9:0-rel 0:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-DIS 8:1-ARGM-ADV 10:3-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 5 13 gold 生活-v 生活.01 ----- 13:0-rel 10:2-ARG0 14:1-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 5 20 gold 在-v 在.01 ----- 20:0-rel 17:1-ARGM-LOC 18:1-ARG0 21:1-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 5 25 gold 在-v 在.01 ----- 25:0-rel 23:1-ARG0 26:1-ARG1
+bn/ctv/01/ctv_0114@0114@ctv@bn@ch@on 6 2 gold 报道-v 报道.01 ----- 2:0-rel 0:2-ARG0

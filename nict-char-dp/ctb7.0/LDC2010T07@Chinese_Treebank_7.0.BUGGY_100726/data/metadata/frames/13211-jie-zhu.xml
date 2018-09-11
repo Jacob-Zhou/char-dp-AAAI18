@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接珠 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing revealed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NR 普京))
+                    (VP (PP-TMP (P 在)
+                    (LCP (NP (NP (NT 今年)
+                    (NT ９月))
+                    (NP-PN (NR 纽约))
+                    (NP-PN (NR 联合国))
+                    (NP (NT 千禧年)
+                    (NN 高峰)
+                    (NN 会议)))
+                    (LC 时)))
+                    (ADVP (AD 首席))
+                    (VP (VV 接珠)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (IP-APP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 反对)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 太空)))
+                    (VP (VV 部署)
+                    (NP-OBJ (NN 核武)))))))
+                    (NP (NN 政策))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    普京          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 今年 ９月 纽约 联合国 千禧年 高峰 会议 时          
+                </arg>
+                <arg n="m" f="adv">
+                    首席          
+                </arg>
+                <arg n="1">
+                    *T*-2 -> 政策          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

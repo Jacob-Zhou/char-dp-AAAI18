@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 任期 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="0" argrole="length"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (NN 总统))
+                    (VP (VP (VV 拥有)
+                    (NP-OBJ (NN 行政权)))
+                    (PU ，)
+                    (VP (PP-LGS (P 由)
+                    (NP (NN 选民)))
+                    (ADVP (AD 直接))
+                    (VP (VV 选举)
+                    (NP-OBJ (-NONE- *-1))))
+                    (PU ，)
+                    (VP (VV 任期)
+                    (QP-EXT (CD ６)
+                    (CLP (M 年)))) 
+                    
+                </parse>
+                <arg n="0">
+                    总统          
+                </arg>
+                <arg n="1">
+                    ６ 年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

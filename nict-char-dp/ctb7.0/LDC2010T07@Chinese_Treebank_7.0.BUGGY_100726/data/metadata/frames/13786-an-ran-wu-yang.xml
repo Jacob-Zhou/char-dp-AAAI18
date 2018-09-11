@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 安恙无样 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-ADV (P 除了)
+                    (LCP (IP (NP-SBJ (NN 典狱长))
+                    (VP (VP (NP-LOC (NN 头))
+                    (VP (VV 受伤)))
+                    (VP (VV 晕迷))))
+                    (LC 之外)))
+                    (PU ，)
+                    (NP-SBJ (DP (DT 其余))
+                    (NP (NN 人质)))
+                    (VP (VV 安恙无样))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    除了 典狱长头 受伤 晕迷 之外          
+                </arg>
+                <arg n="0">
+                    其余 人质          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

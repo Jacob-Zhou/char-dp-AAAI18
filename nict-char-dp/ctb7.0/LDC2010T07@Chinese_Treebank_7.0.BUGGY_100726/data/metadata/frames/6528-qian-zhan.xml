@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 前瞻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (IP-CND (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 太))
+                    (VP (VV 懵懂))))
+                    (VP (VPT (VV 赚)
+                    (AD 不)
+                    (VV 到))
+                    (NP-OBJ (NN 钱))))
+                    (PU ，)
+                    (VP (IP-CND (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 太))
+                    (VV 前瞻)))
+                    (ADVP (AD 也))
+                    (VP (VV 会)
+                    (VP (VV 幻灭)))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <arg n="m" f="adv">
+                    太 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

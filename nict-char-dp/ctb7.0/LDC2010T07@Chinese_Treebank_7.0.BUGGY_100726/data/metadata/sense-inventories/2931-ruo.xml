@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="弱-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="weak, feeble" group="1">
+<commentary>
+</commentary>
+<examples>
+由 小 到 大 ， 由 弱 到 强 ， 已 发展 成为 澳门 经济 领域 里 的 一 支 重要 的 力量
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

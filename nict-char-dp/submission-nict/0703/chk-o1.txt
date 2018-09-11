@@ -1,0 +1,85 @@
+[ 16549] index char v 2 vv
+1 严 v 0 root-v
+2 加
+
+[ 16589] index char pos head-index dp-label
+1 输
+2 送
+
+[ 56651] index char pos head-index dp-label
+1 波 n 2 nn
+2 导 n 4 nn
+3 管 n 4 root-n
+ 
+[ 57160] index char pos head-index dp-label
+1 锐
+2 不 a 2 d-a-d
+3 可 d 3 n-d-n
+4 当 v 4 v-v-n
+n 0 root-n
+
+[ 73790] index char n 3 nn
+1 脚 n 3 nn
+2 丫 n 0 root-n
+3 子
+
+[ 77756] index char pos head-index dp-label
+1 拍
+2 卖
+3 行
+
+[ 77757] index char pos head-index dp-label
+1 卖
+2 身
+3 契
+
+[ 46407] index char pos head-index dp-label
+1 早 a 4 ad
+2 白 a 3 nn
+3 垩 n 4
+4 世 n 0 root-n
+
+[ 56026] index char pos head-index dp-label
+1 辩 v 2 vv
+2 证 v 4 n-v-v
+3 逻 n 4
+4 辑 n 0 root-n
+
+[ 57860] index char pos head-index dp-label
+1 榨 n 2
+2 菜 n 0 root-n
+
+[ 58543] index char pos head-index dp-label
+1 干 2 ad
+2 柴 0 root-n
+
+[ 60778] index char pos head-index dp-label
+1 吹 v r
+2 台 n 0 root-n
+
+[ 67356] index char pos head-index dp-label
+1 三 n nn
+2 副 n root-n
+
+[ 67416] index char pos head-index dp-label
+1 旱 n 3 nc
+2 改 v 0 root-n
+3 水 n 2
+
+[ 71109] index char pos head-index dp-label
+1 花 n 2 nn
+2 园 n 3 root-n
+3 口 n 0
+
+[ 74185] index char pos head-index dp-label
+1 流 v 2 v-v-n
+2 金 n 4 vc
+3 铄 v 4
+4 石 n 0 root-v
+
+[ 74197] index char pos head-index dp-label
+1 有 v 2 v-v-n
+2 色 n 4 n-v-n
+3 金 nn 4 nn
+4 属 0 root-n
+

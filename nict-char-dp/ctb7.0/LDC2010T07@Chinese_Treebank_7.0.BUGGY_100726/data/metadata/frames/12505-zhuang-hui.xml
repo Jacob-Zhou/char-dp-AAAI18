@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撞毁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="theme that arg0 crashes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 架)))
+                    (NP (NN 客机)))
+                    (VP (ADVP (AD 先))
+                    (VP (VV 撞毁)
+                    (AS 了)
+                    (NP-OBJ (DNP (LCP (NP (NN 跑道))
+                    (LC 边))
+                    (DEG 的))
+                    (QP (CD 三)
+                    (CLP (M 间)))
+                    (NP (NN 民房)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 架 客机           
+                </arg>
+                <arg n="m" f="adv">
+                    先          
+                </arg>
+                <arg n="1">
+                    跑道 边 的 三 间 民房           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

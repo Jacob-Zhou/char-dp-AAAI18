@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 就医 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (NP-SBJ (NN 民众))
+                    (VP (ADVP (AD 有))
+                    (VP (VV 感到)
+                    (NP-OBJ (IP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 发烧)
+                    (PU 、)
+                    (VV 咳嗽)
+                    (PU 、)
+                    (VV 抽动)))
+                    (ETC 等))
+                    (NP (NN 症状)))))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 还是))
+                    (VP (VV 要)
+                    (VP (ADVP (AD 赶紧))
+                    (VP (VV 就医)))))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 民众 有 感到 发烧 、 咳嗽 、 抽动 等 症状          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    还是          
+                </arg>
+                <arg n="m" f="adv">
+                    赶紧          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

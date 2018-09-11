@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 受苦受难 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 好几百万))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 正在))
+                    (VP (VV 受苦受难)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    好几百万 人          
+                </arg>
+                <arg n="m" f="adv">
+                    正在          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

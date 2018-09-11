@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="清-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to clean up, clean, clear" group="1">
+<commentary>
+</commentary>
+<examples>
+水 不 清
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="the Qing dynasty" group="1">
+<commentary>
+</commentary>
+<examples>
+在 明 清 海禁 时代
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="plain, clear, obvious, distinct, evident" group="1">
+<commentary>
+</commentary>
+<examples>
+看 不 清 趋势 、 脑筋 转 不 过来 的 人 ， 在 竞逐 财富 的 路 上 只好 沦为 输家
+但 行政院 对 判决 定义 不 清
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="clear-headed, sober, conscious" group="1">
+<commentary>
+</commentary>
+<examples>
+又 说 酒 可以 发兴 ， 令 人 清 ， 令 人 豪
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="6" ann_1_2_agreement="1.0" />
+</inventory>

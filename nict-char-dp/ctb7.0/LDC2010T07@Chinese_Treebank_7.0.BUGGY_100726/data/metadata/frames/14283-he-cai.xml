@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喝采 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity cheered"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 因此))
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 位)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 毕生))
+                    (VP (VP (VV 研究)
+                    (NP-PN-OBJ (NN 共党)))
+                    (VP (VV 反对)
+                    (NP-OBJ (NN 共党)
+                    (NN 政权))))))
+                    (DEC 的)))
+                    (NP (NN 女士)))
+                    (VP (VP (VV 现身)
+                    (PP (P 在)
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 盛大)))
+                    (DEC 的)))
+                    (NP-PN (NR 北韩))
+                    (NP (NN 共党)
+                    (NN 庆祝)
+                    (NN 活动)
+                    (NN 场合)))))
+                    (PU ，)
+                    (VP (VV 听)
+                    (NP-OBJ (NP (NN 群众))
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 震耳欲聋)))
+                    (DEC 的)))
+                    (NP (NN 鼓掌)
+                    (NN 声))))
+                    (PU ，)
+                    (VP (PP-BNF (P 为)
+                    (NP (NP-PN (NR 金正日))
+                    (CC 和)
+                    (NP (DNP (NP (PN 他))
+                    (DEG 的))
+                    (NP (QP (CD 一))
+                    (NP (NN 党)))
+                    (NP (NN 专政)
+                    (NN 政权)))))
+                    (VP (VV 喝采)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    因此          
+                </arg>
+                <arg n="0">
+                    这 位毕生 研究共党 反对 共党 政权 的 女士          
+                </arg>
+                <arg n="1">
+                    为 金正日 和他 的 一 党 专政 政权          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

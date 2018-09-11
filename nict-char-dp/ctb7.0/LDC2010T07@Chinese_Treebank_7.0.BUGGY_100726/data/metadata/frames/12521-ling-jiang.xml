@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 领奖 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 几)
+                    (CLP (M 位)))
+                    (NP (NN 大法官)))
+                    (VP (VP (VV 出席)
+                    (NP-OBJ (NN 庆祝)
+                    (NN 大会)))
+                    (VP (VV 领奖)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    几 位 大法官          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

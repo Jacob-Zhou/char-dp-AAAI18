@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 轰击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity bombed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (PN 他))
+                    (PP-TMP (P 在)
+                    (NP (IP-APP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 担任)
+                    (NP-OBJ (NN 国防)
+                    (NN 部长))))
+                    (NP (NN 期间))))
+                    (PU ，)
+                    (NP-SBJ (NN 以军))
+                    (VP (VP (VV 轰击)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 位)
+                    (PP (P 于)
+                    (NP-PN (NR 黎巴嫩)))))
+                    (DEC 的)))
+                    (NP-PN (NR 巴勒斯坦))
+                    (NP (NN 基地)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    他 在 担任 国防 部长 期间          
+                </arg>
+                <arg n="0">
+                    以军          
+                </arg>
+                <arg n="1">
+                    位 于 黎巴嫩 的 巴勒斯坦 基地          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 归于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 is attributed/returned to"/>
+        <role argnum="2" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 另外))
+                    (NP-SBJ (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 致力)
+                    (IP-OBJ (NP-PN-SBJ (NN 南)
+                    (NN 北)
+                    (NR 韩))
+                    (VP (VV 和解))))))
+                    (VP (MSP 而)
+                    (VP (VV 获颁)
+                    (NP-OBJ (PU “)
+                    (NP-PN (NR 诺贝尔))
+                    (NP (NN 和平)
+                    (NN 奖))
+                    (PU ”))))))
+                    (DEC 的)))
+                    (NP-PN (NR 南韩))
+                    (NP (NN 总统)))
+                    (NP-PN (NR 金大中)))
+                    (VP (VP (NP-TMP (NT １０号))
+                    (PP-DIR (P 对)
+                    (IP (NP-SBJ (PN 自己))
+                    (VP (VV 能够)
+                    (VP (VV 获得)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 项)))
+                    (NP (NN 殊荣)))))))
+                    (ADVP (AD 非常))
+                    (VP (VV 感激)))
+                    (PU ，)
+                    (CC 并且)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (DP (DT 这)
+                    (CLP (M 项)))
+                    (NP (NN 荣耀)))
+                    (VP (VV 归于)
+                    (NP-OBJ (DNP (NP-PN (NR 韩国))
+                    (DEG 的))
+                    (DP (DT 全体))
+                    (NP (NN 国民)))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    另外          
+                </arg>
+                <arg n="2">
+                    因为 致力 南 北韩 和解 而 获颁 “ 诺贝尔 和平 奖” 的 南韩 总统 金大中          
+                </arg>
+                <arg n="0">
+                    这 项 荣耀          
+                </arg>
+                <arg n="1">
+                    韩国 的 全体 国民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 走马上任 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADJP (JJ 新任))
+                    (NP-PN (NR 中东))
+                    (NP (NN 特使)))
+                    (VP (VV 走马上任))) 
+                    
+                </parse>
+                <arg n="0">
+                    新任 中东 特使	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

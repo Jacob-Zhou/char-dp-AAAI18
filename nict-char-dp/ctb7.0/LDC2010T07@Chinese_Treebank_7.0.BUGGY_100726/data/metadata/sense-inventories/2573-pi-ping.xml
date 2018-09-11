@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="批评-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to criticize" group="1">
+<commentary>
+</commentary>
+<examples>
+法 批评 美国 对 古巴 的 禁运 政策
+他 批评 美国 在 用 一 种 “ 原始 的 ” 办法 对付 古巴
+林玲玲 说 ， 批评 八点 档 连续剧 煽情 其来有自
+他 并且 批评 说 ， 造成 目前 联合国 财政 困难 的 主要 原因 是 因为 少数 会员国 ， 特别是 个别 分摊 费用 的 大 国 长期 拖欠 会费 所 造成 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="criticism" group="1">
+<commentary>
+</commentary>
+<examples>
+外界 对 国代 自肥 的 批评 确实 将 影响 明年 三月 的 总统 大选 选情
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="89" ann_1_2_agreement="0.865168539326" />
+</inventory>

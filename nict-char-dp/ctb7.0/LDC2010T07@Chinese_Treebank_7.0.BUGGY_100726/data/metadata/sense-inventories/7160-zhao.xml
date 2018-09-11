@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="招-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+所以 趁 著 前 两 年 台湾 股市 一 片 荣景 ， 威盛 就 抓住 时机 广 招 人才 ， 进行 购并 与 策略 联盟 ， 快速 扩大 自己 的 规模
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

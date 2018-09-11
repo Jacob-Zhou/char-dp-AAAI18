@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一意孤行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (NP-TMP (NT 现在))
+                    (ADVP (AD 又))
+                    (VP (VP (VV 一意孤行)) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

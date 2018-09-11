@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 救出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person, entity that arg0 rescues"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 消防)
+                    (NN 人员))
+                    (VP (PP (P 从)
+                    (NP-DIR (QP (OD 一)
+                    (PU 、)
+                    (OD 二)
+                    (PU 、)
+                    (OD 三))
+                    (NP (NN 楼))))
+                    (VP (VV 救出)
+                    (NP-OBJ (QP (CD ２０几)
+                    (CLP (M 位)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 受困))))
+                    (NP (NN 民众)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    消防 人员          
+                </arg>
+                <arg n="m" f="dir">
+                    从 一 、 二 、 三 楼          
+                </arg>
+                <arg n="1">
+                    ２０几 位 受困 民众          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

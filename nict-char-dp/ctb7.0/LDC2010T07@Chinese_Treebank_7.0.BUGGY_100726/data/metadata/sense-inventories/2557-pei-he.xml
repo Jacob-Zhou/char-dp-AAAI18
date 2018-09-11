@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="配合-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to cooperate, to match, to coordinate with" group="1">
+<commentary>
+</commentary>
+<examples>
+加大 执法 力度 ， 积极 配合 有关 部门 对 关闭 、 停产 企业 断 水 断 电 ， 吊销 工商 执照
+在 遣返 过程 中 ， 云南省 政府 对 难民 的 生活 极为 重视 ， 并 同 老挝 政府 和 联合国 难民署 密切 配合 ， 使 遣返 工作 得以 顺利 进行
+但 希望 他们 能够 配合 司法 调查 ， 能够 随传随到
+条例 草案 的 生效 日期 应 配合 入境处 获 授权 签发 香港 特区 护照 的 日期
+陆委会 主委 蔡英文 二十八日 在 立法院 表示 ， 「 三通 」 是 配合 客观 条件 分 阶段 进行
+使用者 要 心理 能够 配合 放松 ， 否则 就 会 大 打 折扣
+每 一 个 研发案 都 以 配合 业者 眼 前 的 需求 为主
+叶宏灯 指出 ， 东莞 东聚 电业 配合 台湾 母 公司 「 台湾 致伸 实业 」 的 发展
+为了 配合 在职生 白天 要 工作 的 行程 ， 多 所 大学 开设 的 企管 课程 都 排 在 晚上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to fit in with" group="1">
+<commentary>
+</commentary>
+<examples>
+配合 着 四处 广告 鼓噪 的 「 雄 孔雀 」 风潮 ， 骚动 的 时代 男性们 正 以 实际 行动 努力 「 装潢 」 自己 。
+配合 学童 的 身高 ， 谢从宾 就 坐 在 小学生 的 椅子 上 ， 一 个 看完 紧接 下 一 个
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="(noun)cooperation" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="50" ann_1_2_agreement="0.82" />
+</inventory>

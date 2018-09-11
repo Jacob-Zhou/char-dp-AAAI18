@@ -1,0 +1,82 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 坚固 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DP (DT 这)
+                    (CLP (M 种)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 夏凉冬暖)
+                    (CC 又)
+                    (VP (VCD (VA 坚固)
+                    (VV 防台)))))
+                    (DEC 的)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (NP-MNR (-NONE- *T*-2))
+                    (VP (VV 建)
+                    (NP-OBJ (NN 屋))))))
+                    (NP (NN 方式)))
+                    (PU ，)
+                    (VP (ADVP (AD 颇))
+                    (VP (VV 适合)
+                    (NP-OBJ (DNP (NP (NP (NN 南))
+                    (NP-PN (NR 台湾)))
+                    (DEG 的))
+                    (NP (NN 天气)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 身为)
+                    (NP (NN 市议员)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 必须)
+                    (VP (VV 坚固)
+                    (NP-OBJ (IP-APP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 维护)
+                    (NP-OBJ (NN 司法)
+                    (NN 公正)))
+                    (CC 和)
+                    (VP (VV 保持)
+                    (NP-OBJ (NN 纳税人)))))
+                    (DP (DT 这)
+                    (QP (CD 两)))
+                    (NP (NN 方面))))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*	
+                </arg>
+                <arg n="0">
+                    维护 司法 公正 和 保持 纳税人 这 两 方面	
+                </arg>
+                <arg n="m" f="adv">
+                    身为 市议员	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

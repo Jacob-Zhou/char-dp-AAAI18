@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="露-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to appear, to emerge, to show" group="1">
+<commentary>
+</commentary>
+<examples>
+然而 ， 老牌 劲旅 圣保罗队 则 在 本 届 爆出 最 大 冷门 ， 以 ２ ： ７ 惨 败给 近年 来 初 露 锋芒 的 葡萄牙人队 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扭送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 catches and sends to arg2"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 车主))
+                    (VP (VP (VV 听到)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 巨大)))
+                    (DEC 的)))
+                    (NP (NN 声响))))
+                    (VP (VSB (VV 出来)
+                    (VV 查看)))
+                    (VP (VV 发现)
+                    (IP-OBJ (NP-SBJ-4 (NN 车子))
+                    (VP (SB 被)
+                    (VP (VRD (VV 撞)
+                    (VA 坏))
+                    (AS 了)
+                    (NP-OBJ (-NONE- *-4))))))
+                    (VP (ADVP (AD 才))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-5 (NN 驾驶))
+                    (VP (VP (VRD (VV 扭送)
+                    (VV 到))
+                    (NP-OBJ (NN 派出所)))
+                    (VP (VV 侦讯)
+                    (NP-OBJ (-NONE- *-5))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    车主          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <arg n="1">
+                    驾驶          
+                </arg>
+                <arg n="2">
+                    派出所          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

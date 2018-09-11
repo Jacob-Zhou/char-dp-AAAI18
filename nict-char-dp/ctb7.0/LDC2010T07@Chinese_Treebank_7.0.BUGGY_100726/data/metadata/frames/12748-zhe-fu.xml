@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 折付 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 sends"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 将))
+                    (PP-TMP (P 在)
+                    (NP (NT １２月)
+                    (NT １５号)))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (QP (CD ３)
+                    (CLP (M 名)))
+                    (NP (NN 机师)))
+                    (VP (VV 折付)
+                    (NP-OBJ (NP-PN (NR 新加坡))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 驻)
+                    (NP-PN-OBJ (NR 台)))))
+                    (NP (NN 办事处)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="tmp">
+                    在１２月 １５号          
+                </arg>
+                <arg n="1">
+                    ３ 名 机师          
+                </arg>
+                <arg n="2">
+                    新加坡 驻 台 办事处          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

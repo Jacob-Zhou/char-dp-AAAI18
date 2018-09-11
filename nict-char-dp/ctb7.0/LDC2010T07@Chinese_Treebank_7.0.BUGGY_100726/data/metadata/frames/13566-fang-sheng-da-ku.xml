@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 放声大哭 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 死者)
+                    (NN 太太))
+                    (VP (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 赶到)
+                    (NP-OBJ (NN 现场)))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (ADVP (AD 不禁))
+                    (VP (VV 放声大哭)))) 
+                    
+                </parse>
+                <arg n="0">
+                    死者 太太          
+                </arg>
+                <arg n="m" f="tmp">
+                    赶到 现场 的 时候          
+                </arg>
+                <arg n="m" f="adv">
+                    不禁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

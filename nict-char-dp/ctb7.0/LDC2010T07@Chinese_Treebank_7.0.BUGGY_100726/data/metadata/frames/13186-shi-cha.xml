@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 视查 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (NP (NP-PN (NR 台北市))
+                    (NP (NN 方面))))
+                    (NP-SBJ (NP-APP (NN 市长))
+                    (NP-PN (NR 马英久)))
+                    (VP (NP-TMP (NT 昨天))
+                    (VP (VV 继续)
+                    (VP (VV 视查)
+                    (NP-OBJ (CP-APP (IP (NP-SBJ (NP (NP-PN (NR 南港)
+                    (NR 内湖))
+                    (NP (NN 灾区)))
+                    (NP (NN 中小学)))
+                    (VP (VV 复学)))
+                    (DEC 的))
+                    (NP (NN 状况))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    在 台北市 方面 市长          
+                </arg>
+                <arg n="0">
+                    市长 马英久          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天          
+                </arg>
+                <arg n="1">
+                    南港 内湖 灾区 中小学 复学 的 状况          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

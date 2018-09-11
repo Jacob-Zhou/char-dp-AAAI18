@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 熟知 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing well known"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 人们))
+                    (VP (VV 熟知)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (NP-PN (NR 杨根思)
+                    (PU 、)
+                    (NR 黄继光)
+                    (PU 、)
+                    (NR 邱少云)))) 
+                    
+                </parse>
+                <arg n="0">
+                    人们          
+                </arg>
+                <arg n="1">
+                    *T*-2 -> 杨根思、 黄继光 、邱少云          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

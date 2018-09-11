@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 投递 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity delivered"/>
+        <role argnum="2" argrole="target"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-PN (NR 台中县))
+                    (NP (NP-PN (NR 松原))
+                    (NP (NN 地区))))
+                    (DEG 的))
+                    (NP (NN 邮筒)))
+                    (VP (NP-TMP (ADJP (JJ 最近))
+                    (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 礼拜)))
+                    (VP (ADVP (AD 就))
+                    (VP (SB 被)
+                    (VP (VV 投递)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VE 有)
+                    (QP-EXT (CD ４万多)
+                    (CLP (M 封))))))
+                    (DNP (NP (NN 刮刮乐))
+                    (DEG 的))
+                    (NP (NN 诈财)
+                    (NN 信函)))))))) 
+                    
+                </parse>
+                <arg n="2">
+                    台中县 松原 地区 的 邮筒          
+                </arg>
+                <arg n="m" f="tmp">
+                    最近 一 个 礼拜          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="1">
+                    有 ４万多 封 刮刮乐 的 诈财 信函          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

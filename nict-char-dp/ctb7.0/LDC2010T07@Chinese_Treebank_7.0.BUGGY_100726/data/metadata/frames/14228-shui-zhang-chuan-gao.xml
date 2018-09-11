@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 水涨船高 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 获奖)))
+                    (LC 之后)))
+                    (FLR (SP 呢))
+                    (PU ，)
+                    (NP-SBJ (NN 画作)
+                    (NN 行情))
+                    (VP (ADVP (AD 已经))
+                    (VP (VC 是)
+                    (VP (VV 水涨船高))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 获奖 之后          
+                </arg>
+                <arg n="0">
+                    画作行情          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

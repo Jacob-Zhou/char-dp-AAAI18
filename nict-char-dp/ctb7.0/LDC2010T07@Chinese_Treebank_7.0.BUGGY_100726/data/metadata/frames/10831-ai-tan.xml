@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 哀叹 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 说完)))
+                    (PU ，)
+                    (VP (VV 哀叹)
+                    (ADVP (AD 良久))))) 
+                </parse>
+                <arg n="0">
+                    *pro* 
+                </arg>
+                <arg n="m" f="ext">
+                    良久 
+                </arg>
+                <arg n="m" f="adv">
+                    *PRO* 说完 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

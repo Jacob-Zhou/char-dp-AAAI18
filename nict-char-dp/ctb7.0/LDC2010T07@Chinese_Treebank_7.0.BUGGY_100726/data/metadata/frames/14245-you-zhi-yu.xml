@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 有志于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people"/>
+        <role argnum="1" argrole="thing determined to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 有志于)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 反对)
+                    (NP-OBJ (NN 邪教)
+                    (NN 组织)))))))
+                    (NP (NN 人士)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 人士          
+                </arg>
+                <arg n="1">
+                    反对 邪教组织          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

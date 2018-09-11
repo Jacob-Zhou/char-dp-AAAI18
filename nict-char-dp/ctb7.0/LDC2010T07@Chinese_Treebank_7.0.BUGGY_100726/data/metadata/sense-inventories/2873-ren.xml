@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="任-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to assume office" group="1">
+<commentary>
+</commentary>
+<examples>
+成立 了 由 省委 书记 贾庆林 、 省长 陈明义 任 正 、 副 组长 的 省 汽车 工业 领导 小组
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="a term of office" group="1">
+<commentary>
+</commentary>
+<examples>
+第一 任 当 立委 时 ， 她 很 像 替代者 ， 所以 每 次 有 一些 质询 、 发言 ， 都
+说 是 郑南榕 梦 中 托 给 她 的
+新 任 国务院 总理 朱（容加金旁）基
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to allow, to let be" group="1">
+<commentary>
+</commentary>
+<examples>
+一旦 查获 于 上课 时间 任 由 国中小 学生 进入 ， 最高 可 处 新 台币 一百万 元 以下 的 罚锾
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="no matter, any" group="1">
+<commentary>
+</commentary>
+<examples>
+看 过 大陆 故宫 收藏 的 明朝 〈 宣宗 行乐 图 〉 ， 任 谁 都 不免 要 惊呼 ： 「 哪 来 的 古装 人物 学 打 现代 高尔夫 ？ 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="a surname" group="1">
+<commentary>
+</commentary>
+<examples>
+任 说 ： “ 我们 的 追求 是 在 电子 信息 领域 实现 顾客 的 梦想 ， 并 依靠 点点滴滴 、 锲而不舍 的 艰苦 追求 ， 使 我们 成为 世界级 领先 企业 。 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="1.0" />
+</inventory>

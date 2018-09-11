@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撕掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity torn"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 香港))
+                    (DEG 的))
+                    (NP-PN (NR 法轮功))
+                    (NP (NN 组织)))
+                    (VP (NP-TMP (NT 现在))
+                    (ADVP (AD 已经))
+                    (VP (VV 撕掉)
+                    (AS 了)
+                    (NP-OBJ (NP (PN 他们))
+                    (ADJP (JJ 所谓))
+                    (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 不))
+                    (VP (VV 参与)
+                    (NP-OBJ (NN 政治))))
+                    (PU 、)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 反对)
+                    (NP-OBJ (NN 政府))))
+                    (PU 、)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 投靠)
+                    (NP-OBJ (DP (DT 任何))
+                    (NP (NN 政治)
+                    (NN 势力)))))))
+                    (DEC 的))
+                    (NP (NN 伪装)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    香港 的 法轮功 组织          
+                </arg>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="1">
+                    他们 所谓 不 参与 政治、 不 反对 政府 、 不 投靠 任何 政治 势力 的 伪装          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

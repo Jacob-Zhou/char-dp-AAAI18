@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 经由 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing arg0 goes through"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 台湾))
+                    (NP (NN 民众)))
+                    (VP (VP-FOC (VV 前往)
+                    (NP-OBJ (NN 大陆)
+                    (NN 地区)))
+                    (VP (VV 必须)
+                    (VP (VV 要)
+                    (VP (VV 经由)
+                    (NP-OBJ (QP (OD 第三))
+                    (NP (NN 地)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    台湾 民众          
+                </arg>
+                <arg n="0" f="prd">
+                    前往 大陆 地区          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

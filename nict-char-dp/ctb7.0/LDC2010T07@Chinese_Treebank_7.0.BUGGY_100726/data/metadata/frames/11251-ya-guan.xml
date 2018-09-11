@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 雅观 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 啤酒肚))
+                    (VP (ADVP-WH (AD 是否))
+                    (ADVP (AD 不))
+                    (VP (VA 雅观)))) 
+                </parse>
+                <arg n="0">
+                    啤酒肚 
+                </arg>
+                <arg n="m" f="adv">
+                    不 
+                </arg>
+                <arg n="m" f="adv">
+                    是否 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

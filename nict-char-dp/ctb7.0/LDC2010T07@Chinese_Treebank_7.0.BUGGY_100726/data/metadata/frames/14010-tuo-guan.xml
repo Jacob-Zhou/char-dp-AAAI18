@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拖管 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken over"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 先后))
+                    (VP (VP (VV 拖管)
+                    (NP-OBJ (-NONE- *RNR*-1)))
+                    (PU 、)
+                    (VP (VV 兼并)
+                    (AS 了)
+                    (NP-OBJ-1 (NP (NP-PN (NN 省)
+                    (NN 电子)
+                    (NN 科研所))
+                    (ETC 等))
+                    (QP (CD ４)
+                    (CLP (M 家)))
+                    (NP (NN 企业))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    先后          
+                </arg>
+                <arg n="1">
+                    *RNR-1 -> 省 电子 科研所 等 ４ 家 企业          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

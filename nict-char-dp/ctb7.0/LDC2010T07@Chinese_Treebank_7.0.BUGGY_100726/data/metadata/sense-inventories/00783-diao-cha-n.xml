@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="调查	00783-diao-cha-n">
+<commentary></commentary>
+<sense n="1" name="调查, investigation" group="1" type="">
+<commentary>An investigation is to examine an event or situation or a crime carefullly.</commentary><examples>警察的调查将进行几个星期。
+The police investigation will take weeks.
+
+她们的调查报告模棱两可。
+Their investigation report was full of ambiguities.
+
+他对这作了社会调查.
+He did a social investigation about it.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="inquiry, 调查, 查询" group="" type="">
+<commentary>An inquiry is an attempt to discover the facts about something, or to ask for information.</commentary><examples>商行信用的调查
+a credit inquiry
+
+统计调查
+a statistical inquiry
+
+我对票价作了调查
+I've made inquiries about the cost of a ticket.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="survey, 调查, 测量" group="" type="">
+<commentary>An survey is a collection of information gathered by asking many people the same questions, usually to find out how they live or their opinions about different things, or the activity of collecting such information.</commentary><examples>根据最近的一项调查,单上海就有250多万外来民工。
+According to a recent survey, in Shanghai alone there are more than 2.5 million migrant workers.
+
+地质调查
+a geological survey
+
+农村调查
+rural survey
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" name="调查, questionnaire" group="" type="">
+<commentary>Aquestionnaire is a written list of questions that people are asked so tghat informjation can be collecxted.</commentary><examples>舆论调查
+a questionnaire of public opinion
+
+他准备了一份调查来获取情报.
+He prepared a questionnire to collect information
+
+一份开分店的调查.
+a questionnaire about opening a brunch store.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

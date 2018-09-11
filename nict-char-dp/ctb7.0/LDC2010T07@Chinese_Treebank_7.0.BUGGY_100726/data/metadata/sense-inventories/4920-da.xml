@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="搭-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+游客 可 自行 开车 沿 省道 台 十七 公路 前往 ， 或 搭 火车 、 公民营 客运 至 林边 火车站
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+走 在 街头 ， 每 个 男人 左 手腕 上 都 搭 著 一 件 西装
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+而 保护区 的 半穴式 住屋 也 多 以 铁皮 或 油毛毡 搭 屋顶
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

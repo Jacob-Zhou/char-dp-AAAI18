@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 犯案 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (PN 他))
+                    (VP (PP-MNR (-NONE- *T*-1))
+                    (VP (VV 犯案))))
+                    (DEC 的)))
+                    (NP (NN 枪支))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="mnr">
+                    *T*-1 -> 枪支          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

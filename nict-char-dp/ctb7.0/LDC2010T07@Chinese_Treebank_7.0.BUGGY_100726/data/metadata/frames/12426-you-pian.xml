@@ -1,0 +1,133 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 诱骗 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person that arg0 lures"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-MNR (P 用)
+                    (NP (NN 毒品)))
+                    (VP (VV 诱骗)
+                    (NP-OBJ (NN 少女)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 毒品          
+                </arg>
+                <arg n="1">
+                    少女          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (VP (VC 是)
+                    (VP (PP-ADV (P 伙同)
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 在逃)))))
+                    (NP-APP (NP (NR 张)
+                    (NN 姓))
+                    (ETC 等))
+                    (QP (CD 两)
+                    (CLP (M 名)))
+                    (NP (NN 主嫌))))
+                    (PP-PRP (P 因为)
+                    (IP (ADVP (AD 平时))
+                    (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 认识)
+                    (NP-OBJ (NP-PN (NR 范)
+                    (NN 姓))
+                    (NP (NN 水果商)))))))
+                    (PU ，)
+                    (NP-TMP (NT 昨天)
+                    (NT 清晨))
+                    (VP (VV 诱骗)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 名)))
+                    (NP (NN 被害人)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 出来)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="0" f="crd">
+                    伙同 在逃 张 姓 等 两 名 主嫌          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 平时 他们 就 认识 范 姓 水果商          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天 清晨          
+                </arg>
+                <arg n="1">
+                    这 名 被害人          
+                </arg>
+                <arg n="2">
+                    出来           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+         
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person that arg0 lures"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 通过)
+                    (NP (NN 电子)
+                    (NN 邮件)))
+                    (VP (VRD (VV 诱骗)
+                    (VV 到))
+                    (NP-OBJ-PN (NR 拉马拉))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    通过 电子 邮件          
+                </arg>
+                <arg n="2">
+                    拉马拉          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+         
+    </frameset>
+</verb>

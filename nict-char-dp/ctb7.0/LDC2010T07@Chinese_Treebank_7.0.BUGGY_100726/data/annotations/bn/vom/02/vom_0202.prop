@@ -1,0 +1,14 @@
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 3 gold 离开-v 离开.01 ----- 3:0-rel 0:3-ARG0 4:1-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 5 gold 前往-v 前往.01 ----- 5:0-rel 0:3-ARG0 6:3-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 9 gold 接受-v 接受.01 ----- 9:0-rel 0:3-ARG0 10:3-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 21 gold 上-v 上.03 ----- 21:0-rel 20:1-ARG0 22:1-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 26 gold 发表-v 发表.01 ----- 26:0-rel 18:1-ARGM-TMP 19:1-ARGM-TMP 25:1-ARG0 27:1-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 28 gold 说-v 说.01 ----- 28:0-rel 18:1-ARGM-TMP 19:1-ARGM-TMP 25:1-ARG0 30:2-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 31 gold 要-v 要.05 ----- 31:0-rel 30:1-ARG0 32:2-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 41 gold 支持-v 支持.01 ----- 41:0-rel 42:2-ARG1 39:0*39:1*40:0*40:1*54:1-ARG0
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 48 gold 推动-v 推动.02 ----- 48:0-rel 43:1-ARG0 44:1-ARGM-LOC 47:1-ARGM-ADV 49:1-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 0 55 gold 分享-v 分享.01 ----- 55:0-rel 32:1-ARG0 33:1-ARG0 56:2-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 1 14 gold 举行-v 举行.01 ----- 14:0-rel 13:1-ARGM-TMP 11:0*11:1*12:0*12:1*16:1-ARG0
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 1 19 gold 发表-v 发表.01 ----- 19:0-rel 0:1-ARGM-TMP 8:1-ARG0 9:1-ARGM-ADV 10:1-ARGM-LOC 20:1-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 1 23 gold 会见-v 会见.01 ----- 23:0-rel 0:1-ARGM-TMP 8:1-ARG0 9:1-ARGM-ADV 22:1-ARGM-DIS 24:4-ARG1
+bn/vom/02/vom_0202@0202@vom@bn@ch@on 2 9 gold 访问-v 访问.01 ----- 9:0-rel 0:1-ARGM-TMP 5:2-ARG0 7:1-ARGM-DIS 8:1-ARGM-ADV 10:1-ARG1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="zhan-zheng, 战争-n">
+<commentary>this word has one sense.</commentary>
+<sense n="1" name="战争,war" group="" type="">
+<commentary></commentary><examples></examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

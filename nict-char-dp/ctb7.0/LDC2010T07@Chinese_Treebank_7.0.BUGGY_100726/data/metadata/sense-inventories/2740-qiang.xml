@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="抢-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to snatch, to grab, to seize, to take by force" group="1">
+<commentary>
+</commentary>
+<examples>
+韩国 厂商 为了 抢 美金 而 『 跳楼大拍卖 』
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to take urgent steps to save" group="1">
+<commentary>
+</commentary>
+<examples>
+温州 人民 目前 紧急 行动 起来 ， 抢 险 筑 坝 保 家园
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to rush, to hasten" group="1">
+<commentary>
+</commentary>
+<examples>
+九六年 年底 ， 韩国 抢 在 其他 小 龙 之前 ， 加入 有 「 富 国 俱乐部 」 之 称 的 「 经济 合作 暨 发展 组织 」 OECD
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to vie for, to try to beat other in a performance" group="1">
+<commentary>
+</commentary>
+<examples>
+预约 大 未来 ， 候选人 抢 当家
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to rob, to loot, to plunder" group="1">
+<commentary>
+</commentary>
+<examples>
+老百姓 不 可以 杀 警察 、 不 可以 抢 银行
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

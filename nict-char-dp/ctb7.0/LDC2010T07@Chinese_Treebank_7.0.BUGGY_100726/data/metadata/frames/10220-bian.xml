@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遍 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entities described"/>
+        <role argnum="1" argrole="place arg0 is found all over"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (ADJP (JJ 繁))
+                    (NP (NN 星)))
+                    (VP (VV 遍)
+                    (NP-OBJ (NN 地)))) 
+                </parse>
+                <arg n="0">
+                    繁 星 
+                </arg>
+                <arg n="1">
+                    地 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

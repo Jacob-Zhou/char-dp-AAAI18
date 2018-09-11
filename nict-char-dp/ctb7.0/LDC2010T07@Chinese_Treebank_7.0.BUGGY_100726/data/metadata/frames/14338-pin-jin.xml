@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拼尽 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity used up"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 秦真))
+                    (VP (VP (VV 拼尽)
+                    (NP-OBJ (NN 全力))) 
+                    
+                </parse>
+                <arg n="0">
+                    秦真          
+                </arg>
+                <arg n="1">
+                    全力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

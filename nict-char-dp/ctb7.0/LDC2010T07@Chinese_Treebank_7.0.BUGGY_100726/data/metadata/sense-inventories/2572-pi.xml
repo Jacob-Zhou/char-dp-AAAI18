@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="批-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to approve, to sanction, to authorize" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 新 批 外商 投资 项目 数 和 合同 金额 比 上 年 同 期 分别 下降 百分之十五点三九 和 百分之三十三点五二
+去年 ， 山东省 各 类 经济 开发区 新 批 利用 外资 项目 一千四百八十多 个 ， 占 全 省 总数 的 百分之二十四 以上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="classifier for a batch, lot, or group of something" group="1">
+<commentary>
+</commentary>
+<examples>
+国家 开发 银行 自 成立 以来 ， 为 国家 重点 建设 项目 筹集 了 大 批 资金
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to criticize, to judge" group="1">
+<commentary>
+</commentary>
+<examples>
+书 中 批 孔子 、 评 孟子 、 刺 韩非 ， 都 站 在 新 时代 重新 看 过去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="24" ann_1_2_agreement="1.0" />
+</inventory>

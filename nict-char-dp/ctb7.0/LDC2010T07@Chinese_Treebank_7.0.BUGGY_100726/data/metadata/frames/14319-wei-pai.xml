@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 委派 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="people assigned to do something"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 中宣部)
+                    (PU 、)
+                    (NN 文化部))
+                    (VP (VV 委派))))) 
+                    
+                </parse>
+                <arg n="0">
+                    中宣部 、文化部          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

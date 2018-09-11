@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="有-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to own, have and possess" group="1">
+<commentary>
+</commentary>
+<examples>
+原 苏联 解体 后 ， 该 军队 集群 转归 俄罗斯 所 有
+统一 的 德国 能够 在 联合国 发挥 更 大 的 作用 ， 在 联合国 作出 决定 时 有 更 大 的 发言权
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="indicating an estimate of quantity" group="1">
+<commentary>
+</commentary>
+<examples>
+第五 个 出生 的 男婴 体重 最 轻 ， 只 有 四百九十五 克
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="exists (entity), " group="1">
+<commentary>
+</commentary>
+<examples>
+中国 现 有 保险 公司 二十六 家
+随着 内地 贸易 、 金融 、 零售 等 服务业 有 步骤 地 对 外 开放
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="exist (state/event)" group="1">
+<commentary>
+</commentary>
+<examples>
+有 八 家 外资 银行 获准 在 上海 浦东 经办 人民币 业务
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="indicating a change, an occurrence or appearance" group="1">
+<commentary>
+</commentary>
+<examples>
+据 统计 ， 今年 全 省 高新区 的 技工贸 总 收入 、 完成 的 工业 总 产值 均 比 去年 有 较大 幅度 增长
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="aspectual marker after a verb" group="1">
+<commentary>
+</commentary>
+<examples>
+虽然 开发 有 整车 产品 三 个 系列 二十三 个 品种 ， 改装车 产品 三 个 系列 十二 个 品种
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="indicating a past perfect tense" group="1">
+<commentary>
+</commentary>
+<examples>
+实际上 有 领取 奖金 的 传销商
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="includes" group="1">
+<commentary>
+</commentary>
+<examples>
+据悉 ， 这些 新 措施 的 主要 内容 有 以 发展 规模 经营 、 组建 企业 集团 为 重点 ， 推进 省属 外贸 公司 的 战略性 重组 ； 加大 支柱 产业 产品 出口 的 力度 ； 办好 在 香港 举办 的 外商 投资 招商会 和 九八 中国 投资 贸易 洽谈会 等
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="idiomatic use, similar to mou" group="1">
+<commentary>
+</commentary>
+<examples>
+有 一天
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

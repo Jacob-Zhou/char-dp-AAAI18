@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 从天而降 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (QP (CD １０万)
+                    (CLP (M 元)))
+                    (DEG 的))
+                    (NP (NN 红包)))
+                    (VP (VV 从天而降))) 
+                    
+                </parse>
+                <arg n="0">
+                    １０万 元 的 红包          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

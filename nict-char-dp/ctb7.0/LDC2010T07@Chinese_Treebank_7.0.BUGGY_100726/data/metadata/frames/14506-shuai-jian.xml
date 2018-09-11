@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 衰减 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (DNP (NP (NP-PN (NR 美国))
+                    (NP (NN 经济)))
+                    (DEG 的))
+                    (NP (NN 扩张)
+                    (NN 速度)))
+                    (VP (ADVP (AD 将))
+                    (VP (VV 会)
+                    (VP (DVP (ADVP (AD 大幅))
+                    (DEV 的))
+                    (VP (VV 衰减))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    美国 经济 的扩张 速度          
+                </arg>
+                <arg n="m" f="adv">
+                    将           
+                </arg>
+                <arg n="m" f="adv">
+                    大幅 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

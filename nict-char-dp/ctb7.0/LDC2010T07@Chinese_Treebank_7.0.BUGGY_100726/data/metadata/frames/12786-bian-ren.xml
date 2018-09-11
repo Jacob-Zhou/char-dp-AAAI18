@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 辨认 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 recognizes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 面貌))
+                    (VP (ADVP (ADVP (AD 很))
+                    (ADVP (AD 难)))
+                    (VP (VV 辨认)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    面貌          
+                </arg>
+                <arg n="m" f="adv">
+                    很          
+                </arg>
+                <arg n="m" f="adv">
+                    难          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

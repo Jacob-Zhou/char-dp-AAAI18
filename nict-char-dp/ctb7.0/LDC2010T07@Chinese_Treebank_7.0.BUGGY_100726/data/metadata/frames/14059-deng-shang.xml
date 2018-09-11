@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 等上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="period of time"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-PRP (P 为了)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 看)
+                    (NP-OBJ (NN 兵马俑)))))
+                    (VP (VV 等上)
+                    (NP-EXT (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 小时)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="prp">
+                    为了 看 兵马俑          
+                </arg>
+                <arg n="1">
+                    等上 一个 小时           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

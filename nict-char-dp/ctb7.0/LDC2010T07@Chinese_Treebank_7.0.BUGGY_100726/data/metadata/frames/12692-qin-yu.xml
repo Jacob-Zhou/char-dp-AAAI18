@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 勤于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 is diligent in"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 高行健))
+                    (VP (VV 勤于)
+                    (NP-OBJ (NN 创作)))) 
+                    
+                </parse>
+                <arg n="0">
+                    高行健          
+                </arg>
+                <arg n="1">
+                    创作          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,23 @@
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 0 2 gold 表示-v 表示.01 ----- 2:0-rel 0:2-ARG0 4:4-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 0 10 gold 发生-v 发生.01 ----- 10:0-rel 6:2-ARGM-TMP 8:1-ARGM-LOC 11:2-ARG0 16:1*4:0*5:0-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 0 19 gold 遭到-v 遭到.01 ----- 19:0-rel 18:1-ARG0 20:1-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 1 7 gold 说-v 说.01 ----- 7:0-rel 0:2-ARG0 3:1-ARGM-DIR 9:1-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 1 12 gold 受到-v 受到.01 ----- 12:0-rel 10:1-ARG0 13:3-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 1 16 gold 大-v 大.01 ----- 16:0-rel 15:1-ARGM-ADV 13:0*13:1*14:0*14:1*18:1-ARG0
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 1 23 gold 有-v 有.05 ----- 23:0-rel 20:1-ARGM-DIS 21:2-ARGM-TMP 24:3-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 1 33 gold 预料-v 预料.01 ----- 33:0-rel 24:2-ARGM-TMP 27:4-ARG1 32:1-ARGM-ADV
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 6 gold 表示-v 表示.01 ----- 6:0-rel 0:1-ARGM-TMP 3:3-ARG0 7:2-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 8 gold 同意-v 同意.01 ----- 8:0-rel 7:1-ARG0 9:5-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 18 gold 造成-v 造成.01 ----- 18:0-rel 14:1*15:1*29:1-ARG0 16:1-ARGM-LOC 19:4-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 23 gold 死亡-v 死亡.01 ----- 23:0-rel 19:2-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 27 gold 受伤-v 受伤.01 ----- 27:0-rel 25:2-ARG0
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 32 gold 是-v 是.01 ----- 32:0-rel 14:3-ARG0 33:2-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 2 37 gold 有-v 有.03 ----- 37:0-rel 38:1-ARG1 35:0*35:1*36:0*36:1*40:1-ARG0
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 3 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 3 5 gold 是-v 是.01 ----- 5:0-rel 2:2-ARG0 6:2-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 3 14 gold 是-v 是.01 ----- 14:0-rel
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 3 15 gold 在于-v 在于.01 ----- 15:0-rel 13:1-ARG0 16:2-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 3 17 gold 损害-v 损害.01 ----- 17:0-rel 16:1-ARG0 18:4-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 4 5 gold 没有-v 没有.01 ----- 5:0-rel 0:1-ARGM-TMP 3:1-ARG1 4:1-ARGM-ADV 6:2-ARG0
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 4 7 gold 作出-v 作出.01 ----- 7:0-rel 6:1-ARG0 8:4-ARG1
+bn/vom/00/vom_0067@0067@vom@bn@ch@on 4 12 gold 负责-v 负责.01 ----- 12:0-rel 8:1-ARG0 9:1-ARG1

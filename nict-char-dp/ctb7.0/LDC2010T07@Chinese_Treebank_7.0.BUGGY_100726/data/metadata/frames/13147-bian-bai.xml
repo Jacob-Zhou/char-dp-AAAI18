@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 辩白 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity justified"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 还))
+                    (ADVP (AD 甚至))
+                    (PP-BNF (P 替)
+                    (NP-PN (NR 图)
+                    (NN 太太)))
+                    (VP (VV 来)
+                    (VP (VV 辩白))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="m" f="adv">
+                    甚至          
+                </arg>
+                <arg n="1">
+                    替 图 太太          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

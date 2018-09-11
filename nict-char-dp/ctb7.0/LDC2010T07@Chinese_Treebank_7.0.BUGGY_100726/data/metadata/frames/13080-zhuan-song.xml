@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 转送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="sender"/>
+        <role argnum="1" argrole="thing sent"/>
+        <role argnum="2" argrole="origin"/>
+        <role argnum="3" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg3"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-2 (-NONE- *T*-1))
+                    (VP (SB 被)
+                    (VP (VV 砍伤)
+                    (NP-OBJ (-NONE- *-2)))))
+                    (DEC 的)))
+                    (NP (NN 职员)))
+                    (NP-PN (NR 刘通雄)))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 送医)))
+                    (LC 后))
+                    (PU ，)
+                    (VP (VV 转送)
+                    (NP-OBJ (NN 开刀房)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="1">
+                    被 砍伤 的 职员 刘通雄          
+                </arg>
+                <arg n="m" f="tmp">
+                    送医 后          
+                </arg>
+                <arg n="3">
+                    开刀房          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

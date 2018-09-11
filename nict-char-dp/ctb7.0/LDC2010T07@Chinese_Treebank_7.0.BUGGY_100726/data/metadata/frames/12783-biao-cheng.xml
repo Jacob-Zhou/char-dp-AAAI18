@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 标称 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing marked"/>
+        <role argnum="2" argrole="mark"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="ipobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 标称)
+                    (IP-OBJ (NP-SBJ (NP-PN (NR 山西省))
+                    (NP-PN (NR 榆次)
+                    (NN 开发区))
+                    (NP-PN (NR 南六堡)
+                    (NN 陈醋厂)))
+                    (VP (VV 生产)))))
+                    (DEC 的)))
+                    (NP (NN 黄豆)
+                    (NN 酱油))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-3 -> 黄豆 酱油          
+                </arg>
+                <arg n="2">
+                    山西省 榆次 开发区 南六堡 陈醋厂          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

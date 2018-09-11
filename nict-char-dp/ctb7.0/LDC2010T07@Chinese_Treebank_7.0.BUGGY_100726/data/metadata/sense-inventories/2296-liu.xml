@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="流-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to flow (of liquid)" group="1">
+<commentary>
+</commentary>
+<examples>
+沧海 横 流 ， 方 显出 英雄 本色
+今年 六月 ， 他 流 著 眼泪 拆 了 房子 ， 随即 在 原地 弄 个 货柜屋
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="flowing water" group="1">
+<commentary>
+</commentary>
+<examples>
+而且 隧洞 是 明流洞 ， 洞顶 拱 不 过 流 ， 因此 建议 取消 顶拱 的 衬砌
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="class, kind, rate" group="1">
+<commentary>
+</commentary>
+<examples>
+这 位 南非 的 世界 二 流 拳手 今天 发话
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

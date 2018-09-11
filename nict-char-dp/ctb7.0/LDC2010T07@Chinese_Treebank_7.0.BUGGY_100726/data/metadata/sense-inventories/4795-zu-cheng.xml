@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="组成-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="consist of, comprise of" group="1">
+<commentary>
+</commentary>
+<examples>
+美国 商会 中国 分会 近日 派出 一 个 ２５ 人 组成 的 代表团
+与 通常 只有 几 行 代码 组成 的 简单 电脑 病毒 不同
+名牌 产品 企业 进入 三峡 库区 ， 带动 了 库区 产业 结构 、 产品 结构 调整 ， 组成 了 一 批 机械 、 电子 、 化工 、 食品 行业 的 龙头 ， 成 了 库区 新 的 经济 增长点
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="component (adj)" group="1">
+<commentary>
+</commentary>
+<examples>
+他 表示 ， 保护 香港 居民 在 海外 的 合法 权益 是 公署 工作 的 重要 组成 部分
+香港 特别 行政区 区域 组织 的 职权 和 组成 方法 ， 依 《 基本法 》 规定 将 由 香港 特别 行政区 的 法律 规定
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="formation, make-up or structure" group="1">
+<commentary>
+</commentary>
+<examples>
+基于 政党 政治 的 必要 ， 即使 宋楚瑜 不 主导 新 政党 的 组成 ， 支持 他 的 人马 为了 能 顺利 运作 ， 也 将 可能 自行 组党。
+正 如同 全民 新 政府 的 组成 ， 我们 用人唯才 、 不 分 族群 、 不 分 性别 、 不 分 党派 ， 未来 的 各 项 施政 也 都 必须 以 全民 的 福祉 为 目标 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

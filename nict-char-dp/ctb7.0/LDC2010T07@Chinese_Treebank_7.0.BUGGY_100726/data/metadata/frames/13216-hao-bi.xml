@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 好比 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="compared entity"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 一)))
+                    (NP (NN 表态)))
+                    (VP (VP (VV 好比)
+                    (NP-OBJ (ADJP (JJ 中级))
+                    (NP (NN 地震)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 一 表态            
+                </arg>
+                <arg n="0" f="crd">
+                    中级 地震          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

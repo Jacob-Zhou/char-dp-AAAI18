@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 开枪 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="target, patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (DP (DT 这)
+                    (CLP (M 名)))
+                    (NP (NN 警察)))
+                    (VP (PP-TMP (-NONE- *T*-2))
+                    (VP (VV 走向)
+                    (NP-OBJ (PN 他们)))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (NP-SBJ (QP (CD 两))
+                    (NP (NN 人)))
+                    (VP (PP-DIR (P 向)
+                    (NP (PN 他)))
+                    (VP (VV 开枪)))) 
+                    
+                </parse>
+                <arg n="0">
+                    两 人          
+                </arg>
+                <arg n="1">
+                    向 他          
+                </arg>
+                <arg n="m" f="tmp">
+                    这 名 警察 走向 他们 的 时候          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 歹徒))
+                    (VP (PP-LOC (P 在)
+                    (NP (NP (QP (CD 一)
+                    (CLP (M 家)))
+                    (NP (NN 服饰店)))
+                    (NP (NN 大门口))))
+                    (ADVP (AD 连连))
+                    (VP (VV 开枪)))) 
+                    
+                </parse>
+                <arg n="0">
+                    歹徒          
+                </arg>
+                <arg n="m" f="loc">
+                    在 一 家 服饰店 大门口          
+                </arg>
+                <arg n="m" f="adv">
+                    连连          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

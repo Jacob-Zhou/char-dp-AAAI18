@@ -1,0 +1,48 @@
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 0 5 gold 是-v 是.01 ----- 5:0-rel 4:1-ARGM-ADV
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 0 14 gold 加大-v 加大.01 ----- 14:0-rel 13:1-ARG0 15:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 0 21 gold 是-v 是.01 ----- 21:0-rel 0:2-ARGM-TPC 6:4-ARG0 22:3-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 1 8 gold 赋予-v 赋予.01 ----- 8:0-rel 6:1-ARGM-DIS 0:3*10:0*10:1-ARG1 11:3-ARG2
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 1 13 gold 新-v 新.01 ----- 13:0-rel 11:0*11:1*12:0*12:1*15:1-ARG0
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 1 25 gold 跃上-v 跃上.01 ----- 25:0-rel 17:1-ARGM-ADV 22:2-ARG0 24:1-ARGM-ADV 26:3-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 1 28 gold 新-v 新.01 ----- 28:0-rel 26:0*26:1*27:0*27:1*30:1-ARG0
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 2 2 gold 报道-v 报道.01 ----- 2:0-rel 0:2-ARG0 4:3-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 2 6 gold 改善-v 改善.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 2 18 gold 超过-v 超过.01 ----- 18:0-rel 11:1-ARGM-TMP 13:3-ARG0 19:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 2 24 gold 达到-v 达到.01 ----- 24:0-rel 22:1-ARG0 25:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 2 28 gold 高出-v 高出.01 ----- 28:0-rel 22:1-ARG0 27:1-ARGM-ADV 29:3-ARG2
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 3 7 gold 提高-v 提高.01 ----- 7:0-rel 0:1-ARGM-TMP 2:2-ARG1 6:1-ARGM-ADV
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 3 20 gold 掌握-v 掌握.01 ----- 20:0-rel 21:1*9:2-ARG1 17:2-ARG0 19:1-ARGM-ADV
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 3 27 gold 改善-v 改善.01 ----- 27:0-rel 23:1-ARG1 26:1-ARGM-ADV
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 4 7 gold 完成-v 完成.01 ----- 7:0-rel 0:3-ARG0 8:1-ARG1 9:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 4 15 gold 开工-v 开工.02 ----- 15:0-rel 14:1-ARGM-ADV 12:0*12:1*17:0*17:1*22:1-ARG0
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 4 16 gold 建成-v 建成.01 ----- 16:0-rel 13:1-ARG0 14:1-ARGM-ADV 12:1*17:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 4 24 gold 增加-v 增加.01 ----- 24:0-rel 12:3-ARG0 25:1-ARG1 27:1-ARG2
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 4 33 gold 灌溉-v 灌溉.01 ----- 33:0-rel 31:1-ARG0 32:1-ARGM-ADV 30:1*34:1*35:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 4 37 gold 达到-v 达到.01 ----- 37:0-rel 30:4-ARG0 38:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 4 gold 报道-v 报道.01 ----- 4:0-rel 0:2-ARG0 6:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 9 gold 提高-v 提高.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 16 gold 治理-v 治理.01 ----- 16:0-rel 8:1-ARG0 15:1-ARGM-ADV 17:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 22 gold 做为-v 做为.01 ----- 22:0-rel 6:1-ARG0 8:2-ARG1 23:1-ARG2
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 26 gold 加强-v 加强.01 ----- 26:0-rel 6:1-ARG0 25:1-ARGM-ADV 28:4-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 37 gold 示范-v 示范.01 ----- 37:0-rel 36:1-ARG0
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 38 gold 推广-v 推广.01 ----- 38:0-rel 36:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 5 42 gold 加大-v 加大.01 ----- 42:0-rel 6:1-ARG0 43:3-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 6 7 gold 改造-v 改造.01 ----- 7:0-rel 0:1-ARGM-MNR 4:2-ARGM-LOC 6:1-ARGM-ADV 8:3-ARG1 12:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 6 16 gold 新增-v 新增.01 ----- 16:0-rel 0:1-ARGM-MNR 4:2-ARG0 15:1-ARGM-ADV 17:1-ARG1 18:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 6 23 gold 改造-v 改造.01 ----- 23:0-rel 22:1-ARG0 21:1*25:1*26:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 6 24 gold 建设-v 建设.01 ----- 24:0-rel 22:1-ARG0 21:1*25:1*26:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 6 28 gold 增收-v 增收.01 ----- 28:0-rel 21:3-ARGM-LOC 27:1-ARGM-ADV 29:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 6 36 gold 有-v 有.03 ----- 36:0-rel 32:2-ARG0 35:1-ARGM-ADV 38:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 2 gold 报道-v 报道.01 ----- 2:0-rel 0:2-ARG0 4:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 7 gold 投入-v 投入.01 ----- 7:0-rel 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 8:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 11 gold 改善-v 改善.01 ----- 11:0-rel 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 12:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 17 gold 确立-v 确立.01 ----- 17:0-rel 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 18:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 23 gold 在-v 在.01 ----- 23:0-rel 20:1*21:1-ARGM-TPC 22:1-ARG0 24:2-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 32 gold 拉动-v 拉动.01 ----- 32:0-rel 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 38:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 7 41 gold 增加-v 增加.01 ----- 41:0-rel 4:1-ARG1 5:1-ARGM-TMP 6:1-ARGM-ADV 40:1-ARGM-ADV 42:1-ARG2
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 8 6 gold 集中-v 集中.01 ----- 6:0-rel 0:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 8 12 gold 抓-v 抓.01 ----- 12:0-rel 0:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV 14:4-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 8 13 gold 好-v 好.01 ----- 13:0-rel
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 8 24 gold 需要-v 需要.01 ----- 24:0-rel
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 8 25 gold 进行-v 进行.01 ----- 25:0-rel 26:2-ARG1 22:0*22:1*23:0*23:1*31:1-ARG1
+bn/cnr/01/cnr_0126@0126@cnr@bn@ch@on 8 34 gold 发展-v 发展.01 ----- 34:0-rel 0:1-ARGM-TMP 4:1-ARG1 5:1-ARGM-ADV 21:1-ARG2 35:2-ARG3

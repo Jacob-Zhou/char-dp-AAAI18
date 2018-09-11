@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="neng-li,能力-n">
+<commentary></commentary>
+<sense n="1" name="能力, capability, ability (often refers to humans’ innate potential for growth, development, or accomplishment) 能力, 才能(常指人类天赋的，如生长、发展或成功的潜力)" group="" type="">
+<commentary>The mental or physical power needed to do something.</commentary><examples>一个能力极强的学生.
+A student of great capabilities
+
+粘附能力
+adhesive ability
+
+一个人有这样的能力一定能做好。
+Someone with that kind of ability will do well.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="skills, 能力" group="" type="">
+<commentary>Aspecial ability to do something.</commentary><examples>语言能力
+language skills
+
+写作能力
+writing skills
+
+学校往往不能给学生提供所需的能力和技术。
+Schools often do not provide students with marketable skills.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="power, 能力" group="" type="">
+<commentary>Aphysical strength or force.</commentary><examples>竟争能力
+competitive power
+
+生产能力
+productive power
+
+购买能力
+purchasing power
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

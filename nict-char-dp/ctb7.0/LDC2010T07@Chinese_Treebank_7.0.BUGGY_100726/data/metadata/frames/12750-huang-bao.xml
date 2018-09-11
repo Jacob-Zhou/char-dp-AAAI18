@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 慌报 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 reports falsely"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 神智不清)))
+                    (DEC 的)))
+                    (NP (NN 先生)))
+                    (VP (VP (VPT (VV 气)
+                    (AD 不)
+                    (VV 过)))
+                    (VP (VV 打)
+                    (NP-OBJ (NN 电话)))
+                    (VP (VV 慌报)
+                    (AS 了)
+                    (NP-OBJ (NN 案情))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    神智不清 的 先生          
+                </arg>
+                <arg n="1">
+                    案情          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

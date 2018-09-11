@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 攀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 holds onto"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-PN-SBJ (NR 朱云))
+                    (VP (VP (ADVP (AD 紧))
+                    (VP (VV 攀)
+                    (NP-OBJ (NN 殿槛))))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 去))))) 
+                </parse>
+                <arg n="0">
+                    朱云 
+                </arg>
+                <arg n="1">
+                    殿槛 
+                </arg>
+                <arg n="m" f="adv">
+                    紧 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

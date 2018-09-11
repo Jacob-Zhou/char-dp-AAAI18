@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 颁处 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity issued"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NR 竹南)
+                    (PU 、)
+                    (NR 东石)
+                    (CC 和)
+                    (NR 岩水))
+                    (VP (VV 颁处)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 免疫)
+                    (NN 证书)))) 
+                    
+                </parse>
+                <arg n="0">
+                    竹南 、 东石 和 岩水          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 免疫 证书          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,136 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 押 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 escorts"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 昨天)
+                    (NT 下午))
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 伙)))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 又))
+                    (VP (VP (VV 押)
+                    (AS 着)
+                    (NP-OBJ (PN 她))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    昨天 下午          
+                </arg>
+                <arg n="0">
+                    一 伙 人          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="1">
+                    她          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 勒索)
+                    (NN 集团)))
+                    (VP (VP (NP-TMP (NT 最近))
+                    (ADVP (AD 就))
+                    (VP (VV 锁定)
+                    (AS 了)
+                    (IP-OBJ (NP-TPC (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP-PN (NR 蔡)
+                    (NN 姓))
+                    (NN 少年))
+                    (PU ，)
+                    (NP-SBJ (PN 他)
+                    (NN 家中))
+                    (VP (VA 有钱)))))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 假冒)
+                    (NP-OBJ (NN 刑警))))
+                    (VP (ADVP (AD 强))
+                    (VP (VV 押)
+                    (NP-OBJ (NN 被害人))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VV 上山)))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 个 勒索 集团          
+                </arg>
+                <arg n="m" f="adv">
+                    强          
+                </arg>
+                <arg n="1">
+                    被害人          
+                </arg>
+                <arg n="2">
+                    上山          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 escorts"/>
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (PP-MNR (P 在)
+                    (LCP (NP (DNP (NP (NN 严囚道)
+                    (CC 和)
+                    (NN 员警))
+                    (DEG 的))
+                    (NP (NN 拘束)))
+                    (LC 下)))
+                    (VP (VP (VRD (VV 押)
+                    (VV 上))
+                    (AS 了)
+                    (NP-OBJ (NN 侦防车))) 
+                    
+                </parse>
+                <arg n="1">
+                    他们          
+                </arg>
+                <arg n="m" f="mnr">
+                    在 严囚道 和 员警 的 拘束 下          
+                </arg>
+                <arg n="2">
+                    侦防车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

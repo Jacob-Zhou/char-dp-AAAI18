@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 代忽 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="duty neglected"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 违反)
+                    (NP-OBJ (NP-PN (NR 日本))
+                    (NP (NN 核子)
+                    (NN 安全法))))
+                    (CC 和)
+                    (VP (VV 代忽)
+                    (NP-OBJ (NN 监督)
+                    (NN 职守)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    监督 职守          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

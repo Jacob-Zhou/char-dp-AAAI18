@@ -1,0 +1,175 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 得 </id>
+    <frameset id="f1" edef="get">
+        <role argnum="0" argrole="getter"/>
+        <role argnum="1" argrole="thing obtained"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 只))
+                    (VP (VV 能)
+                    (VP (VV 得)
+                    (QP-OBJ (CD 七)
+                    (CLP (M 分))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他 	  	  	  
+                </arg>
+                <arg n="1">
+                    七 分 	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    只 	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 该))
+                    (NP (NN 信托)
+                    (NN 基金)))
+                    (VP (VP (ADVP (AD 非))
+                    (VP (VC 为)
+                    (NP-PRD (CP-APP (IP (NP-SBJ (NN 未成年人))
+                    (VP (VV 教养)))
+                    (DEC 之))
+                    (NP (NN 需要)))))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 得)
+                    (VP (VV 支用))))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="getter"/>
+        <role argnum="1" argrole="thing arg0 cannot get"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 若))
+                    (IP (NP-SBJ (ADJP (JJ 小))
+                    (NP (NN 创意)))
+                    (VP (VP (ADVP (AD 不))
+                    (VP (VV 受)
+                    (NP-OBJ (NN 尊重))))
+                    (PU ，)
+                    (VP (VPT (VV 得)
+                    (AD 不)
+                    (VV 到))
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 应)
+                    (VP (VE 有)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (NP (NN 市场)
+                    (NN 报酬))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    若  	  	  
+                </arg>
+                <arg n="0">
+                    小 创意	  	  
+                </arg>
+                <arg n="1">
+                    应 有 的 市场 报酬 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="accomplishment"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 生计))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (ADVP (AD 还))
+                    (DFL (VV 解决))
+                    (VP (VPT (VV 得)
+                    (AD 不)
+                    (VV 到))
+                    (NP-OBJ (NN 满足)))))
+                    (DEC 的)))
+                    (NP (NN 时候))) 
+                    
+                </parse>
+                <arg n="0">
+                    生计	  
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-1 -> 时候	  
+                </arg>
+                <arg n="m" f="adv">
+                    还	  	  
+                </arg>
+                <arg n="1">
+                    满足	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f5">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 得)
+                    (AS 了)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <arg n="m" f="adv">
+                    就	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

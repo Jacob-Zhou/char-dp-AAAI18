@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 着想 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="beneficiary"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 大陆))
+                    (VP (VP (PP-DIR (P 对)
+                    (NP-PN (NR 台湾)))
+                    (VP (VV 应当)
+                    (VP (VV 采取)
+                    (NP-OBJ (DNP (ADJP (JJ 柔性))
+                    (DEG 的))
+                    (NP (NN 做法))))))
+                    (PU ，)
+                    (VP (ADVP (AD 凡事))
+                    (VP (VV 要)
+                    (VP (PP-BNF (P 为)
+                    (NP (NP-PN (NR 台湾))
+                    (NP (NN 人民))))
+                    (VP (VV 着想)))) 
+                    
+                </parse>
+                <arg n="0">
+                    大陆          
+                </arg>
+                <arg n="m" f="adv">
+                    凡事          
+                </arg>
+                <arg n="1">
+                    为 台湾 人民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

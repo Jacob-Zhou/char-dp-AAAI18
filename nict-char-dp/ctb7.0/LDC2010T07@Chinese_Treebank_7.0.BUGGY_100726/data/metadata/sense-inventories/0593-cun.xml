@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="存-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to deposit, to accumulate, to store" group="1">
+<commentary>
+</commentary>
+<examples>
+而 二十 年 前 每 人 每 年 平均 才 存 二十 元 钱
+存 在 中 小 金融 机构 的 大额 资金
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to live, to exist, to survive" group="1">
+<commentary>
+</commentary>
+<examples>
+现 全球 仅 存 一千多 只
+大 熊猫 野生 种群 的 现 存 数量
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to retain, to maintain" group="1">
+<commentary>
+</commentary>
+<examples>
+双方 在 相互 尊重 、 平等 相 待 、 求 同 存 异 的 基础 上 ， 通过 对话 而不是 对抗 解决 分歧
+方志 具有 “ 存 史 、 资 治 、 教化 ” 的 功能
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 猎捕 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity hunted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-MNR (P 拿)
+                    (NP (NN 猎枪)))
+                    (VP (VV 猎捕)
+                    (NP-OBJ (ADJP (JJ 保育))
+                    (NP (NN 动物))))))
+                    (DEC 的)))
+                    (NP (NN 嫌犯)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 嫌犯          
+                </arg>
+                <arg n="m" f="mnr">
+                    拿 猎枪           
+                </arg>
+                <arg n="1">
+                    保育 动物          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

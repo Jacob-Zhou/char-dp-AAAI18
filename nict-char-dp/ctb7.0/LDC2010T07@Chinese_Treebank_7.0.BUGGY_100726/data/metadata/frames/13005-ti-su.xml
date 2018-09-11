@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 提速 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 中国))
+                    (NP (NN 铁路)))
+                    (VP (ADVP (AD 将))
+                    (ADVP (AD 再次))
+                    (VP (VV 提速)))) 
+                    
+                </parse>
+                <arg n="1">
+                    中国 铁路          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="adv">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加以 </id>
+    <comment>light verb, do not annotate</comment>
+    <frameset id="f1">
+        <role argnum="0" argrole=""/>
+        <role argnum="1" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 大陆)
+                    (NN 官方))
+                    (VP (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NT 五月)
+                    (NT 四日))
+                    (VP (VV 订为)
+                    (NP-OBJ (NN 青年节)))))
+                    (PU ，)
+                    (VP (NP-ADV (NN 年年))
+                    (VP (VP (ADVP (AD 高))
+                    (VP (VV 举)
+                    (NP-OBJ (NN 青年)
+                    (NN 革命)
+                    (PU 、)
+                    (NN 爱国主义))))
+                    (VP (VV 加以)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 庆祝))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

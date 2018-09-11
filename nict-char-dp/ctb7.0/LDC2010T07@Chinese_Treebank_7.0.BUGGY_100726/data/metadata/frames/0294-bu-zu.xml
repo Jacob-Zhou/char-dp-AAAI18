@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不足 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (NP-SBJ (NP (NN 沿海)
+                    (NN 港口))
+                    (NP (NN 煤炭)
+                    (NN 运力)))
+                    (VP (VA 不足)))) 
+                    
+                </parse>
+                <arg n="0">
+                    沿海 港口 煤炭 运力 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="the level that Arg0 does not reach"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (NP-SBJ (NP (DNP (QP (CD 百分之二十一点四))
+                    (DEG 的))
+                    (NP (NN 父母)))
+                    (PP (P 与)
+                    (NP (NN 孩子)))
+                    (NP (NN 联系)))
+                    (VP (DP-ADV (DT 每)
+                    (CLP (NN 月)))
+                    (VP (VV 不足)
+                    (QP-OBJ (CD 一)
+                    (CLP (M 次)))))
+                    (PU 。))) 
+                    
+                </parse>
+                <arg n="0">
+                    百分之二十一点四的父母与孩子联系  
+                </arg>
+                <arg n="1">
+                    一次 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

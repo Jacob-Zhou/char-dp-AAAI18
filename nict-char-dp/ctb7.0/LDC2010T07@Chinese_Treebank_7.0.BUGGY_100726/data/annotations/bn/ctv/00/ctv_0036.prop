@@ -1,0 +1,15 @@
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 8 gold 率领-v 率领.01 ----- 8:0-rel 2:1-ARG0 0:0*0:1*12:1*1:0*1:1*9:0*9:1-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 19 gold 访问-v 访问.01 ----- 19:0-rel 0:3-ARG0 14:1-ARGM-ADV 15:1-ARGM-TMP 21:1-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 29 gold 同意-v 同意.02 ----- 29:0-rel 23:2-ARG0 30:2-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 32 gold 增加-v 增加.01 ----- 32:0-rel 30:1-ARG0 31:1-ARGM-ADV 33:1-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 43 gold 率领-v 率领.01 ----- 43:0-rel 36:4-ARG0 41:1-ARGM-TMP 42:1-ARGM-ADV 44:2-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 47 gold 访问-v 访问.01 ----- 47:0-rel 36:4-ARG0 41:1-ARGM-TMP 42:1-ARGM-ADV 48:1-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 52 gold 同意-v 同意.02 ----- 52:0-rel 50:1-ARG0 51:1-ARGM-DIS 53:2-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 55 gold 扩大-v 扩大.01 ----- 55:0-rel 53:1-ARG0 54:1-ARGM-ADV 56:3-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 66 gold 包括-v 包括.01 ----- 66:0-rel 65:1-ARG0 67:4-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 70 gold 派遣-v 派遣.01 ----- 70:0-rel 67:2-ARG0 69:1-ARGM-ADV 71:1-ARG1 72:2-ARG2
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 73 gold 到-v 到.01 ----- 73:0-rel 72:1-ARG0 74:1-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 75 gold 进修-v 进修.01 ----- 75:0-rel 72:1-ARG0 76:1-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 81 gold 达成-v 达成.01 ----- 81:0-rel 79:1-ARG0 80:1-ARGM-DIS 83:3-ARG1
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 87 gold 具体-v 具体.01 ----- 87:0-rel 85:1*86:1*89:1-ARG0
+bn/ctv/00/ctv_0036@0036@ctv@bn@ch@on 0 97 gold 帮助-v 帮助.02 ----- 97:0-rel 93:1-ARGM-DIS 94:2-ARG0 96:1-ARGM-ADV 98:1-ARG1 101:2-ARG2

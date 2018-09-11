@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 站在一起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 俄罗斯人))
+                    (VP (NP-TMP (NT 现在))
+                    (VP (PP-ADV (P 跟)
+                    (NP (NP-PN (NR 塞尔维亚))
+                    (NP (NN 人民))))
+                    (VP (VV 站在一起))))) 
+                    
+                </parse>
+                <arg n="0">
+                    俄罗斯人          
+                </arg>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="0" f="crd">
+                    跟 塞尔维亚 人民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 停放 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="vehicle that arg0 parks"/>
+        <role argnum="2" argrole="place that arg0 parks arg1 at"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 停放)
+                    (PP (P 在)
+                    (NP (NP (NP-PN (NR 加沙))
+                    (NP (NN 检查站)))
+                    (NP (NN 以方))
+                    (QP (CD 一))
+                    (NP (NN 侧))))))
+                    (DEC 的)))
+                    (NP-PN (NR 巴勒斯坦))
+                    (NP (NN 运输)
+                    (NN 车辆))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1 -> 运输 车辆          
+                </arg>
+                <arg n="2">
+                    在 加沙 检查站 以方 一 侧          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

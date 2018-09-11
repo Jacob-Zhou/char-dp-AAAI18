@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 堆积 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity accumulated"/>
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-SBJ (NP (NN 厂房))
+                    (LC 内))
+                    (VP (VV 堆积)
+                    (AS 了)
+                    (NP-OBJ (DNP (QP (CD 许多))
+                    (DEG 的))
+                    (ADJP (JJ 易燃))
+                    (NP (NN 物品))))) 
+                    
+                </parse>
+                <arg n="2">
+                    厂房 内          
+                </arg>
+                <arg n="1">
+                    许多 的 易燃 物品          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

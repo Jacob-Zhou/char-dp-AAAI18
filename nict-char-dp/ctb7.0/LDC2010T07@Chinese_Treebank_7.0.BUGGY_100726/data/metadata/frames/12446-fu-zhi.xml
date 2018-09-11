@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 复职 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="position that arg0 resumes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 涉案)))
+                    (DEC 的)))
+                    (NP (NN 法官)))
+                    (VP (ADVP (AD 却))
+                    (VP (VCD (VV 复职)
+                    (VV 担任))
+                    (NP-OBJ (NN 法官)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    涉案 的 法官          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="1">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赠 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="giver"/>
+        <role argnum="1" argrole="thing given"/>
+        <role argnum="2" argrole="receiver"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 赠)
+                    (NP-OBJ (NN 卡)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    卡          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

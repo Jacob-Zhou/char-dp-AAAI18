@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 避过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing dodged"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NP-PN (NR 以色列))
+                    (NP (NN 总理)))
+                    (NP-PN (NR 巴拉克)))
+                    (VP (NP-TMP (NT ６号))
+                    (ADVP (AD 轻易))
+                    (VP (VV 避过)
+                    (NP-OBJ (NP (NN 国会))
+                    (QP (OD 第４)
+                    (CLP (M 次)))
+                    (IP-APP (NP (-NONE- *pro*))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 信任))))
+                    (NP (NN 投票)))) 
+                    
+                </parse>
+                <arg n="0">
+                    以色列 总理 巴拉克          
+                </arg>
+                <arg n="m" f="tmp">
+                    ６号          
+                </arg>
+                <arg n="m" f="adv">
+                    轻易          
+                </arg>
+                <arg n="1">
+                    国会 第４ 次 不 信任 投票          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

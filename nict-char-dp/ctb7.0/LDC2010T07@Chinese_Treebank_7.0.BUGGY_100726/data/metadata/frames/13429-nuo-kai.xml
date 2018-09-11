@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 挪开 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity moved"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PU ‘)
+                    (NN 石头)
+                    (PU ’))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 挪开)
+                    (AS 了))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    ‘ 石头 ’          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

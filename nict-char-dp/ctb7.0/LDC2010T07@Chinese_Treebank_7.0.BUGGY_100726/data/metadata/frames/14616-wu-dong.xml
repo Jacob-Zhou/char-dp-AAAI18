@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 舞动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 围着)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 熊熊)))
+                    (DEC 的)))
+                    (NP (NN 火光))))
+                    (PU ，)
+                    (NP-SBJ (PN 大家))
+                    (VP (VP (NP-MNR (NN 手))
+                    (VP (VV 牵)
+                    (AS 着)
+                    (NP-OBJ (NN 手))))
+                    (VP (VV 跳)
+                    (AS 着)
+                    (NP-OBJ (DNP (NP (NN 原著民))
+                    (DEG 的))
+                    (NP (NN 舞蹈))))
+                    (PU ，)
+                    (VP (VV 舞动)
+                    (AS 着)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 绑)
+                    (PP (P 在)
+                    (LCP (NP (NN 臀部))
+                    (LC 上)))))
+                    (DEC 的)))
+                    (NP (NN 臀铃)))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    围着 熊熊 的 火光          
+                </arg>
+                <arg n="0">
+                    大家          
+                </arg>
+                <arg n="1">
+                    绑 在 臀部 上 的 臀铃          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

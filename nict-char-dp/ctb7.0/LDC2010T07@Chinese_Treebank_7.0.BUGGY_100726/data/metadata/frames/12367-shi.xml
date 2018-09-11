@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 施 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="activity"/>
+        <role argnum="2" argrole="entity that arg0 carries out arg1 to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 南非))
+                    (DNP (NP (NP (NN 种族)
+                    (NN 隔离))
+                    (NP (NN 时代)))
+                    (DEG 的))
+                    (NP (NN 警察)))
+                    (VP (VP (PP-DIR (P 对)
+                    (NP (NP-APP (NN 黑人)
+                    (NN 运动)
+                    (NN 领导人))
+                    (NP-PN (NR 斯蒂芬・拜考))))
+                    (VP (VV 施)
+                    (NP-OBJ (NN 酷刑)))) 
+                    
+                </parse>
+                <arg n="0">
+                    南非 种族 隔离 时代 的 警察          
+                </arg>
+                <arg n="2">
+                    黑人 运动 领导人 斯蒂芬・拜考          
+                </arg>
+                <arg n="1">
+                    酷刑          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

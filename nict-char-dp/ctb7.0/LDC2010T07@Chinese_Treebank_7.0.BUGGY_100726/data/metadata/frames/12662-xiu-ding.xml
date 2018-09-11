@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 修定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 revises"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 目前))
+                    (NP-SBJ (NN 大陆)
+                    (NN 方面))
+                    (VP (VP (DP-ADV (DT 每)
+                    (CLP (M 年)))
+                    (ADVP (AD 都))
+                    (VP (VV 会)
+                    (VP (ADVP (AD 认真))
+                    (VP (VP (VV 审查)
+                    (NP-OBJ (-NONE- *RNR*-1)))
+                    (PU 、)
+                    (VP (VV 修定)
+                    (NP-OBJ-1 (NP-APP (NN 台商)
+                    (NN 投资)
+                    (NN 保护法)
+                    (ETC 等))
+                    (ADJP (JJ 相关))
+                    (NP (NN 法定)))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <arg n="0">
+                    大陆 方面          
+                </arg>
+                <arg n="m" f="adv">
+                    每 年          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    认真          
+                </arg>
+                <arg n="1">
+                    台商 投资 保护法 等 相关 法定          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

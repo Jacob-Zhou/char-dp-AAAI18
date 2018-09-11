@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="透-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+紧 抿 的 嘴角 透 著 几许 坚毅 ， 几许 无奈
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+一 分 钱 、 五 分 钱 、 十 分 钱 和 两 毛 五 的 硬币 早 被 数 了 个 透
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

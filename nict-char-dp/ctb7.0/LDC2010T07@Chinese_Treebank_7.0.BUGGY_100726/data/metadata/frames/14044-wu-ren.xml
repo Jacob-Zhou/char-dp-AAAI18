@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 误认 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity mistaken"/>
+        <role argnum="2" argrole="entity arg1 is mistaken for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 路边)))
+                    (VP (VV 拉肚子)))))
+                    (VP (MSP 而)
+                    (VP (VP (SB 被)
+                    (VP (VRD (VV 误认)
+                    (VC 为))
+                    (VP (VC 是)
+                    (NP-PRD (NN 小偷))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 在 路边 拉肚子          
+                </arg>
+                <arg n="2">
+                    是 小偷          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

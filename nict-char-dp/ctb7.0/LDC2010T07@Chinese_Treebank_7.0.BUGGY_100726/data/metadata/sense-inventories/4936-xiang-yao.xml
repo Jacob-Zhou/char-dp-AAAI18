@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="想要-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="want to" group="1">
+<commentary>
+</commentary>
+<examples>
+他 说 大陆 作家 如果 想要 赢得 思想 的 自由 ， 除了 沉默 便 是 逃亡
+风筝 想要 飞 得 高 ， 线 当然 要 放 的 长
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="产-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to produce, to manufacture, to yield" group="1">
+<commentary>
+</commentary>
+<examples>
+产 于 中国 西南 贵州省 北部 赤水 河谷 地带 的 茅台酒
+这 个 全 国 最大 规模 的 木浆厂 将 由 新加坡 亚洲 浆纸业 股份 有限 公司 投资 十二点八三亿 美元 兴建 ， 年 产 漂白 商品 木浆 六十万 吨 。
+一 期 工程 已 建成 投产
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to give birth to" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="property, possession" group="1">
+<commentary>
+</commentary>
+<examples>
+而 农村 均 产 破坏 ， 工商 企业 大兴
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="industry" group="1">
+<commentary>
+</commentary>
+<examples>
+而 农村 均 产 破坏 ， 工商 企业 大兴
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="yield (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+而 农村 均 产 破坏 ， 工商 企业 大兴
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

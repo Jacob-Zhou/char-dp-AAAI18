@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 立功 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (VV 授予)
+                    (NP-OBJ (NN 荣誉)
+                    (NN 称号)))
+                    (CC 和)
+                    (VP (VV 立功))))
+                    (DEC 的)))
+                    (NP (NN 集体)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 集体          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

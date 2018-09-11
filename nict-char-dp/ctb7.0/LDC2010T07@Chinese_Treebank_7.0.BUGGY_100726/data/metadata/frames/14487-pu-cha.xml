@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 普查 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="surveyor"/>
+        <role argnum="1" argrole="entity surveyed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VCD (VV 登记)
+                    (VV 普查)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

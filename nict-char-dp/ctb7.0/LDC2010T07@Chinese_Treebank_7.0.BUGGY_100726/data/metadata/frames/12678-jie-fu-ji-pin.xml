@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 劫富济贫 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 劫富济贫)))
+                    (DEC 的)))
+                    (NP (NN 英雄)
+                    (NN 角色))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 英雄 角色          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

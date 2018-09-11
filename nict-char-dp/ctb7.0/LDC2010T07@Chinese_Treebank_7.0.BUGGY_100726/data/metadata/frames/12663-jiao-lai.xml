@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 叫来 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 calls"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 林)
+                    (NN 姓))
+                    (NP (NN 男子)))
+                    (VP (ADVP (VV 赶快))
+                    (VP (VP (VV 叫来)
+                    (NP-OBJ (NN 救护车))) 
+                    
+                </parse>
+                <arg n="0">
+                    林 姓 男子          
+                </arg>
+                <arg n="m" f="adv">
+                    赶快          
+                </arg>
+                <arg n="1">
+                    救护车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

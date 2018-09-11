@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拥入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location that arg0 swarms into"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (DNP (NP (NP-PN (NR 中共))
+                    (NP (NN 大陆)))
+                    (DEG 的))
+                    (NP (NN 基督徒)))
+                    (PRN (VP (VV 包括)
+                    (NP-OBJ (NP (QP (OD 第三)
+                    (CLP (M 代)))
+                    (NP (NN 基督徒)))
+                    (CC 和)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT 最近))
+                    (ADVP (AD 才))
+                    (VP (VV 改信)))))
+                    (NP (NN 基督徒者)))))))
+                    (VP (NP-TMP (NP (NT 昨天)
+                    (NT ２４号))
+                    (CC 和)
+                    (NP (NT 今天)
+                    (NT ２５号)))
+                    (VP (VP (DVP (VP (VV 成群))
+                    (DEV 的))
+                    (VP (VV 拥入)
+                    (NP-OBJ (ADJP (JJ 官方)
+                    (CC 和)
+                    (JJ 地下))
+                    (NP (NN 教会))))) 
+                    
+                </parse>
+                <arg n="0">
+                    中共 大陆 的 基督徒 包括 第三 代 基督徒 和 最近 才 改信 基督徒者          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天 ２４号 和 今天 ２５号          
+                </arg>
+                <arg n="m" f="adv">
+                    成群 的          
+                </arg>
+                <arg n="1">
+                    官方 和 地下 教会          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

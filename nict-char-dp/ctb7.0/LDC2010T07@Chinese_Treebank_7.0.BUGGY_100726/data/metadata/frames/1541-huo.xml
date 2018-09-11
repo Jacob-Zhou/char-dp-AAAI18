@@ -1,0 +1,169 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 活 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="time/place arg0 lives"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DP (DT 那些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 知道)
+                    (NP-OBJ (PN 我)))))
+                    (DEC 的)))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 说)
+                    (IP-OBJ (NP-SBJ (PN 我))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 会)
+                    (VP (VV 活)
+                    (AS 着)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VRD (VV 爬)
+                    (VV 起来))))))))))
+                    (PU 。)) 
+                    
+                </parse>
+                <arg n="0">
+                    我 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    不 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TPC-2 (NP-SBJ (PN 他们))
+                    (VP (VP (ADVP (AD 还))
+                    (VP (VV 活)
+                    (PP (P 在)
+                    (NP (CP-APP (IP (PU 『)
+                    (IP-SBJ (NP-SBJ (NN 儿女))
+                    (VP (VV 奉养)
+                    (NP-OBJ (NN 老人家))))
+                    (VP (ADVP (AD 也))
+                    (ADVP (AD 不过))
+                    (VP (VV 多)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 双)))
+                    (NP (NN 筷子)))))
+                    (PU 』))
+                    (DEC 的))
+                    (NP (NN 年代)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们 	  
+                </arg>
+                <arg n="1">
+                    在 『 儿女 奉养 老人家 也 不过 多 一 双 筷子 』 的 年代 	  
+                </arg>
+                <arg n="m" f="adv">
+                    还 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="time/age arg0 lives until"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 再))
+                    (VP (VRD (VV 活)
+                    (VV 到))
+                    (QP-OBJ (QP (CD １２０)
+                    (CLP (M 岁)))
+                    (PU ，)
+                    (PRN (VP (ADVP (AD 甚至))
+                    (VP (VC 是)
+                    (QP-PRD (CD １３０)
+                    (CLP (M 岁))))))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    再	  	  
+                </arg>
+                <arg n="1">
+                    １２０ 岁 ， 甚至 是 １３０ 岁	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="time/age arg0 cannot live until"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-CND (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (CS 如果))
+                    (VP (VE 没有)
+                    (IP-OBJ (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 强大)))
+                    (DEC 的)))
+                    (NP (NN 经济力)))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 背))
+                    (LC 後)))
+                    (VP (VV 撑持)))))))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 台湾))
+                    (VP (ADVP (AD 绝对))
+                    (VP (VPT (VV 活)
+                    (AD 不)
+                    (VV 到))
+                    (NP-OBJ (NT 今天))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 没有 强大 的 经济力 在 背 後 撑持	  
+                </arg>
+                <arg n="0">
+                    台湾	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    绝对	  	  
+                </arg>
+                <arg n="1">
+                    今天	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

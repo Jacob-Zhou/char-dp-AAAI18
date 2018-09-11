@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 身患 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="patient"/>
+        <role argnum="1" argrole="disease"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 已))
+                    (VP (VV 身患)
+                    (NP-OBJ (NN 癌症)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="m" f="adv">
+                    已          
+                </arg>
+                <arg n="1">
+                    癌症          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

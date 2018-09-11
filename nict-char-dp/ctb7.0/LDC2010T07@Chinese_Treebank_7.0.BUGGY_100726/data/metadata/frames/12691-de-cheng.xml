@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 得逞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (QP (QP (CD 一)
+                    (CLP (M 年)))
+                    (ADVP (AD 多)))
+                    (LC 之内))
+                    (PU ，)
+                    (NP-SBJ (PN 他))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (DP (DT 这)
+                    (CLP (M 栋)))
+                    (NP (NN 大楼)))
+                    (LC 里面)))
+                    (ADVP (AD 已经))
+                    (ADVP (AD 连续))
+                    (VP (VV 得逞)
+                    (AS 了)
+                    (QP-OBJ (CD ３)
+                    (CLP (M 次))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    一 年 多 之内          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="loc">
+                    在 这 栋 大楼 里面          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="m" f="adv">
+                    连续          
+                </arg>
+                <arg n="m" f="frq">
+                    ３次          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

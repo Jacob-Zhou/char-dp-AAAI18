@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="32339-dan-wei-n 单位-n">
+
+<commentary></commentary>
+
+<sense n="1" type="" name="单位, unit，" group="1">
+
+<commentary></commentary>
+
+<examples>
+
+
+
+镑是英国货币的标准单位。
+
+The pound is the standard unit of money in Britain.
+
+
+
+长度单位。
+
+a unit of length.
+
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+<sense n="2" type="" name="单位, work unit, division, section, etc." group="1">
+
+<commentary></commentary>
+
+<examples>
+
+
+
+他们单位人很多。
+
+Their work unit (department/office/company) is huge.
+
+
+
+附属单位。
+
+affiliated unit.
+
+
+
+请向那个军队的单位报告。
+
+Please report to that army unit.
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity="" />
+
+</sense>
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="" />
+
+</inventory>
+

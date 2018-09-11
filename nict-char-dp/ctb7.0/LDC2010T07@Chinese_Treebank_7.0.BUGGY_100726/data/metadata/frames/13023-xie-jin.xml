@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 写进 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing written"/>
+         
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NT 今天))
+                    (VP (ADVP (AD 将))
+                    (VP (VV 写进)
+                    (NP-OBJ (DNP (NP-PN (NR 塞尔维亚))
+                    (DEG 的))
+                    (NP (NN 历史))))) 
+                    
+                </parse>
+                <arg n="1">
+                    今天          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="2">
+                    塞尔维亚 的 历史          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

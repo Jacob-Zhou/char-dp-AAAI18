@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 祸害 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="victim"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 该)
+                    (VP (VV 死))))
+                    (DEC 的))))
+                    (VP (VP (ADVP (AD 不))
+                    (VP (VV 死)))
+                    (PU ，)
+                    (VP (VV 祸害)
+                    (QP-EXT (CD １千)
+                    (CLP (M 年))))) 
+                    
+                </parse>
+                <arg n="0">
+                    该 死 的 不 死          
+                </arg>
+                <arg n="m" f="ext">
+                    １千 年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

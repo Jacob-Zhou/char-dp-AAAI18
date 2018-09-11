@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 沉尸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *-2))
+                    (VP (VV 沉尸)
+                    (PP-LOC (P 在)
+                    (LCP (NP (NP-PN (NR 东园市)
+                    (NR 东州路))
+                    (QP (CD 一)
+                    (CLP (M 处)))
+                    (DNP (ADJP (JJ 农用))
+                    (DEG 的))
+                    (NP (NN 沟渠)))
+                    (LC 当中))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *-2          
+                </arg>
+                <arg n="1">
+                    在 东园市 东州路 一 处 农用 的 沟渠当中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 植根 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="domain/location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 科学))
+                    (VP (ADVP (AD 深深))
+                    (VP (VV 植根)))) 
+                    
+                </parse>
+                <arg n="0">
+                    科学          
+                </arg>
+                <arg n="m" f="adv">
+                    深深          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

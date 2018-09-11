@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="怕-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to fear, to dread, to be afraid"  group="1">
+<commentary>
+</commentary>
+<examples>
+中华 民族 不 怕 困难 、 坚韧不拔
+“ 现在 搬进 长江 大堤 的 里面 ， 再 也 不 怕 被 水 淹 了 。 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to suppose that, to think that, perhaps"  group="1">
+<commentary>
+</commentary>
+<examples>
+即使 从 台湾 到 加拿大 ， 孩子 还是 管 不 住 ， 怕 要 变坏 了 ……
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="11" ann_1_2_agreement="0.727272727273" />
+</inventory>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="00941-fa-xian-n 发现-n">
+
+<commentary>
+
+</commentary>
+
+
+
+
+
+<sense n="1" type="" name="发现, find, discovery,  " group="">
+
+<commentary>
+
+</commentary>
+
+
+<examples>
+
+
+
+
+考古学上的一项重要发现。
+An important archaeological  find.
+
+
+我们的烹调是一种发现。
+Our cook was a find.
+
+
+
+</examples>
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+<omega>
+</omega>
+
+
+<pb>
+</pb>
+
+</mappings>
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+<sense n="2" type="" name="发现, 出现，arise, emerge, appear,  " group="">
+
+<commentary>
+
+</commentary>
+
+
+<examples>
+
+
+
+敌人一出现，我们就发起了攻击。
+At the appearance of the enemy, we attacked.
+
+
+重复出现。
+repeated emergence.
+
+
+</examples>
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+<omega>
+</omega>
+
+
+<pb>
+</pb>
+
+</mappings>
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>

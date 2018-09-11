@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一言不发 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 陈近南))
+                    (VP (VP (ADVP (AD 不时))
+                    (VP (VV 望)
+                    (AS 着)
+                    (NP-OBJ (NN 天花板))))
+                    (PU ，)
+                    (VP (VV 一言不发))) 
+                    
+                </parse>
+                <arg n="0">
+                    陈近南          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

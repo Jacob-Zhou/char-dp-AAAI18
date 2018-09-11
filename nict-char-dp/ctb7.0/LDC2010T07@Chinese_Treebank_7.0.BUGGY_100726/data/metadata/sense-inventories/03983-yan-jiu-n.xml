@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="研究	03983-yan-jiu-n">
+<commentary></commentary>
+<sense n="1" name="研究, 调查, research" group="" type="">
+<commentary>Adetailed study of a subject in order to discover information or achieve a new understanding of it.</commentary><examples>他在进行血液病研究。
+He is doing research on blood diseases.
+
+学术研究
+academic research
+
+研究所
+research institute
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="study, 研究" group="" type="">
+<commentary>The activity of studying.</commentary><examples>生物学是对生物的研究。
+Biology is the study of living things.
+
+一项研究表明,车祸中失去性命的人中的百分之四十如果他们系上保险带的话本来是可以得救的。
+One study showed that forty percent of those killed in auto accidents could have been saved if they had been wearing seat belts.
+
+他从事自然研究.
+He focussed on the study of nature.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="研究, 探讨,review,discussion." group="" type="">
+<commentary>Atalk about something to other people, often exchanging ideas or opinions.</commentary><examples>委员会在研究这些问题.
+These matters are under review by the committee.
+
+这事正在研究中.
+The matter is still under discussion
+
+委员会对住房情况作了研究.
+The council had discussions on issues such as housing and living conditions.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

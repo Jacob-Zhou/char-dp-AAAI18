@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 度秒如年 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VP (VV 等)
+                    (NP-OBJ (DP (DT 这)
+                    (QP (CD 一)
+                    (CLP (M 天))))))
+                    (VP (ADVP (AD 真的))
+                    (VP (VV 等)
+                    (AS 了)
+                    (ADVP (ADVP (AD 很))
+                    (ADVP (AD 久))))))
+                    (PU ，))
+                    (VP (ADVP (AD 就))
+                    (PP-MNR (P 像)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NR 李)
+                    (NN 委员))
+                    (VP (VV 说)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))))
+                    (PU ，)
+                    (VP (VP (VP (VV 度日))
+                    (PU ，)
+                    (VP (VV 度秒如年))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    像 李 委员 说 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

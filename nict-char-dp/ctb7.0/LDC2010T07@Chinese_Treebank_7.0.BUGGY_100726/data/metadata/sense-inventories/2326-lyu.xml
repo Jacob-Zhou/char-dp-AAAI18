@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="率-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to lead, to command (e.g. troops, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+祖国 大陆 采取 积极 措施 推动 两 岸 政治 谈判 ， 促成 台湾 海峡 交流 基金会 董事长 辜振甫 率 团 前来 参访
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="rate, ratio, proportion" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 泄露 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="information disclosed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 机密))
+                    (VP (VV 泄露)))) 
+                    
+                </parse>
+                <arg n="1">
+                    机密          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="source/location"/>
+        <role argnum="1" argrole="thing leaked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

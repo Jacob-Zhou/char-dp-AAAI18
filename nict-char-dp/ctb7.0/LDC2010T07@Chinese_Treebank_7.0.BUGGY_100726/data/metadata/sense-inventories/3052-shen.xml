@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="审-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to examine, to read over, to look over" group="1">
+<commentary>
+</commentary>
+<examples>
+为了 加大 监督 检查 力度 ， 北京市 今年 还 组织 十八 个 区 县 、 二十八 所 医院 及 八十 所 大专 院校 联 审 互 查
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to interrogate, to try (a case at court)" group="1">
+<commentary>
+</commentary>
+<examples>
+特别 行文 台湾 高等 法院 转令 所 属 一 、 二 审 法院 ， 严禁 在 法庭 内 使用 行动 电话
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 感人至深 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 感人至深)))
+                    (DEC 的)))
+                    (CP-APP (IP (NP-SBJ (NN 骨肉))
+                    (VP (VV 重逢)))
+                    (DEC 的))
+                    (NP (NN 故事)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 故事          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

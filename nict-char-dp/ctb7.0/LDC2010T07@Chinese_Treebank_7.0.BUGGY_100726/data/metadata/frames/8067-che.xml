@@ -1,0 +1,110 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 finds"/>
+        <role argnum="2" argrole="entities arg1 is found between"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP (ADJP (JJ 精密))
+                    (NP (NN 陶瓷)))
+                    (PU 、)
+                    (NP (ADJP (JJ 不锈))
+                    (NP (NN 钢)))
+                    (PU 、)
+                    (NP (NN 虾蟹壳))
+                    (PU …)
+                    (PU …))
+                    (PU ，)
+                    (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 乍看)))
+                    (VP (VV 似乎)
+                    (VP (PP (P 和)
+                    (NP (NN 纺纱)
+                    (NN 织布)))
+                    (VP (VPT (VV 扯)
+                    (AD 不)
+                    (VV 上))
+                    (NP-OBJ (NN 关系))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    关系 	  	  
+                </arg>
+                <arg n="2">
+                    精密 陶瓷 、 不锈 钢 、 虾蟹壳 … … 	  	  
+                </arg>
+                <arg n="2" f="crd">
+                    和 纺纱 织布 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    *PRO* 乍看 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2" edef="drag, pull">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 drags"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (ADVP (AD 而))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VC 是)
+                    (PP (P 为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP-WH (AD 怎么))
+                    (ADVP (AD 进一步))
+                    (VP (VV 促进)
+                    (NP-OBJ (DNP (NP (QP (CD 两))
+                    (NP (NN 岸)))
+                    (DEG 的))
+                    (NP (NN 交流)))))
+                    (PU ，)
+                    (VP (ADVP (AD 进一步))
+                    (VP (VV 使)
+                    (NP-PN-OBJ (NR 台湾))
+                    (PU ，)
+                    (IP (NP-SBJ-1 (-NONE- *PRO*))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 要)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (DP (DT 那))
+                    (QP (CD 一小撮))
+                    (NP (NN 文化)
+                    (NN 台独)
+                    (NN 分子)))
+                    (FLR (SP 呢))
+                    (VP (VP (ADVP (AD 越))
+                    (VP (VV 扯)
+                    (NP-OBJ (-NONE- *-1))))
+                    (VP (ADVP (AD 越))
+                    (VP (VA 远)))))))))))))))
+                    (PU ，))) 
+                    
+                </parse>
+                <arg n="0">
+                    那一小撮文化台独分子 	  
+                </arg>
+                <arg n="1">
+                    *-1 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 侵扰 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 受)
+                    (NP-OBJ (NN 侵扰))))
+                    (LC 时))
+                    (VP (VCD (VV 昂头)
+                    (VV 警戒))))) 
+                </parse>
+                <arg n="1">
+                    *PRO* 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

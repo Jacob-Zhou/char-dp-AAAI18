@@ -1,0 +1,22 @@
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 0 8 gold 结束-v 结束.01 ----- 8:0-rel 0:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-LOC 10:4-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 0 19 gold 取得-v 取得.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 20:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 1 2 gold 同意-v 同意.02 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 1 10 gold 举行-v 举行.01 ----- 10:0-rel 3:1-ARG0 4:1-ARGM-TMP 9:1-ARGM-ADV 11:1-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 9 gold 持续-v 持续.01 ----- 9:0-rel 13:1*7:1*8:1-ARG0 10:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 18 gold 结束-v 结束.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 22 gold 达成-v 达成.01 ----- 22:0-rel 17:1-ARG0 23:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 30 gold 举行-v 举行.01 ----- 30:0-rel 0:1-ARGM-MNR 3:2-ARG0 6:1-ARGM-LOC 32:1-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 35 gold 取得-v 取得.01 ----- 35:0-rel 0:1-ARGM-MNR 3:2-ARG0 6:1-ARGM-LOC 16:1-ARG2 33:1-ARGM-DIS 34:1-ARGM-ADV 36:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 41 gold 如此-v 如此.01 ----- 41:0-rel 39:1-ARGM-DIS 40:1-ARG0
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 45 gold 表示-v 表示.01 ----- 45:0-rel 39:2-ARGM-ADV 43:1-ARG0 44:1-ARGM-ADV 46:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 47 gold 希望-v 希望.02 ----- 47:0-rel 46:1-ARG0 48:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 49 gold 看到-v 看到.01 ----- 49:0-rel 48:1-ARG0 50:3-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 57 gold 同意-v 同意.02 ----- 57:0-rel 46:1-ARG0 55:1-ARGM-DIS 56:1-ARGM-ADV 58:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 2 65 gold 举行-v 举行.01 ----- 65:0-rel 58:1-ARG0 59:1-ARGM-TMP 64:1-ARGM-ADV 66:2-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 3 3 gold 结束-v 结束.01 ----- 3:0-rel 2:1-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 3 15 gold 前来-v 前来.01 ----- 15:0-rel
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 3 16 gold 参加-v 参加.01 ----- 16:0-rel 17:1-ARG1 13:0*13:1*14:0*14:1*21:1-ARG0
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 3 22 gold 进行-v 进行.01 ----- 22:0-rel 0:1-ARGM-MNR 2:3-ARGM-TMP 6:4-ARG0 12:1-ARG0 24:1-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 3 33 gold 交换-v 交换.01 ----- 33:0-rel 27:1-ARG0 35:1-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 3 45 gold 会见-v 会见.01 ----- 45:0-rel 37:1-ARG0 38:1-ARGM-DIS 39:1-ARGM-ADV 40:1-ARGM-TMP 43:1-ARGM-LOC 46:3-ARG1
+bn/ctv/01/ctv_0167@0167@ctv@bn@ch@on 4 2 gold 报道-v 报道.01 ----- 2:0-rel 0:1-ARG0

@@ -1,0 +1,6 @@
+bn/cnr/00/cnr_0025@0025@cnr@bn@ch@on 0 5 gold 强调-v 强调.01 ----- 5:0-rel 0:3-ARG0 4:1-ARGM-TMP 7:2-ARG1
+bn/cnr/00/cnr_0025@0025@cnr@bn@ch@on 0 9 gold 打算-v 打算.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+bn/cnr/00/cnr_0025@0025@cnr@bn@ch@on 0 11 gold 奉行-v 奉行.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bn/cnr/00/cnr_0025@0025@cnr@bn@ch@on 0 16 gold 重申-v 重申.01 ----- 16:0-rel 0:3-ARG0 15:1-ARGM-ADV 17:2-ARG1
+bn/cnr/00/cnr_0025@0025@cnr@bn@ch@on 0 19 gold 继续-v 继续.01 ----- 19:0-rel 17:1-ARG1 18:1-ARGM-ADV 20:2-ARG1
+bn/cnr/00/cnr_0025@0025@cnr@bn@ch@on 0 22 gold 保持-v 保持.01 ----- 22:0-rel 17:1-ARG0 18:1-ARGM-ADV 20:1-ARG0 23:2-ARG1

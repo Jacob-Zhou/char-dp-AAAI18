@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 让让 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity allowed or made to do something"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 高雄市))
+                    (VP (PP-TMP (P 在)
+                    (LCP (NP (QP (QP (CD 半)
+                    (CLP (M 个)))
+                    (ADVP (AD 多)))
+                    (NP (NN 月)))
+                    (LC 以来)))
+                    (VP (VP-FOC (VV 发生)
+                    (AS 了)
+                    (NP-OBJ (DNP (QP (CD ２０多)
+                    (CLP (M 件)))
+                    (DEG 的))
+                    (NP (NN 汽机车)
+                    (NN 纵火案))))
+                    (VP (VV 让让)
+                    (NP-OBJ (NN 警校)
+                    (NN 人员)
+                    (NN 神经))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 紧绷))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    高雄市          
+                </arg>
+                <arg n="m" f="tmp">
+                    半 个 多 月 以来          
+                </arg>
+                <arg n="0" f="prd">
+                    发生 了 ２０多 件 的 汽机车 纵火案          
+                </arg>
+                <arg n="1">
+                    警校 人员 神经          
+                </arg>
+                <arg n="2">
+                    紧绷          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

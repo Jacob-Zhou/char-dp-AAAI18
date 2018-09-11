@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 掌权 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 推翻)
+                    (NP-OBJ (NN 选举)))
+                    (VP (VV 继续)
+                    (VP (VV 掌权)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

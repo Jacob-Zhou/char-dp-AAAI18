@@ -1,0 +1,27 @@
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 0 3 gold 好-v 好.01 ----- 3:0-rel 0:2-ARG0 2:1-ARGM-TMP
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 0 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 1 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 1 7 gold 是-v 是.01 ----- 7:0-rel 0:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-ADV 8:3-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 1 15 gold 是-v 是.01 ----- 15:0-rel 0:1-ARG0 14:1-ARGM-DIS 16:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 2 1 gold 欢迎-v 欢迎.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARG2
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 2 9 gold 具有-v 具有.01 ----- 9:0-rel 12:1*7:1*8:1-ARG0 10:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 2 13 gold 收听-v 收听.01 ----- 13:0-rel 3:1-ARG0 4:1-ARGM-TMP 14:5-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 2 27 gold 愿-v 愿.02 ----- 27:0-rel 0:1-ARG0 28:2-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 2 31 gold 度过-v 度过.01 ----- 31:0-rel 28:1-ARG0 29:1-ARGM-ADV 32:2-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 2 36 gold 美好-v 美好.01 ----- 36:0-rel 34:0*34:1*35:0*35:1*38:1-ARG0
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 9 gold 介绍-v 介绍.01 ----- 9:0-rel 0:1-ARGM-LOC 5:1-ARG0 6:1-ARGM-ADV 7:1-ARG2 11:3-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 32 gold 乘坐-v 乘坐.01 ----- 32:0-rel 21:6-ARG0 20:1*33:1*35:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 36 gold 遭到-v 遭到.01 ----- 36:0-rel 11:1-ARGM-LOC 20:3-ARG0 37:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 48 gold 提出-v 提出.01 ----- 48:0-rel 39:3-ARG0 42:1-ARGM-LOC 49:2-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 51 gold 建立-v 建立.01 ----- 51:0-rel 49:1-ARG0 50:1-ARGM-ADV 52:2-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 55 gold 处理-v 处理.02 ----- 55:0-rel 49:1-ARG1 50:1-ARGM-ADV 54:0-ARGM-ADV 56:3-ARG2
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 64 gold 准备-v 准备.01 ----- 64:0-rel 61:2-ARG0 63:1-ARGM-ADV 65:3-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 83 gold 组成-v 组成.01 ----- 83:0-rel 76:1-ARG1 75:1*84:1-ARG0
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 88 gold 访问-v 访问.01 ----- 88:0-rel 60:1-ARGM-TMP 71:3-ARG0 87:1-ARGM-ADV 89:2-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 91 gold 商讨-v 商讨.01 ----- 91:0-rel 60:1-ARGM-TMP 71:3-ARG0 87:1-ARGM-ADV 92:4-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 93 gold 实现-v 实现.01 ----- 93:0-rel 92:1-ARG0 94:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 105 gold 发生-v 发生.01 ----- 105:0-rel 100:3-ARG1 103:1-ARGM-TMP 106:0*112:1*99:0-ARG0
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 111 gold 爆炸-v 爆炸.01 ----- 111:0-rel 110:1-ARG0
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 3 117 gold 有所-v 有所.01 ----- 117:0-rel 99:6-ARG0 118:1-ARG1
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 4 2 gold 欢迎-v 欢迎.01 ----- 2:0-rel 3:1-ARG2
+bn/vom/02/vom_0262@0262@vom@bn@ch@on 5 11 gold 播报-v 播报.01 ----- 11:0-rel 12:0*12:1*6:0*6:1-ARG1 7:1-ARG0 9:1-ARGM-BNF

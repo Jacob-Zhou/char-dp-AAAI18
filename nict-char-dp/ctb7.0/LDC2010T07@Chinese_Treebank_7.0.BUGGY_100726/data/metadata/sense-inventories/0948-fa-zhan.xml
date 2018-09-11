@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发展-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="(cause to) grow, expand, strengthen" group="1">
+<commentary>VV,NN</commentary>
+<examples>
+近来政府努力地发展生产,繁荣经济。
+中国的经济正蓬勃地发展。
+中韩两国之间的经贸发展迅速。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="recruit" group="1">
+<commentary>VV</commentary>
+<examples>
+某政党现正积极地发展党员。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="(bring) (a region) to acquire economic prosperity" group="1">
+<examples>
+发展上海.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="4" name="evolve, progress from earlier to later stages of evoluation" group="1">
+<examples>
+他希望台湾当局顺应历史发展潮流.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="5" name="advance in career" group="1">
+<examples>
+他到上海发展.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="6" name="invent, (cause) to come into existence" group="1">
+<examples>
+东莞地区已发展出台商经济圈.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="104" ann_1_2_agreement="0.836538461538" />
+</inventory>

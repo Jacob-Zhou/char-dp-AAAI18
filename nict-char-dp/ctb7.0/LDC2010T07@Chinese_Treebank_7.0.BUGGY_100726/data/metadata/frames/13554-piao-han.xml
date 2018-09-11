@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 剽悍 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 剽悍)))
+                    (DEC 的)))
+                    (NP (NN 海军)
+                    (NN 陆战队)) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 海军 陆战队          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

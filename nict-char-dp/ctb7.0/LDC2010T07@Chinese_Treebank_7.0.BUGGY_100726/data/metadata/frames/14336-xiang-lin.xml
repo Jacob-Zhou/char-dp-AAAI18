@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 相临 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entities described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 云南)
+                    (NR 赤毛))
+                    (NP (NN 地区)))
+                    (VP (VP (VV 靠近)
+                    (NP-OBJ (NP-PN (NR 中国)
+                    (CC 与)
+                    (NR 老挝))
+                    (NP (NN 边境))))
+                    (PU ，)
+                    (VP (PP-ADV (P 与)
+                    (NP (NP-PN (NR 西双版纳))
+                    (NP (NN 热带)
+                    (NN 雨林))))
+                    (VP (VV 相临))))) 
+                    
+                </parse>
+                <arg n="0">
+                    云南 赤毛 地区          
+                </arg>
+                <arg n="0" f="crd">
+                    与 西双版纳 热带 雨林          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

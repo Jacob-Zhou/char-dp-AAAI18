@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 戴上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 wears"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (QP (CD ８０多)
+                    (CLP (M 岁)))
+                    (DEG 的))
+                    (ADJP (JJ 老))
+                    (NP (NN 母亲)))
+                    (VP (NP-TMP (NT 上午))
+                    (VP (VV 戴上)
+                    (NP-OBJ (NN 眼镜))))) 
+                    
+                </parse>
+                <arg n="0">
+                    ８０多 岁 的 老 母亲          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <arg n="1">
+                    眼镜          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

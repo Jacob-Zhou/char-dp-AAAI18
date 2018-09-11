@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 输于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="loser"/>
+        <role argnum="1" argrole="lost to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-ADV (ADVP (CS 虽然))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 只))
+                    (VP (VC 是)
+                    (NP-PRD (DNP (ADJP (JJ 地区性))
+                    (DEG 的))
+                    (NP (NN 陆跑赛)))))))
+                    (PU ，)
+                    (ADVP (AD 但是))
+                    (NP-SBJ (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VA 精彩)
+                    (CC 和)
+                    (VA 热闹)))
+                    (DEC 的))
+                    (NP (NN 程度)))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 不))
+                    (VP (VV 输于)
+                    (NP-OBJ (NP-PN (NR 西班牙))
+                    (NP (NN 斗牛节))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    虽然 只 是 地区性 的 陆跑赛          
+                </arg>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="0">
+                    精彩 和 热闹 的 程度          
+                </arg>
+                <arg n="m" f="dis">
+                    却           
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="1">
+                    西班牙 斗牛节          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 诱导 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="inducer"/>
+        <role argnum="1" argrole="thing induced"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 诱导)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 犯罪))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*           
+                </arg>
+                <arg n="1">
+                    犯罪          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

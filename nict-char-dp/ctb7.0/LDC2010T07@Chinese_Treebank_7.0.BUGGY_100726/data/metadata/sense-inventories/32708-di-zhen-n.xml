@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="32708-di-zhen-n-n 地震-n">
+
+<commentary>
+
+</commentary>
+
+
+
+
+
+<sense n="1" type="" name="地震, earthquake, " group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+多地震地区
+
+a land of earthquakes
+
+
+
+
+
+
+
+地震有时会摧毁整个城市。
+
+An earthquake sometimes destroys whole cities.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="地震, 震动，轰动，sensation, " group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+市长的新方案震动全市。
+
+The new plan by the mayor was an earthquake (sensation).
+
+
+
+
+
+
+
+他的演说轰动全国。
+
+His speech created a great sensation.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>
+

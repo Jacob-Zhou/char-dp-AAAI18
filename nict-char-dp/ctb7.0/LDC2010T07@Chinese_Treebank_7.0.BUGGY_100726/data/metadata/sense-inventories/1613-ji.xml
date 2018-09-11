@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="记-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to note, to record, to write down" group="1">
+<commentary>
+</commentary>
+<examples>
+别人 记 十 个 工分
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="notes, records, chronicle" name="notes, records" group="1">
+<commentary>
+</commentary>
+<examples>
+纺织 科技 新 主张 ---- 纺研 四十 周年 记
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to remember, to recall in mind, to memorize" group="1">
+<commentary>
+</commentary>
+<examples>
+薛晓岚 已经 记 不 清楚 在 资迅人 草创 时期 ， 有 多少 个 夜晚 是 在 办公室 度过
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="classifier for a hit, slap, tactic, ploy, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+连 爱情剧 也 你 刮 我 一 记 耳光 、 我 吼 你 一 句 地
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="8" ann_1_2_agreement="0.875" />
+</inventory>

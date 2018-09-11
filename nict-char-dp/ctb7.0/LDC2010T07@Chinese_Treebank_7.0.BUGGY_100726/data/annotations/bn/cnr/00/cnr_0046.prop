@@ -1,0 +1,13 @@
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 0 8 gold 发生-v 发生.01 ----- 8:0-rel 0:2-ARGM-ADV 3:2-ARG1 7:1-ARGM-TMP 9:2-ARG0
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 0 16 gold 请-v 请.01 ----- 16:0-rel 15:1-ARG1 17:1-ARG2
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 0 17 gold 听-v 听.01 ----- 17:0-rel 15:1-ARG0 18:5-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 1 19 gold 行驶-v 行驶.01 ----- 19:0-rel 0:1-ARGM-TMP 5:2-ARG0 18:1-ARGM-ADV
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 2 7 gold 涌进-v 涌进.01 ----- 7:0-rel 0:1-ARGM-TMP 4:1-ARGM-LOC 6:1-ARG0 8:1-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 2 13 gold 倾斜-v 倾斜.01 ----- 13:0-rel 10:1-ARG0 11:1-ARG2
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 3 7 gold 载-v 载.01 ----- 7:0-rel 5:1-ARG0 10:1*4:0*4:1*8:0*8:1-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 3 19 gold 冲入-v 冲入.01 ----- 19:0-rel 0:3-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 4 11 gold 有-v 有.05 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 4 17 gold 爬上-v 爬上.01 ----- 17:0-rel 12:2*36:1-ARG0 14:1-ARGM-LOC 19:4-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 4 21 gold 露-v 露.01 ----- 21:0-rel 19:1*20:1*25:1-ARG1 22:1-ARGM-LOC
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 4 48 gold 有-v 有.05 ----- 48:0-rel 47:1-ARG0 49:3-ARG1
+bn/cnr/00/cnr_0046@0046@cnr@bn@ch@on 5 9 gold 调查-v 调查.01 ----- 9:0-rel 0:1-ARGM-TMP 1:3-ARG0 6:1-ARGM-ADV 7:1-ARGM-LOC 10:1-ARG1

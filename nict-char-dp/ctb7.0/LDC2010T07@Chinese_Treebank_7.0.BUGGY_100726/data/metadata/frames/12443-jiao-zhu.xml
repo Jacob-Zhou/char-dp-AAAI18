@@ -1,0 +1,114 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 浇铸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TPC (NN 混凝土))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 浇铸)
+                    (QP-EXT (CD ４５８万)
+                    (CLP (M 立方米))))) 
+                    
+                </parse>
+                <arg n="1">
+                    混凝土          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1" f="qty">
+                    ４５８万 立方米          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme that arg0 establishes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 遵照)
+                    (NP (DNP (NP (NN 中央))
+                    (DEG 的))
+                    (CP-APP (IP (PU “)
+                    (IP (NP-TPC-3 (QP (CD 两)
+                    (CLP (M 个)))
+                    (NP (NN 文明)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 一起))
+                    (VP (VV 抓)
+                    (NP-OBJ (-NONE- *T*-3)))))
+                    (PU ”)
+                    (CC 和)
+                    (PU “)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VRD (VV 交)
+                    (VA 好))
+                    (NP-OBJ (QP (CD 两)
+                    (CLP (M 份)))
+                    (NP (NN 答卷)))))
+                    (PU ”))
+                    (DEC 的))
+                    (NP (NN 要求))))
+                    (PU ，)
+                    (NP-SBJ (NN 特区)
+                    (NN 人民))
+                    (VP (PP-TMP (P 在)
+                    (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 构建)
+                    (NP-OBJ (NN 物质)
+                    (NN 文明)
+                    (NN 大厦))))
+                    (DEC 的))
+                    (NP (NN 同时))))
+                    (PU ，)
+                    (ADVP (AD 也))
+                    (VP (VRD (VV 浇铸)
+                    (VV 起))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 座)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 雄伟)))
+                    (DEC 的)))
+                    (NP (NN 特区)
+                    (NN 精神)
+                    (NN 丰碑))))))))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    遵照 中央 的 “ 两 个 文明 一起 抓” 和 “ 交 好 两 份 答卷 ” 的 要求          
+                </arg>
+                <arg n="0">
+                    特区 人民          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 构建 物质 文明 大厦 的 同时          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    一 座 雄伟 的 特区 精神 丰碑          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

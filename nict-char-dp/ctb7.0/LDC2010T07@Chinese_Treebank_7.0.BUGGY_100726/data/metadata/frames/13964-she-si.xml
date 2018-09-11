@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 射死 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="killer"/>
+        <role argnum="1" argrole="entity killed"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (PP-TMP (P 在)
+                    (NP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP (NN 警方))
+                    (CC 和)
+                    (NP (NN 安全)
+                    (NN 部队)))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 突击)
+                    (NP-OBJ (DNP (NP-PN (NR 伊斯坦堡))
+                    (DEG 的))
+                    (NP-PN (NR 温拉尼约)
+                    (NN 监狱))))))
+                    (DEC 的)))
+                    (NP (NN 时候))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 射死)
+                    (NP-OBJ (QP (OD 第３)
+                    (CLP (M 名)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (PP-DIR (P 朝着)
+                    (NP (NN 军警)))
+                    (VP (VV 冲去))))
+                    (DEC 的)))
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 自焚))))
+                    (NP (NN 囚犯))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而           
+                </arg>
+                <arg n="m" f="tmp">
+                    在 警方 和 安全 部队 突击 伊斯坦堡 的 温拉尼约 监狱 的 时候          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    第３ 名 朝着 军警 冲去 的自焚 囚犯          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

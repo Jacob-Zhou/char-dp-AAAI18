@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing sent"/>
+        <role argnum="2" argrole="receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (VP (VV 等)
+                    (NP-OBJ (NN 对方))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 送)
+                    (NP-OBJ (NN 资料)))
+                    (VP (VV 上)
+                    (NP-OBJ (NN 门)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="1">
+                    资料 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="people sent"/>
+        <role argnum="2" argrole="thing sent to do"/>
+        <role argnum="3" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 送)
+                    (NP-OBJ (PN 他))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 到)
+                    (NP-OBJ (NN 姥爷)
+                    (NN 家)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <arg n="1">
+                    他	  
+                </arg>
+                <arg n="3">
+                    到 姥爷 家	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 范下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="wrongdoings"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-DIR (P 对)
+                    (NP (NP (NP-PN (NR 中国))
+                    (NP (NN 人民)))
+                    (CC 和)
+                    (NP (NP-PN (NR 中华))
+                    (NP (NN 民族)))))
+                    (VP (VV 范下)
+                    (NP-OBJ (ADJP (JJ 涛天))
+                    (NP (NN 罪行))))))
+                    (DEC 的)))
+                    (NP (NN 传教士))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 传教士          
+                </arg>
+                <arg n="1">
+                    涛天 罪行          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

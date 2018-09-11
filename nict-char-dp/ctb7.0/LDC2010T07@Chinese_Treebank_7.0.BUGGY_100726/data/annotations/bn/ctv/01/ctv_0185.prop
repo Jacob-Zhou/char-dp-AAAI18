@@ -1,0 +1,24 @@
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 0 15 gold 宣誓-v 宣誓.01 ----- 15:0-rel
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 0 16 gold 就任-v 就任.01 ----- 16:0-rel 0:4-ARG0 8:2-ARGM-TMP 13:1-ARGM-LOC 17:2-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 1 gold 来-v 来.05 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 2 gold 看-v 看.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 16 gold 举行-v 举行.01 ----- 16:0-rel 5:1-ARG1 8:1-ARGM-LOC
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 32 gold 宣誓-v 宣誓.01 ----- 32:0-rel
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 33 gold 就职-v 就职.01 ----- 33:0-rel 18:1-ARG0 21:1-ARGM-ADV 22:1-ARGM-ADV
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 39 gold 发表-v 发表.01 ----- 39:0-rel 35:1-ARG0 36:1-ARGM-LOC 41:3-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 48 gold 阐述-v 阐述.01 ----- 48:0-rel 35:1-ARG0 36:1-ARGM-LOC 47:1-ARGM-ADV 50:4-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 56 gold 呼吁-v 呼吁.01 ----- 56:0-rel 35:1-ARG0 36:1-ARGM-LOC 57:1-ARG1 58:2-ARGM-ADV
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 59 gold 加强-v 加强.01 ----- 59:0-rel 58:1-ARG0 60:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 63 gold 参与-v 参与.01 ----- 63:0-rel 58:1-ARG0 62:1-ARGM-ADV 64:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 71 gold 谈到-v 谈到.01 ----- 71:0-rel 70:1-ARG0 72:2-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 76 gold 说-v 说.01 ----- 76:0-rel 69:1-ARGM-TMP 75:1-ARG0 78:2-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 80 gold 继续-v 继续.01 ----- 80:0-rel 78:1-ARG1 79:1-ARGM-ADV 81:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 81 gold 参与-v 参与.01 ----- 81:0-rel 78:1-ARG0 79:1-ARGM-ADV 82:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 85 gold 建立-v 建立.01 ----- 85:0-rel 78:1-ARG0 79:1-ARGM-ADV 86:2-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 1 96 gold 保护-v 保护.01 ----- 96:0-rel 78:1-ARG0 79:1-ARGM-ADV 97:3-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 2 11 gold 来自-v 来自.01 ----- 11:0-rel 12:3-ARG1 10:0*10:1*17:1*9:0*9:1-ARG0
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 2 23 gold 参加-v 参加.01 ----- 23:0-rel 0:6-ARG0 25:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 2 34 gold 宣誓-v 宣誓.01 ----- 34:0-rel
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 2 35 gold 就职-v 就职.01 ----- 35:0-rel 32:1-ARG0 31:0*33:0*37:1-ARGM-TMP
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 2 43 gold 举行-v 举行.01 ----- 43:0-rel 29:1-ARGM-ADV 30:1-ARGM-TMP 39:2-ARG0 41:1-ARGM-LOC 44:1-ARG1
+bn/ctv/01/ctv_0185@0185@ctv@bn@ch@on 3 2 gold 报道-v 报道.01 ----- 2:0-rel 0:1-ARG0

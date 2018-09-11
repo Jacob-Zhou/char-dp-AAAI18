@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 行乐 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person enjoying himself"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NN 大陆)
+                    (NR 故宫))
+                    (VP (VV 收藏)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NP-PN (NR 明朝))
+                    (NP-TTL (PU 〈)
+                    (IP-APP (NP-PN-SBJ (NR 宣宗))
+                    (VP (VV 行乐)))
+                    (NP (NN 图))
+                    (PU 〉)))) 
+                </parse>
+                <arg n="0">
+                    宣宗 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

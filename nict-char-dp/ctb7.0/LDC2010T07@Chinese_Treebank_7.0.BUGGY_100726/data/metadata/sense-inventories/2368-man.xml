@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="满-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="full, filled, to fill, packed" group="1">
+<commentary>
+</commentary>
+<examples>
+已 成 了 牛 羊 满 山坡 的 新 牧区
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to reach and limit (e.g. time, age, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+刚 满 １９ 岁 的 欧文 现在 效力 利物浦队 。
+在 缓缴期 满 后 即 将 税款 补缴 入库
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be satisfactory" group="1">
+<commentary>
+</commentary>
+<examples>
+不 满 目前 政治 现状 者 的 集结
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="completely, entirely, totally, whole" group="1">
+<commentary>
+</commentary>
+<examples>
+今天 的 消费者 谁 不 是 满 柜子 衣服 ？
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="very, quite" group="1">
+<commentary>
+</commentary>
+<examples>
+「 其实 满 贵 的 ， 」 他 说
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

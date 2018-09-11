@@ -1,0 +1,15 @@
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 3 gold 报道-v 报道.01 ----- 3:0-rel 0:3-ARG0 5:3-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 15 gold 控制-v 控制.01 ----- 15:0-rel 11:1-ARG0 16:1-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 18 gold 关闭-v 关闭.01 ----- 18:0-rel 11:1-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 19 gold 破产-v 破产.01 ----- 19:0-rel 11:1-ARG0
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 21 gold 扭亏-v 扭亏.01 ----- 21:0-rel 11:1-ARG0
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 22 gold 脱困-v 脱困.01 ----- 22:0-rel 11:1-ARG0
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 31 gold 实现-v 实现.01 ----- 31:0-rel 5:1-ARGM-TMP 6:2-ARG0 10:1-ARGM-MNR 32:3-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 35 gold 下降-v 下降.01 ----- 35:0-rel 32:1-ARG0 34:1-ARGM-ADV
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 39 gold 趋于-v 趋于.01 ----- 39:0-rel 37:1-ARG0 40:1-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 43 gold 预计-v 预计.01 ----- 43:0-rel 42:1-ARG0 44:2-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 0 49 gold 控制-v 控制.01 ----- 49:0-rel 44:1-ARGM-TMP 45:3-ARG1 50:1-ARG2
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 1 6 gold 可-v 可.01 ----- 6:0-rel 0:3-ARGM-TPC 5:1-ARG0 7:1-ARGM-ADV
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 1 7 gold 望-v 望.02 ----- 7:0-rel 0:3-ARG1 5:1-ARG0 8:2-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 1 9 gold 超过-v 超过.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bn/cnr/01/cnr_0107@0107@cnr@bn@ch@on 1 14 gold 提高-v 提高.01 ----- 14:0-rel 8:1-ARG1 12:1-ARGM-ADV 15:2-ARG4

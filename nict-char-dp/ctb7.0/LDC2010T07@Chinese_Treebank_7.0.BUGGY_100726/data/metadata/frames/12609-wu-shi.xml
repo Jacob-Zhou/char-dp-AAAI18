@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 舞狮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 舞龙)
+                    (PU 、)
+                    (VV 舞狮))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

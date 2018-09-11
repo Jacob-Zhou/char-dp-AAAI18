@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 上上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ２２)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (VP (VV 上场))
+                    (PU ，)
+                    (VP (ADVP (AD 大概))
+                    (VP (VP (VCD (VV 上上)
+                    (VV 下下))
+                    (NP-EXT (QP (QP (CD 一)
+                    (CLP (M 个)))
+                    (ADVP (AD 多)))
+                    (NP (NN 钟头)))) 
+                    
+                </parse>
+                <arg n="0">
+                    ２２ 个 人          
+                </arg>
+                <arg n="m" f="adv">
+                    大概          
+                </arg>
+                <arg n="m" f="ext">
+                    一 个 多 钟头          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

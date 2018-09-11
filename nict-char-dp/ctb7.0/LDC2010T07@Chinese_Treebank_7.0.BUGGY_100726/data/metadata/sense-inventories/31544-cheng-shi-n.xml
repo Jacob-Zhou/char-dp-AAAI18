@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="31544-cheng-shi-n-n 城市-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="城市, city, town," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+
+
+这个城市是城乡的巧妙结合。
+
+The city is a happy blending of town and country.
+
+
+
+
+
+
+
+城乡并重。
+
+Laying equal stress on the cities and the countryside.
+
+
+
+
+
+
+
+城市卫生
+
+city health
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+
+
+<sense n="2" type="" name="城市, 城, municipal," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+
+
+城市污水处理。
+
+treatment of municipal sewage
+
+
+
+
+
+
+
+城市污染。
+
+municipal pollution
+
+
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense n="3" type="" name="城市, 城, urban," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+城乡工业
+
+rural and urban industry
+
+
+
+
+
+
+
+城乡集市贸易。
+
+Trade in urban and rural peasant market.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>
+

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喝醉酒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 两))
+                    (NP (NN 派))
+                    (NP (NN 人马)))
+                    (VP (VV 可能)
+                    (VP (VC 是)
+                    (VP (VP (VV 喝醉酒)) 
+                    
+                </parse>
+                <arg n="0">
+                    两 派 人马          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

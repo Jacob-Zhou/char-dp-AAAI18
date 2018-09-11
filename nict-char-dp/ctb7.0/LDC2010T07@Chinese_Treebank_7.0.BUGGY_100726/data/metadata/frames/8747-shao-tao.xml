@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 烧陶 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (ADVP (AD 像))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 稻草)
+                    (NN 灰))
+                    (VP (VV 拿来)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 配)
+                    (NP-OBJ (NN 釉)
+                    (NN 配方)))))))
+                    (PU ；)
+                    (VP (VP (VV 拿)
+                    (NP-OBJ (NN 菸叶)))
+                    (VP (MSP 来)
+                    (VP (VV 烧陶))))
+                    (PU 、)
+                    (VP (VP (VV 用)
+                    (NP-OBJ (NN 菸叶)))
+                    (VP (MSP 来)
+                    (VP (VV 做)
+                    (NP-OBJ (NN 陶盘)))))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <arg n="m" f="adv">
+                    像 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

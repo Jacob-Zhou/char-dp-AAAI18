@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 灌救 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (QP (ADVP (AD 更))
+                    (QP (CD 多)))
+                    (DEG 的))
+                    (NP (NN 消防)
+                    (NN 队员)))
+                    (VP (VP (VV 穿梭)
+                    (NP-OBJ (NN 火场)))
+                    (PU ，)
+                    (VP (ADVP (AD 拼命))
+                    (PP-MNR (P 用)
+                    (NP (NN 水柱)))
+                    (VP (VV 灌救))))) 
+                    
+                </parse>
+                <arg n="0">
+                    更 多 的 消防 队员          
+                </arg>
+                <arg n="m" f="adv">
+                    拼命          
+                </arg>
+                <arg n="m" f="mnr">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

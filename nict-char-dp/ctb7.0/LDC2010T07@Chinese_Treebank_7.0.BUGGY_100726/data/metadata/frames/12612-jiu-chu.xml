@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 揪出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme that arg0 seizes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 惟有))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 及早))
+                    (VP (VV 查明)
+                    (NP-OBJ (DNP (NP (NN 死者))
+                    (DEG 的))
+                    (NP (NN 身份)))))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 能够)
+                    (VP (PP-MNR (P 透过)
+                    (NP (DNP (NP (PN 她))
+                    (DEG 的))
+                    (NP (NN 交往)
+                    (NN 背景))))
+                    (VP (VV 揪出)
+                    (NP-OBJ (DNP (ADJP (JJ 幕后))
+                    (DEG 的))
+                    (NP (NN 真凶)))))))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    惟有 及早 查明 死 的 身份          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <arg n="m" f="mnr">
+                    透过 她 的 交往 背景          
+                </arg>
+                <arg n="1">
+                    幕后 的 真凶          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

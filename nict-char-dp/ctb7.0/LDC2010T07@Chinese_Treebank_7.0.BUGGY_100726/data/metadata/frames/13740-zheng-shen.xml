@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 征审 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="judge"/>
+        <role argnum="1" argrole="defendent"/>
+        <role argnum="2" argrole="case"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC-2 (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NP (PN 我)
+                    (NN 国))
+                    (NP (NN 司法史)))
+                    (LC 上)))
+                    (VP (VV 算是)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 最))
+                    (VP (VE 有)
+                    (NP-OBJ (NN 争议))))))))
+                    (DEC 的)))
+                    (NP (NN 案件)))
+                    (NP (NP-PN-APP (NR 苏建何)
+                    (ETC 等))
+                    (QP (CD 三)
+                    (CLP (M 名)))
+                    (NP (NN 死刑犯))))
+                    (PU ，)
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (QP (CD 三))
+                    (NP (NN 省)))
+                    (VP (VV 并例)))
+                    (LC 之后)))
+                    (PU ，)
+                    (NP-SBJ (ADJP (JJ 高等))
+                    (NP (NN 法院)))
+                    (VP (NP-TMP (NT 今天))
+                    (DVP (ADVP (AD 重新))
+                    (DEV 的))
+                    (VP (VSB (VV 开庭)
+                    (VV 征审))
+                    (NP-OBJ (-NONE- *T*-2)))) 
+                    
+                </parse>
+                <arg n="1">
+                    在 我 国 司法史 上 算是 最 有 争议 的 案件 苏建何 等 三名 死刑犯 -> *T*-2          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 三 省并例 之后          
+                </arg>
+                <arg n="0">
+                    高等 法院          
+                </arg>
+                <arg n="m" f="tmp">
+                    今天          
+                </arg>
+                <arg n="m" f="adv">
+                    重新 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

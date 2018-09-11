@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 兹事 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-4 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-4))
+                    (VP (VV 兹事)))
+                    (DEC 的)))
+                    (NP-PN (NR 法轮功))
+                    (ADJP (JJ 顽固))
+                    (NP (NN 份子))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-4 -> 份子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

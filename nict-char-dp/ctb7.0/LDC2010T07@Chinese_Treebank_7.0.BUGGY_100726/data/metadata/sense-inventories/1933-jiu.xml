@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="久-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="lasting, for a long time" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 三 大 问题 ” 由来 已 久
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="for a specific duration of time" group="1">
+<commentary>
+</commentary>
+<examples>
+有的 观众 甚至 在 现场 感动 得 湿红 了 眼 ， 起立 鼓掌 长 达 三 分钟 之 久
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="13" ann_1_2_agreement="0.769230769231" />
+</inventory>

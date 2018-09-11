@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遇刺 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NN 伊斯兰)
+                    (NN 圣战者)
+                    (NN 组织)
+                    (NN 领导人))
+                    (NP-PN (NR 西卡奇)))
+                    (VP (VV 遇刺))) 
+                    
+                </parse>
+                <arg n="0">
+                    伊斯兰 圣战者 组织 领导人 西卡奇          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

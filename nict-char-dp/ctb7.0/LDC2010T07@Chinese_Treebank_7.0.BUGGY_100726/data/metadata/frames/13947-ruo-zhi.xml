@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 弱智 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (PN 我们)
+                    (NN 家))
+                    (QP (CD 二))
+                    (NP (NN 老)))
+                    (VP (VP (ADVP (AD 有一些))
+                    (VP (VV 行动不便))
+                    (FLR (SP 啊)))
+                    (PU ，)
+                    (VP (ADVP (AD 而且))
+                    (ADVP (AD 比较))
+                    (VP (VA 弱智))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我们 家 二 老          
+                </arg>
+                <arg n="m" f="dis">
+                    而且          
+                </arg>
+                <arg n="m" f="adv">
+                    比较          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="00503-chu-kou-n 出口-n">
+<commentary>no examples for sense 1 in stamplite, but it seems to be necessary.</commentary>
+<sense n="1" name="exit,outlet, 出口, 太平门" group="1" type="">
+<commentary></commentary><examples>哪里是出口?
+Where is the exit?
+
+喷管出口
+nozzle exit
+
+排水出口
+drain outlet
+
+油箱出口
+fuel-tank outlet
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="export, exportation 出口, 出口货" group="1" type="">
+<commentary>no examples in stamplite for sense 1, but it seems sense 1 is necessary.</commentary><examples>黄金出口是违法的。
+The exportation/export of gold is illegal.
+
+商品出口
+merchandise exports
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+</inventory>

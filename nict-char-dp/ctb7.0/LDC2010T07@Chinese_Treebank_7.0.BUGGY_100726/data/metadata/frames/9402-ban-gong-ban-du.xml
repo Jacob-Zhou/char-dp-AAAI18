@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 半工半读 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (PP-ADV (P 像)
+                    (NP (NN 姊姊)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 必须)
+                    (VP (VP (VV 半工半读))
+                    (VP (MSP 去)
+                    (VP (VV 赚)
+                    (NP-OBJ (NN 学费)))))))) 
+                </parse>
+                <arg n="0">
+                    *pro* 
+                </arg>
+                <arg n="m" f="adv">
+                    就 
+                </arg>
+                <arg n="m" f="adv">
+                    像 姊姊 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

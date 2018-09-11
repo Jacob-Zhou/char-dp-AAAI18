@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 奏效 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (PN 他们))
+                    (VP (NP-TMP (NT 现在))
+                    (VP (VV 看来))))
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 一)))
+                    (NP (NN 行动)))
+                    (VP (VC 是)
+                    (VP (VV 奏效)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    他们 现在 看来          
+                </arg>
+                <arg n="0">
+                    这 一 行动          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

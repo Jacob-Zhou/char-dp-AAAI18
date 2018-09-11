@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扯坏 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing damaged"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 电车线))
+                    (VP (SB 被)
+                    (VP (DVP (VP (VA 严重))
+                    (DEV 的))
+                    (VP (VV 扯坏)
+                    (AS 了)
+                    (QP-EXT (ADVP (AD 上))
+                    (QP (CD 百)
+                    (CLP (M 公尺))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    电车线          
+                </arg>
+                <arg n="m" f="adv">
+                    严重 的          
+                </arg>
+                <arg n="1" f="qty">
+                    上 百 公尺          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 申辩 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="argument"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 埃斯特拉达))
+                    (DEG 的))
+                    (NP (NN 律师)))
+                    (VP (VSB (VV 申辩)
+                    (VV 说))
+                    (PU ：)
+                    (IP-OBJ (PU “)
+                    (PP-PRP (P 由于)
+                    (IP (NP-SBJ (NN 众议院))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-DIR (P 向)
+                    (NP (NN 参议院)))
+                    (VP (VV 呈报)
+                    (NP-OBJ (DP (DT 此))
+                    (NP (NN 案)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 加以)
+                    (NP-OBJ (NN 审理)))))))
+                    (DEC 的))
+                    (NP (NN 过程)))
+                    (LC 中)))
+                    (PU ，)
+                    (ADVP (AD 没有))
+                    (VP (VV 遵循)
+                    (NP-OBJ (NN 宪法)
+                    (NN 章程))))))
+                    (PU ，)
+                    (ADVP (AD 所以))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 应当)
+                    (VP (VV 撤销)
+                    (NP-OBJ (DNP (DP (DT 所有))
+                    (DEG 的))
+                    (NP (NN 指控)))))
+                    (PU ”)))) 
+                    
+                </parse>
+                <arg n="0">
+                    埃斯特拉达 的 律师          
+                </arg>
+                <arg n="1">
+                    由于 众议院 在 向 参议院 呈报 此 案 加以 审理 的 过程 中 ， 没有 遵循 宪法 章程 ， 所以 应当 撤销 所有 的 指控 ”          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

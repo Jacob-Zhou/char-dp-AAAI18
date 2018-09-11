@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 砍死 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="killer"/>
+        <role argnum="1" argrole="entity killed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (NN 母亲))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 儿子))
+                    (VP (ADVP (AD 乱刀))
+                    (VP (VA 砍死)
+                    (NP-OBJ (-NONE- *-1))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    母亲 -> *-1          
+                </arg>
+                <arg n="0">
+                    儿子          
+                </arg>
+                <arg n="m" f="adv">
+                    乱刀          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

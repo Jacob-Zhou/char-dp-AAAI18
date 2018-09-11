@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="拿-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to hold, to bear" group="1">
+<commentary>
+seems similar with sense 2, especially in the second example.
+</commentary>
+<examples>
+他 每 次 去 大陆 拿 的 是 「 澳门 居民证 」
+还 好 ， 百分之八 、 九十 都 已经 拿 出来 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to achieve, to get, to take possession" group="1">
+<commentary>
+</commentary>
+<examples>
+他 在 葡萄牙 里斯本 念 大学 、 在 德国 拿 硕士
+郑永国 根本 拿 不 到 标本 原件 回去 参考
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="with, preposition to introduce a method, way, material, etc., by which something is done" group="1">
+<commentary>
+seems similar with sense 1, especially in the second example.
+</commentary>
+<examples>
+拿 美国 政坛 比较 ， 李登辉 就 很 像 美国 总统 柯林顿
+拿 书香 子弟 的 连战 和 从 无 到 有 的 陈水扁 摆 在一起
+甚至 拿 选票 交换 「 走路工 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="regarding, to (prep)" group="1">
+<commentary>
+seems similar with sense 1, especially in the second example.
+</commentary>
+<examples>
+拿 他 没 办法
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="46" ann_1_2_agreement="0.630434782609" />
+</inventory>

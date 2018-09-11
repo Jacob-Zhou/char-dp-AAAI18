@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一青 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 因为)
+                    (IP (NP-SBJ (NP (DP (DT 这)
+                    (CLP (M 名)))
+                    (ADJP (JJ 女))
+                    (NP (NN 学生)))
+                    (NP (NN 体型)))
+                    (VP (ADVP (AD 有些))
+                    (VP (VA 瘦小)))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 会)
+                    (VP (VA 一青)))))))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    因为 这 名 女 学生 体型 有些 瘦小          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

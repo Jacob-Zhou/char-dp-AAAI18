@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 打退 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity defeated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VP (VV 带领)
+                    (NP-OBJ (QP (CD ２)
+                    (CLP (M 名)))
+                    (NP (NN 战士))))
+                    (VP (VV 打退)
+                    (NP-OBJ (NP (NN 敌人))
+                    (QP (CD ４１)
+                    (CLP (M 次)))
+                    (NP (NN 进攻))))
+                    (PU 、)
+                    (VP (VV 歼敌)
+                    (NP-EXT (QP (CD ２８０))
+                    (NP (NN 人))))))
+                    (DEC 的)))
+                    (NP-PN (NR 胡修道))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 胡修道          
+                </arg>
+                <arg n="1">
+                    敌人 ４１次 进攻          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

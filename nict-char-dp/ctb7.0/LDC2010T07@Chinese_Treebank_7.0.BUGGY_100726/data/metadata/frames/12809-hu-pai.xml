@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 互派 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 sends to do something"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 伊朗)
+                    (CC 和)
+                    (NR 阿曼))
+                    (VP (VV 互派)
+                    (NP-OBJ (NN 观察员))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 参加)
+                    (NP-OBJ (NP (PN 对方))
+                    (NP (NN 海军)
+                    (NN 演习))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    伊朗 和 阿曼          
+                </arg>
+                <arg n="1">
+                    观察员          
+                </arg>
+                <arg n="2">
+                    对方 海军 演习          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="09477-tu-n 图-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="diagram图,图表" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+曲线图
+
+a diagram of curve
+
+
+
+原理电路图他闯出了一番事业。
+
+a basic circuit diagram
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="plan图,设计图,平面图" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+平面图
+
+a floor plan
+
+
+
+位置图
+
+a site plan
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="3" type="" name="picture图,图画,图片" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+截面图
+
+a cross-sectional picture
+
+
+
+导航图
+
+a navigation picture
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="4" type="" name="drawing图,绘图,图画,图样" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+简图
+
+an abbreviated drawing
+
+
+
+蓝图
+
+a blue print drawing
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="5" type="" name="chart图,图表" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+天气图
+
+a weather chart
+
+
+
+亮度测试图简图
+
+a brightness test chart
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="6" type="" name="map图,地图" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+航空磁测图
+
+an aeromagnetic map
+
+
+
+蓝图
+
+a blue map
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="7" type="" name="illustration图,插图" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+简图
+
+a schematic illustration
+
+
+
+剖视图简图
+
+a cutaway illustration
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="CandiceCheung" sample_score="-"/>
+
+</inventory>
+

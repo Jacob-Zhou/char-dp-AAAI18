@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="念-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+一千 名 公务员 曾 来 台湾 念 过 书
+因 战局 混乱 ， 只 念 了 一 年 就 转学
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+一千六 到 二千 个 澳门 学生 在 台湾 念 大学
+身为 长子 、 又 念 到 台大
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+他 在 葡萄牙 里斯本 念 大学 、 在 德国 拿 硕士 ， 又 到 瑞典 念 景观
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+念 死 者 无 为 罪
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+由於 电视台 主管 有 意见 ， 几 集 之後 ， 原先 讲 台语 的 演员 改 以 「 台湾 国语 」 念 台词
+但 常 要求 她们 念 、 讲 给 我 听
+看到 字 会 念 出来
+念 美国 教科书
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+念 硕士
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="分-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to distinguish, to discriminate, to differentiate
+(synonymous to qu-fen)" group="1">
+<commentary>
+</commentary>
+<examples>
+若 老 要 分 派别 ， 是 跟 自己 过 不 去
+当初 公私帐 不 分 是 奉 党 主席 李登辉 之 命
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to seperate, to divide, to part" group="1">
+<commentary>
+</commentary>
+<examples>
+同 祖国 内地 的 发展 和 支持 分 不 开 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to allot, to distribute (similar to fen-pei)" group="1">
+<commentary>
+</commentary>
+<examples>
+市场 大 饼 百 家 分
+但 福利 分 房 的 老 办法 仍 未 突破
+海参 花枝 和 肉丸 ， 三 分 天下 混 一 团
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="one-tenth, a small amount (of something)" group="1">
+<commentary>
+</commentary>
+<examples>
+用 绞肉 混和 切碎 的 葱 、 姜 、 蒜 等 材料 及 七 分 熟 的 面线 一起 搅拌
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="point, mark (of grades, scores)" group="1">
+<commentary>
+</commentary>
+<examples>
+九十八 分 的 高分
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="unit of Chinese currency" group="1">
+<commentary>
+</commentary>
+<examples>
+一 分 钱 、 五 分 钱 、 十 分 钱 和 两 毛 五 的 硬币 早 被 数 了 个 透
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="minute (of time)" group="1">
+<commentary>
+</commentary>
+<examples>
+多 一 分 少 一 秒 都 是 学问
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="a fraction" group="1">
+<commentary>
+</commentary>
+<examples>
+三分之一 在 盯 着 萤光幕
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="9" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="16" ann_1_2_agreement="0.8125" />
+</inventory>

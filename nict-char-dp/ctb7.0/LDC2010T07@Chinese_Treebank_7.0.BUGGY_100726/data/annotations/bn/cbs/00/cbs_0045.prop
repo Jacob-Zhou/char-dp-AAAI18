@@ -1,0 +1,24 @@
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 0 8 gold 说-v 说.01 ----- 8:0-rel 0:1-ARGM-ADV 1:2-ARG0 6:1-ARGM-TMP 7:1-ARGM-ADV 10:4-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 0 21 gold 举行-v 举行.01 ----- 21:0-rel 10:3-ARG0 17:1-ARGM-TMP 18:1-ARGM-ADV 19:1-ARGM-LOC 22:1-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 0 25 gold 讨论-v 讨论.01 ----- 25:0-rel 10:3-ARG0 17:1-ARGM-TMP 18:1-ARGM-ADV 19:1-ARGM-LOC 26:3-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 0 28 gold 包括-v 包括.01 ----- 28:0-rel 26:1*27:1*37:1-ARG0 29:6-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 1 4 gold 表示-v 表示.01 ----- 4:0-rel 0:1-ARGM-ADV 1:2-ARG0 6:5-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 1 19 gold 设计-v 设计.01 ----- 19:0-rel 6:4-ARG0 17:1-ARGM-TMP 18:1-ARGM-ADV 20:2-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 1 28 gold 进行-v 进行.01 ----- 28:0-rel 23:1-ARG0 25:1-ARGM-MNR 29:1-ARG1 22:0*22:1*24:0*24:1*31:1-ARGM-MNR
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 1 35 gold 方便-v 方便.02 ----- 35:0-rel 6:4-ARG0 17:1-ARGM-TMP 18:1-ARGM-ADV 36:5-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 2 4 gold 表示-v 表示.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-ADV 6:4-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 2 9 gold 推动-v 推动.01 ----- 9:0-rel 6:2-ARG0 8:1-ARGM-ADV 10:2-ARG2
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 2 11 gold 修改-v 修改.01 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 2 19 gold 签署-v 签署.01 ----- 19:0-rel 13:1-ARG0 14:1-ARG0 16:1-ARGM-TMP 12:0*12:1*20:0*20:1*22:1-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 2 34 gold 同意-v 同意.02 ----- 34:0-rel 29:1-ARGM-DIS 30:1-ARG0 31:1-ARGM-TMP 33:1-ARGM-DIS 35:2-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 2 36 gold 修改-v 修改.01 ----- 36:0-rel 35:1-ARG0 37:2-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 3 11 gold 遭到-v 遭到.01 ----- 11:0-rel 5:2-ARG0 8:1-ARGM-LOC 12:1-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 3 20 gold 终了-v 终了.01 ----- 20:0-rel 17:2-ARG0
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 3 28 gold 遭到-v 遭到.01 ----- 28:0-rel 29:1-ARG1 26:0*26:1*27:0*27:1*31:1-ARG0
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 3 34 gold 拥有-v 拥有.01 ----- 34:0-rel 5:4-ARGM-TMP 15:2-ARGM-TMP 22:2-ARG0 33:1-ARGM-ADV 35:1-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 4 18 gold 驻-v 驻.01 ----- 18:0-rel 19:1-ARG1 16:0*16:1*17:0*17:1*20:1-ARG0
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 4 31 gold 轻易-v 轻易.01 ----- 31:0-rel
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 4 33 gold 逃过-v 逃过.01 ----- 33:0-rel 11:1-ARGM-TMP 13:2-ARG0 21:3-ARGM-TMP 30:1-ARGM-DIS 31:2-ARGM-ADV 34:3-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 4 43 gold 引起-v 引起.01 ----- 43:0-rel 0:1-ARGM-DIS 1:2-ARG0 9:1-ARGM-DIS 10:1-ARGM-PRP 44:4-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 4 55 gold 同意-v 同意.02 ----- 55:0-rel 52:1-ARGM-DIS 53:1-ARG0 54:1-ARGM-DIS 56:2-ARG1
+bn/cbs/00/cbs_0045@0045@cbs@bn@ch@on 4 57 gold 修改-v 修改.01 ----- 57:0-rel 56:1-ARG0 58:3-ARG1

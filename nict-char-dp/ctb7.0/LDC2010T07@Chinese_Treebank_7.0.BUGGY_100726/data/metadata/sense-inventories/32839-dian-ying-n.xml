@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="dian-ying,电影-n">
+<commentary></commentary>
+<sense n="1" name="电影, film, movie" group="" type="">
+<commentary>Aseries of moving pictures, often telling a story, usually shown in a theater or on television.</commentary><examples>放电影
+show a film.
+
+拍电影
+shoot a film
+
+我们去看电影，换一下口味。
+Let's see a movie for a change.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="电影， cinema," group="" type="">
+<commentary>The art or business of making movies, or a movie theater.</commentary><examples>去看电影。
+Go to the cinema.
+
+宽银幕电影
+cinerama.
+
+电影放映员
+cinematographer.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

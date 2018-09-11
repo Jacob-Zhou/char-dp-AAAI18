@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 煮饭 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 媳妇))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 煮饭))))) 
+                    
+                </parse>
+                <arg n="0">
+                    媳妇          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

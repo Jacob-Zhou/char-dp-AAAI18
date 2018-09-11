@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="通过-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to pass through" group="1">
+<commentary>VV</commentary>
+<examples>
+火车通过大桥向南奔去。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to achieve the required standard in (an exam etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+她通过了大学入学考试。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to pass, to adopt (legislation, etc.) " group="1">
+<commentary>VV,NN</commentary>
+<examples>
+这提案以压倒性的多数通过。
+这提案以压倒性的多数获得通过。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="through, by way of" group="1">
+<commentary>P</commentary>
+<examples>
+这位法国教授通过翻译同我交谈。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="103" ann_1_2_agreement="0.95145631068" />
+</inventory>

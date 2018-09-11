@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 约谈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 asks to have a talk"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 员警))
+                    (VP (VP (NP-TMP (NT 目前))
+                    (ADVP (AD 已经))
+                    (VP (VV 排除)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VE 有)
+                    (IP (NP-SBJ (NN 人))
+                    (VP (VSB (VV 挟怨)
+                    (VV 报复))))))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (VP (VV 要)
+                    (VP (VV 约谈)
+                    (NP-OBJ (QP (CD 数)
+                    (CLP (M 名)))
+                    (ADJP (JJ 相关))
+                    (NP (NN 人员)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 案)))
+                    (VP (VV 说明)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    员警          
+                </arg>
+                <arg n="m" f="dis">
+                    并且          
+                </arg>
+                <arg n="1">
+                    数 名 相关 人员          
+                </arg>
+                <arg n="2">
+                    到 案 说明          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 检察官))
+                    (VP (VV 约谈)
+                    (AS 了)
+                    (NP-OBJ (QP (CD ５)
+                    (CLP (M 位)))
+                    (NP (NN 高商))))) 
+                    
+                </parse>
+                <arg n="0">
+                    检察官          
+                </arg>
+                <arg n="1">
+                    ５ 位 高商          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

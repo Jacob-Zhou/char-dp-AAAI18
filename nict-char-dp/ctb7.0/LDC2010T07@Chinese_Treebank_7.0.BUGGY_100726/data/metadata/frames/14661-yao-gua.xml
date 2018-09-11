@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 腰挂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VP (VV 手持)
+                    (NP-OBJ (NN 大哥大)))
+                    (PU ，)
+                    (VP (VV 腰挂)
+                    (NP-OBJ (NN ｂｐ机)))))
+                    (DEC 的)))
+                    (NP (NN 人))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 人          
+                </arg>
+                <arg n="1">
+                    ｂｐ机          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

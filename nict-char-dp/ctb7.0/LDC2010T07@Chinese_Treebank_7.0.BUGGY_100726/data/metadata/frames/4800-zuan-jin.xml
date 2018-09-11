@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 钻进 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="place arg0 enters"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (PU “)
+                    (NN 火箭)
+                    (NN 炮)
+                    (PU ”))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 腾空)))
+                    (LC 后))
+                    (VP (VV 钻进)
+                    (AS 了)
+                    (NP-OBJ (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (-NONE- *T*-1))
+                    (VP (VV 存放)
+                    (NP-OBJ (NN 烟火)
+                    (NN 爆竹)))))
+                    (DEC 的)))
+                    (NP (NN 仓库)))))) 
+                </parse>
+                <arg n="0">
+                    “ 火箭 炮 ” 
+                </arg>
+                <arg n="1">
+                    *OP* *pro* *T*-1 存放 烟火 爆竹 的 仓库 
+                </arg>
+                <arg n="m" f="tmp">
+                    *PRO* 腾空 后 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

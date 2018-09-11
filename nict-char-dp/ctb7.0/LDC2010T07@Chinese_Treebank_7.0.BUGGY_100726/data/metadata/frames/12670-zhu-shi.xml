@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 主使 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 is in charge"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 幕后))
+                    (VP (VV 主使))))
+                    (DEC 的)))
+                    (NP-PN (NR 奇贤帮))
+                    (NP (NN 帮主))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 帮主          
+                </arg>
+                <arg n="m" f="adv">
+                    幕后          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

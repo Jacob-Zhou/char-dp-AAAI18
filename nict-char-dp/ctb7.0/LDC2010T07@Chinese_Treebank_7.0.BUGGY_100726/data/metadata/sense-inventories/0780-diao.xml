@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="吊-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to hang, to suspend" group="1">
+<commentary>
+</commentary>
+<examples>
+她 之所以 让 汽车 在 海拔 ２４００ 米 处 来 个 急转身 ， 也许 正 是 为了 留给 你 一定 的 难度 或 “ 险 ” 情 ， 让 你 处于 可 望 而 不 可 即 的 境地 ， 久久 吊 着 你 的 胃口
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

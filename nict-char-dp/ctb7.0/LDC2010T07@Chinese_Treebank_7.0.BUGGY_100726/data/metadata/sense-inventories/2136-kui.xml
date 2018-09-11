@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="亏-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to lose (money, etc.), loss" group="1">
+<commentary>
+</commentary>
+<examples>
+再说 ， 用 大幅 贬值 的 钱 购买 一律 以 美金 计价 的 原料 ， 会 不 会 不敷成本、 越 做 越 亏 ， 乾脆 关厂大吉 ？
+以前 ， 被 他 收拾 的 拳手 舍尔顿 和 布鲁诺 都 吃 了 这 个 亏
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="thanks to, luckily, fortunately" group="1">
+<commentary>
+</commentary>
+<examples>
+这 「 长 痛 不 如 短 痛 」 的 道理 ， 倒 亏 了 马汀娜 来 「 再 教育 」 我们
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

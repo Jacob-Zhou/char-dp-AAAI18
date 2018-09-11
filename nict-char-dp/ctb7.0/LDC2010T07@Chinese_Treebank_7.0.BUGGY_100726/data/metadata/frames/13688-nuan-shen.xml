@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暖身 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme warmed up"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (QP (CD 好几)
+                    (CLP (M 场)))
+                    (DEG 的))
+                    (NP-PN (NR 诺贝尔))
+                    (NP (NN 讲座)))
+                    (VP (PP-BNF (P 为)
+                    (NP (NN 典礼)))
+                    (VP (VV 暖身)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    好几 场 的诺贝尔 讲座          
+                </arg>
+                <arg n="1">
+                    为 典礼          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

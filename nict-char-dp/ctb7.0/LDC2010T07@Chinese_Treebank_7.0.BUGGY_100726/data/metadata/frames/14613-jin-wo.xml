@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 紧握 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme that arg0 holds tightly"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                 
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 拍照)))
+                    (LC 时))
+                    (NP-SBJ (QP (CD 两))
+                    (NP (NN 人)))
+                    (VP (VP (NP-MNR (QP (CD 双))
+                    (NP (NN 手)))
+                    (VP (VV 紧握)
+                    (ADVP (AD 在一起)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    拍照 时          
+                </arg>
+                <arg n="0">
+                    两 人           
+                </arg>
+                <arg n="1">
+                    双 手          
+                </arg>
+                <arg n="m" f="adv">
+                    在一起          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

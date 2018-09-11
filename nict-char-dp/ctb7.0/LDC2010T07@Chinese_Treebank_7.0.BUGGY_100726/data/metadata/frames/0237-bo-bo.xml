@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拨拨 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="instrument"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 再))
+                    (VP (VV 拨拨)
+                    (NP-OBJ (NN 算盘))))))
+                </parse>
+                <arg n="0"> *pro* </arg>
+                <V/>
+                <arg n="1"> 算盘 </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>
+

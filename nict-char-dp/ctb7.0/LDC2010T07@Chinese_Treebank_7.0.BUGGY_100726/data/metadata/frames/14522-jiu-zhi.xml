@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 救治 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken care of"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 伤员))
+                    (VP (ADVP (AD 已))
+                    (VP (VP (VV 送到)
+                    (NP-OBJ (NN 医院)))
+                    (VP (VV 救治))))) 
+                    
+                </parse>
+                <arg n="1">
+                    伤员          
+                </arg>
+                <arg n="m" f="adv">
+                    已          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

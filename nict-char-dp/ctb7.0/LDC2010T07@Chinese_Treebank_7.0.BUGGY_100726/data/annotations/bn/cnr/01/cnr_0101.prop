@@ -1,0 +1,7 @@
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 0 2 gold 播送-v 播送.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 1 1 gold 应-v 应.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 1 20 gold 进行-v 进行.01 ----- 20:0-rel 0:2-ARGM-ADV 7:3-ARG0 12:1-ARGM-ADV 13:1-ARGM-TMP 21:2-ARG1
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 2 11 gold 加强-v 加强.01 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 2 23 gold 关心-v 关心.01 ----- 23:0-rel 21:1-ARG0 22:1-ARGM-ADV 20:1*24:1*26:1-ARG1
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 2 27 gold 交换-v 交换.01 ----- 27:0-rel 0:1-ARGM-TMP 2:3-ARG0 8:1-ARGM-ADV 29:1-ARG1
+bn/cnr/01/cnr_0101@0101@cnr@bn@ch@on 3 3 gold 发表-v 发表.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 4:5-ARG1

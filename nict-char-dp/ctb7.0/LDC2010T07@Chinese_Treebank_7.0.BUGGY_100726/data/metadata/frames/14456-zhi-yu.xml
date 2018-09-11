@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 治愈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <role argnum="2" argrole="illness cured"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-PN-SBJ (NN 海湾)
+                    (NN 战争))
+                    (VP (ADVP (CS 虽然))
+                    (ADVP (AD 已经))
+                    (VP (VV 过去)
+                    (QP-EXT (CD １０)
+                    (CLP (M 年))))))
+                    (PU ，)
+                    (ADVP (AD 但是))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (PN 它))
+                    (VP (PP-BNF (P 给)
+                    (NP (DP (DT 整个))
+                    (NP (NN 海湾)
+                    (NN 地区))))
+                    (VP (VV 带来)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 战争)
+                    (NN 后遗症)))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 并没有))
+                    (VP (VV 治愈)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    海湾战争 虽然 已经 过去 １０ 年           
+                </arg>
+                <arg n="m" f="dis">
+                    但是           
+                </arg>
+                <arg n="2">
+                    它 给 整个 海湾 地区 带来 的 战争 后遗症          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="adv">
+                    并没有          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

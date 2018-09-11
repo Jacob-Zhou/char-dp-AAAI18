@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 开卖 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity sold"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 于是))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VP-FOC (ADVP (AD 才))
+                    (VP (VV 开卖))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    于是          
+                </arg>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

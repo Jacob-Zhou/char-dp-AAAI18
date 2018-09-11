@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 告发 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 reports"/>
+        <role argnum="2" argrole="party arg0 report arg1 to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (NN 违法者))
+                    (VP (SB 被)
+                    (VP (ADVP (AD 连续))
+                    (VP (VV 告发)
+                    (NP-OBJ (-NONE- *-1))))) 
+                    
+                </parse>
+                <arg n="1">
+                    违法者 -> *-1          	  
+                </arg>
+                <arg n="m" f="adv">
+                    连续          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

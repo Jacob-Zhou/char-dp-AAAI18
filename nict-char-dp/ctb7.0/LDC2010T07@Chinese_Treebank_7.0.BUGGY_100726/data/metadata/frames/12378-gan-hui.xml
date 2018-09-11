@@ -1,0 +1,117 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赶回 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <role argnum="2" argrole="origin"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 在下族人))
+                    (VP (ADVP (AD 纷纷))
+                    (PP-DIR (P 由)
+                    (NP (DP (DT 各))
+                    (NP (NN 地))))
+                    (VP (VP (VV 赶回)
+                    (NP-OBJ (NN 故乡))) 
+                    
+                </parse>
+                <arg n="0">
+                    在下族人          	  	  
+                </arg>
+                <arg n="2">
+                    由 各 地          	  	  
+                </arg>
+                <arg n="1">
+                    故乡          	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <role argnum="2" argrole="origin"/>
+        <role argnum="3" argrole="theme driven by arg0"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg3"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 从)
+                    (NP (NT １０月)
+                    (NT ２５号)))
+                    (PP-TMP (P 到)
+                    (NP (DNP (NT １９５１年)
+                    (DEG 的))
+                    (NP (NT ６月))))
+                    (NP-SBJ (NN 自愿军))
+                    (VP (VP (PP-ADV (P 与)
+                    (NP-PN (NR 朝鲜)
+                    (NN 人民军)))
+                    (ADVP (AD 并肩))
+                    (VP (VV 作战)))
+                    (PU ，)
+                    (VP (ADVP (AD 连续))
+                    (VP (VV 发动)
+                    (AS 了)
+                    (NP-OBJ (QP (CD ５)
+                    (CLP (M 次)))
+                    (ADJP (JJ 大规模))
+                    (NP (NN 战役)))))
+                    (PU ，)
+                    (VP (VV 歼敌)
+                    (NP-OBJ (QP (CD ２３万多))
+                    (NP (NN 人))))
+                    (PU ，)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 侵略军))
+                    (VP (PP-DIR (P 从)
+                    (LCP (NP-PN (NR 鸭绿江))
+                    (LC 边)))
+                    (DVP (AD 一直))
+                    (VP (VRD (VV 赶回)
+                    (VV 到))
+                    (NP-OBJ (NN 三八线))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    从 １０月 ２５号	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    到 １９５１年 的 ６月	  	  
+                </arg>
+                <arg n="0">
+                    自愿军        	  	  
+                </arg>
+                <arg n="3">
+                    侵略军    	  	  
+                </arg>
+                <arg n="2">
+                    从 鸭绿江 边  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    一直	  	  
+                </arg>
+                <arg n="1">
+                    三八线	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

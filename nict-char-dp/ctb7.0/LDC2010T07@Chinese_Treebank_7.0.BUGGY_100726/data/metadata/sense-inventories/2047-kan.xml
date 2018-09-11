@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="看-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to depend on" group="1">
+<commentary>
+</commentary>
+<examples>
+根据 双方 商定 的 规则 ， 如果 两 队 以 ７ ： ７ 战平 ， 那么 最后 要 看 中国队 的 聂卫平 和 韩国队
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to look at, to see, to read, to watch" group="1">
+<commentary>
+</commentary>
+<examples>
+那么 赶紧 再 看 一眼 富士 的 顶峰
+但 看 得 出来 ， 她 很 开心
+传销 停 、 看 、 听
+爱 看 连续剧 的 阮金蓉 批评 ， 但 她 阿母 每 天 看 得 一 把 鼻涕 一 把 眼泪 ， 还 说 过去 当 媳妇 的 委屈 与 苦衷 ， 现在 的 年轻 女性 是 不 会 了解 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to think about, to view, to evaluate" group="1">
+<commentary>
+</commentary>
+<examples>
+就 进出口 商品 种类 来 看 ， 机电 产品 在 浦东 新区 进口 货物 中 独占鳌头
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to seem (to be, as in kan-qi-lai)" group="1">
+<commentary>
+</commentary>
+<examples>
+留 台 校友 因为 回来 得 早 ， 进入 政府 机构 也 较 早 ， 看 起来 晋升 的 也 比较 快
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to take care of, to look after (a baby, house, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to visit, to call on (friends, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+年长 的 阿公 阿妈 聚 在一起 ， 谈 的 是 去 日本 赏 雪 、 去 美国 看 乖孙
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to diagnosis, to treat (a patient, illness, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+台北县市 的 学童 不 一定 都 记得 他 的 名字 ， 但 许多 学生 都 曾经 被 他 「 看 」 过 肾脏
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="283" ann_1_2_agreement="0.756183745583" />
+</inventory>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 压减 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing reduced"/>
+        <role argnum="2" argrole="amount reduced"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 今年))
+                    (NP-SBJ (NP (DP (DT 全))
+                    (NP (NN 国)))
+                    (NP (NN 煤炭)
+                    (NN 产量)))
+                    (VP (VP (VV 控制)
+                    (PP (P 在)
+                    (QP (CD ９５０００万)
+                    (CLP (M 吨)))))
+                    (PU ，)
+                    (VP (PP-ADV (P 比)
+                    (NP (NT １９９７年)))
+                    (VP (VV 压减)
+                    (QP-EXT (ADVP (AD 近))
+                    (QP (CD ４亿)
+                    (CLP (M 吨)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    今年          
+                </arg>
+                <arg n="1">
+                    全 国 煤炭产量          
+                </arg>
+                <arg n="m" f="adv">
+                    比 １９９７年          
+                </arg>
+                <arg n="2">
+                    近 ４亿 吨          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

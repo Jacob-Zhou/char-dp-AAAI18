@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="说话-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to express, indicate (emotion, etc.) through
+nonverbal means" group="1">
+<commentary>
+</commentary>
+<examples>
+维吾尔族 、 朝鲜族 、 蒙古族 等 民族 的 舞蹈 “ 原来 是 会 说话 的 ”
+让 古物 说话
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to talk, to speak" group="1">
+<commentary>
+</commentary>
+<examples>
+说话 的 人 是 东莞 东聚 电业 的 董事长 叶宏灯
+有的 说话 外貌 都 酷似 大陆 小孩
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to communicate, to negotiate" group="1">
+<commentary>
+</commentary>
+<examples>
+沟通 桥梁 好 说话
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to express opinions on issues" group="1">
+<commentary>
+</commentary>
+<examples>
+大隘 社讯 提供 北埔人 一 个 「 说话 」 的 机会
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="18" ann_1_2_agreement="0.944444444444" />
+</inventory>

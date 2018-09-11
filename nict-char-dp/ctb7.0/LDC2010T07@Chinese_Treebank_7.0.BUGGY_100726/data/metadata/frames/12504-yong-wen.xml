@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拥吻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 可))
+                    (PP-PRP (P 为了)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 见证)
+                    (NP-OBJ (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (ADJP (JJ 新))
+                    (NP (NT 千禧年)))
+                    (VP (PP-TMP (-NONE- *T*-2))
+                    (VP (VV 跨)
+                    (NP-OBJ (NN 世纪)))))
+                    (DEC 的)))
+                    (NP (NN 一刻))))))
+                    (NP-SBJ (NN 新郎)
+                    (PU 、)
+                    (NN 新娘))
+                    (VP (VP-FOC (VV 拥吻)
+                    (QP-EXT (CD ２００)
+                    (CLP (M 秒)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    可          
+                </arg>
+                <arg n="m" f="prp">
+                    为了 见证  千禧年 跨 世纪 的 一刻          
+                </arg>
+                <arg n="0">
+                    新郎 、 新娘          
+                </arg>
+                <arg n="m" f="ext">
+                    ２００ 秒          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

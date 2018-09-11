@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暗去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 灯光))
+                    (VP (DVP (ADVP (AD 渐渐))
+                    (DEV 的))
+                    (VP (VV 暗去))))) 
+                    
+                </parse>
+                <arg n="0">
+                    灯光          
+                </arg>
+                <arg n="m" f="adv">
+                    渐渐 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 谋划 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing planned"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 朝思暮想))
+                    (VP (VCD (VV 谋划)
+                    (VV 建立))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 支)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-ADV (P 与)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 打赢)
+                    (NP-OBJ (NP (NT 未来))
+                    (NP (NN 战争))))))
+                    (VP (ADVP (AD 相))
+                    (VP (VV 适应)))))
+                    (DEC 的)))
+                    (NP (NN 军事)
+                    (NN 指挥)
+                    (NN 人才))
+                    (NP (NN 部队)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    一 支 与 打赢 未来 战争 相 适应 的 军事 指挥 人才 部队          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

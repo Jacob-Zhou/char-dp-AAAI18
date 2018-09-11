@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 措辞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity talked to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (-NONE- *T*-1))
+                    (PP-DIR (P 对)
+                    (NP (PN 我)
+                    (NN 国)))
+                    (VP-FOC (VV 措辞))
+                    (VP (ADVP (AD 不))
+                    (VP (VA 友善)))))
+                    (DEC 的)))
+                    (NP (NN 新闻稿)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="loc">
+                    *T*-1 -> 新闻稿          
+                </arg>
+                <arg n="1">
+                    对 我 国          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 问话 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="intrrogator"/>
+        <role argnum="1" argrole="intrrogatee"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (NT 星期五))
+                    (PP-LOC (P 在)
+                    (NP (DNP (NP-PN (NR 巴拿马城))
+                    (DEG 的))
+                    (QP (CD 一)
+                    (CLP (M 家)))
+                    (NP (NN 旅馆))))
+                    (VP (VV 发现)
+                    (AS 了)
+                    (NP-OBJ (DP (DT 这)
+                    (QP (CD ４)
+                    (CLP (M 名))))
+                    (NP (NN 男子))))))
+                    (LC 之后))
+                    (PU ，)
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-1 (PN 他们))
+                    (VP (VP (VV 拘留)
+                    (NP-OBJ (-NONE- *-1)))
+                    (VP (VV 问话))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们           
+                </arg>
+                <arg n="m" f="tmp">
+                    星期五在 巴拿马城 的 一 家 旅馆 发现 了 这 ４ 名 男子 之后          
+                </arg>
+                <arg n="1">
+                    他们          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

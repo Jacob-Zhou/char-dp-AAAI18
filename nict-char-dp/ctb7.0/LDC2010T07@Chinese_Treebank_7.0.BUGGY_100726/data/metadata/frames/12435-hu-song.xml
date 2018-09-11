@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 护送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 escorts"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (NN 病痛))
+                    (VP (VV 减轻)))
+                    (LC 后))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 梁)
+                    (NN 局长))
+                    (VP (ADVP (AD 又))
+                    (VP (VV 护送)
+                    (NP-PN-OBJ (NR 葭)
+                    (NN 总))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 踏上)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 开往)
+                    (NP-OBJ (NP-PN (NR 酒泉))
+                    (NP (NN 工地)))))
+                    (DEC 的)))
+                    (NP (NN 列车)))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    病痛 减轻 后          
+                </arg>
+                <arg n="0">
+                    梁局长          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="1">
+                    葭 总          
+                </arg>
+                <arg n="2">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

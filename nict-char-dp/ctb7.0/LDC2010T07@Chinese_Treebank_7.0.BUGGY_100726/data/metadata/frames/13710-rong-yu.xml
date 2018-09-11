@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 荣于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people described"/>
+        <role argnum="1" argrole="responsibility"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT 去年))
+                    (VP (VV 制作)
+                    (NP-OBJ (NP (QP (CD 九))
+                    (NP (NN 龙)))
+                    (NP (NN 灯))))))
+                    (DEC 的)))
+                    (NP-PN (NR 陈金成)
+                    (NN 师傅)))
+                    (VP (NP-TMP (NT 今年))
+                    (ADVP (AD 依旧))
+                    (VP (VV 荣于)
+                    (NP-OBJ (NN 重任)))) 
+                    
+                </parse>
+                <arg n="0">
+                    去年 制作 九 龙 灯 的 陈金成 师傅          
+                </arg>
+                <arg n="m" f="tmp">
+                    今年          
+                </arg>
+                <arg n="m" f="adv">
+                    依旧           
+                </arg>
+                <arg n="1">
+                    重任          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

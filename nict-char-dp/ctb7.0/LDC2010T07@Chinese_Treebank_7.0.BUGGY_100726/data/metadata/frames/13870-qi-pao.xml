@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起跑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="race"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 已经))
+                    (ADVP (AD 延续))
+                    (VP (VV 举办)
+                    (NP-OBJ (-NONE- *T*-1))
+                    (QP-EXT (CD １９)
+                    (CLP (M 届))))))
+                    (DEC 的)))
+                    (NP (NN 初跑杯)
+                    (NN 陆跑赛)))
+                    (VP (NP-TMP (NT 上午))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 台中市)
+                    (NR 明乡)))
+                    (VP (VV 起跑)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而           
+                </arg>
+                <arg n="1">
+                    已经延续 举办 １９ 届 的 初跑杯 陆跑赛          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <arg n="m" f="loc">
+                    在 台中市 明乡          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

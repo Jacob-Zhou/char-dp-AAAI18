@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 炸开 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="location"/>
+        <role argnum="2" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 一)
+                    (CLP (M 条))))
+                    (ADJP (JJ 小))
+                    (NP (NN 船)))
+                    (VP (VP (VV 满载)
+                    (AS 着)
+                    (NP-OBJ (ADJP (JJ 高能))
+                    (NP (VV 炸药))))
+                    (VP (VV 靠近)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 停泊)
+                    (PP (P 在)
+                    (NP-PN (NR 亚丁湾)))))
+                    (DEC 的)))
+                    (NP (NN 驱逐舰))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (PP-LOC (P 在)
+                    (LCP (NP (NN 船身))
+                    (LC 上)))
+                    (VP (VV 炸开)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (ADJP (JJ 大))
+                    (NP (NN 洞))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 一条 小船          
+                </arg>
+                <arg n="m" f="dis">
+                    并且           
+                </arg>
+                <arg n="1">
+                    在 船身 上          
+                </arg>
+                <arg n="2">
+                    一 个 大 洞          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

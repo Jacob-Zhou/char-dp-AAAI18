@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="一样-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="the same" group="1">
+<commentary>
+</commentary>
+<examples>
+和 许多 民营 科技 企业 一样
+每 个 地区 发生 地震 以后 的 灾区 情况 不 一样
+经过 一 段 时期 的 “ 投石问路 ” ， 越来越 多 的 外商 象 美国 百时美 施贵宝 公司 一样 ， 看好 上海 的 投资 环境 和 市场 潜力 ， 纷纷 追加 投资 扩大 再生产 ，并 逐步 把 上海 建成 其 在 中国 甚至 亚太 地区 的 经营 、 销售 中心
+他 的 表情 还 是 一样 的 紧绷 ， 没有 一 丝 笑容
+只要 好好 的 努力 一样 会 有 自己 的 一 片 天
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

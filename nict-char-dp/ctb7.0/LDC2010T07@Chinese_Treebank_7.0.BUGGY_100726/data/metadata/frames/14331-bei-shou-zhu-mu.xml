@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 备受瞩目 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-ADV (P 除了)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 召开)
+                    (NP-OBJ (NN 财经)
+                    (NN 会谈))))
+                    (LC 之外)))
+                    (PU ，)
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-PN-SBJ (NN 经济部))
+                    (VP (VV 作出)
+                    (NP-OBJ (CP-APP (IP (NP-SBJ (NN 替代)
+                    (NN 方案))
+                    (VP (VV 代替)
+                    (IP-OBJ (NP-SBJ (NN 核试))
+                    (VP (VV 新建)))))
+                    (DEC 的))
+                    (NP (NN 建议)))))
+                    (LC 之后)))
+                    (PU ，)
+                    (NP-SBJ (DNP (NP-PN (NN 行政院))
+                    (DEG 的))
+                    (NP (NN 动态)))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 备受瞩目)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    除 召开 财经 会谈 之外          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 经济部 作出替代 方案 代替 核试 新建 的 建议 之后          
+                </arg>
+                <arg n="0">
+                    行政院 的 动态          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 敲打 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing struck"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (DP (DT 这))
+                    (NP (NN 时候)))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 面朝)
+                    (NP-PN-OBJ (NR 深水路))))
+                    (DEC 的)))
+                    (NP (NN 帮凶)))
+                    (PU ，)
+                    (VP (VP (VV 要求)
+                    (NP-OBJ (NN 被害人))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 帮忙)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 丢)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 包)))
+                    (NP (NN 水泥))))))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (PP-MNR (P 趁)
+                    (LCP (IP (NP-SBJ (NN 被害人))
+                    (VP (VV 不备)))
+                    (LC 时)))
+                    (VP (VP (VV 拿出)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 事先))
+                    (VP (VRD (VV 准备)
+                    (VA 好))
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (NP (NN 铁锤))))
+                    (VP (VV 敲打)
+                    (NP-OBJ (DNP (NP (NN 被害人))
+                    (DEG 的))
+                    (NP (NN 头部)))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    这 时候          
+                </arg>
+                <arg n="0">
+                    面朝 深水路 的 帮凶          
+                </arg>
+                <arg n="m" f="dis">
+                    并且          
+                </arg>
+                <arg n="m" f="tmp">
+                    趁 被害人 不备 时          
+                </arg>
+                <arg n="1">
+                    被害人 的 头部          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

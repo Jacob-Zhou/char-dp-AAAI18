@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 减除 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme substracted"/>
+        <role argnum="2" argrole="substracted from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 减除)
+                    (NP-OBJ (NP (PN 他))
+                    (PP (P 在)
+                    (NP (NP-PN (NR 远东)
+                    (CC 和)
+                    (NR 西伯利亚))
+                    (NP (NN 地区))))
+                    (DNP (QP (CD ２０％))
+                    (DEG 的))
+                    (NP (NN 兵力)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    他 在 远东 和 西伯利亚 地区 ２０％ 的 兵力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

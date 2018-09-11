@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="铁-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to harden, hard as iron (both literal or figurative)" group="1">
+<commentary>
+</commentary>
+<examples>
+於是 当 昔日 美洲 中国 时报 的 同事 赵怡 要 创办 环球 电视 ， 我 是 铁 了 心 ，换 跑道 只是 要 圆 一 个 梦
+有 “ 铁 姑娘 ” 之 称 的 郭凤莲 重返 了 大寨
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="iron" group="1">
+<commentary>
+</commentary>
+<examples>
+盐 、 铁 国营 会 不 会 造成 「 与 民 争利 」 ？
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

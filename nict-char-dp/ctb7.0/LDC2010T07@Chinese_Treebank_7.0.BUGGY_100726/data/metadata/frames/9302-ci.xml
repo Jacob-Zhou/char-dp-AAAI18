@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 慈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (PP-ADV (P 像)
+                    (IP (IP (NP-SBJ (NN 父))
+                    (VP (VA 慈)))
+                    (PU 、)
+                    (IP (NP-SBJ (NN 子))
+                    (VP (VV 孝)))
+                    (PU 、)
+                    (IP (NP-SBJ (NN 君))
+                    (VP (VA 仁)))
+                    (PU 、)
+                    (IP (NP-SBJ (NN 臣))
+                    (VP (VA 忠)))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 各))
+                    (VP (VE 有)
+                    (NP-OBJ (DNP (DP (DT 各))
+                    (DEG 的))
+                    (NP (NN 角色)))))) 
+                </parse>
+                <arg n="0">
+                    父 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

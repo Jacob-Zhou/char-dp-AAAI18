@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="急-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="urgent" group="1">
+<commentary>
+describes an event. what if the word is used as an adverb? not sure if
+different POS will need different senses
+</commentary>
+<examples>
+万事 莫 如 重建 急
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be eager to come to an aid of" group="1">
+<commentary>
+</commentary>
+<examples>
+越 在 这 行 待久 了 ， 越 觉得 凡 事 急 不 得
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="rapid" group="2">
+<commentary>
+to describe the speed of the flow or movement
+</commentary>
+<examples>
+水 急
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to be agitated" group="1">
+<commentary>
+</commentary>
+<examples>
+只 能 急 得 跳脚
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="being impatient" group="1">
+<commentary>
+</commentary>
+<examples>
+结果 越 急 越 睡 不 着
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

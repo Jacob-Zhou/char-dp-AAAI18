@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 故技重施 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 昨天)
+                    (NT 深夜))
+                    (NP-SBJ (NP-APP (NN 嫌犯))
+                    (NP-PN (NR 温采福)))
+                    (VP (ADVP (AD 又))
+                    (VP (VP (VV 故技重施)) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    昨天 深夜          
+                </arg>
+                <arg n="0">
+                    嫌犯 温采福          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

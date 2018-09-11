@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="带来-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="bring along an abstract entity" group="1">
+<commentary>
+</commentary>
+<examples>
+全球 经济 发展 将 给 中国 带来 很多 机遇
+上海 高温 带来 春 秋季 花木 异常 开 花 奇
+尚神 台风 对 台北市 许多 地区 带来 了 严重 的 水患
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="carry to, bring to" group="1"><commentary>
+</commentary>
+<examples>
+直 到 一九九二年 七月 她 考完 高中 联考 的 第二 天 ， 我 把 她 带来 纽西兰
+他们 无法 从 原居地 移民 时 一齐 带来 的 果蔬 食物
+商人 由 丝 路 带来 西域 各 国 农产
+那些 上京 赶考 的 书生 或是 任官 届满 的 人们 ， 带来 了 四川 的 锦缎
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="190" ann_1_2_agreement="0.8" />
+</inventory>

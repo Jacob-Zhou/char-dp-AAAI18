@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 称之为 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="name"/>
+        <role argnum="2" argrole="name receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="io" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (PN 他们))
+                    (VP (VV 称之为)
+                    (PU ‘)
+                    (NP-IO (-NONE- *T*-1))
+                    (NP-OBJ (NN 马拉松)
+                    (NN 谈判)
+                    (PU ’))))
+                    (DEC 的)))
+                    (QP (OD 第一)
+                    (CLP (M 天)))
+                    (NP (NN 会谈)))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="1">
+                    马拉松 谈判          
+                </arg>
+                <arg n="2">
+                    *T*-1 -> 第一 天 会谈          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

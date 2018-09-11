@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 迎宾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-TMP (P 在)
+                    (NP (NT 晚间)
+                    (NT ８点)))
+                    (PP-LGS (P 由)
+                    (NP-PN (NR 金正日)))
+                    (ADVP (AD 亲自))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 百花院)))
+                    (VP (VCD (VV 迎宾)
+                    (VV 宴客)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    在晚间 ８点          
+                </arg>
+                <arg n="0">
+                    由 金正日          
+                </arg>
+                <arg n="m" f="adv">
+                    亲自          
+                </arg>
+                <arg n="m" f="loc">
+                    在 百花院          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

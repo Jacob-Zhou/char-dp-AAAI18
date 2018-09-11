@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="修改-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to revise (e.g. the law, a treaty, a constitution)" group="1">
+<commentary>
+</commentary>
+<examples>
+法国 反对 修改 联合国 宪章
+在 这 期间 ， 全 国 人大 常委会 先后 审议 了 五 次 ， 并 广泛 征求 意见 ， 多 次 反复 修改
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to modify" group="1">
+<commentary>
+</commentary>
+<examples>
+在 ２０００年 将 其 电器 产品 的 平均 能耗 标准 由 比 １９９５年 降低 百分之三十 修改 为 降低 百分之五十
+资讯 系统 的 修改 、 升级
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="revision, modification, change, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+资讯 系统 的 修改 、 升级
+根据 工业局 二月 间 针对 五千多 家 重点 厂商 的 调查 ， 在 近 四千 份 回函 中
+， 约 有 百分之十九 表示  自己 没有 Ｙ２Ｋ 问题 ， 百分之十七 仍 在 拟定 计画
+中 ， 其余 的 则 已  分别 进入 清查 、 修改 、 修改 后 的 测试 阶段 ， 表示 已
+完成 Ｙ２Ｋ  因应 的 比例 ， 则 是 百分之九 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="40" ann_1_2_agreement="0.9" />
+</inventory>

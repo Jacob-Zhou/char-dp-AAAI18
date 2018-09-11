@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 擦撞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 cratches and hits"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-4 (-NONE- *OP*))
+                    (IP (NP-SBJ-7 (-NONE- *T*-4))
+                    (VP (SB 被)
+                    (VP (VV 擦撞)
+                    (NP-OBJ (-NONE- *-7))))))
+                    (DP (DT 那)
+                    (CLP (M 部)))
+                    (NP (NN 机车))) 
+                    
+                </parse>
+                <arg n="1">
+                    那 部 机车 -> *-7          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 辆)))
+                    (NP (NN 计程车)))
+                    (VP (PP-ADV (P 和)
+                    (NP (NN 机车)))
+                    (VP (VV 擦撞)))) 
+                    
+                </parse>
+                <arg n="1">
+                    一 辆 计程车          	  
+                </arg>
+                <arg n="1" f="crd">
+                    和 机车          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

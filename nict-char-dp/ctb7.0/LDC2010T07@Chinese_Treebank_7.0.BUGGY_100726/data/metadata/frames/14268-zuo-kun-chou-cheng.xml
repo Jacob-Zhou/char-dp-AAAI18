@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 坐困愁城 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 目前))
+                    (NP-SBJ (NN 家属))
+                    (VP (VP (PP-PRP (P 因为)
+                    (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 轻生)))
+                    (DEC 的))
+                    (NP (NN 问题))))
+                    (VP (VP (VE 没有)
+                    (NP-OBJ (NN 办法)))
+                    (VP (VP (VV 前往)
+                    (NP-PN-OBJ (NR 马来西亚)))
+                    (VP (VV 处理)
+                    (NP-OBJ (NN 后事))))))
+                    (PU ，)
+                    (VP (ADVP (AD 所以))
+                    (ADVP (AD 只))
+                    (VP (VV 能够)
+                    (VP (VV 坐困愁城)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <arg n="0">
+                    家属          
+                </arg>
+                <arg n="m" f="dis">
+                    所以          
+                </arg>
+                <arg n="m" f="adv">
+                    只          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 泪洒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/experiencer"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NP-APP (ADJP (JJ 前))
+                    (NP (NN 新闻)
+                    (NN 局长)))
+                    (NP-PN (NR 钟晴)))
+                    (VP (NP-TMP (NT 今天))
+                    (VP (VC 是)
+                    (VP (VV 泪洒)
+                    (NP-OBJ (NN 会场))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    前 新闻 局长 钟晴          
+                </arg>
+                <arg n="m" f="tmp">
+                    今天          
+                </arg>
+                <arg n="1">
+                    会场          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

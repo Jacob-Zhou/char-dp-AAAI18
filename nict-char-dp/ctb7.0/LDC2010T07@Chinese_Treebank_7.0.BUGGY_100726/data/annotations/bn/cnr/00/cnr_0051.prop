@@ -1,0 +1,11 @@
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 0 5 gold 报道-v 报道.01 ----- 5:0-rel 0:3-ARG0 7:3-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 0 16 gold 举行-v 举行.01 ----- 16:0-rel 7:2-ARG1 13:1-ARGM-TMP 14:1-ARGM-LOC
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 1 22 gold 出席-v 出席.01 ----- 22:0-rel 0:6-ARG0 23:1-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 1 25 gold 讲话-v 讲话.01 ----- 25:0-rel 0:6-ARG0
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 1 33 gold 出席-v 出席.01 ----- 33:0-rel 27:4-ARG0 34:1-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 2 5 gold 肯定-v 肯定.01 ----- 5:0-rel 0:1-ARG0 1:1-ARGM-LOC 4:1-ARGM-ADV 7:3-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 2 18 gold 改革-v 改革.01 ----- 18:0-rel 17:1-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 2 19 gold 开放-v 开放.01 ----- 19:0-rel 17:1-ARG0
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 2 21 gold 取得-v 取得.01 ----- 21:0-rel 8:2-ARG2 12:2-ARGM-TMP 16:2-ARGM-TMP 22:0*22:1*25:1*7:0*7:1-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 2 27 gold 提出-v 提出.01 ----- 27:0-rel 0:1-ARG0 1:1-ARGM-LOC 29:4-ARG1
+bn/cnr/00/cnr_0051@0051@cnr@bn@ch@on 3 12 gold 受到-v 受到.01 ----- 12:0-rel 0:1-ARGM-LOC 1:3-ARG0 13:1-ARG1

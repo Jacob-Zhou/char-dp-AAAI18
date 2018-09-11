@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 下线 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-PN-SBJ (NR 天津)
+                    (NN 汽车)
+                    (NN 集团)
+                    (NN 公司))
+                    (VP (VV 引进)
+                    (NP-OBJ (NP-PN (NR 日本)
+                    (NR 丰田)
+                    (NN 汽车)
+                    (NN 公司))
+                    (NP (NP (ADJP (JJ 最新))
+                    (NP (NN 车型)))
+                    (CC 和)
+                    (NP (ADJP (JJ 先进))
+                    (NP (NN 生产)
+                    (NN 技术)))))))
+                    (DEC 的)))
+                    (PU “)
+                    (NP-PN (NR 夏利))
+                    (NP (NT ２０００))
+                    (PU ”)
+                    (NP (ADJP (JJ 新))
+                    (NP (M 款)))
+                    (NP (NN 轿车)))
+                    (PU ，)
+                    (VP (NP-TMP (NT 昨天))
+                    (ADJP (AD 正式))
+                    (NP (VV 下线))) 
+                    
+                </parse>
+                <arg n="0">
+                    天津 汽车 集团 公司 引进 日本 丰田 汽车 公司 最新 车型 和 先进 生产 技术 的 “ 夏利 ２０００ ” 新 款 轿车          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天          
+                </arg>
+                <arg n="m" f="adv">
+                    正式          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

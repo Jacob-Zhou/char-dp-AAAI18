@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 咬掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (PP-LOC (P 在)
+                    (NP (NN 车上)))
+                    (VP (VV 欧打)
+                    (NP-OBJ (PN 她))))
+                    (PU ，)
+                    (VP (ADVP (AD 还))
+                    (VP (VV 咬掉)
+                    (NP-OBJ (DNP (NP (PN 她)
+                    (NN 身上))
+                    (DEG 的))
+                    (QP (CD 一)
+                    (CLP (M 块)))
+                    (NP (NN 肉))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="1">
+                    她 身上 的 一 块 肉          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

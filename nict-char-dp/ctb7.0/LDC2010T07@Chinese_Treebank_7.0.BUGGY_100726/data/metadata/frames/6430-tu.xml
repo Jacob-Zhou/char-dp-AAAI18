@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吐 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 spits out"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 海))
+                    (VP (VV 吐)
+                    (NP-OBJ (NN 腥)))) 
+                </parse>
+                <arg n="0">
+                    海 
+                </arg>
+                <arg n="1">
+                    腥 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

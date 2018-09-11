@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="逼-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to approach" group="1">
+<commentary>
+</commentary>
+<examples>
+反政府 武装 从 刚果 （ 金 ） 东 、 西 两 路 直 逼 首都 金沙萨
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to force, to compel (someone to do something)" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 性格 比较 「 鸡婆 」 ， 就 会 被 逼 得 去 管 很多 事
+逼 得 中上游 不得不 来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

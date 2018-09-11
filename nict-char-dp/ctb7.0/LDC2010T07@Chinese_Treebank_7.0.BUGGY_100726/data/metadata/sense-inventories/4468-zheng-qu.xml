@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="争取-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to obtain something (usually one entity)" group="1">
+<commentary>
+</commentary>
+<examples>
+它 竭力 发挥 东西欧 间 的 “ 桥梁 作用 ” ， 参与 联合国 旗帜 下 的 维护 “ 和平 使命 ” ， 争取 联合国 安理会 常任 理事国 的 席位
+我们 可以 藉着 网路 来 争取 国际 正义 人士 的 支援
+争取 权益 时 须 六亲不认
+冷战 后 美国 国防 开支 日减 ， 军工 企业 的 规模 和 实力 是 争取 到 有限 的 政府 武器 采购 合同 所 必备 的 条件 之一
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to make strenuous efforts toward any goal" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 政府 决定 在 九十年代 加速 发展 并 争取 用 二十 年 时间 基本 实现 现代化
+据悉 ， 深圳 方面 也 正在 创造 条件 ， 争取 香港 的 中国 概念股 在 深交所 挂牌
+这 个 省 今年 计划 扩大 招商 引资 ， 并 推出 二百 个 对 外 引资 项目 ， 争取 全
+年 利用 外资 突破 十亿 美元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="99" ann_1_2_agreement="0.787878787879" />
+</inventory>

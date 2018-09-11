@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="yin, 音-n">
+<commentary></commentary>
+<sense n="1" name="音, sound" group="" type="">
+<commentary>Something heard or that may be heard.</commentary><examples>乐音
+musical sound
+
+他们听到头顶的飞机声音。
+They could hear the sound of an airplane over head.
+
+音响效果
+sound effects.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="音， 音讯， 消息， welcome news, news" group="" type="">
+<commentary>音， 音讯， 消息， welcome news, news.</commentary><examples>佳音
+welcome news.
+
+坏消息
+bad news
+
+他们在等待消息。
+They are waiting for the news.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="音, 音质， tone, tune," group="" type="">
+<commentary>音, 音质， tone, tune,</commentary><examples>纯音
+pure tone
+
+复音
+complex tone
+
+这架钢琴的音不准。
+The piano is out of tune.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

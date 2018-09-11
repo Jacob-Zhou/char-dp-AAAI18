@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 送礼 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="giver"/>
+        <role argnum="1" argrole="receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 申办)
+                    (NN 城市))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 准)
+                    (VP (VP (VV 邀请)
+                    (NP-OBJ (NN 委员))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 访问))))
+                    (CC 跟)
+                    (VP (VV 送礼))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    申办 城市          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

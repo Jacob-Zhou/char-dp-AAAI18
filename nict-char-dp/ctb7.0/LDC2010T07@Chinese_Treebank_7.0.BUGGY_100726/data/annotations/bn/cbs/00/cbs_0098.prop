@@ -1,0 +1,43 @@
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 0 6 gold 度过-v 度过.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 0 11 gold 坚称-v 坚称.01 ----- 11:0-rel 0:3-ARG0 3:1-ARGM-TMP 10:1-ARGM-TMP 13:4-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 0 19 gold 获得-v 获得.01 ----- 19:0-rel 13:3-ARG0 17:1-ARGM-ADV 18:1-ARGM-ADV 21:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 1 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 1 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 1 8 gold 继续-v 继续.01 ----- 8:0-rel 6:1-ARG0 12:1*5:1*7:1-ARGM-TMP 9:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 1 9 gold 推动-v 推动.02 ----- 9:0-rel 6:1-ARG0 12:1*5:1*7:1-ARGM-TMP 10:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 4 gold 否决-v 否决.01 ----- 4:0-rel 2:1-ARG0 5:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 7 gold 提出-v 提出.01 ----- 7:0-rel 6:1-ARG0 10:1*5:1*8:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 11 gold 表示-v 表示.01 ----- 11:0-rel 0:1-ARG0 1:1-ARG2 12:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 15 gold 说-v 说.01 ----- 15:0-rel 14:1-ARG0 17:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 19 gold 获得-v 获得.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 20:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 25 gold 是-v 是.01 ----- 25:0-rel
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 26 gold 谦卑-v 谦卑.01 ----- 26:0-rel 24:1-ARG0
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 28 gold 是-v 是.01 ----- 28:0-rel
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 2 29 gold 充满-v 充满.01 ----- 29:0-rel 24:1-ARG0 30:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 3 1 gold 告诉-v 告诉.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG2 3:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 3 8 gold 领导-v 领导.01 ----- 8:0-rel 3:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV 6:2-ARGM-ADV 9:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 3 19 gold 有-v 有.05 ----- 19:0-rel 12:1-ARGM-TMP 18:1-ARG0 20:4-ARGM-ADV
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 3 23 gold 必须-v 必须.01 ----- 23:0-rel
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 3 24 gold 要-v 要.07 ----- 24:0-rel 20:3-ARG0 25:1-ARGM-ADV
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 3 25 gold 处理-v 处理.01 ----- 25:0-rel 20:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 3 gold 表示-v 表示.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 7 gold 获得-v 获得.01 ----- 7:0-rel 4:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 9:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 15 gold 严厉-v 严厉.01 ----- 15:0-rel
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 17 gold 提醒-v 提醒.01 ----- 17:0-rel 0:1-ARGM-DIS 1:2-ARGM-ADV 11:3-ARG0 14:1-ARGM-ADV 15:2-ARGM-ADV 18:1-ARG1 20:3-ARG2
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 21 gold 否决-v 否决.01 ----- 21:0-rel 20:1-ARG0 22:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 24 gold 意味-v 意味.01 ----- 24:0-rel 20:1-ARG0 21:1-ARG0 23:1-ARGM-ADV 25:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 4 26 gold 认可-v 认可.01 ----- 26:0-rel 25:1-ARG0 27:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 5 9 gold 会晤-v 会晤.01 ----- 9:0-rel 8:1-ARG0 10:5-ARG0
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 5 18 gold 说-v 说.01 ----- 18:0-rel 6:1-ARG0 7:1-ARGM-TMP 19:0*21:1*5:0-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 5 24 gold 否决-v 否决.01 ----- 24:0-rel 23:1-ARG0 25:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 5 31 gold 是-v 是.01 ----- 31:0-rel
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 5 32 gold 表示-v 表示.02 ----- 32:0-rel 23:2-ARG0 30:1-ARGM-ADV 33:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 5 35 gold 认可-v 认可.01 ----- 35:0-rel 33:1-ARG0 34:1-ARGM-ADV 36:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 6 gold 面临-v 面临.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 11 gold 需要-v 需要.01 ----- 11:0-rel 3:1-ARG0 4:1-ARGM-TMP 12:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 16 gold 稳定-v 稳定.01 ----- 16:0-rel 14:0*14:1*15:0*15:1*18:1-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 22 gold 包括-v 包括.01 ----- 22:0-rel 20:2-ARG0 24:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 32 gold 给予-v 给予.01 ----- 32:0-rel 31:1-ARG0 33:3-ARG2 40:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 35 gold 有-v 有.01 ----- 35:0-rel 33:1*34:1-ARG0 36:2-ARG1
+bn/cbs/00/cbs_0098@0098@cbs@bn@ch@on 6 45 gold 有-v 有.01 ----- 45:0-rel 40:1-ARG0 41:1-ARGM-LOC 46:1-ARG1

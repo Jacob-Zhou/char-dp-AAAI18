@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="排-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to rank, to rate, to classify" group="1">
+<commentary>
+</commentary>
+<examples>
+维・威廉斯 、 塞・威廉斯 姊妹 和 库尔尼科娃 目前 分别 排 世界 第五 、 第二十 和 第十三 位
+广东 的 科技 综合 实力 排 在 上海 、 北京 之后 居 全 国 第三 位
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to discharge, to dispel" group="1">
+<commentary>
+</commentary>
+<examples>
+每 年 向 太湖 减少 排 磷 一千六百多 吨
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to arrange, to put in order, to line up" group="1">
+<commentary>
+</commentary>
+<examples>
+为了 配合 在职生 白天 要 工作 的 行程 ， 多 所 大学 开设 的 企管 课程 都 排 在 晚上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to eliminate, to exclude, to banish" group="1">
+<commentary>
+</commentary>
+<examples>
+行政院 也 将 选罢法 修正 条文 的 「 排 黑 」 条款 送交 立法院
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="classifier for things in a row" group="1">
+<commentary>
+</commentary>
+<examples>
+一 辆 由 巢湖 至 蚌埠 的 中巴车 自 北 向 南 行驶 ， 在 距 合肥 约 六十五 公里 的 定远县 连江镇 中心村 ， 与 一 辆 双 排 座 客 货 两 用 车 相撞
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to rehearse" group="1">
+<commentary>
+</commentary>
+<examples>
+今年 ， 卓明 更 打算 不 带 学生 排 什么 剧本
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="a row, a line" group="1">
+<commentary>
+</commentary>
+<examples>
+两 排 矗立 着 数十 户 透天 商家 ， 这 就 是 滨海 小 镇 的 闹区 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="5" ann_1_2_agreement="0.8" />
+</inventory>

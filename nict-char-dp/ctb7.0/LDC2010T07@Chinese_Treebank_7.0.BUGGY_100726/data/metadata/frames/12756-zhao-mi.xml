@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 着迷 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing arg0 is fascinated with"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-CND (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (CS 如果))
+                    (VP (VV 说)
+                    (IP-OBJ (NP-SBJ (PN 她))
+                    (VP (VV 看)
+                    (DER 得)
+                    (VP-EXT (VV 出神)))))))
+                    (PU ，)
+                    (NP-SBJ (PN 那))
+                    (VP (VP (VC 是)
+                    (PP (P 因为)
+                    (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 演出者)
+                    (NN 动作))
+                    (VP (VA 化一)))
+                    (DEC 的)))
+                    (NP (NN 表演)))
+                    (VP (DVP (ADVP (AD 相当))
+                    (DEV 的))
+                    (VP (VA 精彩)))))))
+                    (PU ，)
+                    (VP (ADVP (AD 可))
+                    (ADVP (AD 不))
+                    (VP (VC 是)
+                    (VP (PP-PRP (P 为)
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (PN 他们))
+                    (VP (VV 传达)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (NP (NN 信息))))
+                    (VP (MSP 而)
+                    (VP (VV 着迷)))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    为 他们 传达 的 信息          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

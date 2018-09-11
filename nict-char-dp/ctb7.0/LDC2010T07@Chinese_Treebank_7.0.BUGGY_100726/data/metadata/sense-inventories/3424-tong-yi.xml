@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="同意-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to agree" group="1">
+<commentary>
+</commentary>
+<examples>
+法国 不 会 同意 为 重新 分配 安理会 五 常任 理事国 席位 而 修改 联合国 宪章 的要求
+双方 原则 同意 下 次 会议 于 一九九四年 底 前后 在 新德里 举行 。
+双方 同意 采用 银行 托收 的 方式 付款 承兑 商业 票据
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="noun usage as in agreement" group="1">
+<commentary>
+</commentary>
+<examples>
+陈水扁 总统 指派 前 行政 院长 肖万长 代表 参加 亚太 经合会 非正式 领袖 会议 ，已经 获得 主办国 文莱 的 同意 ， 肖万长 经 陈 总统 的 授权 以 总统 特使 的 身份出席 。
+但是 ， 李远哲 剀切 的 呼吁 并 没有 得到 执政党 的 同意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="204" ann_1_2_agreement="0.950980392157" />
+</inventory>

@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 追思 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity thought about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 亲友们))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 获悉)
+                    (NP-OBJ (NN 消息))))
+                    (LC 之后))
+                    (VP (VP (VV 聚)
+                    (ADVP (AD 在一起)))
+                    (VP (VV 追思)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 位)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VP (VV 奔走)
+                    (QP-EXT (CD １０)
+                    (CLP (M 年))))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 再))
+                    (ADVP (AD 也))
+                    (VP (VP (VE 没有)
+                    (NP-OBJ (NN 机会)))
+                    (VP (VV 看到)
+                    (IP-OBJ (NP-SBJ (PN 自己)
+                    (NN 儿子))
+                    (VP (VV 平反))))))))
+                    (DEC 的)))
+                    (NP-PN (NR 苏)
+                    (NN 爸爸))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    亲友们          
+                </arg>
+                <arg n="m" f="tmp">
+                    获悉 消息 之后          
+                </arg>
+                <arg n="1">
+                    这 位 奔走 １０ 年 却 再 也 没有 机会看到自己 儿子 平反 的 苏 爸爸          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

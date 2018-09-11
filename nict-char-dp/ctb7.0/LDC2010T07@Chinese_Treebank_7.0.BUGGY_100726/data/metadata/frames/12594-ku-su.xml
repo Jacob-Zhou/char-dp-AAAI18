@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 哭诉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="teller"/>
+        <role argnum="1" argrole="content that arg0 tells"/>
+        <role argnum="2" argrole="party that arg0 tells arg1 to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="ipobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (PN 她))
+                    (DEG 的))
+                    (NP (NN 母亲)))
+                    (VP (VP (VV 赶到)
+                    (NP-OBJ (NN 命案)
+                    (NN 现场)))
+                    (PU ，)
+                    (VP (DVP (VP (VA 难过))
+                    (DEV 地))
+                    (PP-DIR (P 向)
+                    (NP (NN 警方)))
+                    (VP (VV 哭诉)
+                    (PU ：)
+                    (IP-OBJ (IP (NP-SBJ (NN 女儿))
+                    (VP (QP-TMP (ADJP (JJ 前))
+                    (QP (CD 几)
+                    (CLP (M 天))))
+                    (ADVP (AD 就))
+                    (VP (VV 失踪)))) 
+                    
+                </parse>
+                <arg n="0">
+                    她 的 母亲          
+                </arg>
+                <arg n="m" f="adv">
+                    难过 地          
+                </arg>
+                <arg n="2">
+                    向 警方          
+                </arg>
+                <arg n="1">
+                    女儿 前 几 天 就 失踪          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

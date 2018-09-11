@@ -1,0 +1,110 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 破 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing broken"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-HLN (NP-PN-SBJ (NR 郭龙臣))
+                    (VP (ADVP (AD 再))
+                    (VP (VV 破)
+                    (NP-OBJ (NP (NN 自行车))
+                    (NP (DP (DT 全))
+                    (NP (NN 国)))
+                    (NP (NN 纪录)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    郭龙臣 	  
+                </arg>
+                <arg n="1">
+                    自行车 全 国 纪录 	  
+                </arg>
+                <arg n="m" f="adv">
+                    再 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing damaged, destroyed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (QP (DT 头)
+                    (CLP (M 天)))
+                    (NP (NT 晚上)))
+                    (NP-SBJ (PN 我们))
+                    (VP (VP (VV 破)
+                    (AS 了)
+                    (NP-OBJ (NN 路))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    头 天 晚上 	  
+                </arg>
+                <arg n="0">
+                    我们 	  
+                </arg>
+                <arg n="1">
+                    路	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="entity worn and torn, ex. clothes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 破)
+                    (AS 了))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="coarse and sore, ex. throat or voice"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

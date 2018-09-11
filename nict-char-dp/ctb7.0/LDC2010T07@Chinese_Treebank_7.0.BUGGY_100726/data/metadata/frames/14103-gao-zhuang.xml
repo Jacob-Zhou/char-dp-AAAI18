@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 告状 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 reports"/>
+        <role argnum="2" argrole="reported to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 找)
+                    (NP-OBJ (ADJP (JJ 上级))
+                    (NP (NN 政府))))
+                    (VP (VV 告状)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

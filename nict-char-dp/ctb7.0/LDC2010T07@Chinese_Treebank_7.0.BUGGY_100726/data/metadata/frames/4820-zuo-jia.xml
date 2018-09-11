@@ -1,0 +1,86 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 作假 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 fakes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (PP-MNR (P 经过)
+                    (NP (DNP (NP (NP-APP (NN 水利)
+                    (PU 、)
+                    (NN 公安)
+                    (PU 、)
+                    (NN 纪检)
+                    (PU 、)
+                    (NN 监察)
+                    (ETC 等))
+                    (NP (NN 部门)))
+                    (DEG 的))
+                    (NP (NN 调查))))
+                    (PU ，)
+                    (NP-SBJ (PN 这))
+                    (VP (VC 是)
+                    (NP-PRD (QP (CD 一)
+                    (CLP (M 起)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 人为)))
+                    (DEC 的)))
+                    (CP-APP (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 偷工减料))
+                    (PU 、)
+                    (VP (VCD (VV 弄虚)
+                    (VV 作假)))))
+                    (DEC 的))
+                    (ADJP (JJ 严重))
+                    (NP (NN 堤塘)
+                    (NN 安全)
+                    (NN 责任)
+                    (NN 事故))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 相对来说))
+                    (NP-SBJ (NN 学历))
+                    (VP (VC 是)
+                    (VP (ADVP (ADVP (AD 比较))
+                    (ADVP (AD 少)))
+                    (VP (VV 作假))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    相对来说	  
+                </arg>
+                <arg n="1">
+                    学历	  
+                </arg>
+                <arg n="m" f="adv">
+                    比较	  
+                </arg>
+                <arg n="m" f="adv">
+                    少	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

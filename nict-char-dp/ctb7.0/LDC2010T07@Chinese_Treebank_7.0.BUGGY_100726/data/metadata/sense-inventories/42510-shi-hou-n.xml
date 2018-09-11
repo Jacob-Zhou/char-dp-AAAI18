@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="42510-shi-hou-n 时候-n">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+
+
+
+<sense n="1" type="" name="hour 时候, 某一段时间" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+在我困难的时候没有人帮助我。
+
+
+
+No one helped me in my hour of need.
+
+
+
+
+
+他在适当的时候找到了他。
+
+
+
+He found him in a good hour.
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="time 时侯, 时间, 时机" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+对一个人的一生作出评价的时候
+
+.
+
+time for taking stock of one's life.
+
+
+
+
+
+午饭时候到了。
+
+
+
+It's time for lunch.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+<sense n="3" type="" name="season, 时侯, 时机" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+农忙的时候
+
+a busy farming season.
+
+
+
+收获的时候
+
+a harvest season.
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

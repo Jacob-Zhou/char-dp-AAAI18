@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 叫卖 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="seller"/>
+        <role argnum="1" argrole="entity sold"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 摊主))
+                    (VP (ADVP (AD 在))
+                    (VP (VV 继续)
+                    (VP (VV 叫卖))) 
+                    
+                </parse>
+                <arg n="0">
+                    摊主          
+                </arg>
+                <arg n="m" f="adv">
+                    在          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

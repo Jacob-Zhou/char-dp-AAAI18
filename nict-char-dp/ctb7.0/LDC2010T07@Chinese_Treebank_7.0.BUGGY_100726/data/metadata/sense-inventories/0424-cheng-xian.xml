@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="呈现-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to appear" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 建筑业 对 外 开放 呈现 新 格局
+活火山 的 奇观 首先 呈现 在 眼前
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to demonstrate, an agent showing something" group="1">
+<commentary>
+</commentary>
+<examples>
+如 去年 十一月 ， 顺益 博物馆 展出 的 「 与 部落 结合 ： 排湾族 特展 」 ， 由 排湾族 艺术家 巴瓦瓦隆．撒古流 ， 以 排湾族 眼光 呈现 达瓦兰 部落 在 面对 文化 断层 危机 时 ， 如何 以 「 部落 教室 」 的 模式 来 为 原住民 文化 扎根 ， 并 开创 原住民 的 未来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="demonstration, display" group="1">
+<commentary>
+</commentary>
+<examples>
+以 住屋 的 呈现 为 例 ， 博物馆 选择 较 具 特色 的 排湾族 石板屋 ， 与 雅美族 半穴居 木屋 为 代表 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="70" ann_1_2_agreement="0.442857142857" />
+</inventory>

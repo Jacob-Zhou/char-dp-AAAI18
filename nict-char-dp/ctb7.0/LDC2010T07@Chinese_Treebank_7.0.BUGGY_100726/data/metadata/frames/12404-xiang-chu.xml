@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 相处 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 我))
+                    (VP (VP-FOC (PP-ADV (P 跟)
+                    (NP-PN (NR 吕)
+                    (NN 副总统)))
+                    (VP (VV 相处)
+                    (NP-EXT (DP (DT 这)
+                    (QP (CD 一)))
+                    (NP (NN 辈子))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我          
+                </arg>
+                <arg n="0" f="crd">
+                    跟 吕 副总统          
+                </arg>
+                <arg n="m" f="ext">
+                    这 一 辈子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

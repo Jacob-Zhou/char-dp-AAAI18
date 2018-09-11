@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 任用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (ADVP (AD 之後))
+                    (NP-PN-SBJ (NR 汉武帝))
+                    (VP (VP (VV 任用)
+                    (NP-PN-OBJ (NR 董仲舒)))
+                    (VP (ADVP (AD 独))
+                    (VP (VV 尊)
+                    (NP-OBJ (NN 儒术)))))) 
+                </parse>
+                <arg n="0">
+                    汉武帝 
+                </arg>
+                <arg n="1">
+                    董仲舒 
+                </arg>
+                <arg n="m" f="adv">
+                    之後 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

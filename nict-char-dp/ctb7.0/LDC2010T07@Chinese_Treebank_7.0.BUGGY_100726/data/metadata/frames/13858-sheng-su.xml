@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 胜诉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="winner"/>
+        <role argnum="1" argrole="case"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (QP-SBJ (CD 一)
+                    (CLP (M 件)))
+                    (VP (VV 胜诉)))) 
+                    
+                </parse>
+                <arg n="1">
+                    一 件          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

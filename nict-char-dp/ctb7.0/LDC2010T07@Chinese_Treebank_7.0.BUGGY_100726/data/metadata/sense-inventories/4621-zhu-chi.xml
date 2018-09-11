@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="主持-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to conduct (a meeting, a ceremony etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+亚洲 开发 银行 总裁 佐藤光夫 主持 了 这 次 研讨会
+彷佛 正在 主持 一 场 神圣 的 祭典
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to manage, to direct, to be in charge of" group="1">
+<commentary>
+</commentary>
+<examples>
+由 浙江 医科院 院长 、 中国 科学 院士 毛江森 主持 在 世界 上 率先 研究 成功 ， 并 具有 国际 先进 水平 的 甲肝 减毒 活 疫苗 ， 去年 经 卫生部 批准 正式 投入 生产 和 使用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to execute, to maintain (justice)" group="1">
+<commentary>
+</commentary>
+<examples>
+本人 就任 中华 人民 共和国 香港 特别 行政区 法院 法官 ， 定 当 拥护 《 中华 人民 共和国 香港 特别 行政区 基本法 》 ， 效忠 中华 人民 共和国 香港 特别 行政区 ， 尽忠职守 ， 奉公守法 、 公正 廉洁 、 以 无惧 、 无偏 、 无私 、 无欺 之 精神 ， 维护 法制 ， 主持 正义 ， 为 香港 特别 行政区 服务
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to host" group="1">
+<commentary>
+</commentary>
+<examples>
+尤其 原 定 ２３号 晚上 ７点 由 赵明录 主持 的 接风 、 洗尘 晚宴 也 改 在 晚间 ８点 由 金正日 亲自 在 百花院 迎宾 宴客
+在 TVBS 电视台 、 台北 之 音 电台 主持 英语 节目
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="69" ann_1_2_agreement="0.855072463768" />
+</inventory>

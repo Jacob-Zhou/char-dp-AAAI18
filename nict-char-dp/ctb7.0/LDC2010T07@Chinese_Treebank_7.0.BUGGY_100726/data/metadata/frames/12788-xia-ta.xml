@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 下塌 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="accommodation"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 下塌)
+                    (NP-OBJ (-NONE- *T*-3))))
+                    (DEC 的)))
+                    (NP-PN (NR 神户))
+                    (NP-PN (NN 人工岛)
+                    (NN 饭店)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    *T*-3 -> 人工岛 饭店          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

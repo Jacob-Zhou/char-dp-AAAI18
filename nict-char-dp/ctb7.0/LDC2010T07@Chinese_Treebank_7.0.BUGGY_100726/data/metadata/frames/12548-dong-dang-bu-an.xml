@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 动荡不安 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-PN (NR 中东))
+                    (NP (NN 地区)))
+                    (DEG 的))
+                    (NP (NN 局势)))
+                    (VP (VP (VV 动荡不安)) 
+                    
+                </parse>
+                <arg n="0">
+                    中东 地区 的 局势          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

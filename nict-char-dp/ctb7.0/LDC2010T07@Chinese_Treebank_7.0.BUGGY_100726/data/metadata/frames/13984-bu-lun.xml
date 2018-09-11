@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不论 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing not taken into consideration"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 姑且))
+                    (VP (VV 不论)
+                    (NP (CP-APP (IP (NP-SBJ (NN 大陆)
+                    (NN 民众))
+                    (VP (VP (VV 来)
+                    (NP-PN-OBJ (NR 台)))
+                    (VP (VV 从事)
+                    (NP-OBJ (NN 娱乐)
+                    (PU 、)
+                    (NN 购物)))))
+                    (DEC 的))
+                    (NP (NN 消费)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    姑且          
+                </arg>
+                <arg n="1">
+                    大陆 民众来 台 从事 娱乐 、 购物 的 消费          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

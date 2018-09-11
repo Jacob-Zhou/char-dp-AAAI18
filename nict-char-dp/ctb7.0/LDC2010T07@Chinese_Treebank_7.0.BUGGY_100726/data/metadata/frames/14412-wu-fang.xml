@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 无妨 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 打打)
+                    (NP-OBJ (ADJP (JJ 卫生))
+                    (NP (NN 麻将)))))
+                    (VP (ADVP (AD 到))
+                    (VP (VA 无妨)))) 
+                    
+                </parse>
+                <arg n="0">
+                    打打 卫生 麻将          
+                </arg>
+                <arg n="m" f="adv">
+                    到          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

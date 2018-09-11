@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 跳离 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="away from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 几)
+                    (CLP (M 节)))
+                    (NP (NN 车厢)))
+                    (VP (VP (VV 受到)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 猛烈)))
+                    (DEC 的)))
+                    (NP (NN 撞击))))
+                    (PU ，)
+                    (VP (VV 跳离)
+                    (AS 了)
+                    (NP-OBJ (NN 铁轨)))) 
+                    
+                </parse>
+                <arg n="0">
+                    几节 车厢           
+                </arg>
+                <arg n="1">
+                    铁轨          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

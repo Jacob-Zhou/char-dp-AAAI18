@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 清点 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 tallies"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 当)
+                    (LCP (IP (NP-SBJ (NN 水面))
+                    (VP (VA 平静)))
+                    (LC 后)))
+                    (PU ，)
+                    (NP-SBJ (NN 人们))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 岸上)))
+                    (VP (VP (VV 清点)
+                    (NP-OBJ (NN 人数))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    当 水面 平静 后          
+                </arg>
+                <arg n="0">
+                    人们          
+                </arg>
+                <arg n="m" f="loc">
+                    在 岸上          
+                </arg>
+                <arg n="1">
+                    人数          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

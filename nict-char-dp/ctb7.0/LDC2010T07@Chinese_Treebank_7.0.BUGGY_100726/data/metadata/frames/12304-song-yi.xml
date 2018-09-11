@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 送医 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="0" argrole="patient, person that arg0 sents to the hospital"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 林)
+                    (NN 姓))
+                    (NP (NN 男子)))
+                    (VP (ADVP (VV 赶快))
+                    (VP (VP (VV 叫来)
+                    (NP-OBJ (NN 救护车)))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (PN 她))
+                    (VP (VV 送医))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    林 姓 男子          
+                </arg>
+                <arg n="1">
+                    她          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

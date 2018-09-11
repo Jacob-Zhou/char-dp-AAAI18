@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="取-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to obtain, to take, to get" group="1">
+<commentary>
+</commentary>
+<examples>
+改变 了 自古以来 对 海洋 只 取 不 予 的 做法
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to select, to choose" group="1">
+<commentary>
+</commentary>
+<examples>
+能 咬牙 「 熬 」 到 顶级 的 传销商 更 是 万 中 取 一
+执行 常董 陈刚信 就 骄傲 地 为 民视 所 发展 出来 的 新型 乡土剧 取 了 「 时代剧 」 的 新 名字
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="应-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="should, ought to, must" group="1">
+<commentary>
+</commentary>
+<examples>
+核四 兴建 应 抛弃 意识 形态 ， 回归 民国 ８７年 能源 会议 结论 和 经济部 提出 的 方案
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="in response to" group="1">
+<commentary>
+</commentary>
+<examples>
+日本 还 应 中国 有关 部门 之 邀 ， 对 中国 长春 至 珲春 的 铁路 沿线 地区 综合 开发 进行 调查
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to echo in a strong sense, to prove" group="1">
+<commentary>
+</commentary>
+<examples>
+说 起来 真 是 应 了 中国人 的 一 句 老 话 ： 缘份 、 冥冥 中 自 有 定数
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to answer, to respond, to reply" group="1">
+<commentary>
+</commentary>
+<examples>
+他 在 门外 应 了 一 声
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="239" ann_1_2_agreement="0.966527196653" />
+</inventory>

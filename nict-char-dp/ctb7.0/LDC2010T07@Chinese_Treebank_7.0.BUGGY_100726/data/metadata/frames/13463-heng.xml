@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 横 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 车身))
+                    (VP (VP-FOC (VV 横)
+                    (PP (P 在)
+                    (LCP (NP (NN 路))
+                    (LC 中央)))) 
+                    
+                </parse>
+                <arg n="0">
+                    车身          
+                </arg>
+                <arg n="1">
+                    在 路 中央          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

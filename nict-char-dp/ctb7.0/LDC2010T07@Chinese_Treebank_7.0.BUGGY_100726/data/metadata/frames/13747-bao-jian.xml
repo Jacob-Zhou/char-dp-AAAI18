@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 保荐 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="recommander"/>
+        <role argnum="1" argrole="recommanded"/>
+        <role argnum="2" argrole="recommand to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 高金))
+                    (VP (ADVP (AD 极力))
+                    (PP-DIR (P 向)
+                    (NP (NN 旅)
+                    (NN 党委)))
+                    (VP (VV 保荐)))) 
+                    
+                </parse>
+                <arg n="0">
+                    高金          
+                </arg>
+                <arg n="m" f="adv">
+                    极力          
+                </arg>
+                <arg n="2">
+                    向 旅党委          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

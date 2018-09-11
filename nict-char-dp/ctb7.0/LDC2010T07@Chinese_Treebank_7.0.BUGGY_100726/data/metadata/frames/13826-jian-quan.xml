@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 建全 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 香港)
+                    (NN 特区))
+                    (NP (NN 政府)))
+                    (VP (ADVP (AD 将))
+                    (PP-TMP (P 在)
+                    (QP (NP (NT 未来))
+                    (QP (CD １０)
+                    (CLP (M 年)))))
+                    (ADVP (AD 将))
+                    (VP (VV 会)
+                    (VP (VP (VP (VV 投资)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 超过)
+                    (QP-OBJ (CD １０亿)
+                    (CLP (M 港元))))))))
+                    (VP (MSP 来)
+                    (VP (VP (VV 扩建)
+                    (NP-OBJ (-NONE- *RNR*-2)))
+                    (CC 和)
+                    (VP (VV 建全)
+                    (NP-OBJ-2 (DNP (NP-PN (NR 香港)
+                    (NN 国际)
+                    (NN 机场))
+                    (DEG 的))
+                    (DP (DT 各)
+                    (CLP (M 种)))
+                    (NP (NN 机建)
+                    (NN 设施))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    香港 特区 政府          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 未来 １０ 年          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="1">
+                    香港 国际 机场 的 各 种 机建 设施          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

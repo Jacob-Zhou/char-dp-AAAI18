@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 风靡一时 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 首)))
+                    (DNP (PP (P 关于)
+                    (NP (NP-APP (ADJP (JJ 前))
+                    (NP (NN 总统)))
+                    (NP-PN (NR 米洛舍维奇))))
+                    (DEG 的))
+                    (NP (NN 歌曲)))
+                    (VP (NP-TMP (NT 目前))
+                    (VP (VV 风靡一时))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 首 关于 前 总统 米洛舍维奇 的 歌曲          
+                </arg>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

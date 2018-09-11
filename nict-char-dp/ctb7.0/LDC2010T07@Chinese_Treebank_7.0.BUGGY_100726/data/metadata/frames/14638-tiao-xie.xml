@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 调协 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity coordinated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 印度)
+                    (CC 和)
+                    (NR 俄罗斯))
+                    (VP (VP (VV 同意)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 制定)
+                    (NP-OBJ (ADJP (JJ 共同))
+                    (NP (NN 方针))))
+                    (VP (MSP 来)
+                    (VP (VV 对付)
+                    (NP-PN-OBJ (NR 阿富汗)))))))
+                    (PU ，)
+                    (VP (ADVP (AD 并))
+                    (VP (VV 调协)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 对付)
+                    (NP-OBJ (NP-PN (NR 阿富汗))
+                    (NP (NN 危机)))))
+                    (DEC 的)))
+                    (NP (NN 政治)
+                    (PU 、)
+                    (NN 外交)
+                    (CC 和)
+                    (NN 军事))
+                    (NP (NN 措施))))) 
+                    
+                </parse>
+                <arg n="0">
+                    印度 和 俄罗斯          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="1">
+                    对付 阿富汗 危机 的 政治 、 外交 和 军事 措施          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="毒-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to poison" group="1">
+<commentary>
+</commentary>
+<examples>
+据悉 ， 这 次 毒 鹤 事件 是 近年 来 罕见 的 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="poison" group="1">
+<commentary>
+</commentary>
+<examples>
+以毒攻毒
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="poisonous" group="1">
+<commentary>
+</commentary>
+<examples>
+毒 蛇 一直 是 珍贵 的 山产
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="narcotics" group="1">
+<commentary>
+</commentary>
+<examples>
+报告 指出 ， １９９８年 警方 还 擒获 北 海岸 和 东部 平原 等 地 贩毒 集团 毒枭 １２ 人
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

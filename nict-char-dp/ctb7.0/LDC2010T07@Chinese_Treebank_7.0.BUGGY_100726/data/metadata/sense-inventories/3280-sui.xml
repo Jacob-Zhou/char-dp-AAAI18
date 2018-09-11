@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="随-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to follow, to accompany, along with" group="1">
+<commentary>
+</commentary>
+<examples>
+这 次 随 我 来访 的 有 一 批 企业家
+但 随 之 而 来 的 公投 议题 ， 又 再度 把 看似 定案 的 核四 拱上 台面
+因为 这样 年纪 的 小孩 随 年龄 增长 自然 会 矫正 过来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="as one pleases, at one's convenience" group="1">
+<commentary>
+</commentary>
+<examples>
+我 愿意 把 他 揉成 团 ， 装 在 口袋 里 ， 随 我
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="4" ann_1_2_agreement="1.0" />
+</inventory>

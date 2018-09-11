@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 签上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="signature"/>
+        <role argnum="2" argrole="thing signed/location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+                <mapitem src="other" trg="arg2"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 请)
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (IP-APP (NP-SBJ (NN 全球))
+                    (VP (VV 反抗)
+                    (NP-OBJ (NP-PN (NR 美国))
+                    (NP (NN 死刑制)))))
+                    (NP (NN 请愿书)))
+                    (LC 上)))
+                    (VP (VV 签上)
+                    (NP-OBJ (DNP (NP (PN 您))
+                    (DEG 的))
+                    (NP (NN 名字))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="2">
+                    在 全球 反抗 美国 死刑制 请愿书 上          
+                </arg>
+                <arg n="1">
+                    您 的 名字          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

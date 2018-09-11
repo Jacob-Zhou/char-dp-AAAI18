@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 忠 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="entity arg0 is loyal to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 臣))
+                    (VP (VA 忠))) 
+                </parse>
+                <arg n="0">
+                    臣 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

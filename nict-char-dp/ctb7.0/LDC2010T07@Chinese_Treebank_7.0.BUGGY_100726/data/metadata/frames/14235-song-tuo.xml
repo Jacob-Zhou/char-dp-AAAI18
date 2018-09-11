@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 松脱 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing loosen up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 看起来))
+                    (NP-PN-SBJ (NR 库尔斯克号)
+                    (NN 潜艇))
+                    (VP (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VP-FOC (VV 发生)
+                    (NP-OBJ (NN 爆炸)))
+                    (VP (VV 导致)
+                    (NP-OBJ (NN 潜艇))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 沉没)))))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (PU ，)
+                    (ADVP (AD 也))
+                    (VP (VP (VV 松脱)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 安装)
+                    (PP (P 在)
+                    (LCP (NP (NN 潜艇))
+                    (LC 上)))))
+                    (DEC 的)))
+                    (DP (DT 各)
+                    (CLP (M 种)))
+                    (NP (NN 设备)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    看起来          
+                </arg>
+                <arg n="0">
+                    库尔斯克号 潜艇          
+                </arg>
+                <arg n="m" f="tmp">
+                    发生 爆炸 导致 潜艇 沉没 的 时候          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    安装在 潜艇 上 的 各 种 设备          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

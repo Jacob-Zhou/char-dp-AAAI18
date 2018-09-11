@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 能歌善舞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 她))
+                    (VP (VP (VV 能歌善舞)) 
+                    
+                </parse>
+                <arg n="0">
+                    她          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

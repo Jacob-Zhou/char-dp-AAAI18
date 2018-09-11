@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 示警 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="party arg0 warns"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警铃))
+                    (VP (ADVP (AD 持续))
+                    (VP (VV 示警)))) 
+                    
+                </parse>
+                <arg n="0">
+                    警铃          
+                </arg>
+                <arg n="m" f="adv">
+                    持续          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

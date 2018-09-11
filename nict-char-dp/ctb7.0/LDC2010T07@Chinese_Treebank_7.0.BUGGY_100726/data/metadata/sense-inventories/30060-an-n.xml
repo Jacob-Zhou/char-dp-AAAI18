@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="30060-an-n 岸-n">
+
+<commentary></commentary>
+
+<sense n="1" type="" name="岸, bank, side" group="1">
+
+<commentary></commentary>
+
+<examples>
+
+江岸
+
+A river bank.
+
+
+
+岸边
+
+shoreside.
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity="" />
+
+</sense>
+
+<sense n="2" type="" name="岸， shore," group="1">
+
+<commentary></commentary>
+
+<examples>
+
+海岸
+
+Sea shore.
+
+
+
+海浪拍岸。
+
+The sea washes the shore.
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity="" />
+
+</sense>
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>
+

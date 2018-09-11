@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 制售 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing made and sold"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (QP (CD 一些))
+                    (ADJP (JJ 不法))
+                    (NP (NN 分子)))
+                    (VP (PP-MNR (-NONE- *T*-1))
+                    (VP (VV 制售)
+                    (NP-OBJ (ADJP (JJ 假冒))
+                    (NP (NN 香烟))))))
+                    (DEC 的)))
+                    (NP (NN 手段))) 
+                    
+                </parse>
+                <arg n="0">
+                    一些 不法 分子          
+                </arg>
+                <arg n="m" f="mnr">
+                    *T*-1 -> 手段          
+                </arg>
+                <arg n="1">
+                    假冒 香烟          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

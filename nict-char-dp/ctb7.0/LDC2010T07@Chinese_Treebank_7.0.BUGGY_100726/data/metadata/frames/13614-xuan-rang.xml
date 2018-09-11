@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喧嚷 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 喧嚷)
+                    (ADVP (AD 一时))))
+                    (DEC 的)))
+                    (NP-PN (NR 核四))
+                    (NP (NN 议题))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 核四议题          
+                </arg>
+                <arg n="m" f="ext">
+                    一时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

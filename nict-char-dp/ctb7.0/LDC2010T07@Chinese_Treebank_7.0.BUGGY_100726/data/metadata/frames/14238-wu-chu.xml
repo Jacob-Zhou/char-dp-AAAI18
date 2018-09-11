@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 误触 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="violator"/>
+        <role argnum="1" argrole="entity violated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 外表))
+                    (VP (VA 斯文)))
+                    (DEC 的)))
+                    (DP (DT 这)
+                    (CLP (M 名)))
+                    (NP (NP-PN (NR 郑))
+                    (NP (NN 姓)))
+                    (NP (NN 男子)))
+                    (VP (VP-FOC (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 持有)
+                    (NP-OBJ (-NONE- *RNR*-2)))
+                    (VP (VV 改造)
+                    (NP-OBJ-2 (NN 枪械))))))
+                    (VP (VV 误触)
+                    (NP-OBJ (NN 法网)))) 
+                    
+                </parse>
+                <arg n="0">
+                    外表 斯文 的 这 名 郑 姓男子          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 持有 改造 枪械          
+                </arg>
+                <arg n="1">
+                    法网          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

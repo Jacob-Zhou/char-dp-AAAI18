@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 持续不断 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (DP-TMP (DT 同)
+                    (QP (CD 一)
+                    (CLP (M 天))))
+                    (NP-SBJ (NP-PN (NR 巴)
+                    (NR 以))
+                    (ADJP (JJ 暴力))
+                    (ADJP (JJ 流血))
+                    (NP (NN 冲突)))
+                    (VP (ADVP (AD 仍然))
+                    (VP (VV 持续不断)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    同 一 天          
+                </arg>
+                <arg n="0">
+                    巴 以 暴力 流血 冲突          
+                </arg>
+                <arg n="m" f="adv">
+                    仍然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

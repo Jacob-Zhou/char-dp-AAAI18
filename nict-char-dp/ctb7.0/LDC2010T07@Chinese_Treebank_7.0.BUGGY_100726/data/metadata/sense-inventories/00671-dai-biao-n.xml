@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="00671-dai-biao-n 代表-n">
+<commentary></commentary>
+<sense n="1" name="delegate, deputy 代替个人或集体发表意见或担任工作的人" group="1" type="">
+<commentary>Aperson chosen or elected by a group to represent them, esp. at a meeting.</commentary><examples>赴会的代表
+a delegate to a conference
+
+列席代表
+delegates without power to vote
+
+(中国)人民代表大会代表
+a deputy to National People's Congress
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="representative 能显示同一类事物共同特征的人或事物" group="1" type="">
+<commentary>Serving to describe, esp. a larger group of the same type.</commentary><examples>古希腊艺术代表作品
+a representative collection of ancient Greek art
+
+
+好莱坞的代表人物
+the representative figure in Hollywood
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+</inventory>

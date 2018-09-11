@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 徐娘半老 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 徐娘半老)))
+                    (DEC 的)))
+                    (NP (NN 女子))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 女子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

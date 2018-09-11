@@ -1,0 +1,26 @@
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 8 gold 透露-v 透露.01 ----- 8:0-rel 0:3-ARG0 7:1-ARGM-TMP 10:6-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 20 gold 判处-v 判处.01 ----- 20:0-rel 10:1*11:1*27:1-ARG1 12:1-ARGM-TMP 14:2-ARG0 16:1-ARGM-MNR 21:1-ARG2
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 32 gold 写信-v 写信.01 ----- 32:0-rel 10:5-ARG0 30:1-ARGM-TMP 31:1-ARGM-ADV 34:3-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 33 gold 给-v 给.01 ----- 33:0-rel 10:5-ARG0 30:1-ARGM-TMP 31:1-ARGM-ADV 34:3-ARG2
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 39 gold 要求-v 要求.02 ----- 39:0-rel 10:5-ARG0 40:1-ARG1 41:2-ARG2
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 42 gold 敦促-v 敦促.01 ----- 42:0-rel 41:1-ARG0 43:1-ARG1 44:2-ARG2
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 45 gold 遵守-v 遵守.01 ----- 45:0-rel 44:1-ARG0 46:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 52 gold 释放-v 释放.01 ----- 52:0-rel 44:1-ARG0 53:3-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 0 56 gold 判刑-v 判刑.01 ----- 56:0-rel 53:0*53:1*54:0*54:1*57:0*57:1*59:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 7 gold 服刑-v 服刑.01 ----- 7:0-rel 0:1*10:1*1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV 4:1-ARGM-LOC
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 15 gold 表示-v 表示.01 ----- 15:0-rel 0:7-ARG0 17:2-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 19 gold 敦促-v 敦促.01 ----- 19:0-rel 18:1-ARG0 20:1-ARG1 21:2-ARG2
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 22 gold 遵守-v 遵守.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 27 gold 保障-v 保障.01 ----- 27:0-rel 28:1-ARG1 25:0*25:1*26:0*26:1*30:1-ARG0
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 38 gold 包括-v 包括.01 ----- 38:0-rel 39:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 52 gold 发表-v 发表.01 ----- 52:0-rel 17:1-ARGM-PRP 32:2-ARG0 50:1-ARGM-ADV 53:2-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 58 gold 要求-v 要求.02 ----- 58:0-rel 17:1-ARGM-PRP 32:2-ARG0 50:1-ARGM-ADV 59:1-ARG1 60:2-ARG2
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 61 gold 立法-v 立法.01 ----- 61:0-rel 60:1-ARG0
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 64 gold 保障-v 保障.01 ----- 64:0-rel 60:1-ARG0 63:1-ARGM-ADV 65:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 68 gold 释放-v 释放.01 ----- 68:0-rel 60:1-ARG0 69:2-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 1 73 gold 判刑-v 判刑.01 ----- 73:0-rel 70:0*70:1*71:0*71:1*74:0*74:1*76:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 2 9 gold 签署-v 签署.01 ----- 9:0-rel 1:2-ARG0 3:1-ARGM-TMP 8:1-ARGM-ADV 11:2-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 2 28 gold 保障-v 保障.01 ----- 28:0-rel 27:1-ARG0 29:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 2 41 gold 拘捕-v 拘捕.01 ----- 41:0-rel 0:2-ARGM-ADV 35:1-ARGM-DIS 36:1-ARGM-TMP 39:1-ARG0 40:1-ARGM-ADV 43:4-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 2 47 gold 包括-v 包括.01 ----- 47:0-rel 48:1-ARG1
+bn/cbs/00/cbs_0038@0038@cbs@bn@ch@on 2 68 gold 判处-v 判处.01 ----- 68:0-rel 56:1-ARGM-LOC 57:2-ARG1 61:1-ARGM-ADV 63:1-ARG0 64:1-ARG3 69:1-ARG2

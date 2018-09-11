@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 迎应 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity responded to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (ADVP (AD 最后))
+                    (NP-PN-SBJ (NN 立院))
+                    (VP (VV 反对)
+                    (NP-OBJ (NP-PN (NN 政院))
+                    (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 停建)))
+                    (DEC 的))
+                    (NP (NN 决定))))))
+                    (PU ，)
+                    (NP-PN-SBJ (NN 政院))
+                    (VP (VV 该)
+                    (VP (ADVP (AD 如何))
+                    (VP (VV 迎应)
+                    (NP-PN-OBJ (NR 王新平)))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 最后 立院 反对 政院 停建 的 决定          
+                </arg>
+                <arg n="0">
+                    政院           
+                </arg>
+                <arg n="m" f="adv">
+                    如何          
+                </arg>
+                <arg n="1">
+                    王新平          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

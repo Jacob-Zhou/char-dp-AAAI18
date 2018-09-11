@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 索贿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="bribery"/>
+        <role argnum="2" argrole="party from whom arg0 asks for arg1"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 在)
+                    (LCP (NP (NN 兴建)
+                    (NN 过程))
+                    (LC 中)))
+                    (NP-SBJ (NP-APP (NP-PN (NR 平正))
+                    (NP (NN 市长)))
+                    (NP-PN (NR 叶步来)))
+                    (VP (PP-DIR (P 向)
+                    (NP (NN 承包)
+                    (NN 厂商)))
+                    (VP (VV 索贿)
+                    (QP-OBJ (CD ２００万)
+                    (CLP (M 元)))))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    在 兴建 过程 中          
+                </arg>
+                <arg n="0">
+                    平正 市长 叶步来          
+                </arg>
+                <arg n="2">
+                    向 承包 厂商          
+                </arg>
+                <arg n="1">
+                    ２００万 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

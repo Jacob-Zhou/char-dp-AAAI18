@@ -1,0 +1,12 @@
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 0 4 gold 查获-v 查获.01 ----- 4:0-rel 0:1-ARGM-DIS 1:2-ARG0 3:1-ARGM-TMP 6:2-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 0 22 gold 偷-v 偷.01 ----- 22:0-rel 12:2-ARG0 21:1-ARGM-ADV 23:3-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 0 54 gold 是-v 是.01 ----- 54:0-rel 38:2-ARG0 43:1-ARGM-ADV 44:1-ARG0 53:1-ARGM-ADV 55:1-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 4 gold 为首-v 为首.01 ----- 4:0-rel 0:1*1:1-ARG1 0:0*0:1*1:0*1:1*9:1-ARG0
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 11 gold 偷-v 偷.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 16 gold 打-v 打.01 ----- 16:0-rel 0:3-ARG0 10:3-ARGM-TMP 15:1-ARGM-ADV 17:1-ARG1 18:1-ARGM-ADV
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 25 gold 花-v 花.01 ----- 25:0-rel 23:1-ARGM-DIS 24:1-ARG0 26:1-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 30 gold 能够-v 能够.01 ----- 30:0-rel
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 39 gold 愿意-v 愿意.01 ----- 39:0-rel 21:1-ARGM-PRP 35:3-ARG0 38:1-ARGM-ADV 40:2-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 1 42 gold 拿回-v 拿回.01 ----- 42:0-rel 40:1-ARG0 43:1-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 2 4 gold 抓到-v 抓到.01 ----- 4:0-rel 0:1-ARGM-DIS 1:2-ARG0 3:1-ARGM-DIS 6:2-ARG1
+bn/cts/00/cts_0036@0036@cts@bn@ch@on 2 13 gold 找回-v 找回.01 ----- 13:0-rel 0:1-ARGM-DIS 1:2-ARG0 11:1-ARGM-ADV 12:1-ARGM-ADV 15:2-ARG1

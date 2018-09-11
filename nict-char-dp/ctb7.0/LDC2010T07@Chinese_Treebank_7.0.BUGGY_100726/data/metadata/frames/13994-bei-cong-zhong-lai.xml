@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 悲从中来 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 郑侠东))
+                    (DEG 的))
+                    (NP (NN 妻子)))
+                    (VP (ADVP (AD 不禁))
+                    (VP (VV 悲从中来)))) 
+                    
+                </parse>
+                <arg n="0">
+                    郑侠东 的 妻子          
+                </arg>
+                <arg n="m" f="adv">
+                    不禁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

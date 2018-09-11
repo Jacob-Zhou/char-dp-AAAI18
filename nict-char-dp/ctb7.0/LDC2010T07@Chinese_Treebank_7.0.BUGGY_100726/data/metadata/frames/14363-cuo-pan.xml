@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 错判 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing evaluated incorrectly"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 当初))
+                    (NP-SBJ (DP (DT 这个))
+                    (NP (NN 护理)
+                    (NN 中心)))
+                    (VP (ADVP (AD 也))
+                    (VP (VP (VV 错判)
+                    (AS 了)
+                    (NP-OBJ (NN 形势))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    当初          
+                </arg>
+                <arg n="0">
+                    这个 护理 中心          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    形势          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

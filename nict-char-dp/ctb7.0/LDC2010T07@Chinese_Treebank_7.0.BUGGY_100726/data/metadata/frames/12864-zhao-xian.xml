@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 昭显 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing manifested"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 昭显)
+                    (NP-OBJ (NN 人权))))
+                    (DEC 的)))
+                    (ADJP (JJ 具体))
+                    (NP (NN 措施))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 措施          
+                </arg>
+                <arg n="1">
+                    人权          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 特赦 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party that arg0 pardons"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (NP-TMP (NT 最近))
+                    (VP (VP (VV 特赦)
+                    (NP-OBJ (NN 宗教)
+                    (NN 良心犯))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="tmp">
+                    最近          
+                </arg>
+                <arg n="1">
+                    宗教 良心犯          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

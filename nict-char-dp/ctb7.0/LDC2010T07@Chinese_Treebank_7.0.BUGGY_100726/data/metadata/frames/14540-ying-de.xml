@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 羸得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="winner"/>
+        <role argnum="1" argrole="thing arg0 wins"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NN 反对派)
+                    (NN 领袖))
+                    (NP-PN (NR 科什图尼察)))
+                    (VP (VV 羸得)
+                    (NP-OBJ (NT ９月)
+                    (NN 总统)
+                    (NN 大选)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    反对派 领袖 科什图尼察          
+                </arg>
+                <arg n="1">
+                    ９月 总统 大选          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

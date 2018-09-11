@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不服 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="entity not trusted or obeyed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 宣判)))
+                    (LC 之后))
+                    (NP-SBJ (QP (CD ３)
+                    (CLP (M 名)))
+                    (NP (NN 罪犯)))
+                    (VP (VP (VV 不服)) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    宣判 之后          
+                </arg>
+                <arg n="0">
+                    ３ 名 罪犯          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

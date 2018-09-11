@@ -1,0 +1,37 @@
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 7 gold 摆-v 摆.01 ----- 7:0-rel 3:1-ARGM-ADV 5:1-ARG1 8:1-ARGM-LOC 10:1*1:0*1:1*2:0*2:1-ARG0
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 20 gold 待-v 待.03 ----- 20:0-rel 0:1-ARG0 15:1-ARGM-TMP 16:1-ARGM-ADV 19:1-ARGM-ADV 21:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 26 gold 到-v 到.01 ----- 26:0-rel 24:1-ARG0 25:1-ARGM-ADV 27:3-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 30 gold 鼎盛-v 鼎盛.01 ----- 30:0-rel 29:1-ARG0 27:0*27:1*28:0*28:1*33:1-ARG0
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 34 gold 带领-v 带领.01 ----- 34:0-rel 24:1-ARG0 25:1-ARGM-ADV 35:1-ARG1 36:2-ARG2
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 37 gold 摸-v 摸.01 ----- 37:0-rel 36:1-ARG0 38:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 39 gold 讨-v 讨.01 ----- 39:0-rel 36:1-ARG0 40:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 45 gold 转到-v 转到.01 ----- 45:0-rel 24:1-ARG1 42:1-ARGM-DIS 43:1-ARGM-TMP 44:1-ARGM-DIS 46:1-ARG2
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 47 gold 去-v 去.01 ----- 47:0-rel
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 0 48 gold 欣赏-v 欣赏.01 ----- 48:0-rel 24:1-ARG0 42:1-ARGM-DIS 43:1-ARGM-TMP 44:1-ARGM-DIS 49:4-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 4 gold 南下-v 南下.01 ----- 4:0-rel 0:2-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 9 gold 到-v 到.01 ----- 9:0-rel 6:1-ARG0 7:1-ARGM-ADV 10:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 15 gold 旺-v 旺.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 11:0*11:1*12:0*12:1*18:1-ARG0
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 23 gold 讨-v 讨.01 ----- 23:0-rel 6:1-ARG0 7:1-ARGM-ADV 22:1-ARGM-DIS 25:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 24 gold 得-v 得.01 ----- 24:0-rel
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 27 gold 拿到-v 拿到.01 ----- 27:0-rel 6:1-ARG0 7:1-ARGM-ADV 22:1-ARGM-DIS 28:3-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 32 gold 想-v 想.01 ----- 32:0-rel 29:2-ARG0 31:1-ARGM-ADV 33:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 34 gold 拥有-v 拥有.01 ----- 34:0-rel 33:1-ARG0 28:1*35:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 1 51 gold 可以-v 可以.01 ----- 51:0-rel
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 4 gold 有-v 有.01 ----- 4:0-rel 0:1-ARGM-ADV 2:1-ARG0 3:1-ARGM-DIS 5:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 10 gold 到-v 到.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 15 gold 欣赏-v 欣赏.01 ----- 15:0-rel 9:1-ARG0 16:3-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 20 gold 多-v 多.03 ----- 20:0-rel 16:1*17:1*24:1-ARG0 18:1-ARGM-TMP 19:1-ARGM-ADV
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 30 gold 说-v 说.01 ----- 30:0-rel 26:1-ARG0 28:2-ARGM-ADV 32:3-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 40 gold 看-v 看.02 ----- 40:0-rel 32:1-ARGM-TMP 33:1-ARG0 34:1-ARGM-MNR 41:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 46 gold 为由-v 为由.01 ----- 46:0-rel 32:1-ARGM-TMP 33:1-ARG0 43:1-ARGM-DIS 44:1-ARGM-MNR
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 48 gold 封锁-v 封锁.01 ----- 48:0-rel 32:1-ARGM-TMP 33:1-ARG0 43:1-ARGM-DIS 47:1-ARGM-ADV 49:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 53 gold 要-v 要.05 ----- 53:0-rel 51:1-ARGM-TMP 52:1-ARG0 54:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 57 gold 立国-v 立国.01 ----- 57:0-rel 54:1-ARG0 55:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 58 gold 必须-v 必须.01 ----- 58:0-rel
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 59 gold 要-v 要.05 ----- 59:0-rel 51:1-ARGM-TMP 52:1-ARG0 53:1-ARG0 60:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 61 gold 认识-v 认识.01 ----- 61:0-rel 51:1-ARGM-TMP 52:1-ARG0 60:1-ARGM-ADV 62:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 68 gold 召集-v 召集.01 ----- 68:0-rel 64:1*65:1*69:1*72:1-ARG1 66:1-ARG0
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 76 gold 准备-v 准备.02 ----- 76:0-rel 64:3-ARG0 75:1-ARGM-ADV 77:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 80 gold 到-v 到.01 ----- 80:0-rel 77:1-ARG0 78:1-ARGM-TMP 81:2-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 83 gold 来-v 来.05 ----- 83:0-rel 77:1-ARG0 78:1-ARGM-TMP 84:1-ARG1
+bn/cts/02/cts_0269@0269@cts@bn@ch@on 2 84 gold 寻访-v 寻访.01 ----- 84:0-rel 77:1-ARG0 78:1-ARGM-TMP

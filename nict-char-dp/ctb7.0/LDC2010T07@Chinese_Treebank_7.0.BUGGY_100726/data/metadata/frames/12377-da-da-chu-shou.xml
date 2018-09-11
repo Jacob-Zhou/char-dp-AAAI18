@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 大打出手 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 双方))
+                    (VP (VP (VV 理论))
+                    (VP (VCD (VV 一言不和)
+                    (VV 大打出手))) 
+                    
+                </parse>
+                <arg n="0">
+                    双方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

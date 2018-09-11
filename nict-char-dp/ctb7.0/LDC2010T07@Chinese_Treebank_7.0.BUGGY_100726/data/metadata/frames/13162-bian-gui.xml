@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 变轨 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 当)
+                    (LCP (IP (NP-SBJ (NN 飞船))
+                    (VP (PP-ADV (P 绕)
+                    (NP (NN 地球)))
+                    (VP (VV 飞行)
+                    (NP-EXT (QP (OD 第１４))
+                    (NP (NN 圈))))))
+                    (LC 时)))
+                    (PU ，)
+                    (NP-SBJ (NN 飞船))
+                    (VP (DVP (VP (VA 成功))
+                    (DEV 的))
+                    (VP (VV 进行)
+                    (AS 了)
+                    (NP-OBJ (NN 变轨))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    当 飞船 绕 地球 飞行 第１４ 圈 时          
+                </arg>
+                <arg n="1">
+                    飞船          
+                </arg>
+                <arg n="m" f="adv">
+                    成功 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

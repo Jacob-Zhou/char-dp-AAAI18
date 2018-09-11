@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="严重-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="grave (describing a situation)" group="1">
+<commentary>
+</commentary>
+<examples>
+造成 的 损失 严重
+人才 流失 严重
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="serious (describing the attitude of a person)" group="1">
+<commentary>
+</commentary>
+<examples>
+他 将 去函 向 拉孔丁克 严重 的 抗议
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="(disease) severe" group="1">
+<commentary>
+</commentary>
+<examples>
+患上 了 严重 的 小儿麻痹 后遗症
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="295" ann_1_2_agreement="0.440677966102" />
+</inventory>

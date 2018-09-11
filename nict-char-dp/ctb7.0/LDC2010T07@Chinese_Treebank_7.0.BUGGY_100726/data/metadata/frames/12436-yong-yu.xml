@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 勇于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing arg0 is brave about to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (NP-PN (NR 三峡))
+                    (NP (NN 建设)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 要)
+                    (VP (VP (VV 勇于)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 探索)))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    三峡 建设          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    探索          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="倾-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to exert oneself, to use up one's resources" group="1">
+<commentary>
+</commentary>
+<examples>
+北票 市政府 近年 来 加大 了 对 鸟 化石 自然 保护区 的 投入 和 保护 力度 ， 目前 正在 倾 全力 建设 一 座 三千五百多 平方米 的 “ 北票 古鸟馆 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接机 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VSB (VV 前来)
+                    (VV 接机))))
+                    (DEC 的)))
+                    (ADJP (JJ 好))
+                    (NP (NN 朋友))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 朋友          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

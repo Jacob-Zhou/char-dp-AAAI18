@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id>  </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 takes seriously"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    ((IP (IP-CND (IP-TPC (NP-SBJ (NN 韩圜))
+                    (VP (VV 贬值)))
+                    (PU ，)
+                    (NP-SBJ (DNP (PP (P 对)
+                    (NP (NP-PN (NR 台湾))
+                    (NP (NN 产业))))
+                    (DEG 的))
+                    (NP (NN 冲击)
+                    (NN 程度)))
+                    (VP (ADVP (CS 虽然))
+                    (VP (ADVP (AD 还))
+                    (VP (VP (VV 需要)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 段)))
+                    (NP (NN 时日))))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 会)
+                    (VP (VA 明朗))))))))
+                    (PU ，)
+                    (ADVP (AD 但))
+                    (NP-SBJ (NN 业者))
+                    (VP (ADVP (AD 莫))
+                    (ADVP (AD 不))
+                    (VP (VV 严阵以待)))
+                    (PU 。))) 
+                    
+                </parse>
+                <arg n="0">
+                    业者	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    韩圜 贬值 对 台湾 产业 的 冲击 程度 虽然 还 需要 一段 时日才 会 明朗 	  	  
+                </arg>
+                <arg n="m" f="dis">
+                    但	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    莫  	  
+                </arg>
+                <arg n="m" f="adv">
+                    不 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

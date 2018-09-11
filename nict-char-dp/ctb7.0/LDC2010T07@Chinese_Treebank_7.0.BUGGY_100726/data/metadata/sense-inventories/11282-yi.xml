@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="意-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to expect, to anticipate" group="1">
+<commentary>
+</commentary>
+<examples>
+真是 出 我 不 意 ， 攻 我 不 备
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="meaning, indication" group="1">
+<commentary>
+</commentary>
+<examples>
+台语 「 不 知道 」 之 意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="desire, intention, wish" group="1">
+<commentary>
+</commentary>
+<examples>
+意 在 书 墨 情 定 金石
+醉翁 之 意 不 在 酒
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="thought, idea, opinion" group="1">
+<commentary>
+</commentary>
+<examples>
+七 小时 后 又 被 新党 说服 而 打消 此 意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="abbreviation of Italy" group="1">
+<commentary>
+</commentary>
+<examples>
+在 中 、 日 、 意 等 国 专家 通力 合作 下
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="遂-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to fulfill, to satisfy, to gratify" group="1">
+<commentary>
+</commentary>
+<examples>
+古力特 以前 是 想 引进 球员 而 手 中 无 钱 ， 现在 好不容易 有 钱 了 却 也 难 遂 心愿
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="then, therefore" group="1">
+<commentary>
+</commentary>
+<examples>
+但 昭 宣 之后 ， 西汉 末 的 社会 发展 让 儒生 失望 ， 鼓吹 「 让国 」 之 声 遂 不断 响起
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

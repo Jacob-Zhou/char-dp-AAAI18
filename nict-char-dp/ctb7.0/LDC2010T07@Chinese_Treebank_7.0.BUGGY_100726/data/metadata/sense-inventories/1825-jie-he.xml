@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="结合-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to combine, to unite (of people or things)" group="1">
+<commentary>
+</commentary>
+<examples>
+为 规范 建筑 行为 ， 防止 出现 无序 现象 ， 新区 管委会 根据 国家 和 上海市 的有关 规定 ， 结合 浦东 开发 实际 ， 及时 出台 了 一 系列 规范 建设 市场 的 文件
+作为 三峡 工程 主承保商 ， 中保 财产 保险 公司 把 自身 发展 与 三峡 风险 管理 需要 结合 起来
+整 个 地区 的 使馆 将 朝向 结合 成为 一 个 更 有 效率 、 资源 更 丰富 的 使领馆
+西门子 会 将 东北 地区 的 业务 与 当地 的 经济 发展 结合 起来
+江西 近年 来 注重 把 引进 外资 与 加快 基础 设施 建设 、 拓展 生产力 布局 、 调整 产品 结构 和 改造 传统 产业 紧密 结合 起来
+朱（容加金旁）基 要求 ， 库区 企业 搬迁 ， 要 与 经济 结构 和 企业 结构 调整 紧密 结合 起来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to unite as man and wife, to join in wedlock" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be related" group="1">
+<commentary>
+</commentary>
+<examples>
+他 以 政治 人物 为 例 ， 配合 着 一 个 视觉 的 时代 ， 现代 政治 与 表演 密切 结合 ， 男性 政治 人物 也 重视 起 外型 、 服饰 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="102" ann_1_2_agreement="0.696078431373" />
+</inventory>

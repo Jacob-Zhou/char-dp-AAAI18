@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 砸毁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 damages"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一些))
+                    (NP (NN 示威者)))
+                    (VP (VP (PP-LOC (P 在)
+                    (NP (NN 街上)))
+                    (VP (VV 放火)))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (VP (VV 砸毁)
+                    (NP-OBJ (DNP (NP (NN 酒店))
+                    (DEG 的))
+                    (NP (NN 玻璃)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一些 示威者          
+                </arg>
+                <arg n="m" f="dis">
+                    并且          
+                </arg>
+                <arg n="1">
+                    酒店 的 玻璃          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

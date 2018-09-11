@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 商订 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing decided"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-ADV (P 与)
+                    (NP (NN 他人)))
+                    (VP (VV 商订)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 交易)
+                    (NP-OBJ (NP-APP (NN 毒品))
+                    (NP (NN 海洛因)))
+                    (NP-EXT (-NONE- *T*-1)))
+                    (DEC 的))))
+                    (NP (NN 数量)
+                    (NN 价格)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="0" f="crd">
+                    与 他人          
+                </arg>
+                <arg n="1">
+                    交易 毒品 海洛因 的 数量 价格          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

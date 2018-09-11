@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="熟-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="cooked, done" group="1">
+<commentary>
+</commentary>
+<examples>
+用 绞肉 混和 切碎 的 葱 、 姜 、 蒜 等 材料 及 七 分 熟 的 面线 一起 搅拌 后 ， 搓成 丸子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="experienced, skilled, practiced, mature" group="1">
+<commentary>
+</commentary>
+<examples>
+耳顺 之 年 以后 ， 王壮为 自 号 「 渐斋 」 ， 自称 「 渐叟 」 ， 为 自己 刻 了 一 印 ： 「 渐 老 渐 熟 ， 渐 熟 渐 离 ， 渐 离 见近于 平淡 自然 。 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to ripe" group="1">
+<commentary>
+</commentary>
+<examples>
+相对于 杀鸡取卵 、 拦截 未 熟 小卷 的 渔民 ， 东港 捕捞 樱花虾 的 渔民 就 成功 地 达到 与 大海 共舞 的 成果
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="familiar, acquainted" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="6" ann_1_2_agreement="0.833333333333" />
+</inventory>

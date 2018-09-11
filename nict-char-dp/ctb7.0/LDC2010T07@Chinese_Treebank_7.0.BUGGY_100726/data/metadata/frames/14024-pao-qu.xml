@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 跑去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 凌晨))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 趁着)
+                    (IP (NP-SBJ (NN 家人))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 在)))))
+                    (PU ，)
+                    (VP (VCD (VV 跑去)
+                    (VV 上厕所))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    凌晨          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    趁着 家人 不 在          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 气愤 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 卖)
+                    (NP-OBJ (NN 米))))
+                    (DEC 的)))
+                    (NP (NN 欧巴桑)))
+                    (VP (VP (ADVP (AD 最))
+                    (VP (VA 气愤))) 
+                    
+                </parse>
+                <arg n="0">
+                    卖 米 的 欧巴桑          
+                </arg>
+                <arg n="m" f="adv">
+                    最          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

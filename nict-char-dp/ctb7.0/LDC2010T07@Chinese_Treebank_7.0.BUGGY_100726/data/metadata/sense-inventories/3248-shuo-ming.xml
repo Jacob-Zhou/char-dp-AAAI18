@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="说明-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to explain, to illustrate" group="1">
+<commentary>
+</commentary>
+<examples>
+惩教署 在 新 的 修订 施行 之前 已 说明 有关 信件 ， （ 一 ） 不 得 予以 开启 或 搜查 ， 但 如 该 信件 是 在 该 囚犯 面前 开启 和 搜查 的 ， 或 该 囚犯 表示 不 欲 在 该 信件 开启 和 搜查 时 在场 ， 则 属 例外 ； 及 （ 二 ） 不 得 予以 阅读
+他 又 列举 一些 重要 数据 ， 说明 香港 经济 依赖 服务业 的 程度
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to show, to indicate" group="1">
+<commentary>
+</commentary>
+<examples>
+中国队 代表团 团长 张健 在 评论 中国 选手 的 表现 时 说 ， 男 选手 的 成绩 是 近 １０ 年 来 最 差 的 一 次 ， 说明 水平 在 下降
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to report" group="1">
+<commentary>
+</commentary>
+<examples>
+为了 克林顿 平壤 之 行 铺路 的 奥尔布赖特 将 在 平壤 停留 到 ２５号 ， 接着 将 搭乘 专机 寻着 南 、 北韩 黄海 直航 航线 飞往 汉城 访问 ， 向 南韩 总统 金大中 以及 高层 人士 说明 平壤 之 行 的 成果
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="(noun) explanation" group="1"><commentary>
+</commentary>
+<examples>
+我们 买 陶土 时 ， 第一 件 事 大概 是 去 看 文字 说明
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to prove, to verify" group="1"><commentary>
+</commentary>
+<examples>
+这 一 个 三千多 年 前 ， 被 中原 认为 蛮夷之地 的 「 三星堆 文明 」 ， 与 近年 来 陆续 出土 的 良渚 文化 、 红山 文化 等 ， 再次 说明 了 中华 文化 的 摇篮 不 限于 黄河 流域 的 一 元 中心 论
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="118" ann_1_2_agreement="0.593220338983" />
+</inventory>

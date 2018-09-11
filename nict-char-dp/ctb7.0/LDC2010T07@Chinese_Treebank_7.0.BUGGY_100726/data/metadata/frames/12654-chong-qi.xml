@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 重启 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme that arg0 reopens"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 能够)
+                    (VP (VV 重启)
+                    (NP-OBJ (NN 山门)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    山门          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

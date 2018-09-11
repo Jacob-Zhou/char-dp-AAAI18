@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 化一 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 演出者)
+                    (NN 动作))
+                    (VP (VA 化一)))
+                    (DEC 的)))
+                    (NP (NN 表演))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    *T*-1 -> 表演          
+                </arg>
+                <arg n="0" f="pse">
+                    演出者 动作          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

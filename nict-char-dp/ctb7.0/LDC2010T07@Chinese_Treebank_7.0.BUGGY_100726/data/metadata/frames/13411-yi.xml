@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 疑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing suspected"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但))
+                    (IP-PRP (NP-SBJ (NN 歹徒)
+                    (NN 精神))
+                    (VP (VA 恍惚)))
+                    (NP (-NONE- *pro*))
+                    (VP (VV 疑)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VC 是)
+                    (VP (VV 吸食)
+                    (NP-OBJ (NN 毒品))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="m" f="prp">
+                    歹徒 精神 恍惚          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    是吸食 毒品          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 手写 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme written"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-DIR (-NONE- *T*-2))
+                    (VP (VV 汇款))))
+                    (DEC 的)))
+                    (NP (NN 账号)))
+                    (CC 和)
+                    (NP (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 勒索)
+                    (NP-OBJ (-NONE- *T*-3))))
+                    (DEC 的)))
+                    (NP (NN 金额))))
+                    (VP (VC 是)
+                    (VP (VV 手写))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    汇款 的 账号 和 勒索 的 金额          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

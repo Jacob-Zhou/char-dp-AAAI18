@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 滚滚而下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 只要))
+                    (CP (IP (NP-SBJ (NN 雨势))
+                    (VP (VV 加大)))
+                    (SP 的话)))
+                    (PU ，)
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 松软)))
+                    (DEC 的)))
+                    (NP (NN 土石)))
+                    (VP (ADVP (AD 还是))
+                    (VP (VV 会)
+                    (VP (DVP (VP (VV 继续))
+                    (DEV 的))
+                    (VP (VV 滚滚而下))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    只要 雨势 加大 的话           
+                </arg>
+                <arg n="0">
+                    松软 的 土石          
+                </arg>
+                <arg n="m" f="adv">
+                    还是          
+                </arg>
+                <arg n="m" f="adv">
+                    继续 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

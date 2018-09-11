@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喜结连理 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-APP (ADJP (JJ 雌性))
+                    (NP (NN 熊猫)))
+                    (NP-PN (NR 美香)))
+                    (CC 和)
+                    (NP (NP-APP (ADJP (JJ 雄性))
+                    (NP (NN 熊猫)))
+                    (NP-PN (NR 天天))))
+                    (VP (ADVP (AD 将))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 美国)))
+                    (VP (VV 喜结连理))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    雌性 熊猫 美香 和 雄性 熊猫 天天          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="loc">
+                    在 美国          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="作-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to do (a survey), to make (an statement, a trip, or a promise)" group="1">
+<commentary>
+</commentary>
+<examples>
+世界 贸易 组织 总干事 鲁杰罗 将 出席 并 作 专题 演讲
+美国 国务卿 奥尔布赖特 已经 在 １０月 前往 北韩 作 了 一 次 破冰 之 旅
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to serve as, to function as" group="1">
+<commentary>
+</commentary>
+<examples>
+去年 十月 ， 中国 进出口 银行 聘请 日本 野村 证券 公司 作 顾问 ， 向 日本 著名 的 评级 机构 日本 公社债 研究所 提出 正式 评级 申请
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to make (a verb)" group="1">
+<commentary>
+</commentary>
+<examples>
+要 和平 就 要 作 痛苦 的 让步
+作 了 重大 调整
+作 必要 的 努力
+商讨 后 再 作 决定
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to be used as" group="1">
+<commentary>
+</commentary>
+<examples>
+曾 荣获 国家 重大 发明 奖 的 以 氮 作 保护气 直拉 硅 单晶 技术
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="perform Sunday service" group="1">
+<commentary>
+</commentary>
+<examples>
+许多 基督徒 仍然 愿意 在 地下 教会 作 礼拜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to compose, to create" group="1">
+<commentary>
+</commentary>
+<examples>
+这 是 谭盾 与 华艺 大提琴家 马友友 合作 的 演出 ， 为 香港 回归 音乐会 所 作 的 《 天地人 》 舞曲
+古早 的 瓦 就 这么 美 ， 现代人 可能 都 作 不 出来 喔
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to engage (in a certain type of business)" group="1">
+<commentary>
+</commentary>
+<examples>
+许多 业者 都 习惯 接 什么 单 就 做 什么 ， 于是 今天 作 防水 布 加工 ， 明天 作 帐篷 布
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="to have (a dream)" group="1">
+<commentary>
+</commentary>
+<examples>
+马修．连恩 作梦 也 想 不 到 ， 他 的 第一 张 双 白金 CD 是 在 台湾 创下 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to produce (a show)" group="1">
+<commentary>
+</commentary>
+<examples>
+结果 华视 作 槟榔 西施 ， 中视 就 作 宾馆 的 针孔 摄影机 ， 台视 就 作 台中 的 辣妹 红茶
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="to perform (a medical examination)" group="1">
+<commentary>
+</commentary>
+<examples>
+初 次 检查 有 问题 的 学童 ， 再 作 复检 时 往往 没有 问题
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="to make a big deal" group="1">
+<commentary>
+</commentary>
+<examples>
+大 作 文章
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="12" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="183" ann_1_2_agreement="0.748633879781" />
+</inventory>

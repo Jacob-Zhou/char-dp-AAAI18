@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 招魂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-2 (-NONE- *T*-1))
+                    (VP (SB 被)
+                    (VP (ADVP (AD 活活))
+                    (VP (VV 淹死)
+                    (NP-OBJ (-NONE- *-2))))))
+                    (DEC 的)))
+                    (NP (NN 罹难者)))
+                    (NP (NN 家属)))
+                    (VP (VP-FOC (VV 前来)
+                    (VP (VV 招魂))) 
+                    
+                </parse>
+                <arg n="0">
+                    被 活活 淹死 的 罹难者 家属          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 戒掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="habit gotten rid of"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (PN 他))
+                    (VP (VP (ADVP (AD 始终))
+                    (ADVP (AD 无法))
+                    (VP (VV 戒掉)
+                    (NP-OBJ (NN 毒瘾))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    始终          
+                </arg>
+                <arg n="m" f="adv">
+                    无法          
+                </arg>
+                <arg n="1">
+                    毒瘾          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

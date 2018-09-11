@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 斩尽杀绝 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity eliminated"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 高抬贵手))
+                    (PU ，)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 要)
+                    (VP (VP (VV 斩尽杀绝))
+                    (PU 、)
+                    (VP (VV 落井下石))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

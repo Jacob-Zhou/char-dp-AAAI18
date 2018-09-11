@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 全长 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="length"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 全长)
+                    (QP-EXT (CD ３４２８)
+                    (CLP (M 公里)))))
+                    (DEC 的)))
+                    (NP-PN (NP (NR 兰新)
+                    (PU －)
+                    (NR 陇海))
+                    (NP (NN 铁路)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 兰新 － 陇海 铁路          
+                </arg>
+                <arg n="1">
+                    ３４２８ 公里          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

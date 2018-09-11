@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 残破不堪 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (VV 满目疮痍))
+                    (PU ，)
+                    (VP (VV 残破不堪))
+                    (PU ，)
+                    (VP (NP-FOC-3 (ADVP (AD 连))
+                    (NP (QP (CD 一)
+                    (CLP (M 家)))
+                    (NP (NN 商店))))
+                    (ADVP (AD 都))
+                    (VP (VE 没有)
+                    (NP-OBJ (-NONE- *-3))))))
+                    (DEC 的)))
+                    (ADJP (JJ 小))
+                    (NP (NN 镇)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 镇          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

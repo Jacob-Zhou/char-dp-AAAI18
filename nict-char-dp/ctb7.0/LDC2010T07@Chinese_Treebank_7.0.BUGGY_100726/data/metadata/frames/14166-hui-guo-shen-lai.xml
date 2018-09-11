@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 回过神来 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 吓)
+                    (AS 了)
+                    (VP-EXT (ADVP (AD 一))
+                    (VP (VV 跳))))
+                    (PU ，)
+                    (VP (VP (VV 回过神来))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

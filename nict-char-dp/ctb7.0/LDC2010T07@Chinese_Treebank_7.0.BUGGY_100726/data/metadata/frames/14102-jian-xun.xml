@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 监讯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme investigated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (-NONE- *pro*))
+                    (VP (ADVP (AD 正在))
+                    (ADVP (AD 详细))
+                    (VP (VV 监讯)
+                    (NP (DNP (NP (NN 死者))
+                    (DEG 的))
+                    (NP (NN 先生))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    正在          
+                </arg>
+                <arg n="m" f="adv">
+                    详细          
+                </arg>
+                <arg n="1">
+                    死者 的先生          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

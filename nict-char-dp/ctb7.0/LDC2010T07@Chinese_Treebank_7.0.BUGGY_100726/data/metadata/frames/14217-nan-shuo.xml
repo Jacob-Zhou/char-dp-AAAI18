@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 难说 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing hard to determine"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但))
+                    (NP-SBJ (DNP (PP (P 有关)
+                    (NP (NP-PN (NR 塞尔维亚))
+                    (NP (NN 总统))))
+                    (DEG 的))
+                    (NP (NN 事情)))
+                    (PU ，)
+                    (VP (ADVP (AD 就))
+                    (ADVP (AD 很))
+                    (VP (VV 难说)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="1">
+                    有关 塞尔维亚 总统 的 事情          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    很          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

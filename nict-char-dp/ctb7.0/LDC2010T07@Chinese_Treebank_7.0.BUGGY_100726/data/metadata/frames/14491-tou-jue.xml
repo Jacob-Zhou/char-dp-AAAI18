@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷掘 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="digger"/>
+        <role argnum="1" argrole="thing digged"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 深圳))
+                    (NP (NN 恶霸)))
+                    (VP (VP (VV 偷掘)
+                    (NP-OBJ (NN 港人)
+                    (NN 祖坟)))
+                    (VP (VV 敛财))) 
+                    
+                </parse>
+                <arg n="0">
+                    深圳 恶霸          
+                </arg>
+                <arg n="1">
+                    港人 祖坟          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

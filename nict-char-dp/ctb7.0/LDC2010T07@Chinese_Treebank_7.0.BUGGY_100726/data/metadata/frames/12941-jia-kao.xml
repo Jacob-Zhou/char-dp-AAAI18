@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加考 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent giving exam"/>
+        <role argnum="1" argrole="participant taking exame"/>
+        <role argnum="2" argrole="exam"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP (DNP (NP (NN 甄选)
+                    (NN 入学))
+                    (DEC 的))
+                    (QP (OD 第二))
+                    (NP (NN 阶段))))
+                    (VP (VV 加考)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 包括)
+                    (NP-OBJ (NP-APP (NN 语文)
+                    (NN 能力)
+                    (PU 、)
+                    (NN 科学)
+                    (NN 能力)
+                    (ETC 等))
+                    (NP (NN 项目)))))
+                    (DEC 的)))
+                    (NP (NN 纸笔)
+                    (NN 测验))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="loc">
+                    在 甄选 入学 的 第二 阶段          
+                </arg>
+                <arg n="1">
+                    包括 语文 能力 、 科学 能力 等 项目 的 纸笔 测验          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

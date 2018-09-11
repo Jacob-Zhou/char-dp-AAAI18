@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="多-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to increase" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 出生 一 周 后 ， 他们 的 状况 仍然 良好 ， 那么 存活 的 希望 就 又 多 了 一 分 。 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to become existent" group="1">
+<commentary>
+</commentary>
+<examples>
+菜地 里 多 了 绿油油 的 西生菜 、 西芹菜 、 西花菜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="many, much, plenty, multiple" group="1">
+<commentary>
+</commentary>
+<examples>
+合资 企业 更 多
+由 沿海 、 沿边 、 沿江 向 腹地 推进 的 多 领域 、 多 层次 的 对 外 开放 总体 格局
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="more, over, odd (used with a number)" group="1">
+<commentary>
+</commentary>
+<examples>
+三 年 多 来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="how, to denote the surprise or doubt of the following adjective, adverb, etc" group="1">
+<commentary>
+</commentary>
+<examples>
+国外 目前 普遍 使用 的 各 种 化学 合成 降糖 药 对 糖尿病 并发症 均 无 多 大 防治 作用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="much more, indicating the extent of a situation" group="1">
+<commentary>
+</commentary>
+<examples>
+黄春明 相对 就 温和 得 多
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="mostly, most, for the most part, majority" group="1">
+<commentary>
+</commentary>
+<examples>
+但 因为 中午 时段 及 六点半 档 多 以 妇女 与 老年 观众群 为 对象
+当时 舆论 多 认为 台语 是 《 爱 》 异军突起 的 原因
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="frequent, frequently" group="1">
+<commentary>
+</commentary>
+<examples>
+一定 要 多 来 找 我
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to have plenty of (used in front of nouns), to produce abundantly or extensively (of a place, etc.), to abound with, to abound in" group="1">
+<commentary>
+</commentary>
+<examples>
+多 蛇 的 亚热带 台湾
+在 老饕 眼 中 肥美 多 肉
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="more than (required), too many (e.g. over the limit)" group="1">
+<commentary>
+</commentary>
+<examples>
+唉呀 ， 妈妈 不 小心 多 查 了 嘛
+希望 能 多 赚 点 钱 挹注 学校
+少 用 一 份 塑胶袋 ， 多 尽 一 份 环保 心
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="surplus, excess" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="12" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="272" ann_1_2_agreement="0.856617647059" />
+</inventory>

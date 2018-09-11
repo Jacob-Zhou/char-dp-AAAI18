@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一秉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="principle/"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 台北市)
+                    (NN 教育局))
+                    (VP (VV 能)
+                    (VP (VP (VV 一秉)
+                    (NP-OBJ (CP-APP (IP (NP-TMP (NT 过去))
+                    (NP-SBJ (NP (NN 中央)
+                    (CC 与)
+                    (NN 地方))
+                    (NP (NN 主管)
+                    (NN 教育)
+                    (NN 行政)
+                    (NN 机构)))
+                    (VP (ADVP (AD 共同))
+                    (VP (VV 致力)
+                    (NP-OBJ (NN 教育)
+                    (NN 改革)))))
+                    (DEC 的))
+                    (NP (NN 合作)
+                    (NN 精神)))) 
+                    
+                </parse>
+                <arg n="0">
+                    台北市 教育局          
+                </arg>
+                <arg n="1">
+                    过去 中央 与 地方 主管 教育 行政 机构共同 致力 教育 改革 的 合作 精神          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,7 @@
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 0 4 gold 宣布-v 宣布.01 ----- 4:0-rel 0:3-ARG0 3:1-ARGM-TMP 6:2-ARG1
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 0 7 gold 取消-v 取消.01 ----- 7:0-rel 6:1-ARG0 8:3-ARG1
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 1 6 gold 说-v 说.01 ----- 6:0-rel 0:1-ARG0 1:1-ARGM-LOC 8:2-ARG1
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 1 10 gold 下令-v 下令.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 1 13 gold 解除-v 解除.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:3-ARG1
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 1 28 gold 考虑-v 考虑.01 ----- 28:0-rel 8:1-ARG0 26:1-ARGM-DIS 27:1-ARGM-ADV 29:2-ARG1
+bn/cnr/00/cnr_0018@0018@cnr@bn@ch@on 1 30 gold 取消-v 取消.01 ----- 30:0-rel 29:1-ARG0 31:3-ARG1

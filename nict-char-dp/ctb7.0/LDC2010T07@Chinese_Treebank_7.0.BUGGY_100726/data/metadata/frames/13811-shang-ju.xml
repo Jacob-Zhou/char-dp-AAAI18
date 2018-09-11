@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 上举 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme lifted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 双))
+                    (NP (NN 手)))
+                    (VP (VV 上举))) 
+                    
+                </parse>
+                <arg n="1">
+                    双 手          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

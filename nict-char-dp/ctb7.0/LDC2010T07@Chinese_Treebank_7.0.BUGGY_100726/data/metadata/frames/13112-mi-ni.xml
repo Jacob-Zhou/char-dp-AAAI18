@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 迷你 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (NP-LOC (DP (DT 全))
+                    (NP (NN 国)))
+                    (ADVP (AD 最))
+                    (VP (VA 迷你))))
+                    (DEC 的)))
+                    (NP (NN 早产儿))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 早产儿          
+                </arg>
+                <arg n="m" f="loc">
+                    全 国          
+                </arg>
+                <arg n="m" f="adv">
+                    最          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

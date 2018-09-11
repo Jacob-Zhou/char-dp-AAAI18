@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 流窜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location that arg0 flees to/in"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这个))
+                    (NP (NN 集团)))
+                    (VP (VP (VV 流窜)
+                    (PP (P 在)
+                    (NP-OBJ (NP (DP (DT 全))
+                    (NP (NN 省)))
+                    (DP (DT 各))
+                    (NP (NN 地))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这个 集团          
+                </arg>
+                <arg n="1">
+                    在 全 省 各 地          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 色情)
+                    (NN 业者))
+                    (VP (ADVP (AD 再))
+                    (VP (VP (VRD (VV 流窜)
+                    (VV 到))
+                    (NP-OBJ (DP (DT 别的))
+                    (NP (NN 地方))))
+                    (VP (VV 继续)
+                    (VP (VV 营业))))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    色情 业者          
+                </arg>
+                <arg n="1">
+                    别的 地方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

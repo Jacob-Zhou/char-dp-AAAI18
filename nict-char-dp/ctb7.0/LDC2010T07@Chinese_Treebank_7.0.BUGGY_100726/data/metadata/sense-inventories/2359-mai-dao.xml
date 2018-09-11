@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="卖到-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to sell to (place, market, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+可以 用 更 低廉 的 价格 把 货品 卖到 以 美元 计价 的 国际 市场 去
+风险 分摊 的 结果 ， 不管 产品 卖到 哪里 、 在 哪里 生产 ， 钱 都 扎扎实实 地 落进 台商 的 口袋 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to sell something at a certain price" group="1">
+<commentary>
+</commentary>
+<examples>
+生产 成本 约 三 、 四 美元 一 颗 的 16MbD-RAM ， 在 最 低 时 只 能 卖到 一．七 美元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to achieve a result by selling somthing" group="1">
+<commentary>
+</commentary>
+<examples>
+「 怎麽 卖 肉松 也 能 卖到 那麽 发达
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

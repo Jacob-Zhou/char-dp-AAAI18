@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 意犹未尽 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (NN 参观))
+                    (VP (VV 结束)))
+                    (LC 后))
+                    (PU ，)
+                    (NP-SBJ (ADJP (JJ 老))
+                    (NP (NN 将军们)))
+                    (VP (VP (VV 意犹未尽)) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    参观 结束 后          
+                </arg>
+                <arg n="0">
+                    老 将军们          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 并 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing merged"/>
+        <role argnum="2" argrole="something arg1 is merged into"/>
+        <role argnum="3" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (SB 被)
+                    (VP (VV 并)
+                    (NP-OBJ (-NONE- *T*-3))))))
+                    (NP (NN 企业))) 
+                    
+                </parse>
+                <arg n="1">
+                    企业	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

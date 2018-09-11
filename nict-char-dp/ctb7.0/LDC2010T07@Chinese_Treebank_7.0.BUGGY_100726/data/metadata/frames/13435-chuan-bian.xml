@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 传遍 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="news/information spreaded"/>
+        <role argnum="2" argrole="domain"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP (NN 硕士)
+                    (NN 研究生))
+                    (NP (NN 连长)))
+                    (NP (NN 美名)))
+                    (VP (VV 传遍)
+                    (NP-OBJ (DP (DT 全))
+                    (NP (NN 国))))) 
+                    
+                </parse>
+                <arg n="1">
+                    硕士 研究生 连长 美名          
+                </arg>
+                <arg n="2">
+                    全 国          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

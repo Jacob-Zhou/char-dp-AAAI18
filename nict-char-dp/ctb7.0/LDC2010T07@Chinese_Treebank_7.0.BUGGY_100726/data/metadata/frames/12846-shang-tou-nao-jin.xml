@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 伤透脑筋 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing that troubles arg0"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但))
+                    (NP-PN-SBJ (NR 育英)
+                    (NN 国中))
+                    (VP (PP-DIR (P 对于)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 如何))
+                    (ADVP (AD 妥善))
+                    (VP (VV 照顾)
+                    (NP-OBJ (PN 她))))))
+                    (ADVP (AD 却))
+                    (VP (VV 伤透脑筋)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="0">
+                    育英 国中          
+                </arg>
+                <arg n="1">
+                    对于 如何 妥善 照顾 她          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

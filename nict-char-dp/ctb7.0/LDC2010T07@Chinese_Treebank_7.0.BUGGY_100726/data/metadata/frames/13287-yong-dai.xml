@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拥戴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity supported"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-3 (-NONE- *T*-1))
+                    (VP (ADVP (AD 一度))
+                    (VP (LB 受)
+                    (IP-OBJ (NP-SBJ (NN 人民))
+                    (VP (VV 拥戴)
+                    (NP-OBJ (-NONE- *-3)))))))
+                    (DEC 的)))
+                    (NP-PN (NR 米洛舍维奇))) 
+                    
+                </parse>
+                <arg n="0">
+                    人民          
+                </arg>
+                <arg n="m" f="adv">
+                    一度          
+                </arg>
+                <arg n="1">
+                    *-3 -> 米洛舍维奇          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

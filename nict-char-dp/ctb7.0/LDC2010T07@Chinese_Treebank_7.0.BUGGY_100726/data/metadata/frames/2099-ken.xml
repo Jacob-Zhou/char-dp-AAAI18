@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 肯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 代表们))
+                    (VP (VP (ADVP (AD 仍旧))
+                    (ADVP (AD 不))
+                    (VP (VV 肯)
+                    (VP (VV 发表)
+                    (NP-OBJ (DP (DT 任何))
+                    (NP (NN 评论)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

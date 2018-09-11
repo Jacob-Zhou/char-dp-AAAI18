@@ -1,0 +1,94 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 好 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 生态)
+                    (NN 环境))
+                    (VP (VA 好))) 
+                    
+                </parse>
+                <arg n="0">
+                    生态 环境 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="thing arg0 loves to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 好事者))
+                    (VP (ADVP (AD 多))
+                    (VP (VV 好)
+                    (NP-OBJ (NN 捶丸))))) 
+                    
+                </parse>
+                <arg n="0">
+                    好事者 	  
+                </arg>
+                <arg n="1">
+                    捶丸 	  
+                </arg>
+                <arg n="m" f="adv">
+                    多 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="level, point"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (LCP (NP (NN 火车))
+                    (LC 内)))
+                    (NP-SBJ (NN 情况))
+                    (VP (ADVP (AD 也))
+                    (ADVP (AD 没有))
+                    (VP (VP (VRD (VA 好)
+                    (VV 到))
+                    (NP-OBJ (PN 哪里)))
+                    (VP (VV 去)))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    在 火车 内	  
+                </arg>
+                <arg n="0">
+                    情况	  
+                </arg>
+                <arg n="m" f="dis">
+                    也	  
+                </arg>
+                <arg n="1">
+                    哪里	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

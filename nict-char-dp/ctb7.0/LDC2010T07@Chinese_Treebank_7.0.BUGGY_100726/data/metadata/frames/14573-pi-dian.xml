@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 匹敌 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 can match"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (VV 能够)
+                    (VP (VV 匹敌))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

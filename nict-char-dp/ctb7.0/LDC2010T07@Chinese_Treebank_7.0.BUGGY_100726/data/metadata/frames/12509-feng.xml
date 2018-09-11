@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 缝 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 stiches up whose wounds"/>
+        <role argnum="2" argrole="stitches"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NN 其中))
+                    (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 代表)))
+                    (VP (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 刀子))
+                    (VP (VV 刺伤)
+                    (AS 了)
+                    (NP-OBJ (NN 脖子)))))
+                    (VP (ADVP (AD 当场))
+                    (VP (VV 血流如注)))
+                    (PU ，)
+                    (VP (VP (VV 送医))
+                    (VP (VV 缝)
+                    (AS 了)
+                    (QP-OBJ (CD １５)
+                    (CLP (M 针))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    其中 一 名 代表          
+                </arg>
+                <arg n="2">
+                    １５ 针          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

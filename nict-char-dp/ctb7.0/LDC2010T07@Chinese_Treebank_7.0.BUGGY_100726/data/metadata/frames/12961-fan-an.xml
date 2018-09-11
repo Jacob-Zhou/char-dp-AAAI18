@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 翻案 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing whose judgement is reversed"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-BNF (P 为)
+                    (NP (CP-APP (IP (NP (NN 殖民主义)
+                    (CC 和)
+                    (NN 帝国主义))
+                    (VP (VV 侵略)
+                    (NP (NR 中国))))
+                    (DEC 的))
+                    (NP (NN 历史))))
+                    (VP (VV 翻案))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    为 殖民主义 和 帝国主义 侵略 中国 的 历史          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

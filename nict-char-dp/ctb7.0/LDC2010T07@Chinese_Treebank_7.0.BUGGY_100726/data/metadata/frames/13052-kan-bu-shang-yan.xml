@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 看不上眼 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing dissatisfied with"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                 
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-TPC (QP (CD 一)
+                    (CLP (M 堆)))
+                    (NP (NN 铜板)))
+                    (NP-SBJ (PN 他))
+                    (VP (VP (ADVP (AD 似乎))
+                    (VP (VV 看不上眼))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          	  
+                </arg>
+                <arg n="1">
+                    一 堆 铜板          	  
+                </arg>
+                <arg n="0">
+                    他          	  
+                </arg>
+                <arg n="m" f="adv">
+                    似乎          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,255 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 找 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 上图))
+                    (VP (VC 为)
+                    (NP-PRD (CP-APP (IP (NP-SBJ (NN 女奴)
+                    (NN 妹妹))
+                    (VP (VV 找)
+                    (NP-OBJ (NN 皇帝)
+                    (NN 哥哥))))
+                    (DEC 的))
+                    (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 镜头))))) 
+                    
+                </parse>
+                <arg n="0">
+                    女奴 妹妹 	  
+                </arg>
+                <arg n="1">
+                    皇帝 哥哥 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 由于)
+                    (IP (NP-SBJ (NP-PN (NR 邓相扬))
+                    (CC 与)
+                    (NP (NN 原住民)
+                    (NN 族群)))
+                    (VP (VP-FOC (VV 往来))
+                    (VP (VA 密切)))))
+                    (PU ，)
+                    (NP-SBJ (ADVP (AD 凡是))
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 研究)
+                    (NP-OBJ (NP (NN 中部)
+                    (NN 地区))
+                    (NP-PN (NR 南岛))
+                    (NP (NN 民族)))))
+                    (DEC 的)))
+                    (NP (NN 研究员)
+                    (PU 、)
+                    (NN 研究生))))
+                    (PU ，)
+                    (VP (ADVP (AD 一定))
+                    (VP (VP (VV 到)
+                    (NP-PN-OBJ (NR 埔里)))
+                    (VP (VV 找)
+                    (NP-PN-OBJ (NR 邓相扬))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 协助)))))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    由于 邓相扬 与 原住民族群 往来 密切	  
+                </arg>
+                <arg n="0">
+                    凡是 研究 中部 地区 南岛 民族 的 研究员 、 研究生 	  
+                </arg>
+                <arg n="m" f="adv">
+                    一定	  
+                </arg>
+                <arg n="1">
+                    邓相扬	  
+                </arg>
+                <arg n="2">
+                    协助	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 cannot find"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 有些))
+                    (NP (NN 国片)))
+                    (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 拍完)
+                    (AS 了)))
+                    (PU ，)
+                    (ADVP (AD 也))
+                    (VP (VNV (VV 找)
+                    (AD 不)
+                    (VV 到))
+                    (NP-OBJ (NN 戏院))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 上映)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    有些 国片 	  
+                </arg>
+                <arg n="m" f="adv">
+                    拍完 了	  
+                </arg>
+                <arg n="m" f="adv">
+                    也	  
+                </arg>
+                <arg n="1">
+                    戏院	  
+                </arg>
+                <arg n="2">
+                    上映	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 只是))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 澳洲)))
+                    (VP (VPT (VV 找)
+                    (AD 不)
+                    (VV 到))
+                    (NP-OBJ (NN 合作)
+                    (NN 对象))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    只是	  
+                </arg>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <arg n="m" f="loc">
+                    在 澳洲	  
+                </arg>
+                <arg n="1">
+                    合作 对象	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 can find"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TMP (CP-APP (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 刚))
+                    (VP (VV 开始))))
+                    (DEC 的))
+                    (NP (NN 时候)))
+                    (PU ，)
+                    (LCP-SBJ (NP (NN 部队))
+                    (LC 里))
+                    (VP (ADVP (AD 只))
+                    (VP (VPT (VV 找)
+                    (DER 得)
+                    (VV 到))
+                    (NP-OBJ (NP (QP (ADJP-APP (JJ 黑)
+                    (PU 、)
+                    (JJ 红))
+                    (QP (CD 两)))
+                    (NP (NN 色)))
+                    (NP (NN 墨水)
+                    (CC 和)
+                    (NN 铅笔)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    刚 开始 的 时候	  
+                </arg>
+                <arg n="m" f="loc">
+                    部队 里	  
+                </arg>
+                <arg n="m" f="adv">
+                    只	  
+                </arg>
+                <arg n="1">
+                    黑 、 红 两 色 墨水 和 铅笔	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 finds and gets back"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 街道))
+                    (VP (VRD (VV 找)
+                    (VV 回来))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*	  
+                </arg>
+                <arg n="1">
+                    街道	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

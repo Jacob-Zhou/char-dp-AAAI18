@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 包瓜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing including"/>
+        <role argnum="1" argrole="thing included"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 其中))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 包瓜)
+                    (AS 了)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 出任)
+                    (NP-OBJ (NP (DNP (ADJP (JJ 主要))
+                    (DEG 的))
+                    (ADJP (JJ 国营))
+                    (NP (NN 银行)))
+                    (NP (NN 总裁)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    其中          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <arg n="1">
+                    出任 主要 的 国营 银行 总裁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

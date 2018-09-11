@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 松弛 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="cause"/>
+        <role argnum="1" argrole="entity arg0 loosens up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 洋甘菊))
+                    (VP (VP (VV 松弛)
+                    (NP-OBJ (NN 紧张)))
+                    (PU ，)
+                    (VP (VV 治疗)
+                    (NP-OBJ (NN 经痛)
+                    (PU 、)
+                    (NN 失眠)
+                    (ETC 等等))))) 
+                </parse>
+                <arg n="0">
+                    洋甘菊 
+                </arg>
+                <arg n="1">
+                    紧张 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (QP (CD 两))
+                    (NP (NN 颊) ))
+                    (VP (VA 松弛))) 
+                </parse>
+                <arg n="1">
+                    两 颊 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

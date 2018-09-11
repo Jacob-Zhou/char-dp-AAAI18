@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 矢志 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people"/>
+        <role argnum="1" argrole="thing arg0 is determined to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 矢志)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 要)
+                    (VP (VV 使)
+                    (NP-OBJ-PN (NR 魁北克))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 成为)
+                    (NP-OBJ (ADJP (JJ 主权))
+                    (NP (NN 国家))))))))))
+                    (DEC 的)))
+                    (NP (NN 分离主义)
+                    (NN 党派)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 分离主义 党派          
+                </arg>
+                <arg n="1">
+                    要 使 魁北克 成为 主权 国家          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拨接 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity connected"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这个))
+                    (NP (NN 网站)))
+                    (VP (ADVP (AD 只要))
+                    (PP-MNR (P 用)
+                    (NP (NN 电话线)))
+                    (ADVP (AD 直接))
+                    (VP (VV 拨接)))) 
+                    
+                </parse>
+                <arg n="1">
+                    这个 网站          
+                </arg>
+                <arg n="m" f="adv">
+                    只要          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 电话线          
+                </arg>
+                <arg n="m" f="adv">
+                    直接          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

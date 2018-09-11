@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 素有 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="possessor"/>
+        <role argnum="1" argrole="possessee"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 素有)
+                    (NP-OBJ (DNP (NP (NN 花花公子))
+                    (DEG 之))
+                    (NP (NN 称)))))
+                    (DEC 的)))
+                    (NP-PN (NR 吉亚)
+                    (NN 亲王))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 吉亚 亲王          
+                </arg>
+                <arg n="1">
+                    花花公子 之 称          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

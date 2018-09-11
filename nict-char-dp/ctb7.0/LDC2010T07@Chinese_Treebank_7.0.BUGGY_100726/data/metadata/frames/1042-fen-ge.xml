@@ -1,0 +1,93 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 分割 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="divider"/>
+        <role argnum="1" argrole="thing divided"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-PN-SBJ (NR 台湾))
+                    (VP (VC 是)
+                    (NP-PRD (NP-PN (NR 中国))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 可)
+                    (VP (VV 分割)))))
+                    (DEC 的)))
+                    (QP (CD 一))
+                    (NP (NN 部分))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1 	  
+                </arg>
+                <arg n="m" f="adv">
+                    不 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="divider"/>
+        <role argnum="1" argrole="thing divided"/>
+        <role argnum="2" argrole="result divided into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (PP-MNR (P 通过)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 修建)
+                    (NP-OBJ (NP (NN 封锁沟))
+                    (CC 和)
+                    (NP (ADJP (JJ 棋盘状))
+                    (NP (NN 道路)))))))
+                    (PU ，)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NP-PN (NR 冀中))
+                    (NP (NN 根据地)))
+                    (VP (VRD (VV 分割)
+                    (VV 成))
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 能)
+                    (VP (ADVP (AD 相互))
+                    (VP (VCD (VV 联系)
+                    (VV 支援)))))))
+                    (DEC 的)))
+                    (ADJP (JJ 孤立))
+                    (ADJP (JJ 小))
+                    (NP (NN 块))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*	  
+                </arg>
+                <arg n="m" f="mnr">
+                    通过 修建 封锁沟 和 棋盘状 道路	  
+                </arg>
+                <arg n="1">
+                    冀中 根据地	  
+                </arg>
+                <arg n="2">
+                    不能 相互 联系 支援 的 孤立 小 块	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

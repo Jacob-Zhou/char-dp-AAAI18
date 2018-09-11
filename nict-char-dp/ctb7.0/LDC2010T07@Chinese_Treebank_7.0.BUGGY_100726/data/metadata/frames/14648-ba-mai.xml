@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 把脉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity examine"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-ADV (P 除了)
+                    (NP (NP (NP-APP (NN 财政)
+                    (NN 部长))
+                    (NP-PN (NR 严庆章)
+                    (PU 、)))
+                    (NP (NP-APP (NN 财政部)
+                    (NN 政务次长))
+                    (NP-PN (NR 陈冲)))))
+                    (PU 、)
+                    (NP-SBJ (NP (NP (NN 国内))
+                    (QP (CD 多)
+                    (CLP (M 位)))
+                    (NP (NN 财经))
+                    (NP (NN 专家)
+                    (PU 、)
+                    (NN 学者)))
+                    (CC 和)
+                    (NP (NP-PN (NR 美国)
+                    (PU 、)
+                    (NR 德国)
+                    (PU 、)
+                    (NR 日本)
+                    (ETC 等))
+                    (QP (CD 多)
+                    (CLP (M 位)))
+                    (NP (NN 财经界)
+                    (NN 名人))))
+                    (VP (ADVP (AD 都))
+                    (ADVP (AD 将))
+                    (VP (PP-BNF (P 为)
+                    (NP (NP-PN (NR 台湾))
+                    (NP (NN 财经))))
+                    (VP (VV 把脉)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    除了 财政 部长 严庆章 、 财政部 政务次长 陈冲          
+                </arg>
+                <arg n="0">
+                    国内 多 位 财经 专家 、 学者 和 美国 、 德国 、 日本 等 多 位 财经界 名人          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="1">
+                    为 台湾 财经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

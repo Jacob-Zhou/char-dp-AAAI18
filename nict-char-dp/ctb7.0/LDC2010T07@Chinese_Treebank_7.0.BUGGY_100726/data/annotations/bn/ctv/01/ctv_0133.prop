@@ -1,0 +1,21 @@
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 0 8 gold 来访-v 来访.01 ----- 8:0-rel 12:1*6:0*6:1*7:0*7:1-ARG0
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 0 17 gold 举行-v 举行.01 ----- 17:0-rel 14:1-ARG0 15:1-ARGM-LOC 18:2-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 0 21 gold 发表-v 发表.01 ----- 21:0-rel 0:4-ARG0 13:1-ARGM-TMP 14:3-ARGM-TMP 23:2-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 0 26 gold 阐述-v 阐述.01 ----- 26:0-rel 0:4-ARG0 13:1-ARGM-TMP 14:3-ARGM-TMP 28:5-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 1 6 gold 重申-v 重申.01 ----- 6:0-rel 0:3-ARG0 3:1-ARGM-LOC 8:3-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 1 13 gold 签署-v 签署.01 ----- 13:0-rel 9:2-ARG0 11:1-ARGM-TMP 14:0*14:1*16:1*8:0*8:1-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 1 22 gold 表示-v 表示.01 ----- 22:0-rel 0:3-ARG0 3:1-ARGM-LOC 8:3-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 1 24 gold 反对-v 反对.01 ----- 24:0-rel 23:1-ARG0 25:4-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 1 29 gold 实行-v 实行.01 ----- 29:0-rel 26:1-ARG0 27:1-ARG2 25:0*25:1*30:0*30:1*32:1-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 1 40 gold 有关-v 有关.01 ----- 40:0-rel 36:1*37:1*42:1-ARG0 38:1-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 2 13 gold 表示-v 表示.01 ----- 13:0-rel 0:1-ARG0 1:1-ARG3 14:1-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 2 17 gold 表示-v 表示.01 ----- 17:0-rel 0:1-ARG0 16:1-ARGM-DIS 18:2-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 2 20 gold 推动-v 推动.02 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-ADV 21:3-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 3 1 gold 强调-v 强调.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 3 4 gold 应当-v 应当.01 ----- 4:0-rel
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 3 8 gold 遵守-v 遵守.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 3 21 gold 确保-v 确保.01 ----- 21:0-rel 6:1-ARG0 22:1-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 3 27 gold 选择-v 选择.01 ----- 27:0-rel 2:1-ARG0 5:1-ARGM-MNR 26:1-ARGM-ADV 28:3-ARG1
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 3 31 gold 解决-v 解决.01 ----- 31:0-rel 29:1-ARG0 32:2-ARG1 28:0*28:1*30:0*30:1*39:1-ARGM-MNR
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 4 2 gold 请-v 请.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG1 3:1-ARG2
+bn/ctv/01/ctv_0133@0133@ctv@bn@ch@on 4 3 gold 看-v 看.02 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 4:1-ARG1

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="35106-guo-n 国-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="国家 country, nation, state " group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+改善一个国家与其他国家的贸易关系很重要
+
+It is important to improve a country's trade relationships with other countries.
+
+
+
+国家实力
+
+the actual strength of a nation
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name=" 用于个別国名之后,例如日本国，used after the name of the country" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+蒙古国
+
+Mongolia (nation)
+
+
+
+日本国很富有
+
+Japan (nation) is very rich.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="3" type="" name="国中的简称， abbreviation of junior high school" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+国二
+
+second year in junior high school
+
+
+
+他国三时成绩突飞猛进。
+
+He made a mighty advance in his grades when he was in the third year in junior high school.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="4" type="" name="与中国相关的东西,例如国乐，used to describe something related to Chinese such as Chinese orchestra" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+国画
+
+Chinese paintings
+
+
+
+国语
+
+Chinese (language)
+
+
+
+她热爱国乐。
+
+She loves Chinese orchestra a lot.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

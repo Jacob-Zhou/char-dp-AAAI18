@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="交-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to hand over, to turn in, to deliver" group="1">
+<commentary>
+</commentary>
+<examples>
+信众 加入 合唱 时 ， 演出者 将 灯 传 交 各 人 ， 为 他们 带来 好运 与 幸福 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to make friends with, to interact with, to
+associate with" group="1">
+<commentary>
+</commentary>
+<examples>
+此外 ， 为 适应 新 技术 发展 和 就业 要求 而 紧张 工作 或 学习 的 年轻人 也 无暇 谈恋爱 、 交 朋友 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to meet, to join, to come across" group="1">
+<commentary>
+</commentary>
+<examples>
+近年 来 很多 国家 纷纷 调整 发展 战略 ， 使得 世纪 之 交 的 国际 竞争 日趋 激烈
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="4" ann_1_2_agreement="1.0" />
+</inventory>

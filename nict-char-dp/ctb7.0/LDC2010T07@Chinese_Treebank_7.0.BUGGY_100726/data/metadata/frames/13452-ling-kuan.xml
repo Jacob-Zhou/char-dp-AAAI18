@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 领款 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 民众))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 银行)))
+                    (VP (VV 去)
+                    (VP (VV 领款))))) 
+                    
+                </parse>
+                <arg n="0">
+                    民众          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不得而知 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing arg0 doesn't know"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="other" trg="arg1"/>
+                 
+                <mapitem src="sbj" trg="arg0"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (IP (PP-ADV (P 有关)
+                    (NP (DNP (NP (NN 威胁)
+                    (NN 情报))
+                    (DEG 的))
+                    (NP (NN 可靠性))))
+                    (NP-SBJ (PN 我们))
+                    (VP (ADVP (AD 还))
+                    (VV 不得而知))) 
+                    
+                </parse>
+                <arg n="1">
+                    有关 威胁 情报 的 可靠性          
+                </arg>
+                <arg n="0">
+                    我们          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

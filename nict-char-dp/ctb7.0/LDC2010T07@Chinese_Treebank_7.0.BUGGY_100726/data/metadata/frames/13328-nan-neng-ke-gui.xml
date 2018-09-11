@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 难能可贵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 所以))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 更))
+                    (VP (VC 是)
+                    (VP (VV 难能可贵))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    所以          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    更          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

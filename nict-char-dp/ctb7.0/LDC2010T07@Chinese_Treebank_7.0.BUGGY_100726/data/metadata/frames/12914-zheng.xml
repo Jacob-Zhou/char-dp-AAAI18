@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 正 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing straightened up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 另外))
+                    (VP (VV 发表)
+                    (NP-OBJ (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 更正)))
+                    (DEC 的)))
+                    (NP (NN 声明稿)))))
+                    (PU ，)
+                    (VP (MSP 以)
+                    (VP (VV 正)
+                    (NP-OBJ (DNP (NP (NN 国际))
+                    (DEG 的))
+                    (NP (NN 视听))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    国际 的 视听          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

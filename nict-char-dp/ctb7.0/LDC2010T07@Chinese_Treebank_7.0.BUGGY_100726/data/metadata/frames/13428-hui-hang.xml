@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 回航 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 船长))
+                    (VP (ADVP (AD 独自))
+                    (VP (VV 回航)))) 
+                    
+                </parse>
+                <arg n="0">
+                    船长          
+                </arg>
+                <arg n="m" f="adv">
+                    独自          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

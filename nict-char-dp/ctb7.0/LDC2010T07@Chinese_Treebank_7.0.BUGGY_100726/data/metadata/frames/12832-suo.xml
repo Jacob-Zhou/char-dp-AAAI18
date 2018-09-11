@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 缩 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme reduced"/>
+        <role argnum="2" argrole="range"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NN 财政部))
+                    (VP (ADVP (AD 紧急))
+                    (VP (BA 将)
+                    (IP (NP-SBJ (NN 跌幅))
+                    (VP (VP (VV 缩)
+                    (AS 了)
+                    (QP-EXT (CD 一半)))
+                    (VP (VV 变成)
+                    (AS 了)
+                    (QP-OBJ (CD ３．５％)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    财政部          
+                </arg>
+                <arg n="m" f="adv">
+                    紧急          
+                </arg>
+                <arg n="1">
+                    跌幅          
+                </arg>
+                <arg n="2">
+                    一半          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

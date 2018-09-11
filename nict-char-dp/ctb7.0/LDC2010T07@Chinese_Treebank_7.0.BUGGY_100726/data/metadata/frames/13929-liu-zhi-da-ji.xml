@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 留置 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警方))
+                    (VP (VP (ADVP (AD 随后))
+                    (ADVP (AD 也))
+                    (VP (VRD (VV 拦查)
+                    (VV 到))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 辆)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 可疑)))
+                    (DEC 的)))
+                    (NP (NN 计程车)))))
+                    (PU ，)
+                    (VP (VV 留置)
+                    (NP-OBJ (NP (QP (CD 一)
+                    (CLP (M 对)))
+                    (NP (NN 男女)))
+                    (PRN (VP (ADVP (AD 分别))
+                    (VP (VC 是)
+                    (NP-PN-PRD (NR 杨正发)
+                    (CC 和)
+                    (NR 吴雅淑)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="1">
+                    一 对 男女 分别 是 杨正发 和 吴雅淑          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

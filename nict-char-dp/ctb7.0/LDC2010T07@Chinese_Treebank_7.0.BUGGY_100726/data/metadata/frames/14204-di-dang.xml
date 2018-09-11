@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 抵挡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="defender"/>
+        <role argnum="1" argrole="entity defend against"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 无法))
+                    (ADVP (AD 不))
+                    (VP (VV 可)
+                    (VP (VV 抵挡)
+                    (NP-OBJ (-NONE- *T*-1))))))
+                    (DEC 的)))
+                    (NP (NN 趋势)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    无法          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 趋势          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

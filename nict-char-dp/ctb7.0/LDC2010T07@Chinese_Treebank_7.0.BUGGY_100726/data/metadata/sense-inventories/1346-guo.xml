@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="过-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="past, after, denoting an completed aspect" group="1">
+<commentary>
+</commentary>
+<examples>
+因此 大量 出现 的 是 以前 不 曾 遇到 过 的 新 情况 、 新 问题
+有 一千 名 公务员 曾 来 台湾 念 过 书
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to traverse, to move across" group="1">
+<commentary>
+</commentary>
+<examples>
+跨 过 学分 班 门
+走 过 二十 世纪 以 资本 多寡 为 企业 决胜点 的 年代
+才 过 民权 大桥 或 麦帅 二 桥
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to pass (examination, test)" group="1">
+<commentary>
+</commentary>
+<examples>
+通 不 过 甄试
+今年 九月 因 环评 未 过 停止 动工 计画
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="past, pass by" group="1">
+<commentary>
+</commentary>
+<examples>
+政权 的 转移 看似 盛大 ， 但 转瞬 即 过
+有效期 已 过 的 申请人 的 申请
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="describes a status fine, meets a standard" group="1">
+<commentary>
+very unsure about this definition
+</commentary>
+<examples>
+若 老 要 分 派别 ， 是 跟 自己 过 不 去
+回顾 这 两 项 我 的 最爱 ， 都 可以 算 过 得 去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="spend, pass (vacation, life)" group="1">
+<commentary>
+</commentary>
+<examples>
+过 日子 容易 过 年 难
+日子 过 得 太 安逸
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="excessively, more than acceptable" group="1">
+<commentary>
+</commentary>
+<examples>
+但是 也 有 人 认为 陈忠勇 的 想法 太过 乐观
+腹地 面积 过 小
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="indicates success, superiority" group="1">
+<commentary>
+</commentary>
+<examples>
+以 中 上 阶层 为 诉求 的 品牌 ， 都 敌 不 过 时尚界 的 年轻化 趋势
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to exceed (a limit, scope), beyond" group="1">
+<commentary>
+</commentary>
+<examples>
+年 过 三十 仍 小姑独处
+功 过 五 帝
+洞顶 拱 不 过 流
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="332" ann_1_2_agreement="0.96686746988" />
+</inventory>

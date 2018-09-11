@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 有利有弊 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="benificiary"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 加入)
+                    (NP-PN-OBJ (NN 世贸)
+                    (NN 组织))))
+                    (VP (VP (PP-DIR (P 对)
+                    (LCP (NP (NN 我国))
+                    (LC 来说)))
+                    (UCP-PRD (VP (VV 有利有弊))
+                    (PU ，)
+                    (IP (NP-SBJ (NN 机遇)
+                    (CC 与)
+                    (NN 挑战))
+                    (VP (VV 并存))))) 
+                    
+                </parse>
+                <arg n="0">
+                    加入世贸 组织          
+                </arg>
+                <arg n="1">
+                    对 我国 来说          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

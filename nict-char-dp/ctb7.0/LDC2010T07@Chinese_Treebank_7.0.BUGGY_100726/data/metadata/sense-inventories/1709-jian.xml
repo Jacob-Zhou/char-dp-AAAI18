@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="见-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="see, perceive, show, display" group="1">
+<commentary>VV</commentary>
+<examples>
+只见一个人转过墙角。
+雨中偶见。
+她吃了三个月的减肥药,但并不见成效。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to meet, to call on" group="1">
+<commentary>VV</commentary>
+<examples>
+我明天要见教务主任。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be exposed to, to come in contact with" group="1">
+<commentary>VV</commentary>
+<examples>
+冰见热就融化。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to refer to, see (as command to direct reader's attention, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+欲知结果如何,请见下回分晓。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to depend on, to rest with, to be determined by " group="1">
+<commentary>VV</commentary>
+<examples>
+马克思主义见物不见人。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="used before a verb in polite requests" group="1">
+<commentary>VV</commentary>
+<examples>
+如果做得不好,请见谅。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="appear (in the newspaper)" group="1">
+<commentary>VV</commentary>
+<examples>
+近来一些不实的报道屡见报端。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="appear (pron. xian)" group="1">
+<commentary>VV</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to perceive, to realize (used in fixed expression ke-jian)" group="1">
+<commentary>VV</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="indicating the result of perception verbs (other
+than the ones that mean to see)" group="1">
+<commentary>VV</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="11" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="36" ann_1_2_agreement="0.638888888889" />
+</inventory>

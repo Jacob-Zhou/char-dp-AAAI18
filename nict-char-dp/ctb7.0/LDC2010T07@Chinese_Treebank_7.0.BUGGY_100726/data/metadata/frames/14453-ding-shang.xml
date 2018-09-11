@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 盯上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing paid attention to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 在)
+                    (LCP (NP (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 月)))
+                    (LC 不到)))
+                    (NP-SBJ-1 (DP (DT 这)
+                    (CLP (M 家)))
+                    (NP (NN 通信行)))
+                    (VP (ADVP (AD 竟))
+                    (ADVP (AD 又))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-PN-SBJ (NR 赖俊明))
+                    (VP (VP (VV 盯上)
+                    (NP-OBJ (-NONE- *-1))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    在 一个 月 不到          
+                </arg>
+                <arg n="1">
+                    这 家通信行 -> *-1          
+                </arg>
+                <arg n="m" f="adv">
+                    竟          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="0">
+                    赖俊明          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

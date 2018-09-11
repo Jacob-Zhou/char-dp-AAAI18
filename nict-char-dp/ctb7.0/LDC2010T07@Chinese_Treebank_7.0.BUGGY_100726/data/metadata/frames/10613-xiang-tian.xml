@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 香甜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (PN 她))
+                    (VP (DVP (VP (VA 轻轻))
+                    (DEV 地))
+                    (VP (VV 摸)
+                    (AS 著)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 睡)
+                    (DER 地)
+                    (VP-EXT (VA 香甜))))
+                    (DEC 的)))
+                    (NP (NN 水脑)
+                    (NN 宝宝)))))) 
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

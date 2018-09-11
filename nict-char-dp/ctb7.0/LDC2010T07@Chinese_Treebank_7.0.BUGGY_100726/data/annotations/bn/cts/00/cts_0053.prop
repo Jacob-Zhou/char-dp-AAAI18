@@ -1,0 +1,33 @@
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 0 1 gold 有-v 有.05 ----- 1:0-rel 0:1-ARG0 2:3-ARGM-ADV
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 0 10 gold 爆炸-v 爆炸.01 ----- 10:0-rel 2:2-ARG0 4:1-ARGM-TMP 6:1-ARGM-LOC
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 0 24 gold 受伤-v 受伤.01 ----- 24:0-rel 22:1*23:1*28:1-ARG0
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 6 gold 出海-v 出海.01 ----- 6:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 7 gold 作业-v 作业.01 ----- 7:0-rel 3:1-ARG0 4:1-ARGM-TMP
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 16 gold 发生-v 发生.01 ----- 16:0-rel 14:1-ARG1 15:1-ARGM-ADV 17:1-ARG0
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 19 gold 罹难-v 罹难.01 ----- 19:0-rel 0:2-ARG0 3:3-ARGM-TMP 9:1-ARGM-ADV 10:1-ARGM-LOC 13:1-ARGM-PRP
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 23 gold 造成-v 造成.01 ----- 23:0-rel 21:1-ARGM-ADV 22:1-ARG0 24:5-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 34 gold 受伤-v 受伤.01 ----- 34:0-rel 24:3-ARG0 33:1-ARG0
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 38 gold 合并-v 合并.01 ----- 38:0-rel 36:1-ARG0 37:1-ARGM-DIS 40:1-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 39 gold 有-v 有.03 ----- 39:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 47 gold 失去-v 失去.01 ----- 47:0-rel 43:1-ARGM-DIS 44:1-ARGM-TMP 45:1-ARG0 46:1-ARGM-ADV 49:1-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 53 gold 受伤-v 受伤.01 ----- 53:0-rel 51:1*52:1*55:1-ARG0
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 57 gold 能-v 能.01 ----- 57:0-rel 51:3-ARG0 56:1-ARGM-ADV 58:2-ARGM-ADV
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 1 61 gold 等待-v 等待.01 ----- 61:0-rel 51:3-ARG0 56:1-ARGM-ADV 58:1-ARGM-LOC 62:1-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 2 4 gold 接获-v 接获.01 ----- 4:0-rel 3:1-ARG0 6:1-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 2 12 gold 出动-v 出动.01 ----- 12:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-TMP 10:1-ARGM-DIS 11:1-ARGM-ADV 14:2-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 2 17 gold 前往-v 前往.01 ----- 17:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 2 18 gold 抢救-v 抢救.01 ----- 18:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-ADV
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 3 6 gold 大-v 大.01 ----- 6:0-rel 2:1-ARGM-TMP 3:1-ARGM-LOC 4:1-ARG0 5:1-ARGM-ADV
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 3 9 gold 是-v 是.01 ----- 9:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 2 gold 是-v 是.01 ----- 2:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 7 gold 出动-v 出动.01 ----- 7:0-rel 0:1-ARGM-ADV 3:1-ARG0 9:2-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 14 gold 顺利-v 顺利.01 ----- 14:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 21 gold 运送-v 运送.01 ----- 21:0-rel 0:1-ARGM-TMP 1:1-ARG0 13:1-ARGM-ADV 14:2-ARGM-ADV 17:2*28:1-ARG1 23:3-ARG2
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 22 gold 到-v 到.01 ----- 22:0-rel
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 27 gold 医治-v 医治.01 ----- 27:0-rel 17:2*28:1-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 36 gold 在-v 在.01 ----- 36:0-rel 30:1-ARGM-TMP 31:2-ARG0 35:1-ARGM-ADV 37:3-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 4 38 gold 观察-v 观察.01 ----- 38:0-rel 37:1-ARGM-LOC
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 5 3 gold 有-v 有.03 ----- 3:0-rel 1:1*2:1-ARG0 4:1-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 5 12 gold 回到-v 回到.01 ----- 12:0-rel 0:1-ARGM-DIS 1:3-ARG0 9:1-ARGM-ADV 10:1-ARGM-TMP 14:3-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 5 17 gold 准备-v 准备.02 ----- 17:0-rel 0:1-ARGM-DIS 1:3-ARG0 18:2-ARG1
+bn/cts/00/cts_0053@0053@cts@bn@ch@on 5 19 gold 修复-v 修复.01 ----- 19:0-rel 18:1-ARG1

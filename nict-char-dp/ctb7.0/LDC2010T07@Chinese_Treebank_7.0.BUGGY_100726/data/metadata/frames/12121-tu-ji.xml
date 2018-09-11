@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 突击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="0" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP (NN 警方))
+                    (CC 和)
+                    (NP (NN 安全)
+                    (NN 部队)))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 突击)
+                    (NP-OBJ (DNP (NP-PN (NR 伊斯坦堡))
+                    (DEG 的))
+                    (NP-PN (NR 温拉尼约)
+                    (NN 监狱))))))
+                    (DEC 的)))
+                    (NP (NN 时候)))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方 和 安全 部队          
+                </arg>
+                <arg n="1">
+                    伊斯坦堡 的 温拉尼约 监狱          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-1 -> 时候          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

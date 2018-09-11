@@ -1,0 +1,145 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 压 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity cut down"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 每))
+                    (VP (VV 压)
+                    (QP-OBJ (CD 一万)
+                    (CLP (M 锭))))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 给予)
+                    (NP-OBJ (QP (CD 三百万)
+                    (CLP (M 元)))
+                    (NP (NN 补贴))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  	  
+                </arg>
+                <arg n="1">
+                    一万 锭 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    每 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="entity described"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 飞机)
+                    (NN 残骸))
+                    (VP (VV 压)
+                    (PP (P 在)
+                    (NP (NN 汽车)
+                    (NN 上面))))) 
+                    
+                </parse>
+                <arg n="0">
+                    飞机 残骸	  	  
+                </arg>
+                <arg n="m" f="loc">
+                    在 汽车 上面	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 压)
+                    (NP-OBJ (NN 秤))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  	  
+                </arg>
+                <arg n="1">
+                    秤 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="bet"/>
+         
+        <role argnum="2" argrole="bet placed on"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (ADVP (AD 很))
+                    (ADVP (AD 明显)))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 玛莎・斯图尔特))
+                    (VP (ADVP (AD 也))
+                    (PP-LOC (P 在)
+                    (LCP (NP (DNP (NP (PN 她)
+                    (PN 自己))
+                    (DEG 的))
+                    (NP (NN 复出)))
+                    (LC 上)))
+                    (VP (VV 压)
+                    (AS 了)
+                    (NP-OBJ (NN 赌注)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    很 明显	  
+                </arg>
+                <arg n="0">
+                    玛莎・斯图尔特	  
+                </arg>
+                <arg n="m" f="dis">
+                    也	  
+                </arg>
+                <arg n="2">
+                    在 她 自己 的 复出 上	  
+                </arg>
+                <arg n="1">
+                    赌注	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

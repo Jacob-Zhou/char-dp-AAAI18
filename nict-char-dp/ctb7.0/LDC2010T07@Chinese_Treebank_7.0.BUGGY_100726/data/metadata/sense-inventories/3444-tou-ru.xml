@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="投入-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to get into action" group="1">
+<commentary>VV</commentary>
+<examples>
+新机场已经正式投入使用。
+随着捷运的投入使用,台北人的生活更加方便。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to invest, input (money, labor, equipment, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+政府将为这项建设投入额外的资金。
+经过政府大量的投入,电子业仍将保持良好增长势头。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to concentrate one's attention, to be all attention" group="1">
+<commentary>VA</commentary>
+<examples>
+她工作很投入。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to plunge into, to devote to (field, career, etc)" group="1">
+<commentary>VV</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="21" ann_1_2_agreement="0.809523809524" />
+</inventory>

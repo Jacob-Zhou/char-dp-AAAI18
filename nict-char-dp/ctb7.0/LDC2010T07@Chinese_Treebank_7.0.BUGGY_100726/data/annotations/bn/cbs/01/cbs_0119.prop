@@ -1,0 +1,36 @@
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 0 11 gold 提出-v 提出.01 ----- 11:0-rel 0:1-ARG0 1:1-ARGM-TMP 12:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 1 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 1 6 gold 完成-v 完成.01 ----- 6:0-rel 3:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV 7:5-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 1 30 gold 继续-v 继续.01 ----- 30:0-rel 17:2-ARG1 22:1-ARGM-ADV 23:1-ARG1 31:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 1 31 gold 努力-v 努力.01 ----- 31:0-rel 17:2-ARG0 22:1-ARGM-ADV 23:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 2 1 gold 请-v 请.01 ----- 1:0-rel 0:1-ARG1 2:1-ARG2
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 2 2 gold 听-v 听.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 3 3 gold 为-v 为.01 ----- 3:0-rel 0:2-ARG0 4:4-ARGM-PRD
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 3 11 gold 确保-v 确保.01 ----- 11:0-rel 12:3-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 3 16 gold 畅通-v 畅通.01 ----- 16:0-rel 12:2-ARG0
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 3 18 gold 维护-v 维护.01 ----- 18:0-rel 0:2-ARG0 19:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 4 7 gold 强-v 强.01 ----- 7:0-rel 6:1-ARG0
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 4 14 gold 放-v 放.01 ----- 14:0-rel 0:3-ARG2 3:1-ARGM-MNR 13:1*15:1-ARG1 16:1-ARGM-ADV
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 5 5 gold 表示-v 表示.01 ----- 5:0-rel 0:3-ARG0 7:2-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 5 19 gold 贯彻-v 贯彻.01 ----- 19:0-rel 18:1-ARG0 20:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 5 24 gold 加强-v 加强.01 ----- 24:0-rel 23:1-ARG0 25:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 5 28 gold 提升-v 提升.01 ----- 28:0-rel 23:1-ARG0 29:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 5 34 gold 有-v 有.01 ----- 34:0-rel 7:1-ARG0 8:1-ARGM-LOC 16:1-ARGM-DIS 17:1-ARGM-LOC 33:1-ARGM-ADV 35:3-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 5 37 gold 卓越-v 卓越.01 ----- 37:0-rel 35:0*35:1*36:0*36:1*39:1-ARG0
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 6 10 gold 编成-v 编成.01 ----- 10:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-LOC 7:1-ARGM-ADV 8:1-ARGM-MNR 11:4-ARG2
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 6 19 gold 协调-v 协调.01 ----- 19:0-rel 17:1-ARG0 20:1-ARG1 16:0*16:1*18:0*18:1*22:1-ARGM-MNR
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 7 9 gold 完成-v 完成.01 ----- 9:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-LOC 7:1-ARGM-DIS 8:1-ARGM-ADV 10:2-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 7 17 gold 编成-v 编成.01 ----- 17:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-LOC 7:1-ARGM-ADV 8:1-ARGM-ADV 18:1-ARG2
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 7 23 gold 提升-v 提升.01 ----- 23:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-LOC 22:1-ARGM-ADV 24:4-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 8 8 gold 完成-v 完成.01 ----- 8:0-rel 1:1-ARG0 2:1-ARGM-LOC 10:4-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 8 18 gold 成立-v 成立.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 9 2 gold 有效-v 有效.01 ----- 2:0-rel
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 9 4 gold 整合-v 整合.01 ----- 4:0-rel 1:1-ARG0 2:2-ARGM-ADV 6:5-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 9 17 gold 提升-v 提升.01 ----- 17:0-rel 1:1-ARG0 2:2-ARGM-ADV 16:1-ARGM-ADV 18:3-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 10 2 gold 指出-v 指出.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:2-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 10 14 gold 推动-v 推动.02 ----- 14:0-rel 4:1-ARGM-TMP 5:1-ARGM-LOC 7:2-ARG0 10:1-ARGM-ADV 11:1-ARGM-MNR 16:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 10 21 gold 继续-v 继续.01 ----- 21:0-rel 4:1-ARGM-TMP 5:1-ARGM-LOC 7:2-ARG1 10:1-ARGM-ADV 11:1-ARGM-MNR 22:2-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 10 28 gold 强化-v 强化.01 ----- 28:0-rel 27:1-ARG0 29:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 10 39 gold 继续-v 继续.01 ----- 39:0-rel 4:1-ARGM-TMP 5:1-ARGM-LOC 7:2-ARG1 10:1-ARGM-ADV 11:1-ARGM-MNR 22:1-ARGM-LOC 40:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 10 40 gold 努力-v 努力.01 ----- 40:0-rel 4:1-ARGM-TMP 5:1-ARGM-LOC 7:2-ARG0 10:1-ARGM-ADV 11:1-ARGM-MNR 22:1-ARG1
+bn/cbs/01/cbs_0119@0119@cbs@bn@ch@on 11 10 gold 报道-v 报道.01 ----- 10:0-rel 0:3-ARG0 9:1-ARGM-LOC

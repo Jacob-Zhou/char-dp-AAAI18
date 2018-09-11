@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 运走 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing taken away"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TPC (P 至于)
+                    (NP (NP (NN 飞机))
+                    (QP (CD 大部分))
+                    (NP (NN 残骸))))
+                    (NP-SBJ-1 (-NONE- *pro*))
+                    (VP (ADVP (AD 已经))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 军方))
+                    (VP (VV 运走)
+                    (NP-OBJ (-NONE- *-1))))) 
+                    
+                </parse>
+                <arg n="1">
+                    至于 飞机 大部分 残骸 -> *-1          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="0">
+                    军方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="02380-mao-yi-n 贸易-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="trade 贸易" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+这个月的贸易的差额是6000元美金
+
+This month’s difference in trade is 6000 US dollars.
+
+
+
+国际贸易。
+
+international trade.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="商业贸易，commercial, " group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+贸易条约。
+
+commercial treaty.
+
+
+
+贸易禁运。
+
+commercial embargo.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

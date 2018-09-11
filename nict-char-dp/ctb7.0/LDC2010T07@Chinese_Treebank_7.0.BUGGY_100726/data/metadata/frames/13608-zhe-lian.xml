@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遮脸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity used to cover"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 现年)
+                    (QP-OBJ (CD ３４)
+                    (CLP (M 岁)))))
+                    (DEC 的)))
+                    (NP-APP (NN 嫌犯))
+                    (NP-PN (NR 王东志)))
+                    (VP (LCP-TMP (IP (NP-SBJ-2 (-NONE- *pro*))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 警方))
+                    (VP (VV 带回)
+                    (NP-OBJ (-NONE- *-2))))))
+                    (LC 时))
+                    (ADVP (AD 还))
+                    (VP (DVP (VP (VA 羞愧))
+                    (DEV 的))
+                    (PP-MNR (P 用)
+                    (NP (NN 手)))
+                    (VP (VV 遮脸))) 
+                    
+                </parse>
+                <arg n="0">
+                    现年 ３４ 岁 的 嫌犯王东志          
+                </arg>
+                <arg n="m" f="tmp">
+                    被 警方 带回 时          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <arg n="m" f="adv">
+                    羞愧 的          
+                </arg>
+                <arg n="1">
+                    用 手          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

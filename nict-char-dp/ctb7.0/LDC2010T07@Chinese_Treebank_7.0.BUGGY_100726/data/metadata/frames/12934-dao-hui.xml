@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 倒汇 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="amount of money"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NN 工厂))
+                    (DEG 的))
+                    (NP (NN 老板)))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 倒汇)
+                    (AS 了)
+                    (QP-OBJ (CD ２亿多)
+                    (CLP (M 元)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    工厂 的 老板          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="1">
+                    ２亿多 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

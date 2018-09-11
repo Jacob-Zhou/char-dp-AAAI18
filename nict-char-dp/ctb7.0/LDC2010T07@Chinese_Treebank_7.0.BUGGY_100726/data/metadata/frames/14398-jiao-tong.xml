@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 叫痛 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 受伤)))
+                    (DEC 的)))
+                    (NP (NN 小朋友)))
+                    (VP (VP (ADVP (AD 频频))
+                    (VP (VV 叫痛))) 
+                    
+                </parse>
+                <arg n="0">
+                    受伤 的 小朋友          
+                </arg>
+                <arg n="m" f="adv">
+                    频频          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 写入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="writer"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 实行)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 依法))
+                    (VP (VV 治国)))))
+                    (VP (VV 建设)
+                    (NP-OBJ (NN 社会主义)
+                    (NN 法制)
+                    (NN 国家)))))
+                    (PU ，)
+                    (VP (VP (VC 是)
+                    (NP-PRD (DNP (NP (NP-PN (NR 中国))
+                    (NP (NN 社会主义)
+                    (NN 现代化)))
+                    (DEG 的))
+                    (ADJP (JJ 重要))
+                    (NP (NN 目标))))
+                    (PU ，)
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 写入)
+                    (AS 了)
+                    (NP-OBJ (DNP (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (NT １９９９年))
+                    (VP (VV 修订))))
+                    (LC 后))
+                    (DEG 的))
+                    (NP (PU 《)
+                    (NP-PN (NR 中华)
+                    (NN 人民)
+                    (NN 共和国))
+                    (NP (NN 宪法))
+                    (PU 》))))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    实行 依法 治国 建设 社会主义 法制国家          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="2">
+                    １９９９年 修订 后 的 《 中华 人民 共和国 宪法 》          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,20 @@
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 16 gold 是-v 是.01 ----- 16:0-rel 14:1-ARGM-DIS 15:1-ARGM-ADV 17:3-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 27 gold 起诉-v 起诉.01 ----- 27:0-rel 21:1-ARGM-TMP 23:1-ARG0 24:1-ARG2 11:4*28:0*28:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 34 gold 指出-v 指出.01 ----- 34:0-rel 30:1-ARGM-LOC 33:1-ARG0 35:5-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 45 gold 知道-v 知道.01 ----- 45:0-rel 35:3-ARGM-TMP 43:1-ARG0 44:1-ARGM-ADV 46:4-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 49 gold 大于-v 大于.01 ----- 49:0-rel 46:3-ARG0 50:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 54 gold 利用-v 利用.01 ----- 54:0-rel 52:1-ARG0 53:1-ARGM-ADV 56:4-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 57 gold 结束-v 结束.01 ----- 57:0-rel 56:1-ARG0 58:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 68 gold 受惠-v 受惠.01 ----- 68:0-rel
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 69 gold 贩卖-v 贩卖.01 ----- 69:0-rel 67:1-ARG0
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 73 gold 拒绝-v 拒绝.01 ----- 73:0-rel 71:1-ARGM-ADV 72:1-ARG0 74:2-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 75 gold 支付-v 支付.01 ----- 75:0-rel 74:1-ARG0 76:1-ARG2 77:1-ARG1 78:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 80 gold 造成-v 造成.01 ----- 80:0-rel 71:1-ARGM-TMP 72:1-ARG0 81:3-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 84 gold 损失-v 损失.01 ----- 84:0-rel 81:2-ARG0
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 88 gold 指出-v 指出.01 ----- 88:0-rel 86:1-ARG0 87:1-ARGM-ADV 90:3-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 92 gold 担任-v 担任.01 ----- 92:0-rel 90:1-ARG0 91:1-ARGM-ADV 94:4-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 102 gold 涉及-v 涉及.01 ----- 102:0-rel 90:1-ARG0 101:1-ARGM-ADV 103:2-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 104 gold 逃-v 逃.01 ----- 104:0-rel 103:1-ARG0 106:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 105 gold 漏-v 漏.01 ----- 105:0-rel 103:1-ARG0 106:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 109 gold 提起-v 提起.01 ----- 109:0-rel 107:1-ARG0 108:1-ARGM-ADV 110:1-ARG1
+bn/cts/02/cts_0217@0217@cts@bn@ch@on 0 116 gold 执行-v 执行.01 ----- 116:0-rel 112:0*112:1*117:0*117:1-ARG1 113:1-ARGM-DIS 114:1-ARGM-ADV

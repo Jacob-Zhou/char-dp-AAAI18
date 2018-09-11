@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 飞白 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (LCP-SBJ (NP (NN 笔))
+                    (LC 中))
+                    (VP (VA 飞白))) 
+                </parse>
+                <arg n="0">
+                    笔 中 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="达-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to reach a quantity, extent, level" group="1">
+<commentary></commentary>
+<examples>
+灌溉面积共达二万公顷。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to reach a location" group="1">
+<commentary></commentary>
+<examples>
+这条公路直达费城。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to attain, to realize (a goal)" group="1">
+<commentary></commentary>
+<examples>
+预期 越 殷切 ， 焦虑 自然 越 深重 ， 达 不 到 时 的 挫折感 也 越 强
+因此 未 达 目的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="14" ann_1_2_agreement="0.857142857143" />
+</inventory>

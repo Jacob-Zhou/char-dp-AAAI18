@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 做恶多端 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (DP (DT 这些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 做恶多端)))
+                    (DEC 的)))
+                    (NP (NN 罪人))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 罪人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

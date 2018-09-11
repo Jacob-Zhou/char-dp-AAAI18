@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拖出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+         
+        <role argnum="1" argrole="thing pulled out"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 三)
+                    (CLP (M 辆)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 卡)
+                    (PP (P 在)
+                    (LCP (NP (NN 铁路))
+                    (LC 上)))))
+                    (DEC 的)))
+                    (NP (NN 列车)))
+                    (VP (PP-TMP (P 到)
+                    (NP (NT ９：１５分)))
+                    (PU ，)
+                    (ADVP (AD 才))
+                    (VP (SB 被)
+                    (VP (VV 拖出)
+                    (QP-OBJ (OD 第一)
+                    (CLP (M 辆))))))) 
+                    
+                </parse>
+                <arg n="1" f="psr">
+                    三 辆 卡 在 铁路 上 的 列车          
+                </arg>
+                <arg n="m" f="tmp">
+                    到 ９：１５分          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <arg n="1" f="pse">
+                    第一 辆          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

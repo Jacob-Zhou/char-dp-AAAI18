@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 掩示 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity covered up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 那么))
+                    (IP-SBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 讲)
+                    (NP (DP (DT 这些))
+                    (NP (NN 话)))))
+                    (VP (ADVP (AD 都))
+                    (ADVP (AD 只))
+                    (ADVP (AD 不过))
+                    (VP (VC 是)
+                    (VP (ADVP (AD 在))
+                    (VP (VP (VV 掩示)
+                    (NP (NP (PN 他们))
+                    (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 过错))))
+                    (ADVP (AD 而已))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    那么          
+                </arg>
+                <arg n="0">
+                    讲 这些 话          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    只          
+                </arg>
+                <arg n="m" f="adv">
+                    不过          
+                </arg>
+                <arg n="m" f="adv">
+                    在          
+                </arg>
+                <arg n="1">
+                    他们 一 个 过错          
+                </arg>
+                <arg n="m" f="adv">
+                    而已           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

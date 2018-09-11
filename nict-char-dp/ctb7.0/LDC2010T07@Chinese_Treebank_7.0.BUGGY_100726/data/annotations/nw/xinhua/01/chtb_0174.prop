@@ -1,0 +1,14 @@
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 0 3 gold 访问-v 访问.01 ----- 3:0-rel 0:2-ARG0 2:1-ARGM-ADV 4:1-ARG1
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 1 8 gold 报道-v 报道.01 ----- 8:0-rel
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 11 gold 说-v 说.01 ----- 11:0-rel 0:2-ARG0 5:1-ARGM-TMP 7:1-ARGM-LOC 13:2-ARG1
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 19 gold 访问-v 访问.01 ----- 19:0-rel 16:1-ARGM-ADV 17:1-ARG1 14:0*15:0*23:1-ARG0
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 25 gold 报告-n 报告.01 ----- 25:0-rel 14:3-ARG0
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 36 gold 委托-n 委托.01 ----- 36:0-rel 27:3-ARG1 31:0-rel-Sup 32:3-ARG0
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 42 gold 前来-v 前来.01 ----- 42:0-rel 13:1-ARGM-MNR 27:3-ARG0 31:1-ARGM-ADV 38:1-ARGM-ADV 39:1-ARGM-TMP 43:1-ARG1
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 48 gold 继续-v 继续.01 ----- 48:0-rel 13:1-ARGM-MNR 27:3-ARG1 31:1-ARGM-ADV 38:1-ARGM-ADV 39:1-ARGM-TMP 45:1-ARGM-ADV 46:1-ARG1 49:1-ARG1
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 49 gold 举行-v 举行.01 ----- 49:0-rel 13:1-ARGM-MNR 27:3-ARG0 31:1-ARGM-ADV 38:1-ARGM-ADV 39:1-ARGM-TMP 45:1-ARGM-DIS 46:1-ARG0 50:1-ARG1
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 2 50 gold 会谈-n 会谈.01 ----- 50:0-rel 27:3-ARG0 46:1-ARG0 49:0-rel-Sup
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 3 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 3 6 gold 在-v 在.01 ----- 6:0-rel 4:1-ARG0 7:1-ARG1 3:0*5:0*8:1-ARGM-TMP
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 3 12 gold 可能-v 可能.01 ----- 12:0-rel
+nw/xinhua/01/chtb_0174@0174@xinhua@nw@ch@on 3 13 gold 会见-v 会见.01 ----- 13:0-rel 3:3-ARGM-TMP 10:1-ARG0 14:1-ARG1

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="建-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to build, to construct" group="1">
+<commentary>
+</commentary>
+<examples>
+自 一九九五年 以来 ， 南宁市 还 新 建 了 包括 棕榈园 、 鳄鱼湖 、 香花园 、 金花茶 公园 等 重点 景区 在内 的 三 个 公园 和 二十多 处 游园 绿地
+生产线 建 在 保定 国家 高新 技术 产业 开发区 内
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to establish, to found" group="1">
+<commentary>
+</commentary>
+<examples>
+这 绝 不 是 倡导 清贫 思想 、 简朴 生活 ， 或是 「 重 建 人生 新 价值观 」 之类的 呼吁 就 能 遏止 的 。
+直 到 纪元 九年 王莽 建 「 新朝 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="40" ann_1_2_agreement="0.975" />
+</inventory>

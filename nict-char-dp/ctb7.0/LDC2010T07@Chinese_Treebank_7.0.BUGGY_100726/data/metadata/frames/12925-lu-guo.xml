@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 路过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place passed by"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 路过)))
+                    (DEC 的)))
+                    (NP (NN 巡逻)
+                    (NN 员警)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 巡逻 员警          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

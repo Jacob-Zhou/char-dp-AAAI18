@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="跨-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to go across, to exceed (boundary, etc.), to
+stride over, to stride across (e.g. river, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+美国 国会 最近 通过 了 州际 银行法 ， 允许 地方 银行 跨 州 经营
+希望 能 跨 过 学分 班 门槛
+走廊 跨 海 延伸
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to bestride, to straddle (e.g. a horse, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to take big steps" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="arch (e.g. of a bridge)" group="1">
+<commentary>
+</commentary>
+<examples>
+主桥 为 五 跨 连续 双 塔 双 索面 斜拉 桥
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="0.857142857143" />
+</inventory>

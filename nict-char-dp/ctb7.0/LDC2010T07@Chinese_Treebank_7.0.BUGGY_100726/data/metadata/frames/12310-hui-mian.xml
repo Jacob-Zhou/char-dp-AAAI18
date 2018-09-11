@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 会面 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entities that meet with each other"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 前天))
+                    (NP-PN-SBJ (NR 陈)
+                    (NN 总统))
+                    (VP (VP (PP-ADV (P 和)
+                    (NP (NP-APP (NP-PN (NR 亲民党))
+                    (NP (NN 主席)))
+                    (NP-PN (NR 宋楚瑜))))
+                    (VP (VV 会面))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    前天          
+                </arg>
+                <arg n="0">
+                    陈 总统          
+                </arg>
+                <arg n="0" f="crd">
+                    和 亲民党 主席 宋楚瑜          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

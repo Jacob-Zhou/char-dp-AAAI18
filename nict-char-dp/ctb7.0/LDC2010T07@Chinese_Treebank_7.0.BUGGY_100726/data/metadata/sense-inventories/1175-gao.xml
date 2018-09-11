@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="高-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="high, tall, height, indicating the quantifiable measurement" group="1">
+<commentary>
+</commentary>
+<examples>
+这 个 六 米 高 、 表面 「 晋金 」 喷涂 、 并 贴上 金箔 的 铜铸 雕塑
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="advanced, sophisticated, high-level" group="1">
+<commentary>
+</commentary>
+<examples>
+一年 国务院 批准 建设 的 国家级 高 新 技术 产业 开发区
+经贸界 人士 关心 的 中 韩 在 汽车 、 民用 航空 、 高 清晰度 电视 和 程控 交换机四 大 领域 的 合作 谈判 进展 情况
+外商 来 华 投资 热情 很 高
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="loud, sharp (of sound, voice, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="(polite usage) your (opinion, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="abbreviation for Kao-Hsiung (Gao-Xiong)" group="1">
+<commentary>
+</commentary>
+<examples>
+缩小 北 、 高 两 市 及 其他 县 市 、 乡镇 市长 民代 及 村里长 费用 支给 之 差距
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="(raise) to a high place, (adverbial)" group="1">
+<commentary>
+</commentary>
+<examples>
+缩小 北 、 高 两 市 及 其他 县 市 、 乡镇 市长 民代 及 村里长 费用 支给 之 差距
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="77" ann_1_2_agreement="0.74025974026" />
+</inventory>

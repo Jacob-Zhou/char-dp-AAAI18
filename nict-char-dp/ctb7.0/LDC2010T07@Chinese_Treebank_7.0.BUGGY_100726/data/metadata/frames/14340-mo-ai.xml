@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 默哀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 连日来))
+                    (NP-SBJ (DNP (NP-APP (NP-PN (NR 辽宁)
+                    (PU 、)
+                    (NR 吉林)
+                    (PU 、)
+                    (NR 天津)
+                    (PU 、)
+                    (NR 安徽)
+                    (ETC 等))
+                    (NP (NN 地)))
+                    (DEG 的))
+                    (NP (NN 干部)
+                    (PU 、)
+                    (NN 群众)))
+                    (VP (ADVP (AD 纷纷))
+                    (VP (VP (VV 来到)
+                    (LCP-OBJ (NP (NN 烈士)
+                    (NN 墓))
+                    (ADJP (LC 前))))
+                    (VP (VP (VP (VV 敬献)
+                    (NP-OBJ (NN 花圈)))
+                    (VP (VCD (VV 默哀)
+                    (VV 悼念)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    连日来          
+                </arg>
+                <arg n="0">
+                    辽宁 、吉林 、 天津 、 安徽 等 地 的 干部 、 群众          
+                </arg>
+                <arg n="m" f="adv">
+                    纷纷          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

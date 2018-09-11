@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接掌 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken over"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (LCP-TMP (NP (QP (QP (CD 一)
+                    (CLP (M 个)))
+                    (ADVP (AD 多)))
+                    (NP (NN 月)))
+                    (LC 前))
+                    (ADVP (AD 刚刚))
+                    (VP (VV 接掌)
+                    (NP-PN-OBJ (NR 台中)
+                    (NN 新院)))))
+                    (DEC 的)))
+                    (NP (NN 校长))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 校长          
+                </arg>
+                <arg n="m" f="tmp">
+                    一 个 多 月 前          
+                </arg>
+                <arg n="m" f="adv">
+                    刚刚          
+                </arg>
+                <arg n="1">
+                    台中 新院          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

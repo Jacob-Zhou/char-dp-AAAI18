@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 失手 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 loses"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP (PN 我)
+                    (NN 国))
+                    (PP (P 在)
+                    (NP-PN (NR 非洲)))
+                    (NP (NN 外交)
+                    (NN 版图)))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 失手)))) 
+                    
+                </parse>
+                <arg n="1">
+                    我 国 在 非洲 外交 版图          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 毒打 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="hitter"/>
+        <role argnum="1" argrole="patient hit"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 当场))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ-3 (PN 他))
+                    (VP (VV 毒打)
+                    (NP-OBJ (-NONE- *-3))
+                    (QP-EXT (CD 一)
+                    (CLP (M 顿)))))))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    当场          
+                </arg>
+                <arg n="1">
+                    他 -> *-3          
+                </arg>
+                <arg n="m" f="frq">
+                    一 顿          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

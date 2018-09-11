@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 荣记 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="honor"/>
+        <role argnum="2" argrole="honor receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 萨尔图区))
+                    (NP (NN 法院)))
+                    (VP (VP (ADVP (AD 秉公))
+                    (VP (VV 执法)))
+                    (PU ，)
+                    (VP (ADVP (AD 热情))
+                    (PP-BNF (P 为)
+                    (NP (NN 投资者)))
+                    (VP (VV 服务)))
+                    (PU ，)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NP (ADJP (JJ 最高))
+                    (NP (NN 人民)
+                    (NN 法院)))
+                    (CC 和)
+                    (NP (NN 国家)
+                    (NN 人事部)))
+                    (VP (VV 荣记)
+                    (NP-OBJ (QP (OD 一)
+                    (CLP (M 等)))
+                    (NP (NN 功))))))) 
+                    
+                </parse>
+                <arg n="2">
+                    萨尔图区 法院          
+                </arg>
+                <arg n="0">
+                    最高 人民 法院 和 国家 人事部          
+                </arg>
+                <arg n="1">
+                    一 等 功          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

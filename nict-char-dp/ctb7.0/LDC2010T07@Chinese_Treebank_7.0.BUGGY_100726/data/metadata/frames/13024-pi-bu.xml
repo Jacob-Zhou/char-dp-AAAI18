@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 批捕 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="people arrested"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 现在))
+                    (NP-SBJ (NP-PN (NR 洛阳市))
+                    (NP (NP (NN 公安)
+                    (NN 机关))
+                    (CC 和)
+                    (NP (NN 检查)
+                    (NN 机关))))
+                    (VP (ADVP (AD 已))
+                    (PP-DIR (P 对)
+                    (NP (NP (NP-PN-APP (NR 王呈泰)
+                    (PU 、)
+                    (NR 宋龙)
+                    (PU 、)
+                    (NR 来登阁)
+                    (PU 、)
+                    (NR 丁小东))
+                    (QP (CD ４)
+                    (CLP (M 名)))
+                    (NP (NN 电焊工)))
+                    (CC 及)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (NP-TMP (NT 当时))
+                    (PP-LOC (P 在)
+                    (NP (NN 现场)))
+                    (VP (VV 工作)))
+                    (CC 并)
+                    (VP (LCP-TMP (NP (NN 事))
+                    (LC 后))
+                    (VP (VV 做)
+                    (NP-OBJ (NN 伪证))))))
+                    (DEC 的)))
+                    (QP (CD ８))
+                    (NP (NN 人))))
+                    (ADVP (AD 依法))
+                    (VP (VV 批捕))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="0">
+                    洛阳市 公安 机关 和 检查 机关          
+                </arg>
+                <arg n="m" f="adv">
+                    已           
+                </arg>
+                <arg n="1">
+                    对 王呈泰  宋龙  来登阁 、 丁小东  名 电焊工 及 当时 在 现场 工作 并 事 后 做 伪证 的 ８ 人          
+                </arg>
+                <arg n="m" f="adv">
+                    依法          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

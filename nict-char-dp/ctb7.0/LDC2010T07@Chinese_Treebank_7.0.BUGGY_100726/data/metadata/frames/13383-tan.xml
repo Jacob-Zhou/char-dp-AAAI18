@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 瘫 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 瘫)
+                    (PP-LOC (P 在)
+                    (NP (NN 床上)))))
+                    (DEC 的)))
+                    (NP (NN 身子))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 身子          
+                </arg>
+                <arg n="1">
+                    在 床上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

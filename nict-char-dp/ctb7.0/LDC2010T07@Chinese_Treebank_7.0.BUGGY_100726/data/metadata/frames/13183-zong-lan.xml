@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 纵览 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity overviewed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 一)))
+                    (NP (NN 部署)))
+                    (VP (VV 纵览)
+                    (NP-OBJ (NN 全局)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 一部署          
+                </arg>
+                <arg n="1">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

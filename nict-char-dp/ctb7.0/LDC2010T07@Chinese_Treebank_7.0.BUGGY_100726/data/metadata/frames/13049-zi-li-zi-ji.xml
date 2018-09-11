@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 自力自济 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (CP-ADV (ADVP (CS 既然))
+                    (IP (NP-PN-SBJ (NR 台电))
+                    (VP (VE 没有)
+                    (NP-OBJ (NN 诚意)))))
+                    (PU ，)
+                    (NP-SBJ (NN 乡民))
+                    (VP (ADVP (AD 只有))
+                    (VP (VV 自力自济)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    既然 台电 没有 诚意          
+                </arg>
+                <arg n="0">
+                    乡民          
+                </arg>
+                <arg n="m" f="adv">
+                    只有          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

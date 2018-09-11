@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 有染 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-ADV (P 与)
+                    (NP (NP-APP (NP (NP (DP (DT 该))
+                    (NP (NN 案)))
+                    (ADJP (JJ 重要))
+                    (NP (NN 证人)))
+                    (NP (NP-PN (NR 白宫))
+                    (ADJP (JJ 前))
+                    (NP (NN 实习生))))
+                    (NP-PN (NR 莱温斯基))))
+                    (VP (VV 有染))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="0" f="crd">
+                    与 该 案 重要 证人 白宫 前 实习生 莱温斯基          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

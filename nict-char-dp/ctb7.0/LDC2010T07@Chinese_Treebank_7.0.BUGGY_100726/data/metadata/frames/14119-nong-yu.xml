@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 浓于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 is thicher than"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 血))
+                    (VP (VV 浓于)
+                    (NP-OBJ (NN 水)))) 
+                    
+                </parse>
+                <arg n="0">
+                    血          
+                </arg>
+                <arg n="1">
+                    水          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

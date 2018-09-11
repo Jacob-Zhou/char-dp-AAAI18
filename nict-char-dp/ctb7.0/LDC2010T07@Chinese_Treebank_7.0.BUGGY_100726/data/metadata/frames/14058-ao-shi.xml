@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 傲视 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="domain"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 笔)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 惊人)))
+                    (DEC 的)))
+                    (ADJP (JJ 预付))
+                    (NP (NN 版权)
+                    (NN 费用)))
+                    (VP (ADVP (AD 不但))
+                    (VP (VV 傲视)
+                    (NP-OBJ (DP (DT 全体))
+                    (NP-PN (NR 美国))
+                    (NP (NN 国会)
+                    (NN 议员)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 笔惊人 的 预付 版权 费用          
+                </arg>
+                <arg n="m" f="dis">
+                    不但          
+                </arg>
+                <arg n="1">
+                    全体 美国 国会 议员           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

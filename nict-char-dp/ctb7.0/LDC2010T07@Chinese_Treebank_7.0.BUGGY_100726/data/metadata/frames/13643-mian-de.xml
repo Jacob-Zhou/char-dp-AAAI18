@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 免得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing avoided"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (QP (OD 第一))
+                    (NP (NN 银行)))
+                    (VP (VP (ADVP (AD 赶紧))
+                    (VP (VV 关上)
+                    (NP-OBJ (NN 玻璃)
+                    (NN 门))))
+                    (PU ，)
+                    (VP (VV 免得)
+                    (IP-OBJ (NP-SBJ (NN 大厅))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 遭殃))) 
+                    
+                </parse>
+                <arg n="0">
+                    第一 银行          
+                </arg>
+                <arg n="1">
+                    大厅 也 遭殃          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

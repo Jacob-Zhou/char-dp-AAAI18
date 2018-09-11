@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="00441-cheng-nuo-n 承诺-n">
+<commentary></commentary>
+<sense n="1" name="承诺, 同意， 赞同， acceptance, consent" group="" type="">
+<commentary></commentary><examples>他赞同他女儿的婚事。
+He gave his consent to his daughter's request to marry.
+
+
+经过大家的同意， 他被定为正式代表。
+By common consent he was appointed official delgate.
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="promise" group="1" type="">
+<commentary></commentary><examples>他们逼他许下承诺。
+They forced a promise from him.
+
+请遵守你的承诺。
+Remember to carry out your promise.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+</inventory>

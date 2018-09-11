@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 飞返 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (PP-PRP (P 由于)
+                    (IP (NP-PN-SBJ (NR 巴)
+                    (NR 以))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NP-PN (NR 巴黎))
+                    (NP (NN 会谈)))
+                    (LC 中)))
+                    (ADVP (AD 未))
+                    (VP (VV 能)
+                    (VP (VV 达成)
+                    (NP-OBJ (NN 协议)))))))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 巴拉克))
+                    (VP (VP (ADVP (AD 一))
+                    (PP-TMP (P 于)
+                    (NP (NT ５号)
+                    (NT 凌晨)))
+                    (VP (VP (VV 离开)
+                    (NP-PN-OBJ (NR 巴黎)))
+                    (VP (VV 飞返)
+                    (NP-PN-OBJ (NR 以色列))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="m" f="prp">
+                    由于 巴以在 巴黎会谈 中 未 能 达成 协议          
+                </arg>
+                <arg n="0">
+                    巴拉克          
+                </arg>
+                <arg n="m" f="adv">
+                    一          
+                </arg>
+                <arg n="m" f="tmp">
+                    于５号 凌晨          
+                </arg>
+                <arg n="1">
+                    以色列          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

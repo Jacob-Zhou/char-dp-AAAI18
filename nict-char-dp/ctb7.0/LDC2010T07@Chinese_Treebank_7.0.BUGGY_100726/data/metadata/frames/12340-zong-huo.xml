@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 纵火 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 sets fire on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 纵火))))
+                    (NP (NN 嫌犯))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 嫌犯          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (SB 被)
+                    (VP (VV 纵火))))
+                    (DEC 的)))
+                    (NP (NN 轿车))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-3 -> 轿车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

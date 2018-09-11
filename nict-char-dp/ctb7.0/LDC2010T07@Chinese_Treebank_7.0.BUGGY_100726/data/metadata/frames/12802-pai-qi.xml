@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 排起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity lines up"/>
+        <role argnum="1" argrole="thing arg0 forms"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (NP (NP (NN 蛇)
+                    (NN 馆))
+                    (NP (NN 门前))))
+                    (PU ，)
+                    (NP-SBJ (NN 人们))
+                    (VP (VP (VV 排起)
+                    (AS 了)
+                    (NP-OBJ (ADJP (JJ 长))
+                    (NP (NN 队)))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    在 蛇 馆 门前          
+                </arg>
+                <arg n="0">
+                    人们          
+                </arg>
+                <arg n="1">
+                    长 队          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

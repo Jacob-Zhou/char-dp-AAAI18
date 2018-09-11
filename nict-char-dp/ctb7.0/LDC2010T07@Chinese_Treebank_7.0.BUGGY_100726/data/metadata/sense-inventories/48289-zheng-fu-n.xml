@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="48289-zheng-fu-n 政府-n">
+<commentary>This word has only 1 sense.</commentary>
+<sense n="1" name="政府, government" group="" type="">
+<commentary></commentary><examples>政府正打算提高征税额。
+The Government is/are planning new tax increases.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

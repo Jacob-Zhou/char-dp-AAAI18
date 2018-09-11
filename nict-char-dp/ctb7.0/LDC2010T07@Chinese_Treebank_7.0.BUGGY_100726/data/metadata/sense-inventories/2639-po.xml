@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="迫-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to force, to compel" group="1">
+<commentary>
+</commentary>
+<examples>
+宏基 集团 旗下 、 和 韩国 产品 重叠性 极 高 的 德基 半导体 ， 去年 亏损 五十亿 元 台币 ， 创下 国内 企业 一 年 内 亏损 最 高 的 纪录 ， 还 被 迫 停掉 一 座 六 寸 晶圆厂 ！
+一些 投资 项目 被 迫 中止
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to urge, to press, urgent, pressing" group="1">
+<commentary>
+</commentary>
+<examples>
+迫 在 眼前 的 千禧 虫
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

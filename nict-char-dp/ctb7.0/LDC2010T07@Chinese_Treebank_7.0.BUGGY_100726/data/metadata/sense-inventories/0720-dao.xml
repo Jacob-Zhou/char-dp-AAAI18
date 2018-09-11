@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="道-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to say, to speak" group="1">
+<commentary>
+</commentary>
+<examples>
+陈 女士 回忆 道 ， 十 年 前 来 祖国 大陆 就读 的 台湾 学生 屈指可数 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="road, way, course" group="1">
+<commentary>
+</commentary>
+<examples>
+他 从 日本 转 道 来 中医 学院 就读
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="field, area, circle" group="1">
+<commentary>
+</commentary>
+<examples>
+想 藉着 读书 多 认识 些 不同 道 上 的 英雄 豪杰
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="method, way, reason, logic, doctrine, principle
+(of learning, religion, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+「 警告 」 大家 要 早点 学好 理财 之 道
+企业 的 核心 成员 应该 志同道合
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="of or pertaining to Taoism or Taoist" group="1">
+<commentary>
+</commentary>
+<examples>
+传说 仙人 刘海 曾 拜 一 位 守财奴 为 师 学 道
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="classifier for dishes served, course" group="1">
+<commentary>
+</commentary>
+<examples>
+最少 要 十 道 年菜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="classifier for long and narrow things" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 他 将 台湾 的 政党 政治 冲出 一 道 裂隙
+旅客 看 过 三 道 彩虹 同时 出现 的 奇景
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="classifier for questions, orders" group="1">
+<commentary>
+</commentary>
+<examples>
+一 道 人事 命令 ， 任命 唐飞 担任 行政 院长
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="classifier for walls, doors" group="1">
+<commentary>
+</commentary>
+<examples>
+但 堤防 就 是 一 道 冰冷 光秃 的 水泥 墙
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="6" ann_1_2_agreement="0.833333333333" />
+</inventory>

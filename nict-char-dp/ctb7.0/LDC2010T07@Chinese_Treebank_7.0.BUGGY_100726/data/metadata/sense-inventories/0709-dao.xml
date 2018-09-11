@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="到-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to arrive, to reach" group="1">
+<commentary>VV</commentary>
+<examples>
+他坐的那班飞机三点到台北来。
+款到，货即挂号寄出。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to go to, leave for, towards, onto" group="1">
+<commentary></commentary>
+<examples>
+你 要 到哪儿 去?
+这 批 货 是 要 运送 到 山区 的 。
+如果 现代 人 对 「 年 」 的 定义 ， 从 吃喝玩乐 转移 到 内省 与 精神 上 的 意义
+国际 佛光会 中华 总会 秘书长 永富 法师 希望 ， 在 今天 已经 丰衣足食 的 台湾
+民众 ， 能 把 家庭 的 温暖 与 爱心 延伸 发挥 到 社会 其他 需要 关怀 的 人 身 上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to reach (attain) a stage, situation or level" group="1">
+<commentary>VV</commentary>
+<examples>
+公司预计今年收入可到三百万元。
+温度下降到零下20度。
+商检 部门 将 原来 七 至 十 天 完成 的 产地 检验 时间 缩短 到 一 至 三 天 。
+员工 从 二 、 三十 名 扩充 到 两千 名
+我 就 是 因为 『 作秀 小学 』 没 毕业 ， 才 会 沦落 到 今天 的 地步 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to indicate completion, the result of the action of the previous verb" group="1">
+<commentary>VV</commentary>
+<examples>
+法国长期以来未认识到“迷你电脑”的局限性。
+记者 了解 到 ， 去年 天津 对 俄罗斯 出口 贸易额 为 两千五百万 美元
+最後是明大建设争取到这期居屋工程。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="until, to, at (a specific time), denoting (the  change during) a period of time, sometimes used in a 'cong2... dao4...' construction" group="1">
+<commentary></commentary>
+<examples>
+到 去年 底，广西企业已突破六千家。
+从 一九九四年 十一月 十八日 破土动工 到 锥炉 点火 成功
+去年一月到三月，企业总收入增长百分之十。
+每 到 过年
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="thoughtful, considerate (used in classical Mandarin)" group="1">
+<commentary>VA</commentary>
+<examples>
+不到之处请原谅。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="denoting a limit of a range, refering to either quantity or objects" group="1">
+<commentary></commentary>
+<examples>
+父母 都 喜欢 把 女 孩子 打扮 得 一 身 红 ， 从 头 红 到 脚
+亮眼 的 灯饰 从 门 口 挂 到 屋顶
+我们 一 个 月 要 出货 三 到 五百 个 货柜
+从 西藏 到 广州 的 大 卖场 ， 都 可以 看到 我们 的 糕饼
+拿 书香 子弟 的 连战 和 从 无 到 有 的 陈水扁 摆 在一起 ， 更 是 两 幅 对比 鲜明 的 画面 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="589" ann_1_2_agreement="0.757215619694" />
+</inventory>

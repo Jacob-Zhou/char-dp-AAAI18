@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="提到-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to mention, to bring up, to note" group="1">
+<commentary>
+</commentary>
+<examples>
+在 周三 举行 的 中国 野生 动物 保护 协会 成立 十五 周年 座谈会 上 ， 许多 专家 不约而同 地 提到 了 可可西里
+李鹏 总理 在 《 政府 工作 报告 》 中 提到 ， 要 优先 发展 基础 设施 和 中西部 地区 经济
+一 提到 新竹 ， 少 不 得 要 「 多嘴 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to raise, to promote" group="1">
+<commentary>
+</commentary>
+<examples>
+《 决定 》 把 水利 建设 和 科教 兴 农 提到 了 突出 位置
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="64" ann_1_2_agreement="0.984375" />
+</inventory>

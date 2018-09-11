@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喋血 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 喋血))))
+                    (QP (CD 双))
+                    (NP (NN 雄)) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 雄          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

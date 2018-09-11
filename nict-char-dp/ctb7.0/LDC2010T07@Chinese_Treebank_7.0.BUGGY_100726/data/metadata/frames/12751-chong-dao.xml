@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 冲到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location arg0 rushes to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADJP (JJ 大))
+                    (NP (NN 货车)))
+                    (VP (ADVP (AD 甚至))
+                    (VP (VV 冲到)
+                    (AS 了)
+                    (NP-OBJ (NN 民宅))))) 
+                    
+                </parse>
+                <arg n="0">
+                    大 货车          
+                </arg>
+                <arg n="m" f="adv">
+                    甚至          
+                </arg>
+                <arg n="1">
+                    民宅          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

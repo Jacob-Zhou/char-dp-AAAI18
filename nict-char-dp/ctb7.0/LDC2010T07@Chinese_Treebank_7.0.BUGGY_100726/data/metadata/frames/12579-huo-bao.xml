@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 获报 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TMP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 过)
+                    (AS 了)
+                    (ADVP (AD 没多久))))
+                    (NP-SBJ (DNP (QP (CD 大批))
+                    (DEG 的))
+                    (NP (NN 消防)
+                    (NN 人员)))
+                    (VP (VP (VV 获报)) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    过 了 没多久          
+                </arg>
+                <arg n="0">
+                    大批 的 消防 人员          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

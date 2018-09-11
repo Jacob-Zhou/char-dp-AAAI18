@@ -1,0 +1,129 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 像 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 resembles"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DNP (LCP (NP (NN 岸))
+                    (LC 边))
+                    (DEG 的))
+                    (NP (NN 繁枝)
+                    (NN 茂叶)))
+                    (VP (ADVP (AD 恰))
+                    (VP (VV 像)
+                    (NP-OBJ (DNP (NP (PN 她))
+                    (DEG 的))
+                    (NP (NN 翡翠)
+                    (NN 项链)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    岸 边 的 繁枝 茂叶 	  	  
+                </arg>
+                <arg n="1">
+                    她 的 翡翠 项链 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    恰 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 它))
+                    (VP (ADVP (AD 看起来))
+                    (ADVP (AD 就))
+                    (VP (VV 像)
+                    (PU ，)
+                    (CP-OBJ (IP (INTJ (IJ 天哪))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 共和党))
+                    (VP (CP-CND (ADVP (CS 要是))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 能)
+                    (VP (VRD (VV 争取)
+                    (VV 到))
+                    (NP-OBJ (DP (DT 任何))
+                    (NP (NN 东西)))))))
+                    (ADVP (AD 都))
+                    (VP (VV 算)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VA 运气))))))
+                    (SP 了)))) 
+                    
+                </parse>
+                <arg n="0">
+                    它	  
+                </arg>
+                <arg n="m" f="adv">
+                    看起来 	  	  
+                </arg>
+                <arg n="m" f="dis">
+                    就	  
+                </arg>
+                <arg n="1">
+                    天哪 ， 共和党 要是 能 争取 到 任何 东西 都 算 运气 了	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="example"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但))
+                    (NP-SBJ (ADJP (JJ 关键))
+                    (NP (NN 问题)))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 像)
+                    (IP-OBJ (ADVP (AD 刚才))
+                    (NP-PN-SBJ (NR 荣智健)
+                    (NN 先生))
+                    (VP (VV 说)
+                    (AS 了))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但	  	  
+                </arg>
+                <arg n="0">
+                    关键 问题	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    就	  	  
+                </arg>
+                <arg n="1">
+                    刚才 荣智健 先生 说了	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

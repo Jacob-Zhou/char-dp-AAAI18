@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闪现 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (DNP (NP (NN 学校))
+                    (DEG 的))
+                    (NP (NN 校训)))
+                    (PU 、)
+                    (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 救)
+                    (NP-PN-OBJ (NR 中国)))
+                    (VP (VV 求)
+                    (NP-OBJ (NN 统一)))))
+                    (DEC 的))
+                    (NP-PN (NR 黄浦))
+                    (NP (NN 精神))))
+                    (VP (ADVP (AD 又))
+                    (VP (VV 闪现)
+                    (PP (P 在)
+                    (NP (DNP (NP (PN 他们))
+                    (DEG 的))
+                    (NP (NN 眼前)))) 
+                    
+                </parse>
+                <arg n="0">
+                    学校 的 校训 、 救 中国 求 统一 的黄浦 精神          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="1">
+                    在 他们 的 眼前          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

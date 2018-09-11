@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 压伤 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 铁卷门))
+                    (VP (VV 压伤)
+                    (NP-OBJ (NN 学生)))) 
+                    
+                </parse>
+                <arg n="0">
+                    铁卷门          
+                </arg>
+                <arg n="1">
+                    学生          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

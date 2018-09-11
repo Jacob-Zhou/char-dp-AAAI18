@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拆开 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 opens"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 结果))
+                    (NP-SBJ (PN 大家))
+                    (VP (DVP (VP (VA 紧张兮兮))
+                    (DEV 的))
+                    (VP (VV 拆开)
+                    (NP-OBJ (NN 盒子))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    结果          
+                </arg>
+                <arg n="0">
+                    大家          
+                </arg>
+                <arg n="m" f="adv">
+                    紧张兮兮 的          
+                </arg>
+                <arg n="1">
+                    盒子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

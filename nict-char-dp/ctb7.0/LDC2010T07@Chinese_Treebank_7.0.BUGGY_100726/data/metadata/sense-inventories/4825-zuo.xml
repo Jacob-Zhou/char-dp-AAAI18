@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="坐-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to sit" group="1">
+<commentary>
+</commentary>
+<examples>
+运动员 、 教练员 、 医生 、 护士 和 代表团 官员 整齐 地 坐 在 台下
+但 相信 坐 在一起 后 ， 分歧 依然 存在
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to travel by, to go by (car, airplane, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+从 深圳 坐 汽车 到 广州
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to sit and settle down for a period of time in order to discuss" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 和 她 至少 还 可以 坐 下来 交换 看法 ， 缩小 双方 的 距离
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to rest upon, to be seat in (metaphorical)" group="1">
+<commentary>
+</commentary>
+<examples>
+「 让 学生 在 学校 充实 愉快 学习 ， 整 个 社会 不 会 坐 在 火药桶 上 。 」
+台湾 的 资讯 产值 高 居 全球 第四 ， 如果 加计 遍布 全球 的 台商 海外 产值 ， 足 可 稳 坐 资讯 硬体 制造业 的 龙头 宝座
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to be imprisoned" group="1">
+<commentary>
+</commentary>
+<examples>
+我 坐 过 国民党 与 共产党 的 牢
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="63" ann_1_2_agreement="0.84126984127" />
+</inventory>

@@ -1,0 +1,21 @@
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 0 6 gold 历经-v 历经.01 ----- 6:0-rel 5:1-ARG0 8:1-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 0 15 gold 宣誓-v 宣誓.01 ----- 15:0-rel
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 0 16 gold 就职-v 就职.01 ----- 16:0-rel 0:1-ARGM-LOC 5:3-ARGM-TMP 10:3-ARG0 14:1-ARGM-ADV
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 0 25 gold 出来-v 出来.01 ----- 25:0-rel
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 0 30 gold 结束-v 结束.01 ----- 30:0-rel 0:1-ARGM-LOC 5:3-ARGM-TMP 10:3-ARG0 14:1-ARGM-ADV 32:4-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 6 gold 演说-v 演说.01 ----- 6:0-rel 2:1-ARG0 4:1-ARGM-LOC 1:0*1:1*3:0*3:1*8:1-ARGM-TMP
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 9 gold 表示-v 表示.01 ----- 9:0-rel 0:1-ARG0 1:3-ARGM-TMP 11:3-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 12 gold 决心-v 决心.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 14 gold 要-v 要.05 ----- 14:0-rel 13:1-ARG0 15:1-ARGM-ADV
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 15 gold 让-v 让.02 ----- 15:0-rel 13:1-ARG0 16:1-ARG1 18:2-ARG2
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 19 gold 团结-v 团结.02 ----- 19:0-rel 18:1-ARG1 20:1-ARGM-ADV
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 24 gold 承诺-v 承诺.01 ----- 24:0-rel 22:1-ARGM-DIS 23:1-ARG0 25:2-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 26 gold 要-v 要.05 ----- 26:0-rel 25:1-ARG0 27:2-ARGM-ADV
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 27 gold 尊重-v 尊重.01 ----- 27:0-rel 25:1-ARG0 28:1-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 1 30 gold 保障-v 保障.01 ----- 30:0-rel 25:1-ARG0 31:3-ARG1
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 2 3 gold 在野-v 在野.01 ----- 3:0-rel 2:1-ARG0
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 2 6 gold 允许-v 允许.01 ----- 6:0-rel 0:1*10:1*1:1-ARG0 2:3-ARGM-TMP 5:1-ARGM-ADV 7:2-ARG2
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 2 8 gold 独立-v 独立.01 ----- 8:0-rel 7:1-ARG0
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 2 15 gold 在-v 在.01 ----- 15:0-rel 14:1-ARGM-TMP 16:3-ARGM-ADV 12:0*12:1*13:0*13:1*20:1-ARG0
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 2 17 gold 管理-v 管理.01 ----- 17:0-rel 16:1-ARG0
+bn/cts/00/cts_0026@0026@cts@bn@ch@on 2 21 gold 走上-v 走上.01 ----- 21:0-rel 0:4-ARG0 22:3-ARG1

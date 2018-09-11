@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 灭绝 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing extinct"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 恐龙))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (ADVP (AD 即将))
+                    (VP (VV 灭绝))))
+                    (DEC 的)))
+                    (NP (NN 时代)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    恐龙          
+                </arg>
+                <arg n="m" f="tmp">
+                    
+                </arg>
+                <arg n="m" f="adv">
+                    即将          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

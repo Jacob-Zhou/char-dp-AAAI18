@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="联系-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to contact, to establish contact, to get through, to communicate (v), contact(n)" group="1">
+<commentary>
+</commentary>
+<examples>
+另外 ， 帛琉 目前 对 外 联系 的 电传 与 网际 网路 尚 不 是 十分 稳定
+三 方 之间 加强 联系 可以 帮助 相互 了解
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to associate, to affiliate, to establish relationship, to connect with (v), connection, relationship(n)" group="1">
+<commentary>
+</commentary>
+<examples>
+要 从 战略 高度 看待 学习 ， 以 高度 的 历史 使命感 和 现实 紧迫感 来 强化 学习 ， 密切 联系 新 形势 新 任务 新 实践 来 开展 学习
+这 便 是 电影 的 艺术性 ， 联系 了 人类 探索 生命 的 本能 与 思辨 的 历程
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="26" ann_1_2_agreement="0.961538461538" />
+</inventory>

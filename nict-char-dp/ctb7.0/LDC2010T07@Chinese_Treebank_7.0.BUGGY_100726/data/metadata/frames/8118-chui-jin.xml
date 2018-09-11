@@ -1,0 +1,88 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吹进 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="place arg0 enters (like wind)"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DP (DT 各)
+                    (CLP (M 种)))
+                    (NP (NN 思潮)))
+                    (VP (ADVP (AD 再度))
+                    (VP (VV 吹进)
+                    (NP-OBJ (NN 大陆))))) 
+                    
+                </parse>
+                <arg n="0">
+                    各 种 思潮 	  
+                </arg>
+                <arg n="1">
+                    大陆 	  
+                </arg>
+                <arg n="m" f="adv">
+                    再度 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="place arg0 enters"/>
+        <role argnum="2" argrole="agent, cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 中船)))
+                    (VP (VV 新建)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (QP (CD ２６０００)
+                    (CLP (M 吨)))
+                    (NP-PN (NR 福马麦斯)
+                    (NN 轮)))
+                    (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 断缆))))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (ADJP (JJ 强))
+                    (NP (NN 风)))
+                    (VP (VV 吹进)
+                    (NP-OBJ (DNP (NP-PN (NR 基隆港))
+                    (DEG 的))
+                    (NP (NN 内港))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    在 中船 新建 的 ２６０００ 吨 福马麦斯 轮	  
+                </arg>
+                <arg n="m" f="prp">
+                    因为 断缆	  
+                </arg>
+                <arg n="2">
+                    强 风	  
+                </arg>
+                <arg n="1">
+                    基隆港 的 内港	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

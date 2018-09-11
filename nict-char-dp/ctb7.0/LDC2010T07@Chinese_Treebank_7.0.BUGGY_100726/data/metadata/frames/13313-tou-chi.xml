@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷吃 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing eaten"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-PN-SBJ (NR 温采福))
+                    (VP (VV 偷吃)
+                    (NP-OBJ (NN 香油))))))
+                    (DEC 的)))) 
+                    
+                </parse>
+                <arg n="0">
+                    温采福          
+                </arg>
+                <arg n="1" f="psr">
+                    *T*-1          
+                </arg>
+                <arg n="1" f="pse">
+                    香油          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

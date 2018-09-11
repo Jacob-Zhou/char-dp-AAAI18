@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 认尸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (NP-SBJ (NN 家中))
+                    (VP (VE 有)
+                    (IP-OBJ (NP-SBJ (DNP (LCP (QP (CD ２５)
+                    (CLP (M 岁)))
+                    (LC 左右))
+                    (DEG 的))
+                    (ADJP (JJ 年轻))
+                    (NP (NN 女子)))
+                    (VP (VV 失踪))))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 请)
+                    (VP (VP (VV 联络)
+                    (NP (NP-PN (NR 台中县))
+                    (NP (NN 刑警队))))
+                    (VP (VV 认尸))))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 家中 有 ２５ 岁 左右 的 年轻 女子 失踪           
+                </arg>
+                <arg n="0">
+                    *pro*           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

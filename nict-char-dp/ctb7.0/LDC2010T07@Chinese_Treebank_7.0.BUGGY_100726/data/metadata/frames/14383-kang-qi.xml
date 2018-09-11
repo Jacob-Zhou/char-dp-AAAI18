@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扛起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing carried"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 江鹏贞))
+                    (VP (VP (ADVP (AD 曾))
+                    (VP (VV 担任)
+                    (VV 过)
+                    (NP-OBJ (DNP (NP-PN (NR 美丽党))
+                    (DEG 的))
+                    (NP (NN 辩护)
+                    (NN 律师)))))
+                    (PU ，)
+                    (VP (ADVP (AD 接着))
+                    (VP (VP (VV 扛起)
+                    (NP-OBJ (IP-APP (NP-PN-SBJ (NR 民进党))
+                    (VP (VV 创)
+                    (NP-OBJ (NN 党))))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 艰难)))
+                    (DEC 的)))
+                    (NP (NN 使命)))) 
+                    
+                </parse>
+                <arg n="0">
+                    江鹏贞          
+                </arg>
+                <arg n="m" f="adv">
+                    接着          
+                </arg>
+                <arg n="1">
+                    民进党 创 党 艰难 的使命          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

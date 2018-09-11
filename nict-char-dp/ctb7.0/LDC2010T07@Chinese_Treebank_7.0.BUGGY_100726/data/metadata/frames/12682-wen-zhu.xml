@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 稳住 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing that arg0 stabilizes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ-2 (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VP (VV 送到)
+                    (NP-OBJ (NN 医院)))
+                    (VP (VV 急救)
+                    (NP-OBJ (-NONE- *-2))))))
+                    (LC 之后)))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 稳住)
+                    (AS 了)
+                    (NP-OBJ (NN 伤势))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    在 被 送到 医院 急救 之后          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <arg n="1">
+                    伤势          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

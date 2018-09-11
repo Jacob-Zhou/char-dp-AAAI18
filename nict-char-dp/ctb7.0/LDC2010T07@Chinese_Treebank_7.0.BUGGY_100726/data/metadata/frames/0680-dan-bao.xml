@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 担保 </id>
+    <frameset id="f1" edef="vouch for">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="whom arg0 vouches to"/>
+        <frame>
+            <mapping>
+                <V/>
+                 
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (ADVP (AD 然而))
+                    (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (ADVP (AD 刻苦))
+                    (VP (VV 自律)))
+                    (CC 和)
+                    (VP (ADVP (AD 积极))
+                    (VP (VV 理财)))))
+                    (VP (ADVP (AD 都))
+                    (ADVP (AD 不))
+                    (VP (VV 能)
+                    (VP (VV 担保)
+                    (NP-OBJ (NN 获利)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  	  
+                </arg>
+                <arg n="m" f="ADV">
+                    都 	  	  
+                </arg>
+                <arg n="m" f="ADV">
+                    不 	  	  
+                </arg>
+                <arg n="1">
+                    获利	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                 
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="dir" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 我))
+                    (VP (PP-DIR (P 向)
+                    (NP (PN 你)))
+                    (VP (VV 担保)
+                    (IP-OBJ (NP-SBJ (PN 我们))
+                    (VP (VV 会)
+                    (VP (VV 使用)
+                    (NP-OBJ (PN 它))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我	  	  
+                </arg>
+                <arg n="2">
+                    向你	  	  
+                </arg>
+                <arg n="1">
+                    我们 会 使用 它	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

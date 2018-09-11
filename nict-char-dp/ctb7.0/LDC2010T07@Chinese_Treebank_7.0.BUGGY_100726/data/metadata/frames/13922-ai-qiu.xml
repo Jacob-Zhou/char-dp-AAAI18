@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 哀求 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person pleaded"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 后来))
+                    (NP-SBJ (NN 被害人))
+                    (VP (ADVP (AD 苦苦))
+                    (VP (VV 哀求)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    后来          
+                </arg>
+                <arg n="0">
+                    被害人          
+                </arg>
+                <arg n="m" f="adv">
+                    苦苦          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

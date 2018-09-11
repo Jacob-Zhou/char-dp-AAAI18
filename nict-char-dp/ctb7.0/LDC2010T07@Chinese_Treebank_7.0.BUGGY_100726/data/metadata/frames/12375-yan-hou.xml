@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 延后 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing postponded"/>
+        <role argnum="2" argrole="end point"/>
+        <role argnum="3" argrole="original point"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 延后)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-DIR (P 向)
+                    (NP (NP-PN (NR 佛州))
+                    (NP (NN 选务)
+                    (NN 主管))))
+                    (VP (VV 回报))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    向 佛州 选务 主管 回报          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 项)))
+                    (ADJP (JJ 重要))
+                    (NP (NN 行程)))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 决定)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VRD (VV 延后)
+                    (VV 到))
+                    (NP-OBJ (NT ２００１年)))
+                    (VP (VV 举行)))))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="2">
+                    ２００１年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

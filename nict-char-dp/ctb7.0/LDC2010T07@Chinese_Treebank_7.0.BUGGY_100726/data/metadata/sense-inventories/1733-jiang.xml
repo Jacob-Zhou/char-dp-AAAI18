@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="讲-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stress, to emphasize, be particular about" group="1">
+<commentary>
+</commentary>
+<examples>
+到 浦东 新区 投资 办事 有 章法 ， 讲 规矩 ， 利益 能 得到 保障
+儒家 思想 基本 上 讲 义务
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to speak, to say, to tell" group="1">
+<commentary>
+</commentary>
+<examples>
+今天 在 “ 八六三 计划 ” 工作 会议 上 讲 的 一 段 话
+表示 演员 讲 台语 有 其 必要
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="as far as, as for, as to, concerning" group="1">
+<commentary>
+</commentary>
+<examples>
+但 若 讲 法案 的 品质
+对 读者 来 讲
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="explain" group="1">
+<commentary>
+</commentary>
+<examples>
+问 清楚 、 讲 明白 才 付 钱
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="haggle, negotiate" group="1">
+<commentary>
+</commentary>
+<examples>
+讲 价钱
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="115" ann_1_2_agreement="0.765217391304" />
+</inventory>

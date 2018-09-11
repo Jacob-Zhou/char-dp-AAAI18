@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="进-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to enter, to come in, to go in" group="1">
+<commentary>
+</commentary>
+<examples>
+建筑 公司 进 区
+先后 有 十多 个 国家 和 地区 的 客商 进 保税区 投资
+香港 大学 少 又 难 进
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to move forward, to advance" group="1">
+<commentary>
+</commentary>
+<examples>
+更 进 一 步
+后 进 者 要 超越
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="in, denoting the direction" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 在 亚洲 的 连锁店 加进 更 多 的 灯光
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to bring in, to take in, to feed" group="1">
+<commentary>
+</commentary>
+<examples>
+四处 化缘 来 的 东西 ， 就 往 背 后 布袋 里 装 ， 而 他 取自 十方 ， 散自 十方，这 只 手 进 ， 呵呵呵 笑 的 另 一 只 手 就 布施 给 了 人家
+实际 进 资 二十二亿 美元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to goal (in ball games)" group="1">
+<commentary>
+</commentary>
+<examples>
+明宣宗 推杆 不 进
+用心 琢磨 如何 在 下 一 杆 一 推 进洞
+在 一 场 比赛 中 各 进 ５ 个 球
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="21" ann_1_2_agreement="0.904761904762" />
+</inventory>

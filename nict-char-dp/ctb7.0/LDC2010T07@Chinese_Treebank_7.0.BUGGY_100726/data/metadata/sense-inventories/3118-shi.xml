@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="实-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="true, real, authentic, fact, truth" group="1">
+<commentary>
+</commentary>
+<examples>
+进出口 货物 收发货人 对 货物 的 知识 产权 状况 申报 不 实 及 逃避 海关 监管 、走私 侵权 货物 的 ， 由 海关 依照 有关 规定 处理
+藉 「 国情 调查 」 之 名 行 「 政治 侦防 」 之 实
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="honest, sincere" group="1">
+<commentary>
+</commentary>
+<examples>
+苦 干 实 干 ， 点滴 改良
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="solid, not hollow, not void" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 应该 「 避 实 击 虚 」 ， 多方 研究 因应之道
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

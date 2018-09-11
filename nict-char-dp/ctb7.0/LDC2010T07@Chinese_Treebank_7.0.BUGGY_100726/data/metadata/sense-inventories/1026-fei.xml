@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="飞-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to fly, to make fly" group="1">
+<commentary>
+</commentary>
+<examples>
+谁 家 玉笛 暗 飞 声
+这 场 风沙 狂 飞 、 黑天暗地 的 戏
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="4" ann_1_2_agreement="1.0" />
+</inventory>

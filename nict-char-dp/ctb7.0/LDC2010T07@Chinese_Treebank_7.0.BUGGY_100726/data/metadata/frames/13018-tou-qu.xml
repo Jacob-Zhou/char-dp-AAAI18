@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷取 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing stolen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (ADVP (AD 特别是))
+                    (NP-SBJ (DP (DT 这个))
+                    (NP (NN 集团)))
+                    (VP (ADVP (AD 几乎))
+                    (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (VP (VV 偷取)
+                    (NP-OBJ (DNP (NP (QP (CD 一)
+                    (CLP (ADJP (JJ 整))
+                    (CLP (M 个))))
+                    (NP (NN 家族)))
+                    (DEG 的))
+                    (NP (NN 护照)))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

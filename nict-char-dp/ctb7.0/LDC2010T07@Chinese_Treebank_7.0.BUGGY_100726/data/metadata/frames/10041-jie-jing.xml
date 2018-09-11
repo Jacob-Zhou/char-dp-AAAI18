@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 洁净 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (CP (WHNP-5 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-5))
+                    (VP (VA 洁净)))
+                    (DEC 的)))
+                    (ADJP (JJ 白色))
+                    (NP (NN 沙滩))) 
+                </parse>
+                <arg n="0">
+                    *T*-5 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 坚强不屈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 巴勒斯坦人))
+                    (VP (VC 是)
+                    (VP (VV 坚强不屈))))
+                    (SP 的)) 
+                    
+                </parse>
+                <arg n="0">
+                    巴勒斯坦人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

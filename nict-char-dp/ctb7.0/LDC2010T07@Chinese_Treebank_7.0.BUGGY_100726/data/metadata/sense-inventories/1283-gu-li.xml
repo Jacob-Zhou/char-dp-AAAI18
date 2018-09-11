@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="鼓励-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to promote" group="1">
+<commentary>
+</commentary>
+<examples>
+而且 外资 更 多 地 流入 国家 鼓励 投资类 项目
+为 此 ， 政府 采取 各 种 优惠 政策 以 鼓励 外商 投资 工业 。
+新 当选 的 自由党 和 国家党 联盟 政府 将 鼓励 与 中国 全面 发展 贸易 和 投资 联
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to encourage, to stimulate by assistance and approval" group="1">
+<commentary>
+</commentary>
+<examples>
+前 新华社 香港 分社 台湾 事务 部 副部长 乐美真 曾 鼓励 大专 校友 「 多 做 桥梁 工作 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="encouragement" group="1">
+<commentary>
+</commentary>
+<examples>
+侨胞 的 行动 是 对 灾民 无限 的 鼓舞 与 鼓励
+在 电视 转播 的 画面 上 ， 高行健 态度 从容 面带微笑 ， 他 说 ： 从 ８ 岁 起 他 在 母亲 的 鼓励 下 开始 每 天 写 日记
+请 给 我们 鼓励
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="124" ann_1_2_agreement="0.846774193548" />
+</inventory>

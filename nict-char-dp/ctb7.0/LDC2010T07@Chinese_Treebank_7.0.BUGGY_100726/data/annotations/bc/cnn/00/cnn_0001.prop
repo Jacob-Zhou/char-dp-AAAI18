@@ -1,0 +1,1788 @@
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 0 5 gold 发生-v 发生.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 1 15 gold 让-v 让.02 ----- 15:0-rel 1:2-ARGM-TMP 6:2-ARG0 14:1-ARGM-ADV 16:1-ARG1 17:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 3 5 gold 相同-v 相同.01 ----- 5:0-rel 1:1-ARGM-DIS 2:2-ARG0 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 4 8 gold 加入-v 加入.01 ----- 8:0-rel 1:4-ARG0 7:1-ARGM-TMP 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 5 4 gold 发生-v 发生.01 ----- 4:0-rel 3:1-ARG1 6:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 6 8 gold 过-v 过.02 ----- 8:0-rel 6:1-ARG1 7:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 6 17 gold 手持-v 手持.01 ----- 17:0-rel 3:1-ARGM-TMP 4:2-ARGM-TMP 11:2-ARG0 18:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 6 22 gold 打死-v 打死.01 ----- 22:0-rel 3:1-ARGM-TMP 4:2-ARGM-TMP 11:2-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 6 30 gold 打伤-v 打伤.01 ----- 30:0-rel 3:1-ARGM-TMP 4:2-ARGM-TMP 11:2-ARG0 28:1-ARGM-DIS 29:1-ARGM-ADV 32:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 7 23 gold 制服-v 制服.01 ----- 23:0-rel 16:3-ARG0 24:1*6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 7 29 gold 拘留-v 拘留.01 ----- 29:0-rel 1:1-ARGM-DIS 5:1-ARGM-TMP 27:1*31:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 3 gold 带到-v 带到.01 ----- 3:0-rel 1:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 13 gold 有-v 有.05 ----- 13:0-rel 8:1-ARGM-LOC 10:2-ARG0 14:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 19 gold 像-v 像.01 ----- 19:0-rel 16:1*17:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 23 gold 得到-v 得到.01 ----- 23:0-rel 14:2-ARG0 25:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 29 gold 暗示-v 暗示.01 ----- 29:0-rel 27:2-ARG0 30:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 32 gold 可能-v 可能.02 ----- 32:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 8 33 gold 发生-v 发生.01 ----- 33:0-rel 30:1-ARGM-TMP 31:1-ARG1 39:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 9 9 gold 继续-v 继续.01 ----- 9:0-rel 1:1-ARGM-DIS 3:3-ARG0 6:1-ARGM-TMP 7:1-ARGM-DIS 8:1-ARGM-ADV 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 9 10 gold 搜索-v 搜索.01 ----- 10:0-rel 1:1-ARGM-DIS 3:3-ARG0 6:1-ARGM-TMP 7:1-ARGM-ADV 8:1-ARGM-ADV 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 9 13 gold 可以-v 可以.01 ----- 13:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 9 14 gold 找到-v 找到.01 ----- 14:0-rel 12:1-ARG0 11:1*15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 10 3 gold 发生-v 发生.01 ----- 3:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 10 9 gold 封锁-v 封锁.01 ----- 9:0-rel 1:1-ARGM-TMP 8:1-ARGM-ADV 11:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 11 3 gold 准-v 准.01 ----- 3:0-rel 1:1-ARG1 2:1-ARGM-ADV 4:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 11 4 gold 离开-v 离开.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 12 5 gold 持续-v 持续.01 ----- 5:0-rel 4:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 12 15 gold 可以-v 可以.01 ----- 15:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 12 16 gold 出去-v 出去.01 ----- 16:0-rel 1:1-ARGM-ADV 4:3-ARGM-TMP 13:1-ARG0 14:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 12 21 gold 可以-v 可以.01 ----- 21:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 12 22 gold 弄-v 弄.03 ----- 22:0-rel 18:1-ARGM-DIS 19:1-ARG0 20:1-ARGM-ADV 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 12 26 gold 发生-v 发生.01 ----- 26:0-rel 24:1-ARG1 25:1-ARGM-ADV 28:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 13 2 gold 有-v 有.05 ----- 2:0-rel 1:1-ARG0 3:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 13 11 gold 发生-v 发生.01 ----- 11:0-rel 9:1-ARG1 12:1*8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 13 16 gold 震惊-v 震惊.01 ----- 16:0-rel 8:3-ARG0 17:1*3:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 13 20 gold 惊呆-v 惊呆.01 ----- 20:0-rel 17:1*3:4-ARG1 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 14 6 gold 听到-v 听到.01 ----- 6:0-rel 1:1-ARGM-TMP 3:1-ARG0 4:2-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 14 8 gold 有-v 有.05 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 14 10 gold 说-v 说.01 ----- 10:0-rel 9:1-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 14 15 gold 敢-v 敢.01 ----- 15:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 14 16 gold 相信-v 相信.01 ----- 16:0-rel 12:1-ARG0 13:1-ARGM-ADV 14:1-ARGM-ADV 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 14 18 gold 发生-v 发生.01 ----- 18:0-rel 17:1-ARG0 19:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 15 12 gold 受-v 受.01 ----- 12:0-rel 9:1*10:1-ARG0 11:1-ARGM-ADV 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 15 19 gold 夺走-v 夺走.01 ----- 19:0-rel 20:1*6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 15 30 gold 扎根-v 扎根.01 ----- 30:0-rel 1:1-ARGM-DIS 5:1-ARGM-TMP 23:2-ARG0 26:1-ARGM-ADV 27:1-ARGM-ADV 28:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 16 6 gold 谈论-v 谈论.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 3:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 16 9 gold 是-v 是.01 ----- 9:0-rel 3:3-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 17 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 18 6 gold 是-v 是.04 ----- 6:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 18 8 gold 大-v 大.01 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 19 7 gold 问起-v 问起.01 ----- 7:0-rel 4:1-ARG0 5:1-ARG2 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 19 10 gold 有-v 有.02 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 19 16 gold 说-v 说.01 ----- 16:0-rel 1:1-ARGM-ADV 3:1-ARGM-TMP 15:1-ARG0 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 19 20 gold 回答-v 回答.01 ----- 20:0-rel 17:1-ARG0 18:1-ARGM-ADV 19:1-ARGM-ADV 21:1-ARG3
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 19 25 gold 给-v 给.01 ----- 25:0-rel 23:1-ARG0 24:1-ARGM-ADV 27:1-ARG2 30:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 19 40 gold 有-v 有.02 ----- 40:0-rel 36:1-ARGM-DIS 37:3-ARG0 41:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 20 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 20 8 gold 有-v 有.01 ----- 8:0-rel 4:3-ARG0 7:1-ARGM-ADV 3:1*9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 21 4 gold 没有-v 没有.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-ADV 5:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 22 3 gold 认识-v 认识.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 7:6-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 4 gold 在场-v 在场.01 ----- 4:0-rel 1:1*2:1-ARG0 3:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 7 gold 称-v 称.02 ----- 7:0-rel 1:3-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 9 gold 深受-v 深受.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 13 gold 平易近人-v 平易近人.01 ----- 13:0-rel 8:1-ARG0 12:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 16 gold 是-v 是.01 ----- 16:0-rel 8:1-ARG0 15:1-ARGM-ADV 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 23 gold 忘记-v 忘记.01 ----- 23:0-rel 20:1-ARGM-DIS 21:1-ARG0 22:1-ARGM-TMP 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 25 gold 带-v 带.02 ----- 25:0-rel 24:1-ARG0 26:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 23 30 gold 会-v 会.02 ----- 30:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 24 6 gold 谈论-v 谈论.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 25 4 gold 会-v 会.02 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 25 6 gold 想念-v 想念.01 ----- 6:0-rel 1:1-ARGM-TMP 3:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 26 5 gold 知道-v 知道.01 ----- 5:0-rel 1:1-ARGM-DIS 4:1-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 26 12 gold 发生-v 发生.01 ----- 12:0-rel 6:2-ARG0 9:2-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 27 2 gold 发生-v 发生.01 ----- 2:0-rel 1:1-ARG0 3:2-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 27 7 gold 过-v 过.02 ----- 7:0-rel 4:1-ARGM-TMP 5:1-ARG1 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 28 9 gold 称-v 称.02 ----- 9:0-rel 1:1-ARGM-ADV 3:2-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 28 17 gold 准备-v 准备.02 ----- 17:0-rel 11:1-ARG0 12:1-ARGM-LOC 16:1-ARGM-ADV 18:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 28 19 gold 处理-v 处理.02 ----- 19:0-rel 18:1-ARG0 20:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 28 33 gold 远-v 远.01 ----- 33:0-rel 28:1*29:1-ARG0 30:1-ARG1 32:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 28 37 gold 发生-v 发生.01 ----- 37:0-rel 10:1-ARGM-TMP 25:1-ARG0 26:1-ARGM-ADV 27:1-ARGM-LOC 36:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 6 gold 试图-v 试图.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 8 gold 找出-v 找出.01 ----- 8:0-rel 7:1-ARG0 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 11 gold 导致-v 导致.01 ----- 11:0-rel 9:1*10:1-ARG0 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 15 gold 发生-v 发生.01 ----- 15:0-rel 12:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 23 gold 会-v 会.02 ----- 23:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 24 gold 在-v 在.01 ----- 24:0-rel 19:1-ARGM-ADV 20:2-ARG0 25:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 31 gold 开枪-v 开枪.01 ----- 31:0-rel 30:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 29 40 gold 发生-v 发生.01 ----- 40:0-rel 29:1-ARGM-TMP 34:3-ARG1 39:1-ARGM-ADV 42:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 30 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 30 8 gold 谢谢-v 谢谢.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 31 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 31 8 gold 赶到-v 赶到.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 32 14 gold 拼凑-v 拼凑.01 ----- 14:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 12:2-ARG1 15:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 32 17 gold 找出-v 找出.01 ----- 17:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 18:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 32 21 gold 发生-v 发生.01 ----- 21:0-rel 19:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 32 29 gold 发生-v 发生.01 ----- 29:0-rel 18:1-ARGM-TMP 27:1-ARG1 28:1-ARGM-ADV 31:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 32 41 gold 会-v 会.02 ----- 41:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 32 42 gold 是-v 是.01 ----- 42:0-rel 39:1-ARG0 40:1-ARGM-ADV 43:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 33 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 34 6 gold 说-v 说.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 2:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 34 12 gold 是-v 是.01 ----- 12:0-rel 1:1-ARGM-ADV 10:1-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 34 20 gold 展开-v 展开.01 ----- 20:0-rel 16:1*17:1-ARG1 18:1-ARGM-ADV 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 35 13 gold 没有-v 没有.01 ----- 13:0-rel 10:1-ARGM-DIS 11:1-ARG1 12:1-ARGM-ADV 14:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 35 15 gold 声明-v 声明.01 ----- 15:0-rel 14:1-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 35 17 gold 说-v 说.01 ----- 17:0-rel 16:1-ARG0 19:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 36 5 gold 设立-v 设立.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-LOC 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 36 16 gold 收集-v 收集.01 ----- 16:0-rel 1:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 36 19 gold 询问-v 询问.01 ----- 19:0-rel 1:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 20:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 36 22 gold 记录-v 记录.01 ----- 22:0-rel 1:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 37 8 gold 会-v 会.02 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 37 12 gold 显现-v 显现.01 ----- 12:0-rel 1:1-ARGM-TMP 6:2-ARG1 9:1-ARGM-ADV 10:2-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 37 19 gold 掌握-v 掌握.01 ----- 19:0-rel 15:1-ARGM-DIS 16:1-ARGM-TMP 17:1-ARG0 18:1-ARGM-ADV 20:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 38 6 gold 在一起-v 在一起.01 ----- 6:0-rel 1:1*2:1-ARG0 3:1-ARGM-TMP 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 38 8 gold 有-v 有.07 ----- 8:0-rel 1:3-ARG0 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 38 14 gold 熟-v 熟.02 ----- 14:0-rel 9:1*10:1-ARG0 11:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 38 26 gold 在-v 在.01 ----- 26:0-rel 22:1*23:1-ARG0 24:1-ARGM-TMP 25:1-ARGM-DIS 27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 38 32 gold 来自-v 来自.01 ----- 32:0-rel 31:1-ARG0 33:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 39 7 gold 感谢-v 感谢.02 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG1 9:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 39 10 gold 参加-v 参加.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 40 11 gold 发生-v 发生.01 ----- 11:0-rel 7:2-ARG0 6:1*10:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 40 18 gold 在-v 在.01 ----- 18:0-rel 5:1-ARGM-TMP 17:1-ARG0 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 41 2 gold 看到-v 看到.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 42 7 gold 看到-v 看到.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG1 10:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 42 14 gold 上课-v 上课.01 ----- 14:0-rel 11:1-ARG0 12:1-ARGM-ADV 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 43 4 gold 听说-v 听说.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 43 23 gold 走进-v 走进.01 ----- 23:0-rel 21:2-ARG0 24:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 43 26 gold 在-v 在.01 ----- 26:0-rel 21:2-ARG0 27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 43 34 gold 在-v 在.01 ----- 34:0-rel 31:1*32:1-ARG0 33:1-ARGM-ADV 35:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 43 40 gold 开-v 开.011 ----- 40:0-rel 21:2-ARG0 30:1-ARGM-DIR 42:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 44 4 gold 发生-v 发生.01 ----- 4:0-rel 3:1-ARG1 6:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 45 5 gold 上课-v 上课.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 46 5 gold 响-v 响.01 ----- 5:0-rel 3:1-ARGM-DIS 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 46 13 gold 是-v 是.04 ----- 13:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 46 14 gold 指-v 指.01 ----- 14:0-rel 9:2-ARGM-TPC 12:1-ARG0 16:4-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 46 17 gold 是-v 是.04 ----- 17:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 46 19 gold 警告-v 警告.01 ----- 19:0-rel 16:1-ARG0 18:1-ARGM-ADV 20:1-ARG1 21:3-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 46 23 gold 发生-v 发生.01 ----- 23:0-rel 21:1*22:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 47 6 gold 上课-v 上课.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 48 4 gold 打开-v 打开.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 48 9 gold 告诉-v 告诉.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG0 10:1-ARG2 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 48 13 gold 封锁-v 封锁.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 49 3 gold 持续-v 持续.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 51 6 gold 认识-v 认识.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 51 11 gold 指控-v 指控.01 ----- 11:0-rel 12:1*8:1*9:1-ARG1 12:1*9:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 51 16 gold 有-v 有.04 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 51 18 gold 久-v 久.01 ----- 18:0-rel 5:1-ARG0 6:1-ARG0 15:1-ARGM-ADV 17:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 52 2 gold 应该-v 应该.01 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 52 9 gold 指出-v 指出.01 ----- 9:0-rel 1:1-ARG0 5:1-ARGM-DIR 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 52 12 gold 使用-v 使用.01 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-ADV 13:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 53 5 gold 到-v 到.02 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 54 11 gold 规定-v 规定.01 ----- 11:0-rel 1:1-ARG0 4:1-ARGM-ADV 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 54 15 gold 做-v 做.01 ----- 15:0-rel 12:1-ARG0 13:1-ARGM-ADV 14:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 55 4 gold 认识-v 认识.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 55 7 gold 有-v 有.04 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 55 11 gold 久-v 久.01 ----- 11:0-rel 3:1-ARG0 4:1-ARG0 6:1-ARGM-ADV 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 56 7 gold 有-v 有.02 ----- 7:0-rel 3:1-ARG0 4:1-ARGM-TMP 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 56 13 gold 挺-v 挺.01 ----- 13:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 56 14 gold 熟-v 熟.02 ----- 14:0-rel 3:1-ARG0 4:1-ARGM-TMP 11:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 56 19 gold 到-v 到.01 ----- 19:0-rel 18:1-ARG0 20:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 56 28 gold 没-v 没.03 ----- 28:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 56 30 gold 熟-v 熟.02 ----- 30:0-rel 17:1-ARGM-DIS 18:3-ARGM-TMP 25:1-ARG0 26:1-ARGM-ADV 27:1-ARGM-ADV 29:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 57 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 57 19 gold 惹-v 惹.02 ----- 19:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 6:1-ARG0 15:1-ARGM-DIS 16:1-ARGM-ADV 17:1-ARGM-ADV 18:1-ARGM-ADV 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 58 5 gold 听到-v 听到.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 58 7 gold 可能-v 可能.02 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 58 8 gold 涉嫌-v 涉嫌.01 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 58 16 gold 吃惊-v 吃惊.01 ----- 16:0-rel 3:1-ARGM-TMP 15:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 59 4 gold 是-v 是.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 61 5 gold 想-v 想.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 7:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 61 10 gold 会-v 会.01 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 61 11 gold 杀人-v 杀人.01 ----- 11:0-rel 7:3-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 62 6 gold 想-v 想.01 ----- 6:0-rel 1:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 63 6 gold 惹-v 惹.02 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 63 17 gold 这样-v 这样.01 ----- 17:0-rel 11:1-ARGM-DIS 12:1-ARG0 13:1-ARGM-ADV 14:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 63 21 gold 想-v 想.01 ----- 21:0-rel 19:1-ARG0 20:1-ARGM-ADV 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 63 24 gold 会-v 会.01 ----- 24:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 63 25 gold 干-v 干.01 ----- 25:0-rel 23:1-ARG0 26:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 64 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 64 6 gold 惹-v 惹.02 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 67 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 67 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 68 5 gold 好-v 好.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 69 25 gold 是-v 是.04 ----- 25:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 69 26 gold 说-v 说.01 ----- 26:0-rel 5:1-ARGM-TMP 24:1-ARG0 28:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 69 29 gold 知道-v 知道.01 ----- 29:0-rel 28:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 69 33 gold 听-v 听.01 ----- 33:0-rel 32:1-ARG0 35:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 70 5 gold 知道-v 知道.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 70 11 gold 形容-v 形容.03 ----- 11:0-rel 1:1-ARGM-TPC 4:3-ARGM-ADV 8:1-ARG1 9:1-ARGM-ADV 14:3-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 70 19 gold 捉弄-v 捉弄.01 ----- 19:0-rel 17:2-ARG0 20:1*24:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 70 22 gold 欺负-v 欺负.01 ----- 22:0-rel 17:2-ARG0 15:1*20:1*24:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 71 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 72 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 73 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 73 6 gold 捉弄-v 捉弄.01 ----- 6:0-rel 4:1-ARGM-ADV 3:1*8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 74 10 gold 捉弄-v 捉弄.01 ----- 10:0-rel 3:1-ARGM-TMP 8:1-ARGM-ADV 12:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 75 5 gold 说-v 说.01 ----- 5:0-rel 3:1-ARG0 2:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 75 14 gold 一样-v 一样.02 ----- 14:0-rel 9:1-ARG0 10:1-ARGM-ADV 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 75 16 gold 有-v 有.01 ----- 16:0-rel 1:1-ARGM-MNR 9:2-ARGM-MNR 15:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 75 20 gold 有-v 有.01 ----- 20:0-rel 19:1-ARG0 22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 76 3 gold 是-v 是.04 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 76 4 gold 说-v 说.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 76 9 gold 受-v 受.01 ----- 9:0-rel 6:1*7:1-ARG0 8:1-ARGM-ADV 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 77 4 gold 能-v 能.01 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 77 9 gold 来-v 来.06 ----- 9:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 78 14 gold 是-v 是.01 ----- 14:0-rel 6:1-ARGM-ADV 12:1-ARG0 13:1-ARGM-ADV 26:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 78 39 gold 是-v 是.01 ----- 39:0-rel 32:1-ARGM-DIS 33:1-ARGM-ADV 38:1-ARG0 40:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 79 3 gold 感谢-v 感谢.02 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 79 12 gold 能-v 能.01 ----- 12:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 79 19 gold 谈论-v 谈论.01 ----- 19:0-rel 11:1-ARG0 13:1-ARG0 15:1-ARGM-ADV 23:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 79 25 gold 了解-v 了解.02 ----- 25:0-rel 24:1-ARG0 23:1*26:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 80 3 gold 感谢-v 感谢.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 4 gold 想-v 想.02 ----- 4:0-rel 1:1-ARGM-TMP 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 7 gold 谈论-v 谈论.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 13 gold 是-v 是.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:5-ARG1 20:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 22 gold 说-v 说.01 ----- 22:0-rel 21:1-ARG0 23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 28 gold 了解-v 了解.02 ----- 28:0-rel 21:2-ARGM-ADV 25:1-ARG0 26:1-ARGM-ADV 27:1-ARGM-ADV 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 34 gold 想-v 想.02 ----- 34:0-rel 31:1-ARGM-DIS 32:1-ARG0 33:1-ARGM-ADV 35:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 81 36 gold 推测-v 推测.01 ----- 36:0-rel 35:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 82 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 83 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-DIS 6:5-ARG1 13:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 83 17 gold 说-v 说.01 ----- 17:0-rel 16:1-ARG0 18:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 83 20 gold 符合-v 符合.01 ----- 20:0-rel 18:2-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 83 30 gold 存在-v 存在.01 ----- 30:0-rel 27:1-ARGM-DIS 28:1-ARG0 29:1-ARGM-ADV 31:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 83 44 gold 目睹-v 目睹.01 ----- 44:0-rel 35:1-ARGM-DIS 36:1-ARG0 37:1-ARGM-ADV 38:3-ARGM-ADV 46:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 84 5 gold 告诉-v 告诉.01 ----- 5:0-rel 1:3-ARG0 4:1-ARGM-ADV 7:1-ARG2 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 85 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 87 5 gold 使-v 使.01 ----- 5:0-rel 1:2-ARG0 6:1-ARG1 7:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 87 8 gold 联想-v 联想.01 ----- 8:0-rel 7:1-ARG0 10:6-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 87 18 gold 受伤-v 受伤.01 ----- 18:0-rel 16:1*17:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 89 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 89 4 gold 使-v 使.01 ----- 4:0-rel 3:1-ARG0 5:3-ARG1 8:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 89 10 gold 崩溃-v 崩溃.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 89 24 gold 有-v 有.01 ----- 24:0-rel 22:1-ARGM-DIS 23:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 90 4 gold 称-v 称.02 ----- 4:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 90 8 gold 涉及-v 涉及.01 ----- 8:0-rel 7:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 90 15 gold 有-v 有.03 ----- 15:0-rel 1:1-ARGM-MNR 6:1-ARGM-TMP 14:1-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 91 8 gold 没有-v 没有.02 ----- 8:0-rel 1:1-ARGM-DIS 2:4-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 92 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 92 10 gold 在-v 在.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 92 20 gold 形容-v 形容.03 ----- 20:0-rel 18:1-ARG1 23:3-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 92 25 gold 感觉-v 感觉.01 ----- 25:0-rel 23:1*24:1-ARG0 27:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 92 31 gold 捉弄-v 捉弄.01 ----- 31:0-rel 29:2-ARG0 32:1*36:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 92 34 gold 欺负-v 欺负.01 ----- 34:0-rel 29:2-ARG0 27:1*32:1*36:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 93 2 gold 允许-v 允许.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 93 5 gold 发火-v 发火.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 94 4 gold 允许-v 允许.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:1-ARG1 7:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 94 7 gold 表达-v 表达.01 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 95 8 gold 遭受-v 遭受.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 95 13 gold 感到-v 感到.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 95 20 gold 对付-v 对付.01 ----- 20:0-rel 1:1-ARGM-DIS 6:1-ARGM-TMP 17:1-ARG0 18:2-ARGM-ADV 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 96 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 96 8 gold 发泄-v 发泄.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 97 12 gold 看到-v 看到.01 ----- 12:0-rel 6:1-ARG0 7:1-ARGM-LOC 13:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 97 17 gold 来自-v 来自.01 ----- 17:0-rel 15:1*16:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 97 33 gold 着迷-v 着迷.01 ----- 33:0-rel 1:3-ARG0 25:1-ARG1 32:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 99 4 gold 有-v 有.01 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 99 7 gold 预示-v 预示.01 ----- 7:0-rel 5:1*6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 99 18 gold 引起-v 引起.01 ----- 18:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 15:1-ARG0 16:1-ARGM-TMP 17:1-ARGM-ADV 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 100 9 gold 上报-v 上报.01 ----- 9:0-rel 5:1-ARG0 4:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 100 20 gold 达-v 达.01 ----- 20:0-rel 1:1-ARG0 3:2-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 101 8 gold 展开-v 展开.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 101 16 gold 会-v 会.02 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 102 2 gold 称-v 称.02 ----- 2:0-rel 1:1-ARG0 4:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 102 11 gold 带到-v 带到.01 ----- 11:0-rel 4:1*5:1-ARG0 6:1-ARGM-TMP 9:2-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 102 22 gold 杀死-v 杀死.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 102 25 gold 伤-v 伤.01 ----- 25:0-rel 21:1-ARG0 26:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 102 36 gold 身穿-v 身穿.01 ----- 36:0-rel 4:4-ARG0 35:1-ARGM-ADV 37:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 102 42 gold 是-v 是.01 ----- 42:0-rel 4:4-ARG0 40:1-ARGM-DIS 41:1-ARGM-ADV 43:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 103 6 gold 杀-v 杀.01 ----- 6:0-rel 1:1*2:1-ARG0 3:1-ARGM-LOC 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 103 15 gold 是-v 是.01 ----- 15:0-rel 1:3-ARG0 13:1-ARGM-DIS 14:1-ARGM-ADV 16:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 104 11 gold 感到-v 感到.01 ----- 11:0-rel 1:1-ARGM-MNR 5:2-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV 10:1-ARGM-ADV 13:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 104 14 gold 捍卫-v 捍卫.01 ----- 14:0-rel 13:1-ARG0 15:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 104 25 gold 低-v 低.01 ----- 25:0-rel 21:1-ARGM-DIS 22:1-ARG0 23:1-ARGM-ADV 24:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 105 5 gold 杀死-v 杀死.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-LOC 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 106 4 gold 想-v 想.01 ----- 4:0-rel 3:1-ARG0 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 106 8 gold 会-v 会.02 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 106 9 gold 记住-v 记住.01 ----- 9:0-rel 5:2-ARG0 7:1-ARGM-TMP 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 107 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 107 5 gold 变得-v 变得.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 107 8 gold 有名-v 有名.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 3 gold 使-v 使.01 ----- 3:0-rel 1:1*2:1-ARG0 4:1-ARG1 5:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 6 gold 出名-v 出名.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 8 gold 是-v 是.01 ----- 8:0-rel 1:3-ARG0 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 17 gold 结合-v 结合.02 ----- 17:0-rel 11:1*10:1-ARG0 12:1-ARGM-ADV 14:2-ARG1 18:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 25 gold 没有-v 没有.01 ----- 25:0-rel 24:1-ARG1 26:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 27 gold 相信-v 相信.01 ----- 27:0-rel 26:1-ARG0 28:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 29 gold 会-v 会.01 ----- 29:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 30 gold 做-v 做.012 ----- 30:0-rel 28:1-ARG0 33:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 39 gold 没有-v 没有.01 ----- 39:0-rel 24:1-ARG1 38:1-ARGM-DIS 40:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 108 41 gold 阻止-v 阻止.01 ----- 41:0-rel 40:1-ARG0 44:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 110 8 gold 听到-v 听到.01 ----- 8:0-rel 1:1-ARG0 2:3-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 111 8 gold 会-v 会.01 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 111 9 gold 做-v 做.01 ----- 9:0-rel 7:1-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 112 5 gold 有-v 有.07 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 4:1-ARGM-DIS 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 112 16 gold 可能-v 可能.02 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 112 17 gold 会-v 会.02 ----- 17:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 112 18 gold 影响-v 影响.01 ----- 18:0-rel 14:1*15:1-ARG0 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 112 29 gold 影响-v 影响.01 ----- 29:0-rel 26:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 30:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 113 4 gold 有-v 有.07 ----- 4:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-DIS 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 113 10 gold 濒临-v 濒临.01 ----- 10:0-rel 8:1*9:1-ARG0 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 113 21 gold 遭受-v 遭受.01 ----- 21:0-rel 15:2-ARG0 17:1-ARGM-TMP 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 114 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 114 5 gold 看看-v 看看.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 114 11 gold 影响-v 影响.01 ----- 11:0-rel 6:1-ARGM-TMP 7:1-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV 10:1-ARGM-ADV 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 115 2 gold 环绕-v 环绕.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 115 6 gold 环绕-v 环绕.01 ----- 6:0-rel 1:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 115 10 gold 是-v 是.01 ----- 10:0-rel 9:1-ARG0 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 116 4 gold 知道-v 知道.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 116 12 gold 如何-v 如何.01 ----- 12:0-rel 8:3-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 116 17 gold 质疑-v 质疑.01 ----- 17:0-rel 16:1-ARG0 18:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 116 21 gold 是-v 是.04 ----- 21:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 116 23 gold 容易-v 容易.01 ----- 23:0-rel 3:3-ARGM-ADV 7:2-ARGM-ADV 14:2-ARG0 22:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 117 7 gold 受挫-v 受挫.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 117 16 gold 是-v 是.01 ----- 16:0-rel 1:2-ARGM-ADV 9:1-ARG0 10:1-ARGM-ADV 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 118 3 gold 如此-v 如此.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 118 8 gold 有-v 有.05 ----- 8:0-rel 1:2-ARGM-ADV 5:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-ADV 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 118 12 gold 见分晓-v 见分晓.01 ----- 12:0-rel 9:2-ARG0 11:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 119 9 gold 清点-v 清点.01 ----- 9:0-rel 3:1-ARG0 4:1-ARGM-LOC 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 119 18 gold 报导-v 报导.01 ----- 18:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 13:1-ARG0 14:1-ARGM-DIS 15:1-ARGM-ADV 16:1-ARG2 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 119 23 gold 有-v 有.01 ----- 23:0-rel 20:1*21:1-ARG0 22:1-ARGM-ADV 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 120 4 gold 加入-v 加入.01 ----- 4:0-rel 1:1*2:1-ARG0 3:1-ARGM-TMP 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 120 7 gold 是-v 是.01 ----- 7:0-rel 1:3-ARG0 8:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 121 4 gold 让-v 让.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 121 12 gold 开始-v 开始.01 ----- 12:0-rel 6:1-ARG0 7:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 121 15 gold 带来-v 带来.01 ----- 15:0-rel 14:1-ARG0 16:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 122 4 gold 有-v 有.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 123 13 gold 喜气洋洋-v 喜气洋洋.01 ----- 13:0-rel 5:1-ARG0 6:1-ARGM-TMP 7:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 124 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARG0 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 125 5 gold 预测-v 预测.01 ----- 5:0-rel 1:2-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 125 9 gold 担任-v 担任.01 ----- 9:0-rel 6:1*7:1-ARG0 8:1-ARGM-TMP 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 125 14 gold 成为-v 成为.01 ----- 14:0-rel 6:3-ARG0 13:1-ARGM-ADV 15:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 126 12 gold 赢得-v 赢得.01 ----- 12:0-rel 6:1-ARG0 8:1-ARGM-TMP 13:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 126 16 gold 获胜-v 获胜.01 ----- 16:0-rel 1:2-ARG0 3:1-ARGM-ADV 4:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 127 7 gold 赢得-v 赢得.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 5:1-ARG0 6:1-ARGM-DIS 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 128 6 gold 预测-v 预测.01 ----- 6:0-rel 2:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 128 11 gold 是-v 是.01 ----- 11:0-rel 8:1*9:1-ARG0 10:1-ARGM-TMP 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 128 18 gold 是-v 是.01 ----- 18:0-rel 1:1-ARGM-MNR 8:3-ARG0 17:1-ARGM-ADV 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 130 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 131 3 gold 推测-v 推测.01 ----- 3:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 131 8 gold 连任-v 连任.01 ----- 8:0-rel 1:1-ARGM-MNR 5:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 132 8 gold 转变-v 转变.01 ----- 8:0-rel 4:1*5:1-ARG3 6:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 133 6 gold 是-v 是.02 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 133 11 gold 令-v 令.01 ----- 11:0-rel 9:1*10:1-ARG0 12:1-ARG1 13:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 133 14 gold 沮丧-v 沮丧.01 ----- 14:0-rel 13:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 134 4 gold 庆祝-v 庆祝.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 134 20 gold 重大-v 重大.01 ----- 20:0-rel 13:1-ARGM-ADV 16:3-ARG0 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 135 8 gold 赢得-v 赢得.01 ----- 8:0-rel 1:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-TMP 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 136 4 gold 露面-v 露面.01 ----- 4:0-rel 1:1-ARG0 2:2-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 136 12 gold 助选-v 助选.01 ----- 12:0-rel 1:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-TMP 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 137 3 gold 会-v 会.02 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 137 4 gold 强调-v 强调.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 137 10 gold 继续-v 继续.01 ----- 10:0-rel 5:3-ARG1 8:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 4 gold 要-v 要.05 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 6 gold 说-v 说.01 ----- 6:0-rel 5:1-ARG0 2:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 9 gold 是-v 是.01 ----- 9:0-rel 1:1-ARGM-DIS 2:3-ARG0 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 14 gold 认为-v 认为.01 ----- 14:0-rel 13:1-ARG0 15:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 19 gold 产生-v 产生.01 ----- 19:0-rel 15:1*16:1-ARG1 17:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 26 gold 可能-v 可能.02 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 27 gold 是-v 是.01 ----- 27:0-rel 15:3-ARG0 28:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 138 29 gold 帮助-v 帮助.01 ----- 29:0-rel 28:1-ARG0 31:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 139 3 gold 离任-v 离任.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 139 7 gold 考虑-v 考虑.01 ----- 7:0-rel 1:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 139 9 gold 参加-v 参加.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 140 9 gold 会-v 会.02 ----- 9:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 140 10 gold 鼓励-v 鼓励.02 ----- 10:0-rel 1:1-ARGM-TMP 2:2-ARG0 8:1-ARGM-ADV 11:1-ARG1 12:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 140 14 gold 做-v 做.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 141 7 gold 有-v 有.01 ----- 7:0-rel 3:1-ARGM-ADV 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 141 12 gold 惊奇-v 惊奇.01 ----- 12:0-rel 10:1-ARG0 11:1*9:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 2 gold 没有-v 没有.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 9 gold 让-v 让.02 ----- 9:0-rel 6:1*7:1-ARG0 8:1-ARGM-ADV 10:1-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 12 gold 吃惊-v 吃惊.01 ----- 12:0-rel 11:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 17 gold 是-v 是.01 ----- 17:0-rel 16:1-ARGM-DIS 18:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 22 gold 讨论-v 讨论.01 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV 18:1*23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 26 gold 是-v 是.01 ----- 26:0-rel 6:4-ARG0 27:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 142 30 gold 拥有-v 拥有.01 ----- 30:0-rel 28:2-ARG0 27:1*31:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 143 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 143 8 gold 为-v 为.01 ----- 8:0-rel 5:1*6:1-ARG0 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 143 20 gold 投入-v 投入.01 ----- 20:0-rel 14:1-ARG0 15:1-ARG2 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 144 2 gold 有-v 有.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 144 9 gold 打-v 打.05 ----- 9:0-rel 4:1-ARG0 5:1-ARGM-MNR 3:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 145 5 gold 获胜-v 获胜.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 146 2 gold 要-v 要.05 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 146 4 gold 跨过-v 跨过.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 147 4 gold 为-v 为.01 ----- 4:0-rel 1:3-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 147 9 gold 打败-v 打败.01 ----- 9:0-rel 8:1-ARG0 11:2-ARG1 25:2-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 147 19 gold 为-v 为.01 ----- 19:0-rel 15:1*16:1-ARG0 17:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 147 27 gold 是-v 是.01 ----- 27:0-rel 25:1-ARGM-DIS 26:1-ARG0 28:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 147 34 gold 为-v 为.01 ----- 34:0-rel 30:1*31:1-ARG0 32:1-ARG0 33:1-ARGM-ADV 35:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 148 4 gold 提到-v 提到.01 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-ADV 1:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 148 11 gold 达到-v 达到.01 ----- 11:0-rel 1:5-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 6 gold 去-v 去.02 ----- 6:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 7 gold 看-v 看.02 ----- 7:0-rel 2:1-ARGM-TMP 5:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 17 gold 听说-v 听说.01 ----- 17:0-rel 14:1-ARG0 15:1-ARGM-ADV 16:1-ARGM-ADV 13:1*19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 23 gold 名叫-v 名叫.01 ----- 23:0-rel 21:1*22:1-ARG0 24:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 31 gold 为-v 为.01 ----- 31:0-rel 28:1-ARG0 30:1-ARGM-ADV 32:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 36 gold 投下-v 投下.01 ----- 36:0-rel 1:1-ARGM-DIS 2:3-ARGM-TMP 11:3-ARG0 35:1-ARGM-ADV 38:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 149 43 gold 当上-v 当上.01 ----- 43:0-rel 1:1-ARGM-DIS 2:3-ARGM-TMP 11:3-ARG0 40:3-ARGM-ADV 45:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 150 7 gold 可以-v 可以.01 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 150 16 gold 发生-v 发生.01 ----- 16:0-rel 11:1*12:1-ARG0 13:1-ARGM-LOC 15:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 150 24 gold 发生-v 发生.01 ----- 24:0-rel 19:1*20:1-ARG0 21:1-ARGM-LOC 23:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 151 4 gold 会-v 会.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 152 9 gold 获胜-v 获胜.01 ----- 9:0-rel 3:1-ARGM-DIS 8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 153 6 gold 在-v 在.01 ----- 6:0-rel 3:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 154 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 154 10 gold 偏向-v 偏向.01 ----- 10:0-rel 4:1*5:1-ARG0 6:2-ARGM-ADV 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 155 2 gold 想-v 想.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 155 6 gold 赢得-v 赢得.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 156 14 gold 重大-v 重大.01 ----- 14:0-rel 1:1-ARGM-TMP 12:1-ARG0 16:3-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 156 20 gold 给-v 给.01 ----- 20:0-rel 19:1-ARG0 22:1-ARG2 23:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 156 24 gold 谈话-v 谈话.01 ----- 24:0-rel 23:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 156 32 gold 是-v 是.01 ----- 32:0-rel 31:1-ARG0 33:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 157 2 gold 要-v 要.05 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 158 5 gold 要-v 要.01 ----- 5:0-rel 1:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 159 7 gold 在-v 在.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 160 10 gold 称-v 称.02 ----- 10:0-rel 1:1-ARGM-DIS 6:3-ARG0 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 160 20 gold 有关-v 有关.01 ----- 20:0-rel 11:1-ARG0 12:1-ARGM-ADV 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 161 8 gold 关闭-v 关闭.01 ----- 8:0-rel 3:3-ARG1 6:2-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 162 8 gold 关闭-v 关闭.01 ----- 8:0-rel 1:3-ARG1 4:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 5 gold 谈-v 谈.01 ----- 5:0-rel 1:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-DIS 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 9 gold 提出-v 提出.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-TMP 6:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 16 gold 要-v 要.03 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 17 gold 夸大-v 夸大.01 ----- 17:0-rel 13:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 18:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 26 gold 认为-v 认为.01 ----- 26:0-rel 25:1-ARG0 27:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 30 gold 要-v 要.03 ----- 30:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 32 gold 关注-v 关注.01 ----- 32:0-rel 28:1-ARG0 29:1-ARGM-TMP 31:1-ARGM-ADV 27:1*33:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 39 gold 是-v 是.01 ----- 39:0-rel 27:3-ARG0 38:1-ARGM-ADV 40:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 43 gold 显示-v 显示.01 ----- 43:0-rel 40:2-ARG0 44:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 51 gold 应该-v 应该.01 ----- 51:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 52 gold 说-v 说.07 ----- 52:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 163 62 gold 有-v 有.01 ----- 62:0-rel 44:2-ARG0 50:2-ARGM-ADV 56:1-ARGM-ADV 57:1-ARGM-DIS 58:1-ARG1 63:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 164 9 gold 大-v 大.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARGM-TPC 3:1-ARGM-ADV 4:1-ARGM-ADV 5:1-ARG0 7:1-ARG0 8:1-ARGM-ADV 11:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 164 16 gold 当政-v 当政.01 ----- 16:0-rel 12:1-ARG0 13:1-ARGM-TMP 14:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 164 18 gold 控制-v 控制.01 ----- 18:0-rel 12:1-ARG0 13:1-ARGM-TMP 14:1-ARGM-LOC 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 165 2 gold 是否-v 是否.01 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 165 3 gold 会-v 会.02 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 165 8 gold 出气-v 出气.01 ----- 8:0-rel 1:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 165 11 gold 是-v 是.01 ----- 11:0-rel 1:2-ARG0 9:1-ARGM-ADV 10:1-ARGM-DIS 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 167 3 gold 说明-v 说明.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 168 6 gold 事关重大-v 事关重大.01 ----- 6:0-rel 1:1*2:1-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 168 10 gold 进行-v 进行.01 ----- 10:0-rel 1:3-ARG1 9:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 168 19 gold 进行-v 进行.01 ----- 19:0-rel 13:1*14:1-ARG1 15:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 169 16 gold 是-v 是.01 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-TMP 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 169 23 gold 差-v 差.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 169 27 gold 赢-v 赢.01 ----- 27:0-rel 22:1-ARG0 26:1-ARGM-DIS 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 169 39 gold 没有-v 没有.01 ----- 39:0-rel 31:1-ARGM-LOC 37:1-ARG1 38:1-ARGM-TMP 40:3-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 169 49 gold 获胜-v 获胜.01 ----- 49:0-rel 48:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 169 51 gold 近-v 近.01 ----- 51:0-rel 40:2-ARG0 46:1-ARGM-ADV 47:1-ARG1 50:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 170 3 gold 是-v 是.04 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 170 6 gold 让-v 让.02 ----- 6:0-rel 4:2-ARG0 7:1-ARG1 8:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 171 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 171 12 gold 谈-v 谈.01 ----- 12:0-rel 7:1-ARG0 8:1-ARGM-TMP 9:1-ARGM-DIS 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 172 6 gold 谢谢-v 谢谢.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 173 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-DIS 2:3-ARG0 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 173 14 gold 是否-v 是否.01 ----- 14:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 173 15 gold 让-v 让.02 ----- 15:0-rel 13:1-ARG0 16:3-ARG1 19:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 173 22 gold 弄得-v 弄得.01 ----- 22:0-rel 9:2-ARG1 12:1-ARGM-ADV 23:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 174 10 gold 发展-v 发展.01 ----- 10:0-rel 4:1*5:1-ARG1 6:1-ARGM-ADV 7:1-ARG3
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 175 5 gold 是-v 是.01 ----- 5:0-rel 1:4-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 176 10 gold 摧毁-v 摧毁.01 ----- 10:0-rel 4:2-ARG0 3:1*8:1-ARGM-LOC 9:1-ARGM-ADV 12:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 176 24 gold 出现-v 出现.01 ----- 24:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 20:2-ARG0 26:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 177 2 gold 环绕-v 环绕.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 177 5 gold 环绕-v 环绕.01 ----- 5:0-rel 1:1-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 177 9 gold 是-v 是.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 4 gold 要-v 要.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 5 gold 报道-v 报道.01 ----- 5:0-rel 2:1-ARG0 3:1-ARGM-ADV 1:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 8 gold 是-v 是.01 ----- 8:0-rel 1:3-ARG0 10:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 18 gold 昏迷-v 昏迷.01 ----- 18:0-rel 16:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 25 gold 维持-v 维持.01 ----- 25:0-rel 10:2-ARG0 16:3-ARGM-ADV 23:1-ARGM-MNR 26:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 34 gold 围绕-v 围绕.01 ----- 34:0-rel 28:1-ARGM-DIS 29:2-ARG0 36:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 178 37 gold 展开-v 展开.01 ----- 37:0-rel 28:1-ARGM-DIS 29:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 179 5 gold 离婚-v 离婚.01 ----- 5:0-rel 3:1*4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 179 10 gold 该-v 该.01 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 179 12 gold 展开-v 展开.01 ----- 12:0-rel 1:2-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 180 4 gold 让-v 让.02 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 180 7 gold 看-v 看.02 ----- 7:0-rel 6:1-ARG0 8:1-ARGM-ADV 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 181 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 183 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 183 13 gold 开始-v 开始.02 ----- 13:0-rel 6:2-ARG0 10:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 183 18 gold 称-v 称.02 ----- 18:0-rel 15:3-ARG0 19:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 183 37 gold 开-v 开.011 ----- 37:0-rel 19:2-ARG0 22:1-ARGM-LOC 29:1-ARGM-DIR 39:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 184 5 gold 遇害-v 遇害.01 ----- 5:0-rel 1:1-ARGM-LOC 2:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 184 10 gold 重伤-v 重伤.01 ----- 10:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 185 13 gold 允许-v 允许.01 ----- 13:0-rel 1:1-ARGM-LOC 11:1-ARGM-ADV 14:1*4:2-ARG1 15:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 185 17 gold 持续-v 持续.02 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-ADV 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 186 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 186 8 gold 延长-v 延长.01 ----- 8:0-rel 4:1-ARGM-TMP 5:2-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 186 12 gold 允许-v 允许.01 ----- 12:0-rel 11:1*10:1-ARG0 13:4-ARG1 25:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 186 20 gold 来自-v 来自.01 ----- 20:0-rel 18:1*19:1-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 186 26 gold 驻守-v 驻守.01 ----- 26:0-rel 25:1-ARG0 27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 187 5 gold 要求-v 要求.03 ----- 5:0-rel 1:2-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 188 7 gold 指控-v 指控.01 ----- 7:0-rel 5:1-ARG0 4:1*8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 189 3 gold 称-v 称.02 ----- 3:0-rel 1:2-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 189 11 gold 阻止-v 阻止.01 ----- 11:0-rel 4:1-ARG0 5:1-ARGM-MNR 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 190 4 gold 逮捕-v 逮捕.01 ----- 4:0-rel 1:2*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 191 2 gold 称-v 称.02 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 191 4 gold 介入-v 介入.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 191 5 gold 是-v 是.01 ----- 5:0-rel 3:2-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 191 10 gold 指控-v 指控.01 ----- 10:0-rel 8:1-ARG0 11:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 191 15 gold 完成-v 完成.01 ----- 15:0-rel 7:3-ARG1 14:1-ARGM-ADV 17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 9 gold 出现-v 出现.01 ----- 9:0-rel 3:1*4:1-ARG1 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 11 gold 是-v 是.01 ----- 11:0-rel 1:1-ARGM-TMP 3:3-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 22 gold 有-v 有.03 ----- 22:0-rel 19:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 27 gold 花-v 花.01 ----- 27:0-rel 25:1*26:1-ARG0 29:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 31 gold 买-v 买.01 ----- 31:0-rel 25:1*26:1-ARG0 32:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 42 gold 验证-v 验证.01 ----- 42:0-rel 36:1-ARGM-TMP 37:3-ARG1 41:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 192 45 gold 是-v 是.01 ----- 45:0-rel 44:1-ARG0 46:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 194 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 194 6 gold 分享-v 分享.01 ----- 6:0-rel 4:2-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 195 10 gold 过-v 过.01 ----- 10:0-rel 1:1-ARGM-DIS 5:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 196 2 gold 称-v 称.02 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 196 7 gold 会-v 会.02 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 196 8 gold 买-v 买.01 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 6:1-ARGM-ADV 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 196 13 gold 放在-v 放在.01 ----- 13:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 6:1-ARGM-ADV 14:4-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 197 6 gold 希望-v 希望.02 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 197 8 gold 如此-v 如此.01 ----- 8:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 198 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 198 6 gold 听-v 听.01 ----- 6:0-rel 1:3-ARGM-ADV 5:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 198 14 gold 反应-v 反应.03 ----- 14:0-rel 11:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 199 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 200 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 200 5 gold 希望-v 希望.02 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 200 7 gold 能-v 能.01 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 200 10 gold 存-v 存.01 ----- 10:0-rel 6:1-ARG0 12:1*9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 200 23 gold 存-v 存.01 ----- 23:0-rel 6:1-ARG0 14:1-ARGM-BNF 22:1*25:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 201 4 gold 谢谢-v 谢谢.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 202 6 gold 谈-v 谈.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-DIS 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 5 gold 选择-v 选择.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 7 gold 让-v 让.02 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 9:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 13 gold 选择-v 选择.01 ----- 13:0-rel 4:1-ARG0 14:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 20 gold 说-v 说.01 ----- 20:0-rel 14:1-ARGM-DIS 15:2-ARG0 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 25 gold 死心-v 死心.01 ----- 25:0-rel 14:2-ARGM-ADV 22:1-ARG0 23:1-ARGM-ADV 24:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 32 gold 想象-v 想象.01 ----- 32:0-rel 1:2-ARGM-ADV 4:2-ARGM-TPC 29:1-ARGM-TPC 30:2-ARGM-ADV 33:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 35 gold 有-v 有.07 ----- 35:0-rel 33:1-ARG0 34:1-ARGM-DIS 36:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 40 gold 让-v 让.02 ----- 40:0-rel 36:1*37:1-ARG0 38:1-ARGM-ADV 41:1-ARG1 42:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 203 44 gold 痛苦-v 痛苦.01 ----- 44:0-rel 42:1-ARG0 43:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 204 6 gold 是-v 是.04 ----- 6:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 204 8 gold 做出-v 做出.01 ----- 8:0-rel 1:2-ARG1 5:1-ARGM-ADV 7:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 205 5 gold 是-v 是.01 ----- 5:0-rel 1:3-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 205 11 gold 使-v 使.01 ----- 11:0-rel 7:2-ARGM-TMP 10:1-ARG0 12:2-ARG1 14:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 205 15 gold 产生-v 产生.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 206 6 gold 使-v 使.01 ----- 6:0-rel 1:3-ARG0 5:1-ARGM-DIS 7:3-ARG1 10:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 206 11 gold 支离破碎-v 支离破碎.01 ----- 11:0-rel 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 207 3 gold 是-v 是.04 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 207 5 gold 点燃-v 点燃.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 207 12 gold 让-v 让.02 ----- 12:0-rel 9:1*10:1-ARG0 11:1-ARGM-DIS 13:1-ARG1 14:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 207 17 gold 棘手-v 棘手.01 ----- 17:0-rel 9:1*10:1-ARG0 16:1-ARGM-DIS
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 208 6 gold 复杂-v 复杂.01 ----- 6:0-rel 1:3-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 208 9 gold 让-v 让.02 ----- 9:0-rel 1:3-ARG0 8:1-ARGM-ADV 10:1-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 209 10 gold 带来-v 带来.01 ----- 10:0-rel 1:3-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 211 2 gold 在-v 在.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 211 6 gold 感谢-v 感谢.02 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 212 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 212 11 gold 要-v 要.03 ----- 11:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 212 12 gold 呆-v 呆.02 ----- 12:0-rel 6:1-ARG0 7:1-ARGM-TMP 10:1-ARGM-ADV 13:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 213 5 gold 决定-v 决定.01 ----- 5:0-rel 1:3-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 213 7 gold 应该-v 应该.01 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 213 8 gold 在-v 在.01 ----- 8:0-rel 6:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 214 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 214 9 gold 了解-v 了解.02 ----- 9:0-rel 7:1-ARG0 6:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 215 10 gold 交谈-v 交谈.01 ----- 10:0-rel 5:1*6:1-ARG0 7:1-ARGM-ADV 8:1-ARG0 12:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 215 17 gold 称-v 称.02 ----- 17:0-rel 2:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 215 22 gold 呼吸-v 呼吸.01 ----- 22:0-rel 1:1-ARGM-MNR 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 216 11 gold 谈-v 谈.01 ----- 11:0-rel 1:1-ARGM-TMP 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 217 3 gold 告诉-v 告诉.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG2 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 217 13 gold 达-v 达.01 ----- 13:0-rel 5:1-ARGM-DIS 6:2-ARG0 12:1-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 217 26 gold 严重-v 严重.01 ----- 26:0-rel 24:1*25:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 217 29 gold 可-v 可.01 ----- 29:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 217 30 gold 挽回-v 挽回.01 ----- 30:0-rel 24:1*25:1-ARG1 28:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 218 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-TMP 3:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 219 6 gold 有-v 有.02 ----- 6:0-rel 3:1-ARG0 2:1*4:1-ARGM-TMP 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 219 15 gold 应该-v 应该.01 ----- 15:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 219 16 gold 出现-v 出现.01 ----- 16:0-rel 1:1-ARGM-TMP 13:1-ARG0 14:1-ARGM-ADV 17:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 219 18 gold 发作-v 发作.01 ----- 18:0-rel 17:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 220 5 gold 会-v 会.02 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 220 6 gold 忘记-v 忘记.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 4:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 220 14 gold 得到-v 得到.01 ----- 14:0-rel 12:1-ARG0 11:1*13:1-ARGM-TMP 15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 221 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 222 6 gold 有-v 有.01 ----- 6:0-rel 1:3-ARG0 8:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 222 16 gold 带-v 带.01 ----- 16:0-rel 14:1*15:1-ARG0 17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 222 22 gold 经历-v 经历.01 ----- 22:0-rel 1:3-ARG0 21:1-ARGM-ADV 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 223 4 gold 糟糕-v 糟糕.01 ----- 4:0-rel 1:1*2:1-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 223 6 gold 是-v 是.01 ----- 6:0-rel 1:3-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 223 8 gold 发生-v 发生.01 ----- 8:0-rel 7:1-ARG0 9:2-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 223 22 gold 去-v 去.01 ----- 22:0-rel 20:1-ARG0 23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 224 5 gold 没有-v 没有.02 ----- 5:0-rel 1:1-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 224 8 gold 没有-v 没有.02 ----- 8:0-rel 1:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 224 11 gold 没有-v 没有.02 ----- 11:0-rel 1:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 224 22 gold 在-v 在.01 ----- 22:0-rel 20:1*21:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 224 25 gold 上班-v 上班.01 ----- 25:0-rel 24:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 224 30 gold 发现-v 发现.01 ----- 30:0-rel 14:2-ARGM-TMP 18:2-ARG0 32:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 225 5 gold 发现-v 发现.01 ----- 5:0-rel 3:1-ARG0 2:1*4:1-ARGM-TMP 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 225 15 gold 在-v 在.01 ----- 15:0-rel 1:1-ARGM-TMP 10:1-ARG0 14:1-ARGM-ADV 16:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 226 7 gold 是-v 是.04 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 227 7 gold 送到-v 送到.01 ----- 7:0-rel 1:1-ARGM-MNR 4:1-ARG1 6:1-ARGM-ADV 9:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 228 3 gold 认为-v 认为.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 228 5 gold 会-v 会.02 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 230 4 gold 给-v 给.02 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 230 7 gold 看-v 看.02 ----- 7:0-rel 6:1-ARG0 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 230 19 gold 解释-v 解释.01 ----- 19:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 16:1-ARGM-DIS 17:1-ARG2 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 230 26 gold 会-v 会.02 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 230 27 gold 造成-v 造成.01 ----- 27:0-rel 21:1-ARGM-TMP 25:1-ARG0 28:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 231 2 gold 眨眼-v 眨眼.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 233 2 gold 发出-v 发出.02 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 235 2 gold 没有-v 没有.01 ----- 2:0-rel 1:1-ARG1 3:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 237 2 gold 相信-v 相信.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 237 6 gold 处于-v 处于.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 238 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 238 6 gold 相信-v 相信.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 239 10 gold 谈-v 谈.01 ----- 10:0-rel 2:1-ARG0 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 239 15 gold 决定-v 决定.01 ----- 15:0-rel 1:1-ARGM-TMP 14:1-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 239 18 gold 拔掉-v 拔掉.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV 19:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 240 5 gold 做出-v 做出.01 ----- 5:0-rel 4:1-ARG0 3:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 240 11 gold 根据-v 根据.01 ----- 11:0-rel 1:1-ARGM-DIS 3:3-ARG0 9:1-ARGM-ADV 10:1-ARGM-ADV 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 241 2 gold 告诉-v 告诉.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG2 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 241 6 gold 作出-v 作出.01 ----- 6:0-rel 5:1-ARG0 4:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 241 10 gold 是-v 是.03 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 241 11 gold 根据-v 根据.01 ----- 11:0-rel 4:3-ARG0 12:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 242 5 gold 认为-v 认为.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 242 7 gold 会-v 会.02 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 242 8 gold 希望-v 希望.02 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 242 10 gold 让-v 让.02 ----- 10:0-rel 9:1-ARG0 11:3-ARG1 14:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 242 15 gold 继续-v 继续.01 ----- 15:0-rel 14:1-ARG1 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 242 16 gold 处在-v 处在.01 ----- 16:0-rel 14:1-ARG0 17:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 244 2 gold 确定-v 确定.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 245 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 246 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIS 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 246 14 gold 决定-v 决定.01 ----- 14:0-rel 6:4-ARG0 13:1*5:1-ARGM-PRP 15:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 246 16 gold 维持-v 维持.01 ----- 16:0-rel 15:1-ARG0 17:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 247 2 gold 需要-v 需要.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 247 4 gold 给予-v 给予.01 ----- 4:0-rel 1:1*5:1-ARG2 5:1,6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 247 11 gold 生存-v 生存.01 ----- 11:0-rel 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 248 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 248 14 gold 相信-v 相信.01 ----- 14:0-rel 11:1-ARG0 12:1-ARGM-ADV 13:1-ARGM-ADV 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 248 18 gold 告诉-v 告诉.01 ----- 18:0-rel 16:1-ARG0 19:1-ARG2 15:1*20:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 249 9 gold 有-v 有.01 ----- 9:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 8:1-ARGM-DIS 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 250 4 gold 赞同-v 赞同.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 251 6 gold 问起-v 问起.01 ----- 6:0-rel 4:1*7:1-ARG2 4:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 252 2 gold 认为-v 认为.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 252 4 gold 让-v 让.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 252 8 gold 是-v 是.01 ----- 8:0-rel 3:2-ARG0 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 253 2 gold 说-v 说.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 254 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 254 6 gold 认为-v 认为.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 254 8 gold 如此-v 如此.01 ----- 8:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 255 4 gold 说-v 说.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIS
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 256 4 gold 信仰-v 信仰.01 ----- 4:0-rel 1:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 257 3 gold 相信-v 相信.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 257 9 gold 可以-v 可以.01 ----- 9:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 257 10 gold 创造-v 创造.01 ----- 10:0-rel 7:1-ARG0 8:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 257 14 gold 是-v 是.01 ----- 14:0-rel 13:1-ARGM-ADV 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 257 18 gold 说-v 说.01 ----- 18:0-rel 16:1-ARG0 15:1*19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 258 13 gold 生-v 生.03 ----- 13:0-rel 12:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 258 24 gold 上-v 上.02 ----- 24:0-rel 23:1-ARG0 25:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 258 26 gold 解决-v 解决.01 ----- 26:0-rel 1:3-ARGM-TPC 19:1-ARG1 20:1-ARGM-ADV 21:1-ARGM-ADV 22:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 259 5 gold 会-v 会.02 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 259 7 gold 要-v 要.03 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 259 8 gold 上-v 上.02 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 260 9 gold 享有-v 享有.01 ----- 9:0-rel 8:1-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 260 17 gold 离婚-v 离婚.01 ----- 17:0-rel 14:1-ARG0 15:1-ARGM-TMP 16:1-ARGM-ADV 21:1-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 260 26 gold 可以-v 可以.01 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 260 27 gold 做出-v 做出.01 ----- 27:0-rel 3:1-ARGM-LOC 7:1-ARGM-PRP 25:1-ARG0 28:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 5 gold 决定-v 决定.01 ----- 5:0-rel 3:1-ARGM-DIS 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 7 gold 要-v 要.05 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 15 gold 确定-v 确定.01 ----- 15:0-rel 8:1-ARG0 16:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 19 gold 是否-v 是否.01 ----- 19:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 22 gold 批准-v 批准.01 ----- 22:0-rel 20:1-ARGM-ADV 23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 37 gold 交谈-v 交谈.01 ----- 37:0-rel 34:1-ARG0 33:1*35:1-ARG0 36:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 46 gold 处理-v 处理.01 ----- 46:0-rel 41:1*42:1-ARG0 43:1-ARGM-TMP 45:1-ARGM-ADV 48:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 61 gold 允许-v 允许.01 ----- 61:0-rel 55:1-ARGM-ADV 60:1-ARG0 62:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 63 gold 听取-v 听取.01 ----- 63:0-rel 62:1-ARG0 64:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 261 66 gold 提供-v 提供.01 ----- 66:0-rel 65:1-ARG0 64:1*67:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 262 3 gold 意味-v 意味.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 262 11 gold 看到-v 看到.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:1*8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 262 14 gold 会-v 会.02 ----- 14:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 262 15 gold 是-v 是.01 ----- 15:0-rel 8:3-ARG0 16:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 262 22 gold 提到-v 提到.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-TMP 19:1*23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 262 27 gold 相似-v 相似.01 ----- 27:0-rel 16:1*17:1-ARG0 18:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 263 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 263 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 263 9 gold 在-v 在.01 ----- 9:0-rel 7:1*8:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 264 3 gold 感谢-v 感谢.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 265 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 265 10 gold 走到-v 走到.01 ----- 10:0-rel 6:3-ARG0 5:1*9:1-ARGM-TMP 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 265 20 gold 过-v 过.02 ----- 20:0-rel 4:1-ARGM-TMP 18:1-ARG0 19:1-ARGM-ADV 22:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 266 16 gold 去世-v 去世.01 ----- 16:0-rel 1:1-ARG0 2:1-ARGM-TMP 6:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 267 15 gold 展现-v 展现.01 ----- 15:0-rel 2:6-ARG1 10:1-ARGM-ADV 11:3-ARGM-ADV 14:1-ARGM-ADV 16:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 267 26 gold 有-v 有.08 ----- 26:0-rel 1:1-ARGM-PRP 20:1-ARG0 21:1-ARGM-TMP 23:1-ARGM-ADV 27:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 268 3 gold 死-v 死.01 ----- 3:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 268 12 gold 看到-v 看到.01 ----- 12:0-rel 1:1-ARGM-TMP 6:3-ARGM-LOC 9:1-ARG0 10:1-ARGM-ADV 11:1-ARGM-ADV 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 269 6 gold 继续-v 继续.01 ----- 6:0-rel 1:1-ARGM-DIS 2:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 270 10 gold 称为-v 称为.01 ----- 10:0-rel 7:1*8:1-ARG1 9:1-ARG0 11:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 270 22 gold 看看-v 看看.01 ----- 22:0-rel 1:1-ARGM-TMP 4:1-ARGM-LOC 20:1-ARG0 21:1-ARGM-ADV 23:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 270 27 gold 做-v 做.01 ----- 27:0-rel 23:2-ARG0 25:1-ARGM-TMP 26:1-ARGM-ADV 28:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 271 6 gold 出现-v 出现.01 ----- 6:0-rel 1:4-ARG1 5:1-ARGM-ADV 7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 271 16 gold 支持-v 支持.01 ----- 16:0-rel 1:4-ARG0 11:1-ARGM-LOC 17:3-ARG1 20:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 271 21 gold 参选-v 参选.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 271 28 gold 远离-v 远离.01 ----- 28:0-rel 26:1*27:1-ARG0 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 271 32 gold 引起-v 引起.01 ----- 32:0-rel 1:4-ARG0 25:1-ARGM-LOC 33:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 272 4 gold 抗议-v 抗议.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 272 6 gold 介入-v 介入.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 273 5 gold 忙于-v 忙于.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-DIS 4:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 273 12 gold 讲述-v 讲述.01 ----- 12:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-DIS 4:1-ARGM-ADV 8:1-ARGM-MNR 13:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 274 11 gold 名叫-v 名叫.01 ----- 11:0-rel 9:1*10:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 275 2 gold 预计-v 预计.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 275 6 gold 发行-v 发行.01 ----- 6:0-rel 3:1-ARG1 4:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 276 23 gold 命名-v 命名.01 ----- 23:0-rel 19:1*20:1-ARG1 21:1-ARGM-TMP 22:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 276 31 gold 发行-v 发行.01 ----- 31:0-rel 17:3-ARG1 26:1-ARGM-ADV 27:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 277 6 gold 分享-v 分享.01 ----- 6:0-rel 1:3-ARG0 5:1-ARGM-ADV 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 277 12 gold 维持-v 维持.01 ----- 12:0-rel 11:1-ARG0 13:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 277 17 gold 作-v 作.01 ----- 17:0-rel 8:1-ARG0 9:1-ARGM-ADV 10:1-ARGM-PRP 18:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 277 23 gold 是-v 是.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 277 36 gold 讲述-v 讲述.01 ----- 36:0-rel 27:1-ARG0 28:1-ARGM-ADV 29:1-ARGM-ADV 30:1-ARGM-MNR 26:1*37:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 278 17 gold 称-v 称.01 ----- 17:0-rel 1:2-ARGM-TMP 5:1-ARGM-LOC 14:1-ARG0 18:3-ARG1 21:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 278 22 gold 为-v 为.01 ----- 22:0-rel 21:1-ARG0 26:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 278 32 gold 暗示-v 暗示.01 ----- 32:0-rel 1:2-ARGM-TMP 5:1-ARGM-LOC 14:1-ARG0 31:1-ARGM-DIS 33:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 278 35 gold 可能-v 可能.02 ----- 35:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 278 36 gold 是-v 是.01 ----- 36:0-rel 33:1-ARG0 37:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 279 14 gold 作-v 作.01 ----- 14:0-rel 1:1-ARGM-MNR 5:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV 9:1-ARGM-ADV 10:1-ARGM-ADV 15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 280 6 gold 面世-v 面世.01 ----- 6:0-rel 4:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 280 19 gold 听到-v 听到.01 ----- 19:0-rel 1:1-ARGM-ADV 3:1-ARGM-TMP 9:1-ARG0 10:1-ARGM-ADV 11:1-ARGM-TMP 20:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 281 5 gold 会-v 会.02 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 281 6 gold 带给-v 带给.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 7:1-ARG2 8:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 281 15 gold 见-v 见.01 ----- 15:0-rel 12:1-ARG0 13:1-ARGM-TMP 11:1*16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 281 18 gold 不同-v 不同.01 ----- 18:0-rel 8:1*9:1-ARG0 10:1-ARG0 17:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 282 5 gold 带领-v 带领.01 ----- 5:0-rel 1:2-ARG0 4:1-ARGM-ADV 6:1-ARG1 7:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 282 8 gold 前往-v 前往.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 282 20 gold 共存-v 共存.01 ----- 20:0-rel 13:1-ARGM-LOC 15:2-ARG0 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 282 23 gold 是-v 是.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 282 30 gold 拥有-v 拥有.01 ----- 30:0-rel 27:1-ARG0 26:1*28:1-ARGM-LOC 29:1-ARGM-ADV 31:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 283 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 283 19 gold 出来-v 出来.01 ----- 19:0-rel 14:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 283 23 gold 称-v 称.02 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 283 25 gold 是-v 是.01 ----- 25:0-rel 24:1-ARG0 26:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 283 33 gold 广泛-v 广泛.01 ----- 33:0-rel 26:1*27:1-ARGM-TPC 28:2-ARGM-TMP 31:1-ARG0 32:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 284 2 gold 看看-v 看看.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 284 10 gold 相比-v 相比.01 ----- 10:0-rel 3:1-ARG0 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 284 12 gold 如何-v 如何.01 ----- 12:0-rel 3:2-ARGM-ADV 11:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 285 2 gold 请-v 请.01 ----- 2:0-rel 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 285 4 gold 要-v 要.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 285 5 gold 离开-v 离开.01 ----- 5:0-rel 1:1-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 286 12 gold 发生-v 发生.01 ----- 12:0-rel 1:2-ARGM-TMP 7:1-ARGM-LOC 11:1-ARG1 14:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 287 10 gold 拒绝-v 拒绝.01 ----- 10:0-rel 7:1-ARGM-DIS 8:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 287 13 gold 称呼-v 称呼.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 288 11 gold 杀害-v 杀害.01 ----- 11:0-rel 9:2-ARGM-ADV 1:2*13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 288 16 gold 有-v 有.07 ----- 16:0-rel 15:1-ARG0 17:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 288 20 gold 砍死-v 砍死.01 ----- 20:0-rel 18:1*21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 288 24 gold 有-v 有.07 ----- 24:0-rel 15:1-ARG0 25:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 288 28 gold 刺死-v 刺死.01 ----- 28:0-rel 26:1*29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 288 32 gold 有-v 有.07 ----- 32:0-rel 15:1-ARG0 33:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 289 11 gold 折磨-v 折磨.01 ----- 11:0-rel 1:4-ARG0 7:1-ARGM-TMP 8:1-ARGM-ADV 9:1-ARGM-ADV 10:1-ARGM-ADV 13:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 290 2 gold 看-v 看.02 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 290 8 gold 逃走-v 逃走.01 ----- 8:0-rel 6:1*7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 290 14 gold 有-v 有.05 ----- 14:0-rel 4:2-ARGM-TPC 12:2-ARG0 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 291 17 gold 去-v 去.01 ----- 17:0-rel 1:5-ARG0 16:1-ARGM-TMP 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 291 21 gold 去-v 去.02 ----- 21:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 291 22 gold 看看-v 看看.01 ----- 22:0-rel 1:5-ARG0 16:1-ARGM-TMP 23:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 291 28 gold 共处-v 共处.01 ----- 28:0-rel 23:1-ARG0 27:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 292 7 gold 让-v 让.02 ----- 7:0-rel 5:1*6:1-ARG0 8:1-ARG1 9:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 292 15 gold 是-v 是.01 ----- 15:0-rel 1:2-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 292 21 gold 活-v 活.01 ----- 21:0-rel 20:1-ARG0 22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 293 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 293 11 gold 壮观-v 壮观.01 ----- 11:0-rel 8:1*9:1-ARG0 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 293 18 gold 成-v 成.01 ----- 18:0-rel 1:1-ARG0 17:1-ARGM-TMP 21:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 293 35 gold 幸存-v 幸存.01 ----- 35:0-rel 28:1-ARG0 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 293 38 gold 回到-v 回到.01 ----- 38:0-rel 28:1-ARG0 39:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 293 45 gold 开始-v 开始.01 ----- 45:0-rel 28:1-ARG0 44:1-ARGM-ADV 46:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 294 6 gold 有-v 有.03 ----- 6:0-rel 1:1-ARGM-TMP 3:1-ARG0 7:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 294 14 gold 占据-v 占据.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV 16:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 295 4 gold 那样-v 那样.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 295 8 gold 面临-v 面临.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-PRP 6:1-ARG0 7:1-ARGM-TMP 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 296 4 gold 会-v 会.02 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 296 5 gold 怎样-v 怎样.01 ----- 5:0-rel 1:2-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 297 7 gold 共处-v 共处.01 ----- 7:0-rel 1:2-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 298 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 298 12 gold 去-v 去.02 ----- 12:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 298 13 gold 寻找-v 寻找.01 ----- 13:0-rel 11:1-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 298 19 gold 找出-v 找出.01 ----- 19:0-rel 18:1-ARG0 20:1*4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 299 5 gold 有-v 有.03 ----- 5:0-rel 1:1-ARGM-ADV 2:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 300 12 gold 找到-v 找到.01 ----- 12:0-rel 10:1-ARGM-DIS 11:1-ARG0 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 300 20 gold 难-v 难.01 ----- 20:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 10:2-ARG0 15:1-ARGM-ADV 16:1-ARGM-ADV 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 301 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 301 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 301 10 gold 回来-v 回来.01 ----- 10:0-rel 5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 301 14 gold 对-v 对.02 ----- 14:0-rel 13:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 302 2 gold 租-v 租.01 ----- 2:0-rel 1:1-ARG2 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 302 9 gold 带-v 带.03 ----- 9:0-rel 8:1-ARG0 10:1-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 302 12 gold 前往-v 前往.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 302 18 gold 有-v 有.05 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 302 20 gold 说-v 说.01 ----- 20:0-rel 19:1-ARG2 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 302 22 gold 有-v 有.03 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 303 2 gold 寻找-v 寻找.01 ----- 2:0-rel 1:1-ARG0 4:3-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 305 4 gold 是-v 是.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 305 8 gold 看到-v 看到.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 306 14 gold 看到-v 看到.01 ----- 14:0-rel 13:1-ARG0 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 306 21 gold 泡-v 泡.02 ----- 21:0-rel 15:2-ARG1 22:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 306 27 gold 是-v 是.04 ----- 27:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 306 29 gold 惊讶-v 惊讶.01 ----- 29:0-rel 1:1-ARGM-DIS 3:2-ARG0 13:3-ARGM-TMP 26:1-ARGM-ADV 28:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 307 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 308 2 gold 看看-v 看看.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 309 3 gold 像-v 像.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 310 3 gold 要-v 要.03 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 310 4 gold 用-v 用.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 311 4 gold 看-v 看.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 312 2 gold 看-v 看.02 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 312 4 gold 移动-v 移动.01 ----- 4:0-rel 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 313 2 gold 移动-v 移动.01 ----- 2:0-rel 1:1-ARG1 4:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 313 5 gold 快-v 快.01 ----- 5:0-rel 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 314 3 gold 快-v 快.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 316 8 gold 高-v 高.02 ----- 8:0-rel 3:1*4:1-ARG0 5:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 316 23 gold 见-v 见.01 ----- 23:0-rel 21:1-ARG0 22:1-ARGM-TMP 20:1*25:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 316 31 gold 巨大-v 巨大.01 ----- 31:0-rel 1:2-ARG0 19:1-ARGM-ADV 30:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 316 34 gold 愤怒-v 愤怒.01 ----- 34:0-rel 1:2-ARG0 19:1-ARGM-ADV 33:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 317 3 gold 开始-v 开始.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 317 4 gold 追赶-v 追赶.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 318 3 gold 快-v 快.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 319 2 gold 请-v 请.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 319 3 gold 记住-v 记住.01 ----- 3:0-rel 1:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 319 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 319 7 gold 会-v 会.01 ----- 7:0-rel 5:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 319 8 gold 游泳-v 游泳.01 ----- 8:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 320 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 320 9 gold 像-v 像.02 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 320 11 gold 有-v 有.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 321 3 gold 知道-v 知道.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 321 5 gold 是-v 是.04 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 321 7 gold 走-v 走.02 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 321 10 gold 游泳-v 游泳.01 ----- 10:0-rel 4:1-ARG0 9:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 322 4 gold 移动-v 移动.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 323 7 gold 上岸-v 上岸.01 ----- 7:0-rel 1:2-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 323 8 gold 到-v 到.01 ----- 8:0-rel 1:2-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 323 17 gold 意识-v 意识.01 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-ADV 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 323 26 gold 驻-v 驻.01 ----- 26:0-rel 24:1*25:1-ARG0 27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 323 33 gold 发布-v 发布.01 ----- 33:0-rel 19:1-ARGM-TMP 23:2-ARG0 29:1-ARGM-ADV 30:1-ARGM-DIR 35:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 323 42 gold 攻击-v 攻击.01 ----- 42:0-rel 38:2-ARG0 43:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 324 10 gold 像-v 像.01 ----- 10:0-rel 5:3-ARG0 9:1-ARGM-ADV 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 325 8 gold 打-v 打.04 ----- 8:0-rel 1:1-ARGM-LOC 4:1-ARG0 6:1-ARG2 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 327 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 328 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 329 11 gold 透露-v 透露.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARGM-MNR 10:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 329 17 gold 鲜为人知-v 鲜为人知.01 ----- 17:0-rel 15:1*16:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 330 9 gold 是-v 是.01 ----- 9:0-rel 1:1-ARGM-ADV 2:2-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 331 4 gold 证明-v 证明.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 331 16 gold 引诱-v 引诱.01 ----- 16:0-rel 1:1-ARGM-DIS 2:1-ARGM-PRP 7:1-ARG0 8:1-ARGM-MNR 15:1*18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 332 3 gold 谢谢-v 谢谢.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 333 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 334 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 335 5 gold 是-v 是.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 337 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 338 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-ADV 4:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 339 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 339 5 gold 有-v 有.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 339 9 gold 愈合-v 愈合.01 ----- 9:0-rel 8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 339 19 gold 一样-v 一样.02 ----- 19:0-rel 13:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 339 33 gold 前进-v 前进.01 ----- 33:0-rel 13:2-ARGM-ADV 21:1-ARG0 22:1-ARGM-ADV 23:4-ARGM-ADV 30:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 340 6 gold 见-v 见.01 ----- 6:0-rel 1:1-ARG0 5:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 340 9 gold 有-v 有.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 341 5 gold 是-v 是.04 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 341 7 gold 常见-v 常见.01 ----- 7:0-rel 1:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 342 5 gold 看到-v 看到.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 342 9 gold 做-v 做.01 ----- 9:0-rel 6:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 342 13 gold 走到-v 走到.01 ----- 13:0-rel 3:1-ARGM-TMP 12:1-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 343 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 343 7 gold 相信-v 相信.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 344 6 gold 知道-v 知道.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 346 5 gold 知道-v 知道.01 ----- 5:0-rel 1:1-ARGM-DIS 4:1-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 346 9 gold 没-v 没.01 ----- 9:0-rel 6:3-ARG1 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 347 6 gold 照顾-v 照顾.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 348 7 gold 进入-v 进入.01 ----- 7:0-rel 6:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 348 17 gold 猜-v 猜.01 ----- 17:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 5:1-ARGM-TMP 16:1-ARG0 18:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 348 33 gold 发生-v 发生.01 ----- 33:0-rel 30:3-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 348 37 gold 必须-v 必须.02 ----- 37:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 348 38 gold 小心翼翼-v 小心翼翼.01 ----- 38:0-rel 28:1-ARGM-DIS 29:1-ARGM-TMP 36:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 349 3 gold 休息-v 休息.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 350 3 gold 回来-v 回来.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 350 11 gold 谈-v 谈.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-ADV 5:1-ARG0 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 351 10 gold 有-v 有.01 ----- 10:0-rel 1:1-ARGM-TMP 5:2-ARG0 9:1-ARGM-ADV 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 352 2 gold 请-v 请.01 ----- 2:0-rel 1:1-ARG1 3:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 352 4 gold 要-v 要.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 353 3 gold 休息-v 休息.01 ----- 3:0-rel 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 353 23 gold 进行-v 进行.01 ----- 23:0-rel 1:1-ARGM-TMP 6:1-ARG0 7:1-ARG0 22:1-ARGM-ADV 25:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 354 2 gold 带-v 带.03 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 354 5 gold 去-v 去.01 ----- 5:0-rel 4:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 354 32 gold 幸存-v 幸存.01 ----- 32:0-rel 16:1*17:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 354 40 gold 生活-v 生活.01 ----- 40:0-rel 12:1-ARG1 15:2-ARG0 36:1-ARG0 39:1-ARGM-ADV 41:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 355 4 gold 展示-v 展示.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-DIR 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 355 9 gold 遇到-v 遇到.01 ----- 9:0-rel 7:1-ARG0 6:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 356 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 356 8 gold 看到-v 看到.01 ----- 8:0-rel 6:1-ARG0 5:1*9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 357 4 gold 加入-v 加入.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 357 9 gold 展示-v 展示.01 ----- 9:0-rel 1:1-ARG0 7:1-ARGM-DIR 10:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 357 12 gold 拜访-v 拜访.01 ----- 12:0-rel 11:1-ARG0 14:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 358 6 gold 讨论-v 讨论.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-TMP 3:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 358 9 gold 是-v 是.01 ----- 9:0-rel 3:3-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 359 7 gold 去-v 去.01 ----- 7:0-rel 1:2-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 9:1-ARG1 10:1-ARGM-FRQ
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 359 20 gold 拜访-v 拜访.01 ----- 20:0-rel 1:2-ARGM-TMP 5:1-ARG0 17:1-ARGM-DIS 18:1-ARGM-DIS 19:1-ARGM-ADV 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 360 2 gold 想-v 想.01 ----- 2:0-rel 1:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 360 5 gold 是-v 是.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 360 11 gold 不可思议-v 不可思议.01 ----- 11:0-rel 6:1*7:1-ARG0 8:2-ARGM-LOC 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 361 6 gold 如此-v 如此.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 362 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 362 8 gold 是-v 是.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 363 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 364 3 gold 是-v 是.04 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 364 7 gold 意识-v 意识.01 ----- 7:0-rel 4:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 364 12 gold 可以-v 可以.01 ----- 12:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 364 14 gold 做-v 做.01 ----- 14:0-rel 9:1-ARG0 10:1-ARGM-DIS 11:1-ARGM-ADV 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 365 14 gold 上升-v 上升.01 ----- 14:0-rel 3:1-ARGM-TMP 9:3-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 366 5 gold 执政-v 执政.01 ----- 5:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 366 12 gold 增加-v 增加.01 ----- 12:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 8:3-ARG1 11:1-ARGM-ADV 14:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 367 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 367 11 gold 增长-v 增长.01 ----- 11:0-rel 5:1-ARG0 4:1*6:1-ARGM-LOC 7:1-ARGM-ADV 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 3 gold 可以-v 可以.01 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 4 gold 去-v 去.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 7 gold 是-v 是.04 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 8 gold 说-v 说.01 ----- 8:0-rel 6:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 19 gold 展示-v 展示.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-TMP 18:1-ARGM-ADV 15:1*20:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 28 gold 是-v 是.01 ----- 28:0-rel 15:3-ARG0 27:1-ARGM-ADV 29:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 368 31 gold 拍摄-v 拍摄.01 ----- 31:0-rel 30:1-ARG0 29:1*32:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 369 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 369 8 gold 不可思议-v 不可思议.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 370 7 gold 可以-v 可以.01 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 370 8 gold 去-v 去.01 ----- 8:0-rel 1:2-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 371 3 gold 正确-v 正确.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 372 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 372 3 gold 前往-v 前往.01 ----- 3:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 372 10 gold 知道-v 知道.01 ----- 10:0-rel 9:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 372 16 gold 可以-v 可以.01 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 373 3 gold 在-v 在.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 375 9 gold 可以-v 可以.01 ----- 9:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 376 2 gold 接近-v 接近.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 377 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 377 10 gold 看到-v 看到.01 ----- 10:0-rel 6:1-ARG0 7:1-ARGM-LOC 11:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 378 8 gold 接近-v 接近.01 ----- 8:0-rel 1:2-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-TMP 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 11 gold 是-v 是.01 ----- 11:0-rel 8:1-ARG0 10:1-ARGM-ADV 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 24 gold 带-v 带.03 ----- 24:0-rel 8:1-ARG1 10:1-ARGM-ADV 21:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 30 gold 带到-v 带到.01 ----- 30:0-rel 28:1-ARG1 39:4-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 46 gold 在-v 在.01 ----- 46:0-rel 28:1-ARG0 45:1-ARGM-ADV 47:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 58 gold 知道-v 知道.01 ----- 58:0-rel 57:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 379 65 gold 是-v 是.01 ----- 65:0-rel 55:1-ARG0 57:3-ARGM-ADV 64:1-ARGM-ADV 66:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 380 4 gold 看-v 看.02 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-ADV 1:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 380 11 gold 是-v 是.01 ----- 11:0-rel 1:5-ARGM-TPC 10:1-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 381 9 gold 带到-v 带到.01 ----- 9:0-rel 6:1*7:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 382 8 gold 能-v 能.01 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 382 11 gold 放回-v 放回.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV 10:1-ARG1 14:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 382 16 gold 去-v 去.02 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 383 14 gold 了解-v 了解.02 ----- 14:0-rel 12:1-ARG0 11:1*15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 383 18 gold 是-v 是.01 ----- 18:0-rel 3:1-ARG0 6:1-ARGM-ADV 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 383 24 gold 长-v 长.02 ----- 24:0-rel 20:1*21:1-ARGM-TPC 22:1-ARG0 23:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 383 28 gold 生活-v 生活.01 ----- 28:0-rel 26:1*27:1-ARG0 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 383 33 gold 达-v 达.01 ----- 33:0-rel 30:1*31:1-ARG0 32:1-ARGM-ADV 34:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 384 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 384 7 gold 去-v 去.02 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 384 8 gold 参观-v 参观.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-ADV 4:1*9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 385 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 385 10 gold 去-v 去.01 ----- 10:0-rel 7:1-ARG0 8:1-ARGM-TMP 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 386 2 gold 看-v 看.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 386 7 gold 在-v 在.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 387 6 gold 不可思议-v 不可思议.01 ----- 6:0-rel 1:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 390 6 gold 相似-v 相似.01 ----- 6:0-rel 2:1-ARG0 1:1*3:1-ARGM-LOC 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 390 9 gold 是-v 是.01 ----- 9:0-rel 1:3-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 391 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 391 3 gold 指-v 指.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 391 6 gold 说-v 说.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 8:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 391 9 gold 知道-v 知道.01 ----- 9:0-rel 8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 391 16 gold 有-v 有.04 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 391 21 gold 像-v 像.01 ----- 21:0-rel 8:3-ARGM-ADV 12:1-ARG0 13:1-ARGM-ADV 14:1-ARG1 17:2-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 392 8 gold 类似-v 类似.01 ----- 8:0-rel 6:1-ARG0 5:1*7:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 392 12 gold 是-v 是.01 ----- 12:0-rel 5:3-ARG0 11:1-ARGM-ADV 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 392 18 gold 是-v 是.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 7 gold 看到-v 看到.01 ----- 7:0-rel 1:1-ARGM-DIS 6:1-ARG0 8:6-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 28 gold 玩-v 玩.01 ----- 28:0-rel 8:5-ARG0 15:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 31 gold 知道-v 知道.01 ----- 31:0-rel 30:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 38 gold 可能-v 可能.02 ----- 38:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 39 gold 让-v 让.02 ----- 39:0-rel 30:3-ARGM-ADV 35:3-ARG0 40:1-ARG1 41:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 42 gold 离开-v 离开.01 ----- 42:0-rel 41:1-ARG0 43:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 393 45 gold 远-v 远.01 ----- 45:0-rel 43:1-ARGM-ADV 44:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 394 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 395 7 gold 看-v 看.07 ----- 7:0-rel 5:1-ARGM-DIS 6:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 395 11 gold 是-v 是.01 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 396 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 397 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARGM-DIS 2:3-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 397 9 gold 设置-v 设置.01 ----- 9:0-rel 6:1-ARG2 7:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 398 9 gold 建起-v 建起.01 ----- 9:0-rel 3:1-ARG0 4:1-ARGM-ADV 7:1-ARGM-LOC 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 398 22 gold 可以-v 可以.01 ----- 22:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 398 26 gold 观看-v 观看.01 ----- 26:0-rel 13:1-ARGM-DIS 14:1-ARGM-TMP 21:1-ARG0 27:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 399 3 gold 是-v 是.04 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 399 5 gold 开玩笑-v 开玩笑.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 399 9 gold 真的-v 真的.01 ----- 9:0-rel 8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 401 4 gold 好-v 好.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 403 14 gold 是-v 是.04 ----- 14:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 403 15 gold 指-v 指.01 ----- 15:0-rel 8:2-ARGM-TPC 13:1-ARG0 17:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 403 23 gold 影响-v 影响.01 ----- 23:0-rel 21:1-ARG0 22:1-ARGM-ADV 25:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 404 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 404 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 404 8 gold 干-v 干.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-BNF 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 405 8 gold 是-v 是.04 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 405 9 gold 如何-v 如何.01 ----- 9:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 405 12 gold 是-v 是.04 ----- 12:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 405 13 gold 说-v 说.01 ----- 13:0-rel 11:1-ARG0 15:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 405 18 gold 产生-v 产生.01 ----- 18:0-rel 15:1-ARG0 16:1-ARG1 20:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 406 17 gold 回来-v 回来.01 ----- 17:0-rel 5:1-ARGM-TPC 15:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 407 6 gold 迁移-v 迁移.02 ----- 6:0-rel 1:4-ARG0 5:1-ARGM-ADV 8:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 408 6 gold 做-v 做.01 ----- 6:0-rel 3:1-ARGM-TMP 4:1-ARG0 2:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 408 11 gold 保护-v 保护.01 ----- 11:0-rel 10:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 408 20 gold 没有-v 没有.01 ----- 20:0-rel 16:1-ARGM-LOC 18:1-ARGM-TMP 19:1-ARG1 21:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 408 26 gold 允许-v 允许.01 ----- 26:0-rel 23:1-ARG0 24:1-ARGM-ADV 25:1-ARGM-ADV 27:2-ARG1 29:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 408 30 gold 进入-v 进入.01 ----- 30:0-rel 29:1-ARG0 31:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 409 4 gold 回来-v 回来.01 ----- 4:0-rel 3:1-ARG0 6:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 410 2 gold 兴旺-v 兴旺.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 412 6 gold 有-v 有.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 413 4 gold 可以-v 可以.01 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 413 8 gold 是-v 是.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 413 13 gold 前往-v 前往.01 ----- 13:0-rel 9:1*10:1-ARG0 11:2-ARGM-ADV 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 414 3 gold 可以-v 可以.01 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 414 4 gold 前往-v 前往.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 414 10 gold 去-v 去.02 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 414 11 gold 看看-v 看看.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARG0 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 415 12 gold 叫-v 叫.01 ----- 12:0-rel 11:1*10:1-ARG0 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 415 17 gold 工作-v 工作.01 ----- 17:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-ADV 4:1-ARGM-ADV 16:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 415 21 gold 经营-v 经营.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 417 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 417 14 gold 做-v 做.01 ----- 14:0-rel 12:1-ARG0 11:1*15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 418 10 gold 有-v 有.02 ----- 10:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-LOC 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 418 19 gold 是-v 是.01 ----- 19:0-rel 15:1-ARGM-DIS 18:1-ARG0 20:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 419 3 gold 有-v 有.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 420 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 421 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 421 7 gold 是-v 是.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 423 16 gold 筹集-v 筹集.01 ----- 16:0-rel 1:1-ARGM-ADV 8:1-ARGM-ADV 10:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-BNF 18:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 423 26 gold 会-v 会.01 ----- 26:0-rel 24:1*25:1-ARG0 27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 424 9 gold 教-v 教.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 10:1-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 425 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 425 7 gold 在-v 在.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 426 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 426 8 gold 是-v 是.01 ----- 8:0-rel 6:1-ARGM-DIS 7:1-ARG0 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 426 11 gold 在-v 在.01 ----- 11:0-rel 9:1*10:1-ARG0 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 427 8 gold 搬迁-v 搬迁.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1 10:4-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 427 31 gold 清楚-v 清楚.02 ----- 31:0-rel 28:1-ARG0 30:1-ARGM-ADV 27:1*32:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 427 35 gold 在-v 在.01 ----- 35:0-rel 26:1-ARGM-ADV 36:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 428 4 gold 做-v 做.01 ----- 4:0-rel 3:1-ARG0 2:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 428 8 gold 是-v 是.01 ----- 8:0-rel 1:1-ARGM-DIS 2:3-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 428 18 gold 带给-v 带给.01 ----- 18:0-rel 9:1-ARG0 11:3-ARG1 19:4-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 428 21 gold 在-v 在.01 ----- 21:0-rel 19:1*20:1-ARG0 22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 429 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 429 16 gold 遇害-v 遇害.01 ----- 16:0-rel 5:1*6:1-ARG0 7:1-ARG0 10:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 430 3 gold 正确-v 正确.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 431 8 gold 说-v 说.01 ----- 8:0-rel 5:1-ARGM-DIS 6:1-ARG0 7:1-ARGM-ADV 9:1-ARGM-ADV 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 431 15 gold 提到-v 提到.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-TMP 12:1*16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 431 22 gold 是-v 是.01 ----- 22:0-rel 11:1-ARGM-ADV 19:3-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 432 3 gold 有-v 有.03 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 433 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 433 7 gold 是-v 是.01 ----- 7:0-rel 6:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 433 21 gold 团结-v 团结.01 ----- 21:0-rel 15:1-ARGM-TMP 17:2-ARG1 20:1-ARGM-ADV 22:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 434 7 gold 有趣-v 有趣.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 9:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 434 11 gold 去-v 去.01 ----- 11:0-rel 10:1-ARG0 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 434 17 gold 问-v 问.01 ----- 17:0-rel 15:1-ARGM-DIS 16:1-ARG0 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 434 20 gold 是-v 是.01 ----- 20:0-rel 19:1-ARG0 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 434 26 gold 会-v 会.02 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 435 3 gold 正确-v 正确.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 436 13 gold 想-v 想.02 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 436 15 gold 有-v 有.03 ----- 15:0-rel 14:1-ARG0 16:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 437 5 gold 想-v 想.02 ----- 5:0-rel 1:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 437 7 gold 有-v 有.03 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 438 9 gold 生活-v 生活.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 439 4 gold 会-v 会.02 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 439 5 gold 认为-v 认为.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 439 7 gold 会-v 会.02 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 439 8 gold 有-v 有.01 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 440 4 gold 找-v 找.02 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 441 4 gold 感到-v 感到.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-LOC 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 441 6 gold 有-v 有.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 442 4 gold 说-v 说.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:1-ARGM-ADV 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 442 9 gold 可能-v 可能.02 ----- 9:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 442 10 gold 是-v 是.01 ----- 10:0-rel 7:1-ARG0 8:1-ARGM-TMP 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 442 15 gold 见-v 见.01 ----- 15:0-rel 12:1-ARG0 13:1-ARGM-LOC 11:1*17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 443 5 gold 相信-v 相信.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 444 5 gold 好-v 好.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 445 3 gold 不错-v 不错.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 7 gold 让-v 让.02 ----- 7:0-rel 5:1*6:1-ARG0 8:1-ARG1 9:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 10 gold 吃惊-v 吃惊.01 ----- 10:0-rel 9:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 12 gold 有-v 有.07 ----- 12:0-rel 5:3-ARG0 11:1-ARGM-DIS 14:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 16 gold 去-v 去.02 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 17 gold 看-v 看.02 ----- 17:0-rel 15:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 22 gold 开始-v 开始.01 ----- 22:0-rel 14:1-ARGM-TMP 21:1-ARG1 23:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 26 gold 带-v 带.03 ----- 26:0-rel 24:1*25:1-ARG0 27:1-ARG1 28:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 29 gold 前往-v 前往.01 ----- 29:0-rel 28:1-ARG0 30:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 33 gold 交谈-v 交谈.01 ----- 33:0-rel 14:1-ARGM-TMP 21:1-ARG0 23:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 37 gold 问-v 问.01 ----- 37:0-rel 36:1-ARG0 38:1-ARG2 40:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 41 gold 是否-v 是否.01 ----- 41:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 42 gold 失去-v 失去.01 ----- 42:0-rel 40:1-ARG0 44:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 58 gold 告诉-v 告诉.01 ----- 58:0-rel 35:1-ARGM-TMP 47:1-ARG0 51:4-ARGM-ADV 59:1-ARG2 61:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 62 gold 知道-v 知道.01 ----- 62:0-rel 61:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 446 74 gold 在-v 在.01 ----- 74:0-rel 61:3-ARGM-ADV 68:3-ARG0 72:1-ARGM-ADV 73:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 447 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 447 9 gold 遇到-v 遇到.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 447 13 gold 做-v 做.01 ----- 13:0-rel 10:2-ARG0 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 448 7 gold 问-v 问.01 ----- 7:0-rel 3:1-ARGM-DIS 6:1-ARG0 8:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 448 13 gold 怎样-v 怎样.01 ----- 13:0-rel 8:3-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 448 16 gold 在-v 在.01 ----- 16:0-rel 8:3-ARG0 17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 11 gold 失去-v 失去.01 ----- 11:0-rel 10:1-ARG0 13:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 18 gold 继续-v 继续.01 ----- 18:0-rel 1:1-ARGM-DIS 2:1-ARG0 17:1-ARGM-DIS 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 19 gold 前行-v 前行.01 ----- 19:0-rel 1:1-ARGM-DIS 2:1-ARG0 17:1-ARGM-DIS
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 26 gold 可能-v 可能.02 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 27 gold 是-v 是.01 ----- 27:0-rel 24:1*25:1-ARG0 30:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 449 39 gold 交谈-v 交谈.01 ----- 39:0-rel 1:1-ARGM-DIS 2:1-ARG0 17:1-ARGM-DIS 21:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 451 8 gold 提-v 提.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 452 3 gold 认为-v 认为.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 452 5 gold 是-v 是.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 452 24 gold 伟大-v 伟大.01 ----- 24:0-rel 6:1*7:1-ARG0 8:3-ARGM-TMP 16:4-ARGM-LOC 23:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 453 4 gold 回来-v 回来.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 453 7 gold 对-v 对.02 ----- 7:0-rel 6:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 454 4 gold 是-v 是.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 454 8 gold 增加-v 增加.01 ----- 8:0-rel 7:1-ARG1 10:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 455 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 455 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 455 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 456 8 gold 有-v 有.03 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-TMP 7:1-ARGM-ADV 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 457 3 gold 有-v 有.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 458 5 gold 谈论-v 谈论.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 2:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 458 16 gold 是-v 是.04 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 458 20 gold 重要-v 重要.01 ----- 20:0-rel 1:1-ARGM-DIS 2:3-ARG0 11:1-ARGM-ADV 17:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 459 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 459 7 gold 有-v 有.05 ----- 7:0-rel 5:1-ARGM-DIS 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 459 11 gold 得-v 得.01 ----- 11:0-rel 8:1-ARG0 9:1-ARGM-LOC 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 459 21 gold 干-v 干.01 ----- 21:0-rel 16:1*17:1-ARG0 18:1-ARGM-TMP 19:1-ARGM-LOC 23:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 459 24 gold 不错-v 不错.01 ----- 24:0-rel 23:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 459 34 gold 会-v 会.02 ----- 34:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 460 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 460 9 gold 小心翼翼-v 小心翼翼.01 ----- 9:0-rel 5:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 460 15 gold 去-v 去.01 ----- 15:0-rel 13:1-ARGM-DIS 14:1-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 460 17 gold 参观-v 参观.01 ----- 17:0-rel 13:1-ARGM-DIS 14:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 460 22 gold 能-v 能.01 ----- 22:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 461 6 gold 见到-v 见到.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 461 9 gold 是-v 是.01 ----- 9:0-rel 5:2-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 462 6 gold 高兴-v 高兴.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 463 4 gold 高兴-v 高兴.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 463 8 gold 说-v 说.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-ADV 10:2-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 463 11 gold 快-v 快.01 ----- 11:0-rel 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 464 4 gold 是-v 是.03 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 464 8 gold 是-v 是.01 ----- 8:0-rel 7:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 465 4 gold 有-v 有.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-LOC 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 467 8 gold 做-v 做.01 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-BNF 9:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 468 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 469 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 470 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 471 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 472 11 gold 有-v 有.01 ----- 11:0-rel 3:1-ARGM-TMP 4:1-ARGM-LOC 8:1-ARG0 9:1-ARGM-TMP 10:1-ARGM-ADV 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 475 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 476 3 gold 报道-v 报道.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 476 9 gold 发展-v 发展.05 ----- 9:0-rel 6:1*7:1-ARG1 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 477 5 gold 有-v 有.07 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-DIS
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 477 15 gold 发生-v 发生.01 ----- 15:0-rel 11:1*12:1-ARG0 13:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 477 18 gold 称为-v 称为.01 ----- 18:0-rel 7:1-ARGM-ADV 8:2-ARG0 11:3-ARG1 19:4-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 477 29 gold 发展-v 发展.05 ----- 29:0-rel 26:1-ARG1 27:1-ARGM-ADV 28:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 480 5 gold 想-v 想.02 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 480 7 gold 错过-v 错过.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 480 12 gold 称-v 称.02 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 480 14 gold 是-v 是.01 ----- 14:0-rel 13:1-ARG0 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 480 24 gold 大-v 大.01 ----- 24:0-rel 15:1*16:1-ARG0 17:1-ARGM-TMP 22:1-ARG0 23:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 481 12 gold 改变-v 改变.01 ----- 12:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 9:3-ARG1 14:1-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 482 5 gold 可以-v 可以.01 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 482 8 gold 得到-v 得到.01 ----- 8:0-rel 3:1-ARG0 4:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 3 gold 致电-v 致电.01 ----- 3:0-rel 1:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 8 gold 为-v 为.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 11 gold 是-v 是.01 ----- 11:0-rel 7:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 17 gold 访问-v 访问.01 ----- 17:0-rel 16:1-ARG0 18:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 25 gold 写-v 写.01 ----- 25:0-rel 15:1-ARGM-MNR 24:1-ARG0 26:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 483 28 gold 给-v 给.01 ----- 28:0-rel 15:1-ARGM-MNR 24:1-ARG0 29:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 484 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 484 7 gold 转给-v 转给.01 ----- 7:0-rel 1:1-ARG0 4:3-ARG1 8:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 485 2 gold 欢迎-v 欢迎.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 485 5 gold 回到-v 回到.01 ----- 5:0-rel 4:1-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 486 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 486 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 486 5 gold 必不可少-v 必不可少.01 ----- 5:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 487 4 gold 是否-v 是否.01 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 487 5 gold 有-v 有.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 489 3 gold 有-v 有.07 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 490 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 491 8 gold 应该-v 应该.01 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 491 10 gold 禁止-v 禁止.01 ----- 10:0-rel 1:1-ARGM-LOC 11:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 492 2 gold 称-v 称.02 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 492 4 gold 没有-v 没有.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 492 6 gold 有-v 有.01 ----- 6:0-rel 3:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 493 3 gold 没有-v 没有.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 493 11 gold 会-v 会.02 ----- 11:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 493 12 gold 做-v 做.01 ----- 12:0-rel 10:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 494 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 494 9 gold 插到-v 插到.01 ----- 9:0-rel 1:1-ARG0 3:2-ARGM-ADV 6:2-ARG1 10:5-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 495 4 gold 让-v 让.02 ----- 4:0-rel 1:1-ARGM-DIS 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 496 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 496 15 gold 大-v 大.01 ----- 15:0-rel 11:1*12:1-ARG0 13:1-ARG0 14:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 497 5 gold 相信-v 相信.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 499 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 500 8 gold 直播-v 直播.01 ----- 8:0-rel 1:1-ARG0 2:2-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 500 11 gold 是-v 是.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 501 3 gold 感谢-v 感谢.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1 5:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 501 6 gold 加入-v 加入.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 502 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 502 5 gold 看-v 看.02 ----- 5:0-rel 4:1-ARG0 6:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 502 13 gold 成为-v 成为.01 ----- 13:0-rel 9:1*10:1-ARG0 11:1-ARGM-TMP 12:1-ARGM-ADV 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 503 14 gold 发生-v 发生.01 ----- 14:0-rel 1:2-ARGM-TMP 7:2-ARG0 15:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 503 25 gold 导致-v 导致.01 ----- 25:0-rel 1:2-ARGM-TMP 7:2-ARG0 26:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 503 29 gold 身亡-v 身亡.01 ----- 29:0-rel 26:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 504 2 gold 没有-v 没有.01 ----- 2:0-rel 1:1-ARG1 3:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 504 4 gold 受伤-v 受伤.01 ----- 4:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 505 2 gold 拘留-v 拘留.01 ----- 2:0-rel 1:1-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 506 9 gold 受伤-v 受伤.01 ----- 9:0-rel 1:2-ARG0 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 506 12 gold 在-v 在.01 ----- 12:0-rel 1:2-ARG0 11:1-ARGM-TMP 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 507 9 gold 在-v 在.01 ----- 9:0-rel 1:3-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 507 11 gold 计划-v 计划.01 ----- 11:0-rel 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 508 6 gold 是-v 是.01 ----- 6:0-rel 1:3-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 508 9 gold 是-v 是.04 ----- 9:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 508 11 gold 告诉-v 告诉.01 ----- 11:0-rel 10:1-ARG0 13:1-ARG2 14:0-ARG2 15:0-ARG2 16:0-ARG2 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 508 20 gold 设有-v 设有.01 ----- 20:0-rel 17:1-ARG2 18:1-ARG2 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 509 5 gold 要求-v 要求.03 ----- 5:0-rel 1:2-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 509 7 gold 进行-v 进行.01 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 510 3 gold 转到-v 转到.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 511 9 gold 遇害-v 遇害.01 ----- 9:0-rel 1:4-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 512 7 gold 遭-v 遭.01 ----- 7:0-rel 1:4-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 513 5 gold 是否-v 是否.01 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 513 14 gold 开始-v 开始.02 ----- 14:0-rel 4:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-MNR 10:1-ARGM-TMP 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 513 15 gold 提出-v 提出.01 ----- 15:0-rel 1:2-ARG0 3:1-ARG1 17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 514 3 gold 讲-v 讲.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 515 8 gold 幸存-v 幸存.01 ----- 8:0-rel 1:1*2:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 515 17 gold 允许-v 允许.01 ----- 17:0-rel 15:1-ARGM-ADV 1:3*18:1-ARG1 19:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 515 21 gold 返回-v 返回.01 ----- 21:0-rel 19:1-ARG0 20:1-ARGM-TMP 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 516 10 gold 计为-v 计为.01 ----- 10:0-rel 1:1-ARG0 3:4-ARG1 11:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 517 3 gold 回到-v 回到.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 517 15 gold 成-v 成.01 ----- 15:0-rel 8:1-ARGM-TMP 9:1-ARGM-LOC 12:2-ARG0 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 517 22 gold 是-v 是.01 ----- 22:0-rel 8:1-ARGM-TMP 9:1-ARGM-LOC 12:2-ARG0 23:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 518 7 gold 加入-v 加入.01 ----- 7:0-rel 1:4-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 518 11 gold 带来-v 带来.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 520 6 gold 有-v 有.01 ----- 6:0-rel 3:1-ARGM-TMP 5:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 520 11 gold 给-v 给.01 ----- 11:0-rel 7:2-ARG1 12:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 521 5 gold 听到-v 听到.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-DIR 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 521 14 gold 出-v 出.01 ----- 14:0-rel 6:2-ARG0 11:1-ARGM-TMP 13:1-ARGM-ADV 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 522 5 gold 列为-v 列为.01 ----- 5:0-rel 1:2-ARG1 3:1-ARGM-TMP 4:1-ARG1 6:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 522 8 gold 严重-v 严重.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 523 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 524 17 gold 开火-v 开火.01 ----- 17:0-rel 6:2-ARG0 12:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 524 19 gold 遇害-v 遇害.01 ----- 19:0-rel 1:3-ARG0 5:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 525 4 gold 发生-v 发生.01 ----- 4:0-rel 1:2-ARG0 5:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 525 9 gold 过-v 过.02 ----- 9:0-rel 6:1-ARG1 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 526 6 gold 可以-v 可以.01 ----- 6:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 526 7 gold 看到-v 看到.01 ----- 7:0-rel 4:1-ARG0 5:1-ARGM-ADV 3:1*8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 526 18 gold 是-v 是.02 ----- 18:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 11:1-ARG0 16:1-ARGM-ADV 17:1-ARGM-ADV 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 526 24 gold 在-v 在.01 ----- 24:0-rel 22:1-ARG0 23:1-ARGM-ADV 25:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 526 26 gold 进行-v 进行.02 ----- 26:0-rel 25:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 4 gold 了解-v 了解.03 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-DIS 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 12 gold 询问-v 询问.01 ----- 12:0-rel 6:1-ARGM-TMP 10:1-ARG0 11:1-ARGM-ADV 14:2-ARG2 17:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 19 gold 是-v 是.04 ----- 19:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 22 gold 得到-v 得到.01 ----- 22:0-rel 17:2-ARG0 20:1-ARGM-DIR 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 30 gold 能够-v 能够.01 ----- 30:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 33 gold 带进-v 带进.01 ----- 33:0-rel 28:1-ARG0 29:1-ARGM-ADV 32:1-ARG1 34:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 38 gold 询问-v 询问.01 ----- 38:0-rel 6:1-ARGM-TMP 10:1-ARG0 36:1-ARGM-DIS 37:1-ARGM-ADV 39:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 42 gold 找出-v 找出.01 ----- 42:0-rel 6:1-ARGM-TMP 10:1-ARG0 36:1-ARGM-DIS 43:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 44 gold 是否-v 是否.01 ----- 44:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 45 gold 有-v 有.05 ----- 45:0-rel 43:1-ARG0 46:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 527 52 gold 有-v 有.01 ----- 52:0-rel 46:1-ARG0 47:1-ARGM-ADV 48:1-ARG0 53:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 528 13 gold 进行-v 进行.01 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 6:2-ARG1 9:1-ARGM-ADV 10:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 528 16 gold 收集-v 收集.01 ----- 16:0-rel 15:1-ARG0 17:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 528 19 gold 可以-v 可以.01 ----- 19:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 528 20 gold 找到-v 找到.01 ----- 20:0-rel 18:1-ARG0 17:1*21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 528 26 gold 可能-v 可能.01 ----- 26:0-rel 24:1*25:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 529 3 gold 拘留-v 拘留.01 ----- 3:0-rel 1:1-ARG1 4:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 530 9 gold 像-v 像.01 ----- 9:0-rel 6:1*7:1-ARG0 8:1-ARGM-ADV 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 530 14 gold 处理-v 处理.02 ----- 14:0-rel 16:1*2:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 530 21 gold 带到-v 带到.01 ----- 21:0-rel 1:1-ARGM-TMP 19:1-ARG1 23:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 531 4 gold 该-v 该.01 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 531 6 gold 解释-v 解释.01 ----- 6:0-rel 3:1-ARG0 5:1-ARGM-ADV 10:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 531 14 gold 是-v 是.04 ----- 14:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 531 16 gold 发生-v 发生.01 ----- 16:0-rel 10:2-ARG0 15:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 531 20 gold 小心翼翼-v 小心翼翼.01 ----- 20:0-rel 1:1-ARG0 2:1-ARGM-DIR 18:1-ARGM-ADV 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 532 8 gold 想-v 想.02 ----- 8:0-rel 3:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 532 18 gold 放在-v 放在.01 ----- 18:0-rel 9:1-ARG0 11:1-ARG1 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 533 4 gold 有-v 有.01 ----- 4:0-rel 3:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 533 8 gold 认识-v 认识.01 ----- 8:0-rel 6:1*7:1-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 533 13 gold 说-v 说.01 ----- 13:0-rel 5:2-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 533 16 gold 惹-v 惹.02 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-ADV 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 534 4 gold 愿-v 愿.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 534 6 gold 确认-v 确认.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 534 12 gold 发生-v 发生.01 ----- 12:0-rel 8:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 534 20 gold 想-v 想.01 ----- 20:0-rel 7:1-ARGM-TMP 15:4-ARGM-LOC 19:1-ARGM-ADV 21:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 534 25 gold 发生-v 发生.01 ----- 25:0-rel 7:1-ARGM-TMP 15:4-ARG1 24:1-ARGM-ADV 26:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 536 22 gold 认识-v 认识.01 ----- 22:0-rel 20:1*21:1-ARG0 26:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 536 30 gold 拘留-v 拘留.01 ----- 30:0-rel 27:1*28:1-ARG1 29:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 536 35 gold 谈-v 谈.01 ----- 35:0-rel 3:1-ARG0 4:1-ARGM-ADV 10:1-ARGM-TMP 17:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 536 39 gold 说-v 说.01 ----- 39:0-rel 38:1-ARG0 40:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 536 55 gold 刺伤-v 刺伤.01 ----- 55:0-rel 46:1-ARG0 47:1-ARGM-MNR 56:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 537 3 gold 了解-v 了解.02 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 538 6 gold 会-v 会.02 ----- 6:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 538 7 gold 谈论-v 谈论.01 ----- 7:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 539 4 gold 希望-v 希望.02 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 539 7 gold 会-v 会.02 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 539 8 gold 透露-v 透露.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-TMP 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 540 8 gold 听说-v 听说.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIR 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 541 3 gold 确定-v 确定.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 541 5 gold 是否-v 是否.01 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 541 6 gold 是-v 是.01 ----- 6:0-rel 4:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 541 13 gold 发生-v 发生.01 ----- 13:0-rel 10:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 541 15 gold 谣传-v 谣传.01 ----- 15:0-rel 8:1-ARG0 9:1-ARGM-TMP 16:1*7:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 542 4 gold 相信-v 相信.01 ----- 4:0-rel 1:1-ARGM-DIS 2:2-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 542 16 gold 有-v 有.01 ----- 16:0-rel 10:2-ARG0 13:1-ARGM-ADV 14:1-ARGM-TMP 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 542 22 gold 返回-v 返回.01 ----- 22:0-rel 21:1-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 542 31 gold 有-v 有.01 ----- 31:0-rel 10:2-ARG0 20:1-ARGM-TMP 32:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 542 38 gold 有-v 有.01 ----- 38:0-rel 35:1-ARG0 36:1-ARGM-ADV 37:1-ARGM-ADV 39:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 543 8 gold 看-v 看.02 ----- 8:0-rel 1:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-TMP 7:1-ARGM-ADV 9:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 543 13 gold 带入-v 带入.01 ----- 13:0-rel 9:2-ARG1 14:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 544 5 gold 知道-v 知道.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 544 7 gold 是否-v 是否.01 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 544 9 gold 看-v 看.02 ----- 9:0-rel 6:1-ARG0 8:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 545 5 gold 是-v 是.01 ----- 5:0-rel 1:4-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 546 5 gold 是-v 是.01 ----- 5:0-rel 1:4-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 547 10 gold 像-v 像.01 ----- 10:0-rel 7:1*8:1-ARG0 9:1-ARGM-ADV 11:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 547 15 gold 处理-v 处理.02 ----- 15:0-rel 1:1-ARGM-DIS 17:1*3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 547 20 gold 说明-v 说明.02 ----- 20:0-rel 19:1-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 547 26 gold 发生-v 发生.01 ----- 26:0-rel 24:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 547 32 gold 伤-v 伤.01 ----- 32:0-rel 21:1-ARG0 22:1-ARGM-ADV 23:1-ARGM-LOC 34:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 548 2 gold 告诉-v 告诉.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG2 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 548 9 gold 处理-v 处理.02 ----- 9:0-rel 7:1*8:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 548 13 gold 赶到-v 赶到.01 ----- 13:0-rel 5:2-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 548 20 gold 制服-v 制服.01 ----- 20:0-rel 4:1-ARGM-TMP 18:1-ARGM-ADV 17:1*22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 548 26 gold 是-v 是.04 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 548 32 gold 制服-v 制服.01 ----- 32:0-rel 24:1-ARGM-DIS 28:3-ARG0 25:1*33:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 549 4 gold 发生-v 发生.01 ----- 4:0-rel 2:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 549 9 gold 封锁-v 封锁.01 ----- 9:0-rel 1:1-ARGM-TMP 11:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 550 8 gold 关-v 关.01 ----- 8:0-rel 1:1-ARG1 2:1-ARG2 10:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 551 3 gold 放-v 放.02 ----- 3:0-rel 1:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 551 19 gold 团聚-v 团聚.01 ----- 19:0-rel 1:1-ARG0 9:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 552 8 gold 剩下-v 剩下.01 ----- 8:0-rel 6:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 552 11 gold 关闭-v 关闭.01 ----- 11:0-rel 1:1-ARG1 2:1-ARGM-ADV 3:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 553 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 553 7 gold 有-v 有.01 ----- 7:0-rel 5:1*6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 553 11 gold 进行-v 进行.01 ----- 11:0-rel 1:1-ARG0 3:1-ARGM-DIR 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 554 5 gold 针对-v 针对.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIS 4:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 554 10 gold 针对-v 针对.01 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARG0 8:1-ARGM-DIS 9:1-ARGM-DIS 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 555 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 555 8 gold 谢谢-v 谢谢.01 ----- 8:0-rel 7:1-ARG0 9:3-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 555 11 gold 提供-v 提供.01 ----- 11:0-rel 10:1-ARG0 12:1*9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 556 5 gold 说-v 说.01 ----- 5:0-rel 3:1-ARG0 2:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 556 10 gold 是-v 是.01 ----- 10:0-rel 1:1-ARGM-ADV 9:1-ARG0 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 556 25 gold 可以-v 可以.01 ----- 25:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 556 26 gold 看到-v 看到.01 ----- 26:0-rel 24:1-ARG0 23:1*27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 556 33 gold 是-v 是.01 ----- 33:0-rel 18:1-ARGM-DIS 19:1-ARG0 22:1-ARGM-ADV 32:1-ARGM-ADV 34:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 556 39 gold 进行-v 进行.01 ----- 39:0-rel 36:1*37:1-ARGM-LOC 38:1-ARGM-ADV 40:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 6 gold 选择-v 选择.01 ----- 6:0-rel 3:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 11 gold 强调-v 强调.01 ----- 11:0-rel 3:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-ADV 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 21 gold 是-v 是.04 ----- 21:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 24 gold 变化-v 变化.01 ----- 24:0-rel 12:1-ARGM-TMP 16:5-ARG0 22:1-ARGM-ADV 23:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 30 gold 可能-v 可能.02 ----- 30:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 38 gold 是-v 是.04 ----- 38:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 41 gold 出现-v 出现.01 ----- 41:0-rel 39:1-ARGM-TMP 40:1-ARG0 42:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 51 gold 有-v 有.07 ----- 51:0-rel 49:1-ARG0 50:1-ARGM-DIS 52:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 54 gold 反对-v 反对.01 ----- 54:0-rel 52:1*53:1-ARG0 55:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 61 gold 有-v 有.07 ----- 61:0-rel 49:1-ARG0 59:1-ARGM-DIS 60:1-ARGM-DIS 62:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 557 64 gold 支持-v 支持.01 ----- 64:0-rel 62:1*63:1-ARG0 65:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 558 4 gold 出现-v 出现.01 ----- 4:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 559 5 gold 有-v 有.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 560 9 gold 进行-v 进行.01 ----- 9:0-rel 1:4-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 561 9 gold 获取-v 获取.01 ----- 9:0-rel 3:1-ARG0 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 561 13 gold 可以-v 可以.01 ----- 13:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 561 14 gold 拯救-v 拯救.01 ----- 14:0-rel 1:1-ARGM-DIS 2:1-ARGM-MNR 12:1-ARG0 15:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 561 21 gold 救出-v 救出.01 ----- 21:0-rel 1:1-ARGM-DIS 2:1-ARGM-MNR 12:1-ARG0 22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 561 25 gold 阻止-v 阻止.01 ----- 25:0-rel 1:1-ARGM-DIS 2:1-ARGM-MNR 12:1-ARG0 26:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 561 35 gold 会-v 会.02 ----- 35:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 562 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 562 9 gold 插到-v 插到.01 ----- 9:0-rel 1:1-ARG0 3:2-ARGM-ADV 6:2-ARG1 10:5-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 563 4 gold 是-v 是.01 ----- 4:0-rel 1:3-ARG0 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 563 21 gold 传授-v 传授.01 ----- 21:0-rel 1:3-ARG0 14:1-ARGM-ADV 15:1-ARG2 22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 564 8 gold 无-v 无.01 ----- 8:0-rel 1:3-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 565 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 565 3 gold 不惜-v 不惜.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 565 7 gold 达到-v 达到.01 ----- 7:0-rel 1:1-ARG0 8:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 566 2 gold 必须-v 必须.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 567 2 gold 需要-v 需要.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 568 3 gold 需要-v 需要.03 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 569 2 gold 需要-v 需要.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 569 3 gold 阻止-v 阻止.02 ----- 3:0-rel 1:1-ARG0 4:1-ARG1 5:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 569 7 gold 做-v 做.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 570 4 gold 阻止-v 阻止.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 570 10 gold 需要-v 需要.03 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 570 11 gold 使用-v 使用.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARGM-PRP 7:1-ARGM-DIS 8:1-ARG0 9:1-ARGM-ADV 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 571 3 gold 显示-v 显示.01 ----- 3:0-rel 1:1-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 571 6 gold 超过-v 超过.01 ----- 6:0-rel 4:1*5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 571 10 gold 认为-v 认为.01 ----- 10:0-rel 4:3-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 571 14 gold 是-v 是.01 ----- 14:0-rel 11:1-ARG0 13:1-ARGM-ADV 15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 571 15 gold 正当-v 正当.01 ----- 15:0-rel 11:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 572 4 gold 在-v 在.02 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 573 3 gold 包括-v 包括.01 ----- 3:0-rel 1:1*2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 573 9 gold 相信-v 相信.01 ----- 9:0-rel 1:3-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 573 17 gold 行-v 行.03 ----- 17:0-rel 10:1-ARGM-DIR 15:1-ARG1 16:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 574 3 gold 会-v 会.02 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 574 4 gold 给-v 给.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:1-ARG2 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 574 18 gold 可-v 可.01 ----- 18:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 574 19 gold 行动-v 行动.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 575 6 gold 阐明-v 阐明.01 ----- 6:0-rel 1:3-ARG0 5:1-ARGM-ADV 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 576 2 gold 需要-v 需要.01 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 576 3 gold 知道-v 知道.01 ----- 3:0-rel 1:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 576 7 gold 掌握-v 掌握.01 ----- 7:0-rel 4:2-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 577 3 gold 必须-v 必须.02 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 577 6 gold 敏感-v 敏感.01 ----- 6:0-rel 1:2-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 578 7 gold 说-v 说.01 ----- 7:0-rel 1:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-ADV 8:1-ARGM-ADV 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 578 19 gold 承受-v 承受.01 ----- 19:0-rel 18:1-ARG0 20:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 578 27 gold 会-v 会.02 ----- 27:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 578 28 gold 寻求-v 寻求.01 ----- 28:0-rel 10:1-ARGM-TMP 17:1-ARGM-TMP 26:1-ARG0 29:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 578 30 gold 能-v 能.01 ----- 30:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 578 32 gold 停止-v 停止.01 ----- 32:0-rel 29:1-ARG0 31:1-ARGM-ADV 33:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 579 8 gold 会-v 会.02 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 579 13 gold 期望-v 期望.01 ----- 13:0-rel 12:1-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 579 15 gold 听到-v 听到.01 ----- 15:0-rel 14:1-ARG0 11:1*16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 580 12 gold 受到-v 受到.01 ----- 12:0-rel 1:1*2:1-ARG0 3:1-ARGM-PRP 13:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 580 17 gold 称-v 称.02 ----- 17:0-rel 1:3-ARG0 18:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 580 19 gold 是-v 是.01 ----- 19:0-rel 18:1-ARG0 20:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 580 21 gold 允许-v 允许.01 ----- 21:0-rel 18:1-ARG2 20:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 582 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 582 3 gold 做-v 做.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 582 9 gold 保护-v 保护.01 ----- 9:0-rel 1:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 583 3 gold 会-v 会.02 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 583 7 gold 符合-v 符合.01 ----- 7:0-rel 5:1*6:1-ARG0 8:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 583 18 gold 做-v 做.01 ----- 18:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:1-ARGM-MNR 17:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 584 6 gold 说明-v 说明.02 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 585 4 gold 是-v 是.01 ----- 4:0-rel 1:3-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 585 6 gold 施加-v 施加.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 585 12 gold 作为-v 作为.01 ----- 12:0-rel 5:1-ARG0 6:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 586 11 gold 进行-v 进行.01 ----- 11:0-rel 1:4-ARG0 6:1-ARGM-ADV 7:1-ARG1 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 587 3 gold 坚持-v 坚持.01 ----- 3:0-rel 1:2-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 587 11 gold 进行-v 进行.01 ----- 11:0-rel 5:1-ARG0 6:1-ARGM-LOC 12:1*4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 587 17 gold 符合-v 符合.01 ----- 17:0-rel 4:3-ARG0 16:1-ARGM-ADV 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 587 22 gold 有-v 有.07 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-DIS 23:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 588 4 gold 说-v 说.01 ----- 4:0-rel 1:2-ARG0 3:1-ARGM-DIS 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 589 6 gold 做出-v 做出.01 ----- 6:0-rel 1:2-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 5:1-ARGM-ADV 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 590 5 gold 思考-v 思考.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 591 21 gold 应该-v 应该.01 ----- 21:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 591 22 gold 是-v 是.01 ----- 22:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 13:1-ARG0 16:1-ARGM-ADV 23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 591 23 gold 违法-v 违法.01 ----- 23:0-rel 1:1-ARGM-DIS 2:2-ARGM-MNR 13:1-ARG0 16:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 592 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 593 6 gold 使用-v 使用.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 594 2 gold 是-v 是.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 595 4 gold 知道-v 知道.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 595 20 gold 会-v 会.02 ----- 20:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 595 21 gold 成立-v 成立.01 ----- 21:0-rel 5:1-ARGM-LOC 13:2-ARG1 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 597 5 gold 有趣-v 有趣.01 ----- 5:0-rel 3:1*4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 597 7 gold 是-v 是.01 ----- 7:0-rel 3:3-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 597 11 gold 说-v 说.01 ----- 11:0-rel 8:1-ARG0 10:1-ARGM-ADV 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 597 16 gold 施行-v 施行.01 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-ADV 17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 598 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 598 7 gold 做-v 做.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 598 12 gold 做-v 做.01 ----- 12:0-rel 10:1-ARG0 13:1*9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 599 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 3:2-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 600 5 gold 邀请-v 邀请.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-TMP 7:2-ARG1 12:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 600 16 gold 探讨-v 探讨.01 ----- 16:0-rel 12:1-ARG0 13:1-ARG0 15:1-ARGM-ADV 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 601 17 gold 工作-v 工作.01 ----- 17:0-rel 1:4-ARG0 9:1-ARGM-ADV 10:1-ARGM-TMP 15:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 602 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-DIS 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 603 3 gold 加入-v 加入.01 ----- 3:0-rel 1:1*2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 603 7 gold 有-v 有.07 ----- 7:0-rel 1:3-ARG0 6:1-ARGM-DIS 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 603 16 gold 出-v 出.03 ----- 16:0-rel 15:1-ARG0 18:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 603 21 gold 包括-v 包括.01 ----- 21:0-rel 22:1,23:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 603 28 gold 解决-v 解决.01 ----- 28:0-rel 26:1-ARG0 27:1-ARGM-ADV 29:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 604 3 gold 参加-v 参加.01 ----- 3:0-rel 1:1*2:1-ARG0 4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 604 7 gold 有-v 有.07 ----- 7:0-rel 1:3-ARG0 6:1-ARGM-DIS 8:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 605 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 606 5 gold 认为-v 认为.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 606 14 gold 是-v 是.01 ----- 14:0-rel 6:1-ARGM-ADV 12:1-ARG0 15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 606 15 gold 正当-v 正当.01 ----- 15:0-rel 6:1-ARGM-ADV 12:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 607 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 607 5 gold 正当-v 正当.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 608 3 gold 希望-v 希望.02 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 608 7 gold 需要-v 需要.03 ----- 7:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 608 11 gold 使用-v 使用.01 ----- 11:0-rel 4:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 8:1-ARGM-LOC 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 5 gold 逮捕-v 逮捕.01 ----- 5:0-rel 3:1-ARGM-DIS 4:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 19 gold 会-v 会.02 ----- 19:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 20 gold 说出-v 说出.01 ----- 20:0-rel 14:1-ARGM-DIS 15:1-ARG0 16:1-ARGM-MNR 21:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 23 gold 会-v 会.02 ----- 23:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 24 gold 炸死-v 炸死.01 ----- 24:0-rel 21:1*22:1-ARG0 25:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 38 gold 会-v 会.02 ----- 38:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 609 39 gold 使用-v 使用.01 ----- 39:0-rel 37:1-ARG0 40:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 610 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 610 10 gold 是-v 是.01 ----- 10:0-rel 1:1-ARG0 8:1-ARGM-DIS 9:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 611 4 gold 要-v 要.05 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 611 6 gold 使用-v 使用.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 611 11 gold 必须-v 必须.02 ----- 11:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 611 15 gold 负责-v 负责.01 ----- 15:0-rel 14:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 611 20 gold 能-v 能.01 ----- 20:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 612 3 gold 意味-v 意味.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 612 14 gold 必须-v 必须.02 ----- 14:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 612 18 gold 允许-v 允许.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1 20:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 612 21 gold 使用-v 使用.01 ----- 21:0-rel 20:1-ARG0 16:1*22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 612 28 gold 进行-v 进行.01 ----- 28:0-rel 5:2-ARG0 15:1-ARG1 29:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 613 5 gold 负-v 负.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 613 11 gold 使用-v 使用.01 ----- 11:0-rel 1:1-ARG0 2:1-ARGM-ADV 10:1-ARGM-ADV 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 613 16 gold 必须-v 必须.02 ----- 16:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 613 17 gold 成为-v 成为.01 ----- 17:0-rel 15:1-ARG0 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 614 4 gold 认为-v 认为.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 614 6 gold 是-v 是.01 ----- 6:0-rel 5:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 615 2 gold 认为-v 认为.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 615 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 5 gold 认为-v 认为.01 ----- 5:0-rel 4:1-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 8 gold 开始-v 开始.01 ----- 8:0-rel 6:1-ARGM-DIS 7:1-ARG0 9:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 9 gold 说-v 说.01 ----- 9:0-rel 6:1-ARGM-DIS 7:1-ARGM-ADV 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 22 gold 讲-v 讲.01 ----- 22:0-rel 18:1-ARG0 19:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 26 gold 会-v 会.02 ----- 26:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 28 gold 做-v 做.01 ----- 28:0-rel 13:1-ARGM-MNR 18:2-ARGM-MNR 24:1-ARG0 25:1-ARGM-ADV 27:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 33 gold 做-v 做.01 ----- 33:0-rel 31:1-ARG0 32:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 38 gold 必须-v 必须.02 ----- 38:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 47 gold 同意-v 同意.02 ----- 47:0-rel 44:1-ARGM-DIS 45:1-ARG0 46:1-ARGM-ADV 48:1-ARGM-ADV 50:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 56 gold 是-v 是.01 ----- 56:0-rel 50:1-ARGM-ADV 55:1-ARG0 57:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 57 gold 可以-v 可以.01 ----- 57:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 58 gold 发生-v 发生.01 ----- 58:0-rel 50:1-ARGM-ADV 55:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 62 gold 应该-v 应该.01 ----- 62:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 63 gold 发生-v 发生.01 ----- 63:0-rel 61:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 616 81 gold 发生-v 发生.01 ----- 81:0-rel 65:1-ARGM-DIS 66:1-ARGM-DIS 68:1-ARGM-ADV 78:1-ARG0 79:1-ARGM-DIS 80:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 617 3 gold 开始-v 开始.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 617 11 gold 是-v 是.04 ----- 11:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 618 7 gold 想-v 想.02 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 618 9 gold 听听-v 听听.01 ----- 9:0-rel 8:1-ARG0 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 619 3 gold 看待-v 看待.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 620 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 620 13 gold 是-v 是.01 ----- 13:0-rel 6:1-ARGM-ADV 10:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 620 15 gold 对-v 对.02 ----- 15:0-rel 6:1-ARGM-ADV 10:1-ARG0 12:1-ARGM-ADV 14:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 620 26 gold 支持-v 支持.01 ----- 26:0-rel 22:1-ARGM-DIS 25:1-ARG0 27:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 621 13 gold 看-v 看.02 ----- 13:0-rel 4:1-ARGM-DIS 7:1-ARG0 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 622 2 gold 同意-v 同意.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 622 6 gold 讲-v 讲.01 ----- 6:0-rel 4:1-ARG0 3:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 623 3 gold 认为-v 认为.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 623 5 gold 是-v 是.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 623 7 gold 对-v 对.02 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 624 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 625 4 gold 是-v 是.01 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 625 5 gold 重复-v 重复.01 ----- 5:0-rel 1:2-ARG0 3:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 625 11 gold 应用-v 应用.01 ----- 11:0-rel 6:1*7:1-ARG1 8:1-ARGM-ADV 9:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 626 4 gold 涉及-v 涉及.01 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-ADV 1:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 626 7 gold 是-v 是.01 ----- 7:0-rel 1:3-ARG0 9:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 626 13 gold 在于-v 在于.01 ----- 13:0-rel 9:4-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 626 15 gold 防止-v 防止.01 ----- 15:0-rel 14:1-ARG0 16:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 626 18 gold 使用-v 使用.01 ----- 18:0-rel 17:1-ARG0 16:1*19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 626 26 gold 是-v 是.01 ----- 26:0-rel 16:3-ARG0 24:1-ARGM-ADV 25:1-ARGM-ADV 27:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 627 3 gold 会-v 会.02 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 627 4 gold 属于-v 属于.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 627 22 gold 是-v 是.01 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 628 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-DIS 3:3-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 629 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 629 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 629 11 gold 知道-v 知道.01 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 629 22 gold 策划-v 策划.01 ----- 22:0-rel 12:1-ARG0 13:1-ARGM-TMP 14:1-ARGM-ADV 15:1-ARGM-LOC 17:1-ARGM-ADV 20:1-ARGM-ADV 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 629 30 gold 知道-v 知道.01 ----- 30:0-rel 29:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 629 39 gold 称-v 称.01 ----- 39:0-rel 36:2-ARG0 35:1*40:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 630 13 gold 理解-v 理解.01 ----- 13:0-rel 11:1-ARG0 14:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 630 21 gold 提倡-v 提倡.01 ----- 21:0-rel 20:1-ARG0 19:1*22:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 630 31 gold 是-v 是.01 ----- 31:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 19:3-ARG0 32:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 631 2 gold 认为-v 认为.01 ----- 2:0-rel 1:1-ARG0 4:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 631 5 gold 这样子-v 这样子.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 632 4 gold 可以-v 可以.01 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 632 9 gold 进行-v 进行.01 ----- 9:0-rel 1:1-ARG0 3:1-ARGM-ADV 5:1-ARG1 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 633 3 gold 认为-v 认为.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 633 6 gold 指-v 指.01 ----- 6:0-rel 5:1-ARG1 4:1*7:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 633 9 gold 是-v 是.01 ----- 9:0-rel 4:3-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 634 12 gold 能-v 能.01 ----- 12:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 635 3 gold 那样-v 那样.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 636 2 gold 这样子-v 这样子.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 637 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 637 5 gold 有-v 有.01 ----- 5:0-rel 1:1-ARG0 3:1-ARG1 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 638 2 gold 会-v 会.02 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 638 9 gold 定义-v 定义.01 ----- 9:0-rel 1:1-ARG0 7:1-ARG1 10:2-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 638 11 gold 广泛-v 广泛.01 ----- 11:0-rel 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 638 14 gold 禁止-v 禁止.01 ----- 14:0-rel 1:1-ARG0 13:1-ARGM-DIS 15:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 6 gold 感到-v 感到.01 ----- 6:0-rel 4:1-ARGM-DIS 5:1-ARG0 7:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 8 gold 有-v 有.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 10 gold 使用-v 使用.01 ----- 10:0-rel 7:1-ARG0 11:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 29 gold 准备-v 准备.02 ----- 29:0-rel 26:1-ARGM-DIS 27:2-ARG0 30:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 35 gold 冒险-v 冒险.01 ----- 35:0-rel 30:1-ARG0 31:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 37 gold 说-v 说.01 ----- 37:0-rel 26:1-ARGM-DIS 27:2-ARG0 38:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 49 gold 必须-v 必须.02 ----- 49:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 50 gold 违反-v 违反.01 ----- 50:0-rel 43:1-ARGM-MNR 48:1-ARG0 51:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 57 gold 击落-v 击落.01 ----- 57:0-rel 54:1-ARGM-DIS 55:1-ARG0 56:1-ARGM-ADV 58:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 64 gold 会-v 会.02 ----- 64:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 69 gold 让-v 让.02 ----- 69:0-rel 68:1-ARG0 70:1-ARG1 71:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 639 73 gold 承担-v 承担.01 ----- 73:0-rel 71:1-ARG0 74:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 640 4 gold 会-v 会.02 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 640 5 gold 放宽-v 放宽.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 641 5 gold 会-v 会.01 ----- 5:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 641 6 gold 有-v 有.03 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 7:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 641 18 gold 会-v 会.02 ----- 18:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 641 20 gold 落实-v 落实.02 ----- 20:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 17:1-ARGM-DIS 19:1-ARGM-ADV 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 641 25 gold 是-v 是.04 ----- 25:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 642 9 gold 是-v 是.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-TMP 13:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 643 6 gold 说-v 说.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 644 7 gold 扣-v 扣.02 ----- 7:0-rel 4:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 8:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 645 15 gold 请-v 请.01 ----- 15:0-rel 14:1-ARG1 16:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 645 16 gold 让-v 让.02 ----- 16:0-rel 14:1-ARG0 17:1-ARG1 18:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 645 19 gold 说完-v 说完.01 ----- 19:0-rel 18:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 646 2 gold 是-v 是.04 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 646 3 gold 说-v 说.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 646 5 gold 是-v 是.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 647 2 gold 这样子-v 这样子.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 648 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 648 5 gold 说完-v 说完.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 649 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 650 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 650 5 gold 说-v 说.01 ----- 5:0-rel 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 651 3 gold 可以-v 可以.01 ----- 3:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 651 4 gold 回答-v 回答.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 653 2 gold 行-v 行.04 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 654 6 gold 知道-v 知道.01 ----- 6:0-rel 5:1-ARG0 8:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 654 10 gold 清楚-v 清楚.01 ----- 10:0-rel 8:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 655 5 gold 要-v 要.05 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 655 7 gold 说-v 说.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 656 6 gold 好-v 好.01 ----- 6:0-rel 5:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 656 13 gold 是-v 是.01 ----- 13:0-rel 10:3-ARG0 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 656 14 gold 这样-v 这样.01 ----- 14:0-rel 10:3-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 657 9 gold 讲-v 讲.01 ----- 9:0-rel 4:1-ARG0 5:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 657 14 gold 是-v 是.01 ----- 14:0-rel 3:1-ARG0 4:2-ARGM-ADV 10:1-ARGM-LOC 15:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 658 10 gold 参加-v 参加.01 ----- 10:0-rel 9:1-ARG0 12:1*8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 658 20 gold 看到-v 看到.01 ----- 20:0-rel 1:1-ARGM-TMP 7:1-ARGM-LOC 18:1-ARG0 19:1-ARGM-ADV 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 658 22 gold 盛行-v 盛行.01 ----- 22:0-rel 21:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 658 26 gold 看到-v 看到.01 ----- 26:0-rel 24:1-ARG0 25:1-ARGM-ADV 27:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 658 29 gold 爆发-v 爆发.01 ----- 29:0-rel 27:1-ARG1 28:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 659 3 gold 错误-v 错误.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 660 15 gold 请-v 请.01 ----- 15:0-rel 13:1-ARGM-DIS 14:1-ARG1 16:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 660 16 gold 说-v 说.01 ----- 16:0-rel 13:1-ARGM-DIS 14:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 661 3 gold 错误-v 错误.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 662 6 gold 泛滥-v 泛滥.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-TMP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 663 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 663 5 gold 指-v 指.01 ----- 5:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 663 13 gold 是-v 是.01 ----- 13:0-rel 10:1-ARGM-DIS 11:1-ARG0 12:1-ARGM-ADV 14:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 663 14 gold 存在-v 存在.01 ----- 14:0-rel 10:1-ARGM-DIS 11:1-ARG1 12:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 663 20 gold 对-v 对.02 ----- 20:0-rel 17:1-ARG0 18:1-ARGM-ADV 19:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 664 2 gold 泛滥-v 泛滥.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 666 3 gold 存在-v 存在.01 ----- 3:0-rel 1:1-ARG1 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 666 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-ADV 8:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 666 12 gold 看到-v 看到.01 ----- 12:0-rel 9:1-ARG0 10:1-ARGM-TMP 13:1*8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 667 3 gold 糟糕-v 糟糕.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 668 3 gold 糟糕-v 糟糕.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 669 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 669 8 gold 允许-v 允许.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 669 15 gold 会-v 会.02 ----- 15:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 669 20 gold 道歉-v 道歉.01 ----- 20:0-rel 9:1-ARGM-ADV 14:1-ARG0 16:1-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 670 7 gold 糟糕-v 糟糕.01 ----- 7:0-rel 1:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 671 7 gold 糟糕-v 糟糕.01 ----- 7:0-rel 1:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 672 17 gold 发言-v 发言.01 ----- 17:0-rel 4:1-ARGM-ADV 15:1-ARG0 16:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 673 3 gold 糟糕-v 糟糕.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 674 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 674 11 gold 说-v 说.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 674 14 gold 糟糕-v 糟糕.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 675 3 gold 糟糕-v 糟糕.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 676 12 gold 说-v 说.01 ----- 12:0-rel 10:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 676 15 gold 施行-v 施行.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 677 2 gold 相信-v 相信.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 677 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 677 5 gold 真的-v 真的.01 ----- 5:0-rel 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 678 9 gold 那样-v 那样.01 ----- 9:0-rel 4:1*5:1-ARG0 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 678 14 gold 发生-v 发生.01 ----- 14:0-rel 3:1-ARGM-DIS 4:3-ARG0 13:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 678 24 gold 应该-v 应该.01 ----- 24:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 678 28 gold 相信-v 相信.01 ----- 28:0-rel 27:1-ARG0 29:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 678 31 gold 是-v 是.01 ----- 31:0-rel 29:1-ARG0 30:1-ARGM-ADV 32:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 678 32 gold 真的-v 真的.01 ----- 32:0-rel 29:1-ARG0 30:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 679 5 gold 施行-v 施行.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 680 4 gold 施行-v 施行.01 ----- 4:0-rel 1:1-ARGM-ADV 3:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 681 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 681 16 gold 进行-v 进行.01 ----- 16:0-rel 1:1-ARGM-DIS 2:1-ARG1 4:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 682 6 gold 发出-v 发出.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-TMP 3:1*7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 682 13 gold 赞成-v 赞成.01 ----- 13:0-rel 1:2-ARGM-ADV 11:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 682 15 gold 使用-v 使用.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 682 20 gold 赞成-v 赞成.01 ----- 20:0-rel 18:1-ARGM-DIS 19:1-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 682 22 gold 使用-v 使用.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 682 28 gold 阻止-v 阻止.01 ----- 28:0-rel 21:1-ARG0 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 683 4 gold 送-v 送.01 ----- 4:0-rel 3:1-ARG0 2:1*6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 683 8 gold 是-v 是.01 ----- 8:0-rel 1:1-ARGM-DIS 2:3-ARG0 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 684 4 gold 让-v 让.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 16:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 684 17 gold 告诉-v 告诉.01 ----- 17:0-rel 16:1-ARG0 18:1-ARG2 19:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 684 28 gold 发表-v 发表.01 ----- 28:0-rel 22:1-ARG0 24:1-ARGM-ADV 25:1-ARG1 29:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 2 gold 说-v 说.01 ----- 2:0-rel 1:1-ARG0 17:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 11 gold 是-v 是.04 ----- 11:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 13 gold 解释-v 解释.01 ----- 13:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:1-ARGM-ADV 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 25 gold 是-v 是.01 ----- 25:0-rel 17:1-ARGM-DIS 18:3-ARG0 24:1-ARGM-ADV 26:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 28 gold 知道-v 知道.01 ----- 28:0-rel 26:1-ARG0 27:1-ARGM-ADV 29:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 33 gold 做-v 做.01 ----- 33:0-rel 29:1-ARG0 30:1-ARGM-ADV 31:1-ARGM-DIR 34:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 685 38 gold 是-v 是.01 ----- 38:0-rel 37:1-ARG0 39:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 686 7 gold 想-v 想.02 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 686 9 gold 作-v 作.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 687 3 gold 想-v 想.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 687 6 gold 写出-v 写出.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 687 11 gold 是-v 是.01 ----- 11:0-rel 9:1-ARGM-ADV 10:1-ARG0 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 687 12 gold 可行-v 可行.01 ----- 12:0-rel 9:1-ARGM-ADV 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 687 16 gold 是-v 是.01 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 687 18 gold 可行-v 可行.01 ----- 18:0-rel 15:1-ARG0 17:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 688 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 689 2 gold 是-v 是.01 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 689 4 gold 说-v 说.01 ----- 4:0-rel 1:1-ARGM-DIS 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 689 7 gold 起-v 起.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 689 10 gold 可以-v 可以.01 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 689 11 gold 起-v 起.01 ----- 11:0-rel 5:1-ARG0 6:1-ARGM-ADV 12:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 690 5 gold 证明-v 证明.01 ----- 5:0-rel 1:1-ARGM-DIS 3:1-ARGM-ADV 6:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 690 7 gold 起-v 起.01 ----- 7:0-rel 2:1*6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 691 11 gold 感谢-v 感谢.02 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 692 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 693 7 gold 包括-v 包括.01 ----- 7:0-rel 1:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 694 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 694 15 gold 关注-v 关注.01 ----- 15:0-rel 1:2-ARGM-ADV 10:1-ARGM-DIS 12:1-ARGM-ADV 14:1-ARGM-ADV 11:1*17:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 696 7 gold 蔓延-v 蔓延.01 ----- 7:0-rel 1:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 696 16 gold 暴露-v 暴露.01 ----- 16:0-rel 9:3-ARG0 15:1-ARGM-ADV 18:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 697 4 gold 认为-v 认为.01 ----- 4:0-rel 2:1-ARGM-ADV 3:1-ARG0 5:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 697 17 gold 欺骗-v 欺骗.01 ----- 17:0-rel 14:1-ARGM-MNR 19:1*5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 698 4 gold 做-v 做.01 ----- 4:0-rel 2:1-ARG0 1:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 698 12 gold 认为-v 认为.01 ----- 12:0-rel 1:3*13:1-ARGM-TPC 11:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 698 15 gold 会-v 会.02 ----- 15:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 698 16 gold 使-v 使.01 ----- 16:0-rel 1:3*13:1-ARG0 14:1-ARGM-ADV 17:1-ARG1 18:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 698 20 gold 吸引-v 吸引.02 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-ADV 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 698 23 gold 像-v 像.01 ----- 23:0-rel 1:3*13:1-ARG0 24:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 699 4 gold 想要-v 想要.02 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 699 9 gold 敏捷-v 敏捷.01 ----- 9:0-rel 6:1*7:1-ARG0 8:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 699 23 gold 发现-v 发现.01 ----- 23:0-rel 16:1-ARGM-DIS 19:1-ARGM-ADV 21:2-ARG0 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 699 25 gold 使-v 使.01 ----- 25:0-rel 24:1-ARG0 26:1-ARG1 27:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 700 5 gold 谈论-v 谈论.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 701 3 gold 回来-v 回来.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 702 10 gold 进来-v 进来.01 ----- 10:0-rel 1:5-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 703 9 gold 有-v 有.01 ----- 9:0-rel 1:2-ARG0 10:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 703 13 gold 熟悉-v 熟悉.01 ----- 13:0-rel 11:2-ARG0 14:1*10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 703 21 gold 有-v 有.01 ----- 21:0-rel 1:2-ARG0 20:1-ARGM-DIS 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 704 6 gold 在一起-v 在一起.01 ----- 6:0-rel 1:1*2:1-ARG0 3:1-ARGM-TMP 4:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 704 8 gold 有-v 有.07 ----- 8:0-rel 1:3-ARG0 9:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 705 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 705 9 gold 开始-v 开始.01 ----- 9:0-rel 4:1-ARG0 5:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 705 12 gold 讲-v 讲.01 ----- 12:0-rel 4:1-ARG0 11:1-ARGM-DIS 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 706 4 gold 有-v 有.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 707 4 gold 有-v 有.01 ----- 4:0-rel 3:1-ARG0 5:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 707 11 gold 庆祝-v 庆祝.01 ----- 11:0-rel 10:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 707 13 gold 发表-v 发表.01 ----- 13:0-rel 6:3-ARG0 9:1-ARGM-TMP 10:3-ARGM-TMP 14:1*5:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 707 21 gold 计划-v 计划.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 707 25 gold 进行-v 进行.01 ----- 25:0-rel 22:1-ARG0 23:1-ARGM-TMP 19:1*26:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 708 2 gold 相信-v 相信.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 708 9 gold 占据-v 占据.02 ----- 9:0-rel 3:1-ARG0 4:1-ARGM-LOC 10:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 710 7 gold 获胜-v 获胜.01 ----- 7:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-LOC
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 710 10 gold 可以-v 可以.01 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 710 14 gold 展示-v 展示.01 ----- 14:0-rel 9:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-DIR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 711 5 gold 预测-v 预测.01 ----- 5:0-rel 1:2-ARG0 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 711 10 gold 成为-v 成为.01 ----- 10:0-rel 6:3-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 711 23 gold 打败-v 打败.01 ----- 23:0-rel 6:3-ARG0 9:1-ARGM-ADV 15:1-ARGM-MNR 22:1-ARGM-ADV 24:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 712 13 gold 击败-v 击败.01 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 5:2-ARG0 7:1-ARGM-MNR 14:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 712 18 gold 为-v 为.01 ----- 18:0-rel 14:1*15:1-ARG0 16:1-ARG0 17:1-ARGM-ADV 19:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 715 8 gold 获-v 获.01 ----- 8:0-rel 1:1-ARGM-LOC 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 716 7 gold 获-v 获.01 ----- 7:0-rel 1:1-ARGM-LOC 4:2-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 717 4 gold 庆祝-v 庆祝.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 718 5 gold 带来-v 带来.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARG2 6:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 719 7 gold 讲-v 讲.01 ----- 7:0-rel 1:1-ARG0 2:1-ARGM-MNR
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 719 11 gold 有-v 有.04 ----- 11:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 719 13 gold 大-v 大.01 ----- 13:0-rel 1:2-ARGM-ADV 9:1-ARGM-TPC 10:1-ARG0 12:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 720 17 gold 是-v 是.01 ----- 17:0-rel 1:3-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV 14:3-ARGM-ADV 18:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 720 22 gold 闹-v 闹.03 ----- 22:0-rel 18:1-ARGM-TPC 21:1-ARG0 24:2-ARGM-EXT
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 720 26 gold 快-v 快.01 ----- 26:0-rel 24:1-ARGM-ADV 25:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 721 4 gold 是-v 是.01 ----- 4:0-rel 1:3-ARG0 5:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 721 18 gold 是-v 是.01 ----- 18:0-rel 15:1-ARGM-DIS 16:1-ARG0 19:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 722 4 gold 肯定-v 肯定.04 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 6:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 722 9 gold 是-v 是.01 ----- 9:0-rel 6:3-ARG0 10:5-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 723 5 gold 看-v 看.02 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 723 13 gold 有-v 有.08 ----- 13:0-rel 10:1-ARG0 14:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 723 20 gold 研究-v 研究.01 ----- 20:0-rel 3:1-ARG0 4:3-ARGM-TMP 19:1-ARGM-ADV 21:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 724 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 724 8 gold 要-v 要.03 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 724 9 gold 投票-v 投票.01 ----- 9:0-rel 4:1*5:1-ARGM-TPC 6:2-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 724 13 gold 带有-v 带有.01 ----- 13:0-rel 4:3-ARG0 14:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 725 2 gold 有-v 有.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 726 2 gold 要-v 要.03 ----- 2:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 726 6 gold 能-v 能.01 ----- 6:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 726 7 gold 获知-v 获知.01 ----- 7:0-rel 1:1-ARG0 3:1-ARGM-TMP 5:1-ARGM-DIS 8:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 727 8 gold 可以-v 可以.01 ----- 8:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 727 9 gold 说-v 说.01 ----- 9:0-rel 1:1-ARGM-LOC 7:1-ARG0 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 727 12 gold 是-v 是.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 728 3 gold 通过-v 通过.01 ----- 3:0-rel 1:2-ARG0 4:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 728 10 gold 找出-v 找出.01 ----- 10:0-rel 1:2-ARG0 11:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 728 12 gold 应-v 应.02 ----- 12:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 728 13 gold 存在-v 存在.01 ----- 13:0-rel 11:1-ARG1 14:1-ARG0
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 729 7 gold 赢得-v 赢得.01 ----- 7:0-rel 1:1-ARGM-DIS 2:2-ARG0 5:1-ARGM-LOC 8:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:3-ARG1 18:1-ARGM-PRP
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 7 gold 进入-v 进入.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 10 gold 要-v 要.03 ----- 10:0-rel
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 11 gold 关注-v 关注.01 ----- 11:0-rel 5:1-ARG0 6:3-ARGM-TMP 12:1*4:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 20 gold 认为-v 认为.01 ----- 20:0-rel 19:1-ARG0 21:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 22 gold 有助于-v 有助于.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 730 24 gold 提高-v 提高.01 ----- 24:0-rel 23:1-ARG0 25:4-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 731 6 gold 有-v 有.07 ----- 6:0-rel 1:1-ARGM-ADV 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 732 7 gold 开-v 开.013 ----- 7:0-rel 3:3-ARG1 6:1-ARGM-ADV
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 733 4 gold 知道-v 知道.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/cnn/00/cnn_0001@0001@cnn@bc@ch@on 734 4 gold 在-v 在.02 ----- 4:0-rel 1:3-ARG0 5:3-ARG1

@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing (fire) arg0 fights"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (ADVP (AD 加上))
+                    (ADVP (AD 近来))
+                    (NP-SBJ (NP (NP-PN (NR 台湾))
+                    (NP (NN 山区)))
+                    (NP (NN 森林)
+                    (NN 火灾)))
+                    (VP (VP (ADVP (AD 屡))
+                    (VP (VV 扑)))
+                    (VP (ADVP (AD 屡))
+                    (VP (VV 起))))) 
+                    
+                </parse>
+                <arg n="1">
+                    台湾 山区 森林 火灾 	  
+                </arg>
+                <arg n="m" f="adv">
+                    屡 	  
+                </arg>
+                <arg n="m" f="tmp">
+                    近来 	  
+                </arg>
+                <arg n="m" f="dis">
+                    加上 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2" edef="attack">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="target arg0 attacks"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-MNR (P 在)
+                    (LCP (IP (NP-SBJ (NP-APP (NN 旅长))
+                    (NP-PN (NR 陈锡联)))
+                    (VP (VV 带领)))
+                    (LC 下)))
+                    (PU ，)
+                    (VP (VP (ADVP (AD 直))
+                    (VP (VV 扑)
+                    (NP-PN-OBJ (NR 狮脑山)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="m" f="mnr">
+                    在 旅长 陈锡联 带领 下	  
+                </arg>
+                <arg n="m" f="adv">
+                    直	  
+                </arg>
+                <arg n="1">
+                    狮脑山	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="对-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to deal with, to cope with, to treat" group="1">
+<commentary>
+</commentary>
+<examples>
+同时 ， 在 与 ＣＩＰＭ 合作 中 逐渐 成长 的 中方 管理 人员 ， 也 变得 善于 “ 以 中 对 洋 ” 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="correct, right" group="1">
+<commentary>
+</commentary>
+<examples>
+这 种 看法 是 不 对 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="for, with regard to, facing, toward (prepositional uses)" group="1">
+<commentary>
+</commentary>
+<examples>
+对 此 ， 浦东 不 是 简单 的 采取 “ 干 一 段 时间 ， 等 积累 了 经验 以后 再 制定 法规 条例 ” 的 做法
+对 上海 国内 生产 总值 作出 更 大 的 贡献
+近年 来 广东省 对 外 经贸 迅速 发展
+对 记者 说
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="pair" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 改革 开放 后 ， 中外 友好 城市 数量 以 每 年 五十 对 左右 上升
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 临检 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing investigated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-TMP (P 在)
+                    (NP (DNP (NP (NT 周末))
+                    (DEG 的))
+                    (NP (NT 清晨))))
+                    (ADVP (AD 重度))
+                    (VP (VV 临检)
+                    (NP-OBJ (DNP (LCP (NP (NN 辖区))
+                    (LC 内))
+                    (DEG 的))
+                    (NP (NN ｐｕｂ)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 周末 的 清晨          
+                </arg>
+                <arg n="m" f="adv">
+                    重度          
+                </arg>
+                <arg n="1">
+                    辖区 内 的 ｐｕｂ          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

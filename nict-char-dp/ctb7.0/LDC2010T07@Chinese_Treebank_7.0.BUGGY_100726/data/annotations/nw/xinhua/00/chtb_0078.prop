@@ -1,0 +1,32 @@
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 0 2 gold 任免-v 任免.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 0 6 gold 工作-n 工作.01 ----- 6:0-rel 7:0-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 2 3 gold 任免-v 任免.01 ----- 3:0-rel 0:1-ARG0 2:1-ARGM-TMP 4:2-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 2 7 gold 工作-n 工作.01 ----- 7:0-rel 8:0-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 1 gold 任命-v 任命.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARG2
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 4 gold 为-v 为.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 10 gold 为-v 为.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 17 gold 为-v 为.01 ----- 17:0-rel 16:1-ARG0 18:2-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 33 gold 为-v 为.01 ----- 33:0-rel 32:1-ARG0 34:2-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 42 gold 为-v 为.01 ----- 42:0-rel 41:1-ARG0 43:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 45 gold 驻-v 驻.01 ----- 45:0-rel 46:1-ARG1 43:0*44:0*48:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 55 gold 为-v 为.01 ----- 55:0-rel 54:1-ARG0 56:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 58 gold 驻-v 驻.01 ----- 58:0-rel 59:1-ARG1 56:0*57:0*60:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 64 gold 为-v 为.01 ----- 64:0-rel 63:1-ARG0 65:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 67 gold 驻-v 驻.01 ----- 67:0-rel 68:1-ARG1 65:0*66:0*69:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 73 gold 为-v 为.01 ----- 73:0-rel 72:1-ARG0 74:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 76 gold 驻-v 驻.01 ----- 76:0-rel 77:1-ARG1 74:0*75:0*78:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 82 gold 为-v 为.01 ----- 82:0-rel 81:1-ARG0 83:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 85 gold 驻-v 驻.01 ----- 85:0-rel 86:1-ARG1 83:0*84:0*87:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 91 gold 为-v 为.01 ----- 91:0-rel 90:1-ARG0 92:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 94 gold 驻-v 驻.01 ----- 94:0-rel 95:1-ARG1 92:0*93:0*96:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 100 gold 为-v 为.01 ----- 100:0-rel 99:1-ARG0 101:3-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 3 103 gold 驻-v 驻.01 ----- 103:0-rel 104:1-ARG1 101:0*102:0*105:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 1 gold 免去-v 免去.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 71 gold 驻-v 驻.01 ----- 71:0-rel 72:1-ARG1 69:0*70:0*74:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 84 gold 驻-v 驻.01 ----- 84:0-rel 85:1-ARG1 82:0*83:0*86:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 93 gold 驻-v 驻.01 ----- 93:0-rel 94:1-ARG1 91:0*92:0*95:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 102 gold 驻-v 驻.01 ----- 102:0-rel 103:1-ARG1 100:0*101:0*104:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 111 gold 驻-v 驻.01 ----- 111:0-rel 112:1-ARG1 109:0*110:0*113:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 120 gold 驻-v 驻.01 ----- 120:0-rel 121:1-ARG1 118:0*119:0*122:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 4 129 gold 驻-v 驻.01 ----- 129:0-rel 130:1-ARG1 127:0*128:0*131:1-ARG0
+nw/xinhua/00/chtb_0078@0078@xinhua@nw@ch@on 5 1 gold 完-v 完.01 ----- 1:0-rel

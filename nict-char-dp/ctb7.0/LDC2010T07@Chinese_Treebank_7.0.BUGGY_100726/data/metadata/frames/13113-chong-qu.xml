@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 冲去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="charger"/>
+        <role argnum="1" argrole="target"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (PP-DIR (P 朝着)
+                    (NP (NN 军警)))
+                    (VP (VV 冲去))))
+                    (DEC 的)))
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 自焚))))
+                    (NP (NN 囚犯))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 囚犯          
+                </arg>
+                <arg n="1">
+                    朝着 军警          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing washed off"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

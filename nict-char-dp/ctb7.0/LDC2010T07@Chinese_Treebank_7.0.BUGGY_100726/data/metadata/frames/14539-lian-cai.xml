@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 敛财 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="scammer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 深圳))
+                    (NP (NN 恶霸)))
+                    (VP (VP (VV 偷掘)
+                    (NP-OBJ (NN 港人)
+                    (NN 祖坟)))
+                    (VP (VV 敛财))) 
+                    
+                </parse>
+                <arg n="0">
+                    深圳 恶霸          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

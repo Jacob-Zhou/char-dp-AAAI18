@@ -1,0 +1,15 @@
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 0 7 gold 抵-v 抵.01 ----- 7:0-rel 0:4-ARG0 8:1-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 2 13 gold 获悉-v 获悉.01 ----- 13:0-rel 0:2-ARG0 2:1-ARG2 15:2-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 2 20 gold 参加-v 参加.01 ----- 20:0-rel 21:2-ARG1 18:0*19:0*27:1-ARG0
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 2 33 gold 抵达-v 抵达.01 ----- 33:0-rel 15:1-ARGM-TMP 18:5-ARG0 32:1-ARGM-ADV 34:1-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 2 37 gold 进驻-v 进驻.01 ----- 37:0-rel 15:1-ARGM-TMP 18:5-ARG0 38:1-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 3 4 gold 是-v 是.01 ----- 4:0-rel 0:2-ARG0 6:1-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 4 8 gold 进驻-v 进驻.01 ----- 8:0-rel 0:2-ARG0 4:1-ARGM-ADV 5:1-ARGM-TMP 9:1-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 16 gold 受到-v 受到.01 ----- 16:0-rel 0:1-ARGM-MNR 3:2-ARG0 5:1-ARGM-LOC 15:1-ARGM-ADV 18:4-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 23 gold 热情-v 热情.01 ----- 23:0-rel 21:0*22:0*26:1-ARG0
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 24 gold 周到-v 周到.01 ----- 24:0-rel 21:0*22:0*26:1-ARG0
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 26 gold 接待-n 接待.01 ----- 26:0-rel 0:1-ARGM-MNR 3:2-ARG1 5:1-ARGM-LOC 15:1-ARGM-ADV 16:0-rel-Sup 18:2-ARG0 22:3-ARGM-MNR
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 30 gold 出关-v 出关.01 ----- 30:0-rel 29:1-ARG0
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 33 gold 进驻-v 进驻.01 ----- 33:0-rel 32:1-ARG0 34:1-ARG1
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 5 37 gold 顺利-v 顺利.01 ----- 37:0-rel 0:1-ARGM-MNR 3:2-ARG0 28:1-ARGM-DIR 31:1-ARGM-DIR 35:1-ARGM-ADV 36:1-ARGM-ADV
+nw/xinhua/03/chtb_0323@0323@xinhua@nw@ch@on 6 1 gold 完-v 完.01 ----- 1:0-rel

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接管 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 takes over"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 独立)))
+                    (DEC 的)))
+                    (ADJP (JJ 非官方))
+                    (NP (NN 记者)))
+                    (VP (VV 接管)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 米洛舍维奇))
+                    (NP (NN 政府)))
+                    (VP (VV 控制)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (QP (CD 一)
+                    (CLP (M 家)))
+                    (NP (NN 电视台)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    独立 的 非官方 记者          
+                </arg>
+                <arg n="1">
+                    米洛舍维奇 政府 控制 的 一 家 电视台          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

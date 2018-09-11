@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 私用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="user"/>
+        <role argnum="1" argrole="entity used"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC-2 (NN 公具))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 私用)
+                    (NP-OBJ (-NONE- *T*-2))))) 
+                    
+                </parse>
+                <arg n="1">
+                    公具 -> *T*-2           
+                </arg>
+                <arg n="0">
+                    *pro*           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

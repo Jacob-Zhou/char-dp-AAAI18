@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="捐-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to donate, to contribute" group="1">
+<commentary>
+</commentary>
+<examples>
+王宽诚 博士后 奖励 基金 是 王宽诚 基金会 为 加快 高 层次 人才 培养 、 促进 中国 科学 事业 的 发展 于 一九九七年 捐 资 设立 的 ， 用 于 资助 从事 前沿 学科 、 交叉 学科 的 基础 研究 及 有 直接 经济 或 社会 效益 的 应用 研究 的 博士后 研究 人员
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="tax" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 殴打 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 beats up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 还))
+                    (VP (VP (VV 拿起)
+                    (AS 了)
+                    (NP-OBJ (NN 酒罐)
+                    (CC 和)
+                    (NN 椅子)))
+                    (VP (VV 殴打)
+                    (AS 了)
+                    (NP-OBJ (NN 被害人)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="1">
+                    被害人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

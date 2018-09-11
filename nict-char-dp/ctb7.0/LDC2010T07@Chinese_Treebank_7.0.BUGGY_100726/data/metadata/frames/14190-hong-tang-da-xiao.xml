@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 哄堂大笑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 许多))
+                    (ADJP (JJ 男))
+                    (NP (NN 艺人)))
+                    (VP (VP (VV 在场))
+                    (PU ，)
+                    (VP (ADVP (AD 竟然))
+                    (ADVP (AD 都))
+                    (VP (VV 哄堂大笑))) 
+                    
+                </parse>
+                <arg n="0">
+                    许多 男 艺人          
+                </arg>
+                <arg n="m" f="adv">
+                    竟然          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

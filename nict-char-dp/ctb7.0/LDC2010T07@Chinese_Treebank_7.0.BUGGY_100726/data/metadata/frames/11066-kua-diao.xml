@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 垮掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity collapsing"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 让)
+                    (NP-OBJ (NN 港片))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 垮掉)))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <arg n="m" f="adv">
+                    也 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

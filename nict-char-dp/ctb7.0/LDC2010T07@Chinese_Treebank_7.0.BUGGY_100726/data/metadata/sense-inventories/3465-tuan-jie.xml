@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="团结-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to rally a certain group of people(in order to do a certain task)" group="1">
+<commentary>
+</commentary>
+<examples>
+以 中华 民族 传统 文化 为 纽带 ， 联系 和 团结 海内外 同胞 ， 弘扬 民族 文化 ， 展示 祖国 优秀 艺术 的 魅力 ， 展示 华侨 、 华人 艺术家 在 艺术 领域 和 世界 文化 交流 中 的 成就 和 风采
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to unite" group="1">
+<commentary>
+</commentary>
+<examples>
+朝鲜 人民 将 紧密 团结 在 以 金正日 为首 的 朝鲜 劳动党 中央 周围 ， 继续 完成 金日成 主席 的 遗愿
+一切 爱国 的 中国人 团结 起来 ， 共同 维护 祖国 的 领土 和 主权 完整
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="unity, solidarity" group="1">
+<commentary>
+</commentary>
+<examples>
+促进 菲国 的 团结
+劳工 团结 阵线
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="60" ann_1_2_agreement="0.9" />
+</inventory>

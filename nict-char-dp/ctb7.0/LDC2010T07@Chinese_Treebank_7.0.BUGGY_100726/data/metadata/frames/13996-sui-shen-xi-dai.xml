@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 随身携带 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing carried"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 酷爱)
+                    (NP-OBJ (NN 枪械)
+                    (NN 军火)))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 常常))
+                    (VP (VP (VP (VV 购买)
+                    (NP-OBJ (NN 玩具)
+                    (NN 枪)))
+                    (VP (VRD (VV 改造)
+                    (VV 成))
+                    (NP-OBJ (NN 真枪))))
+                    (PU ，)
+                    (VP (ADVP (AD 而且))
+                    (VP (VV 随身携带))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    因为酷爱 枪械 军火          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    常常          
+                </arg>
+                <arg n="m" f="dis">
+                    而且          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

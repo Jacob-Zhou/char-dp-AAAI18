@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遮挡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 covers up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 戴)
+                    (AS 著)
+                    (NP-OBJ (QP (CLP (M 副)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 遮挡)
+                    (NP-OBJ (QP (CD 半)
+                    (CLP (M 个)))
+                    (NP (NN 脸)))))
+                    (DEC 的)))
+                    (ADJP (JJ 大))
+                    (NP (NN 眼镜))))
+                    (PU ，)
+                    (VP (NP-PRD (NP (ADJP (JJ 满))
+                    (NP (NN 面)))
+                    (NP (NN 稚气)))))) 
+                </parse>
+                <arg n="0">
+                    *T*-1 
+                </arg>
+                <arg n="1">
+                    半 个 脸 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

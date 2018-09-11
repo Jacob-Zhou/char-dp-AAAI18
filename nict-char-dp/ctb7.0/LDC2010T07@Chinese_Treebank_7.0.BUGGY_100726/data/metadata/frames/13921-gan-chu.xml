@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 感触 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="entity experienced"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-ADV (ADVP (CS 虽然))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 获得)
+                    (NP-OBJ (NN 特赦))))
+                    (LC 之后)))
+                    (PU ，)
+                    (ADVP (AD 还是))
+                    (VP (VV 要)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 感谢)
+                    (NP-OBJ (QP (CD 很多))
+                    (NP (NN 人)))))))))
+                    (PU ，)
+                    (ADVP (AD 但是))
+                    (NP-PN-SBJ (NR 苏炳昆))
+                    (VP (PP-DIR (P 对)
+                    (NP (DNP (QP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TMP (NT 过去))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (PP-PRP (P 因)
+                    (IP (NP-SBJ (NN 案)
+                    (VP (VV 在)
+                    (NP-OBJ (NN 身))))))
+                    (VP (MSP 而)
+                    (VP (VV 失职)))))
+                    (DEC 的)))
+                    (QP (CD １５)
+                    (CLP (M 年))))
+                    (DEG 的))
+                    (NP (NN 青春))))
+                    (ADVP (AD 却))
+                    (VP (VC 是)
+                    (VP (VV 感触)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 再))
+                    (ADVP (AD 也))
+                    (VP (VPT (VV 换)
+                    (AD 不)
+                    (VV 回))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    虽然 在 获得 特赦 之后 ， 还是 要 感谢很多 人          
+                </arg>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="0">
+                    苏炳昆          
+                </arg>
+                <arg n="m" f="adv">
+                    对 过去 因 案在 身 而 失职的１５ 年 的 青春          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="1">
+                    再 也 换 不 回          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

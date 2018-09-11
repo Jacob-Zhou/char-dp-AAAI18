@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷窃 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thief"/>
+        <role argnum="1" argrole="thing stolen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 香油钱))
+                    (VP (ADVP (AD 全数))
+                    (VP (VV 遭)
+                    (IP-OBJ (NP-SBJ (NN 人))
+                    (VP (VV 偷窃)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    香油钱          
+                </arg>
+                <arg n="m" f="adv">
+                    全数          
+                </arg>
+                <arg n="0">
+                    人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

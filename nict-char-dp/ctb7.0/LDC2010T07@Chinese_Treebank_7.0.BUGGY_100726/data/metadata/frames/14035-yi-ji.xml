@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 忆及 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people described"/>
+        <role argnum="1" argrole="thing thought about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TMP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 回顾)
+                    (NP-OBJ (NP (NP-PN (NR 中)
+                    (NR 印))
+                    (NP (NN 关系)))
+                    (NP (NN 历程)))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 能)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 忆及)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NR 拉甘地))
+                    (VP (ADVP (AD 生前))
+                    (PP-BNF (P 为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 改善)
+                    (NP-OBJ (-NONE- *RNR*-1)))
+                    (CC 和)
+                    (VP (VV 发展)
+                    (NP-OBJ-1 (NP-PN (NR 中)
+                    (NR 印))
+                    (NP (NN 关系)))))))
+                    (VP (MSP 所)
+                    (VP (VV 作)
+                    (NP-OBJ (-NONE- *T*-2))))))
+                    (DEC 的)))
+                    (ADJP (JJ 重要))
+                    (NP (NN 贡献)))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    回顾 中 印 关系历程          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="1">
+                    拉甘地 生前 为 改善 和发展 中 印 关系 所 作 的重要贡献          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

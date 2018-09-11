@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 好上加好 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 只要))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 能)
+                    (VP (VV 摸到)
+                    (NP-OBJ (NN 大钟)
+                    (NN 运气))))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 则))
+                    (VP (VV 会)
+                    (VP (VV 好上加好)))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    只要 能摸到 大钟运气          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    则          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

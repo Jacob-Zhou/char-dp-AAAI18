@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="加-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to add, to increase, to augment" group="1">
+<commentary>
+</commentary>
+<examples>
+未 加 附加值 的 药材
+两 项 相 加
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="abbreviation of Canada" group="1">
+<commentary>
+</commentary>
+<examples>
+虽然 不 若 美 加 地区 回国 发展 的 ABC 歌手 声势浩大 ， 却 也 在 流行乐坛 占有 一席之地
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="称-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to call, to be known as" group="1">
+<commentary>
+</commentary>
+<examples>
+人 称 黄河 “ 金三角 ” 的 风陵渡 经济 开发区
+无怪乎 日本人 视 之 为 大自然 的 馈赠 ， 称 之 为 “ 圣岳 ”
+与 法国 的 科涅克 白酒 、 英国 的 苏格兰 威士忌 并 称 世界 三 大 蒸馏 名 酒 之一
+１８６５年 ， 意大利 、 法国 、 比利时 和 瑞士 曾经 签署 过 欧洲 历史 上 第一 个 统一 货币 条约 ， 史 称 《 拉丁 统一 货币 条约 》 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to count as" group="1">
+<commentary>
+</commentary>
+<examples>
+和 许多 第三 世界 国家 的 「 一 市 独大 」 比 起来 ， 台湾 的 区域 失衡 实在 称 不 上 严重
+所以 称 不 上 创作型 歌手
+怅惘 虽 有 ， 倒 未必 称 得 上 「 危机 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to state, to announce" group="1">
+<commentary>
+</commentary>
+<examples>
+科特迪瓦 财长 称 西非 经济 明显 恢复 增长
+据 有关 人士 称 ， 这 是 世界 上 首 次 对 野生 大 熊猫 数量 进行 “ 户口化 ” 管理 ， 将 有助于 确定 中国 野生 大 熊猫 的 真实 数量 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to name himself king" group="1">
+<commentary>
+</commentary>
+<examples>
+根据 晋人 所 撰写 的 《 华阳国 志 》 中 提及 ： 「 有 蜀 侯 蚕丛 ， 其 目 纵 ， 始 称 王 。 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to praise, to commend" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="(noun) name" group="1">
+<commentary>
+</commentary>
+<examples>
+有 ... 之 称
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="149" ann_1_2_agreement="0.798657718121" />
+</inventory>

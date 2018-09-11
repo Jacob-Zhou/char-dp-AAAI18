@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="以为-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to consider to be true" group="1">
+<commentary>
+</commentary>
+<examples>
+有利 于 消除 外界 以为 新疆 建设 兵团 是 军方 企业 的 误解
+当然 ， 也 有 人 看到 契机 ， 甯应斌 以为 ， 男女 竞逐 身体 之 美 ， 可 达成 一 种 平衡 ， 而 非 各 往 一 个 极端 走 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to consider as(classical Chinese)" group="1">
+<commentary>
+</commentary>
+<examples>
+索索 以为 能
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="47" ann_1_2_agreement="1.0" />
+</inventory>

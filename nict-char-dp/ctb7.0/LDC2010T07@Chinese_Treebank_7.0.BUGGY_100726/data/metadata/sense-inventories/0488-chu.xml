@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="出-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="go out of, come out of" group="1">
+<commentary>VV</commentary>
+<examples>
+再过十分钟,车子就会出费城了。
+外商纷纷来此创办大进大出的加工业。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="exceed,surpass a temporal or spatial range" group="1">
+<commentary>VV</commentary>
+<examples>
+这件事不出三年一定会被举发。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="devise (test), pose (problems)" group="1">
+<commentary>VV</commentary>
+<examples>
+汪教授出三道题考我们。
+他净给我出难题. (idiom)
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="publish" group="1">
+<commentary>VV</commentary>
+<examples>
+那个作家又出新书了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="occur, happen, take place" group="1">
+<commentary>VV</commentary>
+<examples>
+李先生昨晚出车祸,所以他今天没法上班。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="yield a large amount of" group="1">
+<commentary>VV</commentary>
+<examples>
+台湾出香蕉。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="contribute (money, time, effort, idea, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+他为这件事出了很多钱。
+请你帮我出个主意吧。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="used after a verb to indicate an outward direction, appearance, completion" group="1">
+<commentary>VV</commentary>
+<examples>
+从大厅里漫步出两个人。
+这次会员大会遴选出新的中央委员会。
+这匹老马已呈现出疲态。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="produce, fabricate" group="1">
+<commentary>VV</commentary>
+<examples>
+无论是"官出数字”或是“数字出官",
+都不是好现象。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="to do morning exercises" group="1">
+<commentary>VV</commentary>
+<examples>
+他坚持按机关作息时间出早操。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="vent (one's suppressed anger)" group="1">
+<commentary>VV</commentary>
+<examples>
+他终于出了一口闷气。。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="12" type="" name="sweat" group="1">
+<commentary>VV</commentary>
+<examples>
+空军联航队在主场让上海东方队出了一身冷汗。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="13" type="" name="become famous " group="1">
+<commentary>VV</commentary>
+<examples>
+周学农对民警严格要求是出了名的。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="14" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="56" ann_1_2_agreement="0.928571428571" />
+</inventory>

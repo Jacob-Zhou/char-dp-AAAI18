@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="生活-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to live, to exist, life, livelihood" group="1">
+<commentary>
+</commentary>
+<examples>
+其中 百分之八十 左右 的 大 熊猫 生活 在 四川省 境内
+自己 也 能 象 城里人 一样 生活 、 工作
+中外 经济 技术 合作 与 交流 已 渗入 到 中国 经济 生活 的 各 个 领域
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="119" ann_1_2_agreement="1.0" />
+</inventory>

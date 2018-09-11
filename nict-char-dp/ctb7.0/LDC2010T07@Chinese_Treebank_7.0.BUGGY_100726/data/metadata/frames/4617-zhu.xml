@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 煮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-OBJ (DP (DT 那))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 温泉))
+                    (VP (VP (VRD (VV 煮)
+                    (VA 熟))
+                    (NP-OBJ (-NONE- *RNR*-4)))
+                    (PU 、)
+                    (VP (VRD (VV 煮)
+                    (VA 黑))
+                    (AS 了)
+                    (NP-4 (-NONE- *T*-2)))))))
+                    (DEC 的)))
+                    (NP (NN 鸡蛋))) 
+                </parse>
+                <arg n="0">
+                    温泉 
+                </arg>
+                <arg n="1">
+                    *T*-2 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

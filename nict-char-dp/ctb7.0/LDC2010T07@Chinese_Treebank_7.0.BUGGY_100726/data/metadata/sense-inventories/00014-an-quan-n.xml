@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="an-quan-n 安全-n">
+<commentary></commentary>
+<sense n="1" name="安全, safety," group="" type="">
+<commentary>The condition of not being in danger or of not being dangerous, mostly physical.</commentary><examples>道口安全
+crossing safety
+
+安全转移
+Move to places of safety.
+
+安全地点
+a place of safety
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="security,安全" group="" type="">
+<commentary>Freedom from danger, physical or mental.</commentary><examples>政府保障国家的安全。
+The government looks after the security of the country.
+
+他出卖的情报有可能危害国家安全。
+He sold information that may have damaged our national security.
+
+安全感
+a sense of security
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

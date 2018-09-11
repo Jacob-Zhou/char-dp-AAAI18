@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 验出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity tested"/>
+        <role argnum="2" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (QP-SBJ (CD １４)
+                    (CLP (M 种)))
+                    (VP (VP (SB 被)
+                    (VP (VSB (VV 检测)
+                    (VV 验出))
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 含有)
+                    (NP-OBJ (ADJP (JJ 有毒))
+                    (NP (NN 农药))))
+                    (VP (VE 有)
+                    (NP-OBJ (NN 机律)
+                    (NN 成份))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    １４ 种          
+                </arg>
+                <arg n="2">
+                    含有 有毒 农药 有 机律 成份          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 插入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-APP (NN 议员))
+                    (NP-PN (NR 于台英)))
+                    (VP (VV 开设)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (NP (NN ｐｕｂ)))
+                    (NP (NN 里面))))
+                    (VP (VV 插入)
+                    (NP-OBJ (NN 干股))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    干股          
+                </arg>
+                <arg n="2">
+                    在 议员 于台英 开设 的 ｐｕｂ 里面          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

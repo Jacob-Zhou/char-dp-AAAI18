@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="38971-ling-yu-n 领域-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="field, sphere, realm 领域, 从事一种专门活动或事业的范围、部类或部门" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+他对意识形态领域一无所知。
+
+He doesn’t know anything about the ideological sphere.
+
+
+
+他讨厌政治领域。
+
+He dislikes the field of politics.
+
+
+
+科学领域很广泛。
+
+The realm of science is very broad.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="territory, domain领域, 一国主权所达之地, 领土, 领地," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+这个岛位于我国领域之内。
+
+This island is located inside our territory.
+
+
+
+我不知道阿贝耳领域在哪里。
+
+I don’t know where Abelian domain is.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="差-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to come in short" group="1">
+<commentary>
+</commentary>
+<examples>
+距 １１月 ２３日 所 创 的 历史 最高点 ９３７４．２７ 点 只 差 １４７ 点
+美国 驻 联合国 副代表 康尼汉 对 此 表示 ： 距离 联合国 大会 通过 美国 削减 分摊 预算 的 修正案 还 差 临门一脚
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="bad" group="1">
+<commentary>
+</commentary>
+<examples>
+他们 的 基础 知识 差
+路况 差
+居住 条件 很 差
+景气 差
+澳门 人口 结构 很 年轻 ， 平均 教育 程度 也 不 差
+P3 用 随身听 可以 ， 但 放到 喇叭 上 低音 就 不见 了 ， 比 CD 差 很多
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="distant, different" group="1">
+<commentary>
+</commentary>
+<examples>
+有 时候 看到 知识份子 记录 的 台湾 文献 ， 觉得 怎么 和 我们 的 生活 差 那么 远 ， 好像 另 一 个 世界 似的
+价钱 也 差 很 多
+连 歌词 都 差 不 多
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="45" ann_1_2_agreement="0.644444444444" />
+</inventory>

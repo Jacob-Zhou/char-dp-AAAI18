@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 嘎然而止 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 埃斯特拉达))
+                    (DEG 的))
+                    (NP (NN 政治)
+                    (NN 生涯)))
+                    (VP (PP-TMP (P 在)
+                    (NP (NT １９８６年)))
+                    (ADVP (AD 曾))
+                    (VP (VV 嘎然而止)) 
+                    
+                </parse>
+                <arg n="0">
+                    埃斯特拉达 的 政治 生涯          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 １９８６年          
+                </arg>
+                <arg n="m" f="adv">
+                    曾          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

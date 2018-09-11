@@ -1,0 +1,22 @@
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 0 6 gold 说-v 说.01 ----- 6:0-rel 0:2-ARG0 8:1-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 0 13 gold 能-v 能.01 ----- 13:0-rel
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 0 26 gold 出-v 出.01 ----- 26:0-rel
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 0 31 gold 发生-v 发生.01 ----- 31:0-rel 30:1-ARG1 32:1-ARG0
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 4 gold 说-v 说.01 ----- 4:0-rel 0:2-ARG0 6:1-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 12 gold 发生-v 发生.01 ----- 12:0-rel 11:1-ARG0
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 16 gold 栖身-v 栖身.01 ----- 16:0-rel 8:2-ARG0 10:1-ARGM-TMP 14:1-ARGM-ADV 17:1*20:1*7:1-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 22 gold 受损-v 受损.01 ----- 22:0-rel 7:3-ARG0 21:1-ARGM-ADV
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 25 gold 要-v 要.05 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 27 gold 进去-v 进去.01 ----- 27:0-rel 26:1-ARG0
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 1 30 gold 大-v 大.01 ----- 30:0-rel 24:2-ARG0 28:1-ARG0 29:1-ARGM-ADV
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 2 5 gold 说-v 说.01 ----- 5:0-rel 0:2-ARG0 7:5-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 2 10 gold 找到-v 找到.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:1*15:1*7:1-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 2 27 gold 发生-v 发生.01 ----- 27:0-rel 7:4-ARGM-ADV 19:3-ARGM-TMP 23:2-ARGM-LOC 25:1-ARG1 26:1-ARGM-ADV 28:1-ARG0
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 2 gold 说-v 说.01 ----- 2:0-rel 0:1-ARG0 4:4-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 7 gold 可以-v 可以.01 ----- 7:0-rel
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 8 gold 采取-v 采取.01 ----- 8:0-rel 4:2-ARG0 6:1-ARGM-ADV 9:3-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 12 gold 有力-v 有力.01 ----- 12:0-rel 11:1-ARGM-ADV 10:0*10:1*14:1*9:0*9:1-ARG0
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 15 gold 营救-v 营救.01 ----- 15:0-rel 4:2-ARG0 6:1-ARGM-ADV 16:2-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 23 gold 说-v 说.01 ----- 23:0-rel 19:1-ARGM-DIS 20:2-ARG0 25:3-ARG1
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 28 gold 可能-v 可能.01 ----- 28:0-rel
+bn/vom/01/vom_0117@0117@vom@bn@ch@on 3 31 gold 发生-v 发生.01 ----- 31:0-rel 30:1-ARG0 32:1-ARGM-EXT

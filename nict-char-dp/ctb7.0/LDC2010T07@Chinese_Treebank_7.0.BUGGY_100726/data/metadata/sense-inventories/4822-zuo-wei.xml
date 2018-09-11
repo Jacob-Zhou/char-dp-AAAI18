@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="作为-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="as (prep)" group="1">
+<commentary>
+</commentary>
+<examples>
+此 次 活动 在 广州 赛马会 举行 起步 仪式 ， 它 将 揭开 一九九九 中国 （ 广州 ） 生态 环境 游 活动 的 序幕 ， 同时 也 作为 广州市 迎接 澳门 回归 祖国 系列 活动 中 的 首 项 活动
+他 正好 以 此 作为 庆祝 他 ２０ 岁 生日 的 贺礼
+美方 仅 将 此 作为 一 个 观察 中国 市场 的 小小 窗口
+初级 产品 作为 主力 出口 产品 的 局面 有 了 改观
+以色列 和 约旦 决定 开通 两 国 共同 边界 北段 的 侯赛因 大 桥 作为 两 国 间 第二 个 边界 口岸
+「 我们 需要 用 这 特快 程序 以 尽量 减少 任何 尝试 利用 香港 作为 规避 联合国有关 制裁 的 可能
+此外 ， 将 目前 银行 披露 资料 的 指引 ， 纳入 条例 内 作为 法定 权力
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to serve as, as" group="1">
+<commentary>
+</commentary>
+<examples>
+由 日本 野村 证券 株式会社 和 日本 兴业 银行 证券 株式会社 作为 联合 主干事
+这 项 工程 是 国家 计委 确定 的 全 国 重点 项目 投资 体制 改革 试点 ， 于 一九九四年 底 动工 后 ， 在 河南省 重点 项目 中 率先 改变 了 非基础性 建设 依赖 政府 投资 的 模式 ， 由 神马 集团 作为 投资 主体 实行 “ 一 条 龙 ” 负责
+原来 作为 世界 政治 大 国 的 英国 和 法国
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="conduct" group="1">
+<commentary>
+</commentary>
+<examples>
+我 不 能 违背 三 省 民心 而 有所 作为
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

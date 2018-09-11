@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 按下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity pressed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 好在))
+                    (NP-SBJ (NN 船长))
+                    (VP (LCP-TMP (IP (NP-SBJ-1 (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VV 囚禁)
+                    (NP-OBJ (-NONE- *-1)))))
+                    (LC 前))
+                    (DVP (VP (VA 机警))
+                    (DEV 的))
+                    (VP (VV 按下)
+                    (NP-OBJ (NN 求救)
+                    (NN 信号))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    好在          
+                </arg>
+                <arg n="0">
+                    船长          
+                </arg>
+                <arg n="m" f="tmp">
+                    被 囚禁 前          
+                </arg>
+                <arg n="m" f="adv">
+                    机警 的          
+                </arg>
+                <arg n="1">
+                    求救 信号          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

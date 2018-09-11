@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="推动-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to cause to progress"  group="1">
+<commentary>
+</commentary>
+<examples>
+中国 人民 愿 与 世界 各 国 人民 一道 ， 为 积极 推动 解决 这些 问题 而 不懈 奋斗
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="initiate, facilitate" group="1">
+<commentary>
+</commentary>
+<examples>
+这 将 扩大 港股 的 规模 、 改善 股市 结构 ， 推动 香港 债券 市场 的 发展
+</examples>
+体育 和 经济 可以 起到 相互 推动 的 作用
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to promote a plan, to sell" group="1">
+<commentary>
+</commentary>
+<examples>
+针对 企业 咨询 委员会 积极 推动 的 ａｐｅｃ 商务 旅行卡 计划
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="190" ann_1_2_agreement="0.526315789474" />
+</inventory>

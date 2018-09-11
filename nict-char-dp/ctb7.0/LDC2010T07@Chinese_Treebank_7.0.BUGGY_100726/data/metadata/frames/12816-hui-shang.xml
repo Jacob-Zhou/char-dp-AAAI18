@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 会商 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="issue discussed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-TMP (P 在)
+                    (NP (NT １２号)))
+                    (ADVP (AD 紧急))
+                    (VP (VP (VV 会商)) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 １２号          
+                </arg>
+                <arg n="adv">
+                    紧急          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

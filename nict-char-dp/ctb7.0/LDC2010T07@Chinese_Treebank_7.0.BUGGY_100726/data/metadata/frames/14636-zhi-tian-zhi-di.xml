@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 指天指地 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (DP (DT 这)
+                    (CLP (M 个)))
+                    (NP (NN 事)))
+                    (NP-SBJ (PN 我))
+                    (VP (VV 可以)
+                    (VP (VV 指天指地)) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    这 个 事          
+                </arg>
+                <arg n="0">
+                    我          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

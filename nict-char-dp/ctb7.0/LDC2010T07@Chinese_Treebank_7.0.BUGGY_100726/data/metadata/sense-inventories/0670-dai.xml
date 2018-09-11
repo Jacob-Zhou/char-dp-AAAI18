@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="代-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to act on another's behalf" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 政府 责成 中保 财产 保险 有限 公司 代 政府 开办 出口 信用 保险 业务
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to replace, to substitute" group="1">
+<commentary>
+</commentary>
+<examples>
+富於 酒趣 的 壮老 ， 平日 客 来 经常 以 酒 代 茶
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="generation" group="1">
+<commentary>
+</commentary>
+<examples>
+第三 代 小孩 恩怨情仇
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="dynasty" group="1">
+<commentary>
+</commentary>
+<examples>
+西汉 对 先秦 文字 逐渐 陌生 ， 因此 西汉 一 代 花 非常 多 的 资源 及 人力 整理 百家 学说
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="31" ann_1_2_agreement="1.0" />
+</inventory>

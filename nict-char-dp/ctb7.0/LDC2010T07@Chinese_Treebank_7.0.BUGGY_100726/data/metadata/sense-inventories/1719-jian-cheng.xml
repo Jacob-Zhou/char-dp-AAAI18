@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="建成-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to complete a physical construction" group="1">
+<commentary>
+</commentary>
+<examples>
+三０一 国道 海拉尔 至 满洲里 段 建成 通车
+目前 ， 汕头 高新 技术 开发区 已 累计 投资 十八亿 元 ， 建成 厂房 三十七万 平方米
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to finish establishing (a business, a center, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+连云港 如意 集团 利用 日本 政府 贷款 和 外商 直接 投资 ， 建成 了 目前 中国 出口量 最 大 、 品种 最 多 的 蔬菜 加工 销售 企业 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to transform something into another" group="1">
+<commentary>
+</commentary>
+<examples>
+然而 三五 年 时间 北海 已 建成 了 一 个 现代化 都市 的 框架
+经过 一 段 时期 的 “ 投石问路 ” ， 越来越 多 的 外商 逐步 把 上海 建成 其 在 中国 甚至 亚太 地区 的 经营 、 销售 中心 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="149" ann_1_2_agreement="0.637583892617" />
+</inventory>

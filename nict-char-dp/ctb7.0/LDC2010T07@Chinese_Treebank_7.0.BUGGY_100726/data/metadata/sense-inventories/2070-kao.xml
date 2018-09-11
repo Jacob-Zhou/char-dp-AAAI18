@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="考-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to investigate, to study, to verify" group="1">
+<commentary>
+</commentary>
+<examples>
+发言人 补充 说 ： 「 暴雨 是 自然 气象 ， 雇主 应 考 雇员 在 恶劣 天气 下 不 能上班 或 准时 返回 工作 岗位 的 情况 ， 尽量 使 雇员 的 收入 ， 包括 勤工 奖 ，不 受 影响 。 」
+这 个 疑问 如今 已 成为 资讯史 上 一 段 不 可 考 的 公案
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to give a test, exam, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+很多 国中 都 要 考 英文 听力 测验
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to take a test, exam, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+结果 来 考 的 人 更 多 ， 一共 有 一千四百 人
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="test, examination" group="1">
+<commentary>
+</commentary>
+<examples>
+期中考
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="18" ann_1_2_agreement="0.722222222222" />
+</inventory>

@@ -1,0 +1,152 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="arriving at"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP-APP (NP (DNP (NP-PN (NR 美国))
+                    (DEG 的))
+                    (NP-PN (NR 美孚)
+                    (PU 、)
+                    (NR 埃索)
+                    (PU 、)
+                    (NR 阿莫科)))
+                    (PU ，)
+                    (NP (DNP (NP-PN (NR 荷兰))
+                    (DEG 的))
+                    (NP-PN (NN 壳牌)))
+                    (PU ，)
+                    (NP (DNP (NP-PN (NR 日本))
+                    (DEG 的))
+                    (NP-PN (NR 岩谷)))
+                    (PU ，)
+                    (NP (DNP (NP-PN (NR 香港))
+                    (DEG 的))
+                    (NP-PN (NR 长江)
+                    (NN 实业)))
+                    (ETC 等))
+                    (QP (CD 一)
+                    (CLP (M 批)))
+                    (NP (NN 财团)))
+                    (VP (ADVP (AD 纷纷))
+                    (VP (VP (VV 到)
+                    (NP-PN-OBJ (NR 珠海)))
+                    (VP (VV 落户))))) 
+                    
+                </parse>
+                <arg n="0">
+                    美国 的 美孚 、 埃索 、 阿莫科 ， 荷兰 的 壳牌 ， 日本 的 岩谷 ， 香港 的 长江 实业 等 一 批 财团 	  	  	  
+                </arg>
+                <arg n="1">
+                    珠海 	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    纷纷 	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (IP-ADV (NP-SBJ (NN 款))
+                    (VP (VV 到)))
+                    (ADVP (AD 即))
+                    (ADVP (AD 挂号))
+                    (VP (VV 寄出)))) 
+                    
+                </parse>
+                <arg n="0">
+                    款 	  	  	  
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="level that arg0 reaches"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 一九七八年))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NR 中国))
+                    (NP (NN 化工)
+                    (NN 进出口)
+                    (NN 总额)))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 到)
+                    (QP-OBJ (CD 三亿)
+                    (CLP (M 美元)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    一九七八年	  	  
+                </arg>
+                <arg n="0">
+                    中国 化工 进出口总额	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    不	  	  
+                </arg>
+                <arg n="1">
+                    三亿 美元	  	  
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="location arg0 extends to or connects"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (PN 我们))
+                    (NP (NT 现在))
+                    (DP (DT 这个))
+                    (NP (QP (OD 两))
+                    (NP (NN 号)))
+                    (NP (NN 线)))
+                    (VP (VP (NP-TMP (NT 现在))
+                    (VP (VV 到)
+                    (FLR (DT 这个))
+                    (NP-PN-OBJ (NR 张江)
+                    (NN 高科站)))) 
+                    
+                </parse>
+                <arg n="0">
+                    我们 现在这个 两 号 线	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    现在	  	  
+                </arg>
+                <arg n="1">
+                    张江 高科站	  
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

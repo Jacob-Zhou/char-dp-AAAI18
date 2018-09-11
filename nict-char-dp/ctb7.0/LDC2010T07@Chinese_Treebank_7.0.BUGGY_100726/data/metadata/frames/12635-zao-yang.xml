@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遭殃 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (NP-SBJ (NN 军队))
+                    (VP (VP (VV 卷入漩涡))
+                    (PU ，)
+                    (VP (VV 成为)
+                    (NP-OBJ (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP (QP (CD 一))
+                    (NP (NN 人)))
+                    (NP (QP (CD 一))
+                    (NP (NN 党))))
+                    (VP (PP-MNR (-NONE- *T*-1))
+                    (VP (VV 进行)
+                    (NP-OBJ (NN 政治)
+                    (NN 斗争)))))
+                    (DEC 的)))
+                    (NP (NN 工具)))))))
+                    (PU ，)
+                    (IP (IP (NP-SBJ (NN 人民))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 要)
+                    (VP (VV 遭殃))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 军队 卷入漩涡 ， 成为 一 人 一 党 进行 政治 斗争 的 工具          
+                </arg>
+                <arg n="0">
+                    人民           
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

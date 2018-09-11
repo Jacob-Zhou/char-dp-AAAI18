@@ -1,0 +1,127 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 运送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity transported"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (QP-ADV (QP (CD 五)
+                    (CLP (M 年))))
+                    (ADVP (AD 累计))
+                    (VP (VV 运送)
+                    (NP-OBJ (NN 旅客))
+                    (QP-EXT (CD 一千八百多万)
+                    (CLP (M 人次)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  
+                </arg>
+                <arg n="1">
+                    旅客 	  
+                </arg>
+                <arg n="1" f="QTY">
+                    一千八百多万 人次 	  
+                </arg>
+                <arg n="m" f="adv">
+                    累计 	  
+                </arg>
+                <arg n="m" f="adv">
+                    五 年 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (LCP-TMP (QP (CD 二十四)
+                    (CLP (M 小时)))
+                    (LC 内))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 鲔鱼))
+                    (VP (IP-ADV (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 趁鲜)))
+                    (VP (VRD (VV 运送)
+                    (VV 至))
+                    (NP-OBJ (NP-PN (NR 日本))
+                    (NP (NN 市场))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="m" f="tmp">
+                    二十四 小时 内	  
+                </arg>
+                <arg n="1">
+                    鲔鱼	  
+                </arg>
+                <arg n="m" f="adv">
+                    趁鲜	  
+                </arg>
+                <arg n="2">
+                    日本 市场	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NP (DP (DT 每)
+                    (QP (CD 一)
+                    (CLP (M 位))))
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 海外)
+                    (NN 战事))
+                    (LC 中)))
+                    (VP (VV 捐躯))))
+                    (DEC 的)))
+                    (NP (NN 官兵)))
+                    (NP (NN 遗骸)))
+                    (VP (VRD (VV 运送)
+                    (VV 回))
+                    (NP-PN-OBJ (NR 美国)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="1">
+                    在 海外 战事 中 捐躯 的 官兵遗骸	  
+                </arg>
+                <arg n="2">
+                    美国	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

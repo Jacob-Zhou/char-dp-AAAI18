@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 木讷 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 我))
+                    (VP (ADVP (CS 要))
+                    (ADVP (AD 真是))
+                    (VP (VE 有)
+                    (VP (ADVP (AD 多么))
+                    (VP (VA 木讷)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我          
+                </arg>
+                <arg n="m" f="adv">
+                    真是          
+                </arg>
+                <arg n="m" f="adv">
+                    多么          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="料-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+孰 料 ， 为了 将 大 台北 污水 处理厂 设 在 八里 的 东北 岸 ， 八里 被 设计 为 观光乡 的 蓝图 昙花一现 ， 政府 以 市地 重划 的 方式 将 耕地 划为 住宅区 、 工业区 等 用途 ， 以 换取 厂区 用地
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

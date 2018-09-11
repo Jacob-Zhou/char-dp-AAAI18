@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 间 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 黑)
+                    (NN 白))
+                    (VP (ADVP (AD 相))
+                    (VP (VV 间))))
+                    (DEC 的)))
+                    (ADJP (JJ 俏丽))
+                    (NP (NN 短裙))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    *T*-1 -> 短裙          
+                </arg>
+                <arg n="0" f="pse">
+                    黑 白          
+                </arg>
+                <arg n="m" f="adv">
+                    相          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

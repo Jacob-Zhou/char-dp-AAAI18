@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 抗命 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 公民))
+                    (VP (VV 抗命))) 
+                    
+                </parse>
+                <arg n="0">
+                    公民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

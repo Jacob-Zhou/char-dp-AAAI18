@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 只字未提 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing mentioned"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (PU 《)
+                    (NR 北京)
+                    (NN 晚报)
+                    (PU 》))
+                    (VP (VP (ADVP (AD 在))
+                    (VP (VV 报道)
+                    (NP-OBJ (NP-PN (NR 诺贝尔))
+                    (DP (NN 其他))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 获奖))))
+                    (NP (NN 人士)))))
+                    (PU ，)
+                    (VP (ADVP (AD 居然))
+                    (PP-DIR (P 对)
+                    (IP (NP-PN-SBJ (NR 高行健))
+                    (VP (VV 获得)
+                    (NP-OBJ (NN 文学)
+                    (NN 奖)))))
+                    (VP (VV 只字未提)))) 
+                    
+                </parse>
+                <arg n="0">
+                    《 北京 晚报 》          
+                </arg>
+                <arg n="m" f="adv">
+                    居然          
+                </arg>
+                <arg n="1">
+                    对 高行健 获得 文学 奖          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

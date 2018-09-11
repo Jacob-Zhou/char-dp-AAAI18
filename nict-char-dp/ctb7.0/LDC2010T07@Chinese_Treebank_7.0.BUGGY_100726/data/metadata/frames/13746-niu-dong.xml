@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扭动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing twisted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 肖美琴))
+                    (VP (VP (DVP (VP (ADVP (AD 不))
+                    (VP (VV 停)))
+                    (DEV 的))
+                    (VP (VV 扭动)
+                    (NP-OBJ (QP (CD 双))
+                    (NP (NN 手))))) 
+                    
+                </parse>
+                <arg n="0">
+                    肖美琴          
+                </arg>
+                <arg n="m" f="adv">
+                    不 停 的          
+                </arg>
+                <arg n="1">
+                    双 手          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

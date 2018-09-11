@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="36393-ji-shu-n 技术-n">
+
+<commentary/>
+
+
+
+<sense n="1" type="" name="技术, technology " group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+先进的科学技术。
+
+Advanced science and technology.
+
+
+
+在技术学校学习。
+
+Study at a school of technology.
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="skill, 技术," group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+他的技术精良.
+
+His art is skillful.
+
+
+
+精湛的玉雕技术。
+
+Superb skill in jade carving.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+
+
+</inventory>
+
+
+

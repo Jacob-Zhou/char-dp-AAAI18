@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 演成 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="result"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (NN 家属))
+                    (VP (VP (ADVP (AD 不但))
+                    (ADVP (AD 不))
+                    (VP (VV 表示)
+                    (NP-OBJ (NN 感谢))))
+                    (PU ，)
+                    (VP (ADVP (AD 竟然))
+                    (ADVP (AD 还))
+                    (PP-DIR (P 对)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-LOC (NN 街头))
+                    (VP (VV 采访))))
+                    (DEC 的)))
+                    (NP (NN 媒体))))
+                    (VP (VV 恶言相障)))
+                    (PU ，)
+                    (VP (ADVP (AD 差点))
+                    (VP (VV 演成)
+                    (AS 了)
+                    (NP-OBJ (NN 街头战))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    家属          
+                </arg>
+                <arg n="m" f="adv">
+                    差点          
+                </arg>
+                <arg n="1">
+                    街头战          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

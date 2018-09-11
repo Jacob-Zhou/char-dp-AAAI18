@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="加油-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to exert oneself, to try harder" group="1">
+<commentary>
+</commentary>
+<examples>
+外交 不 能 休兵 ， 反而 要 加油
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to put gas in a vehicle" group="1">
+<commentary>
+</commentary>
+<examples>
+加油站 就 特别 提醒 民众 加油 时 关机 ， 以免 引起 气爆
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to cheer" group="1">
+<commentary>
+</commentary>
+<examples>
+就 连 连体婴 兄弟 的 忠仁 、 忠义 也 特地 到场 为 王童 加油
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="18" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 打气 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="party that arg0 cheers up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 吕秀莲))
+                    (DEG 的))
+                    (NP (DP (DT 这)
+                    (CLP (M 番)))
+                    (NP (NN 话))))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 象)
+                    (VP (VC 是)
+                    (VP (ADVP (AD 在))
+                    (PP-BNF (P 为)
+                    (PN 自己))
+                    (VP (VV 打气))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    吕秀莲 的 这 番 话          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    在          
+                </arg>
+                <arg n="1">
+                    为 自己          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

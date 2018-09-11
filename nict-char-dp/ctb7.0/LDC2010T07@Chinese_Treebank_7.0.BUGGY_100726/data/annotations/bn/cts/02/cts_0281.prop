@@ -1,0 +1,21 @@
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 8 gold 发生-v 发生.01 ----- 8:0-rel 0:2-ARG1 10:2-ARG0
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 23 gold 摔-v 摔.01 ----- 23:0-rel 17:1-ARGM-ADV 18:3*32:1-ARG1 24:1-ARG2
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 30 gold 碾-v 碾.01 ----- 30:0-rel 17:1-ARGM-ADV 27:3-ARG0 18:3*32:0*32:1-ARG1
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 31 gold 死-v 死.01 ----- 31:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 39 gold 赶到-v 赶到.01 ----- 39:0-rel 37:1-ARG0 40:1-ARG1 36:0*36:1*38:0*38:1*42:1-ARGM-TMP
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 57 gold 骑-v 骑.01 ----- 57:0-rel 55:1-ARG0 58:1-ARG1 54:0*54:1*56:0*56:1*64:1-ARGM-TMP
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 71 gold 骑-v 骑.01 ----- 71:0-rel 67:2-ARG0 66:0*66:1*72:0*72:1*74:1-ARG1
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 75 gold 发生-v 发生.01 ----- 75:0-rel 46:3-ARGM-TMP 50:3-ARG1 54:3-ARGM-TMP 65:1-ARG1 76:1-ARG0
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 80 gold 倒-v 倒.01 ----- 80:0-rel 78:1-ARGM-DIS 79:1*98:1-ARG1 81:1-ARGM-LOC
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 84 gold 来-v 来.03 ----- 84:0-rel 78:1-ARGM-ADV 79:1*98:1-ARG0 83:1-ARGM-ADV 87:2-ARG1
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 86 gold 及-v 及.01 ----- 86:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 87 gold 爬-v 爬.01 ----- 87:0-rel 78:1-ARGM-ADV 79:1*98:1-ARG0 83:1-ARGM-ADV
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 88 gold 起来-v 起来.01 ----- 88:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 96 gold 碾-v 碾.01 ----- 96:0-rel 78:1-ARGM-ADV 89:1-ARGM-ADV 91:3-ARG0 95:1-ARGM-ADV 79:1*98:0*98:1-ARG1
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 97 gold 死-v 死.01 ----- 97:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 109 gold 是-v 是.01 ----- 109:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 0 111 gold 见-v 见.01 ----- 111:0-rel 100:3-ARG1 108:1-ARGM-DIS 110:1-ARGM-ADV 112:1-ARG1
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 1 1 gold 希望-v 希望.02 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 1 7 gold 能够-v 能够.01 ----- 7:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 1 8 gold 出面-v 出面.01 ----- 8:0-rel
+bn/cts/02/cts_0281@0281@cts@bn@ch@on 1 9 gold 说明-v 说明.01 ----- 9:0-rel 2:2-ARG0 10:3-ARG1

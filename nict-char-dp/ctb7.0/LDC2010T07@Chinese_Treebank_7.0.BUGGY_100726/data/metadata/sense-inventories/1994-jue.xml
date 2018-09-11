@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="绝-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to cut off, to cease, to discontinue" group="1">
+<commentary>
+</commentary>
+<examples>
+假冒 伪劣 屡 禁 不 绝 ， 对 中国 经济 和 社会 发展 造成 严重 危害
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="extreme" group="1">
+<commentary>
+</commentary>
+<examples>
+即使 先进 国家 如 日本 ， 其 首都 东京 人口 高 达 一千二百万 ， 是 第二 大 城 大阪 的 四．六 倍 ； 法国 更 绝 ， 从 德国 法兰克福 边境 一 入关 ， 指向 巴黎 的 路标 就 赫然 矗立 ， 而 此处 离 巴黎 尚 有 五百 公里 之 遥 ， 真 是 条条 大 路 通 巴黎 ！
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="absolutely (e.g. jue-bu)" group="1">
+<commentary>
+</commentary>
+<examples>
+绝 不 允许 以 困难 为 由 长期 拖欠 国家 税款
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="unique, peerless, supreme, superb" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 神州 五 绝 石 ” 雨花石 面世
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

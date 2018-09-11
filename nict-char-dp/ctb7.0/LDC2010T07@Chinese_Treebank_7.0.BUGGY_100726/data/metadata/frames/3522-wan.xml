@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 完 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity which is finished"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-PRD (IP-IJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 完)
+                    (AS 了)))
+                    (PU ，)
+                    (IP-Q (NP-PN-SBJ (NR 台湾))
+                    (VP (ADVP (AD 以後))
+                    (ADVP-WH (AD 怎麽))
+                    (PP (P 跟)
+                    (NP-PN (NR 韩国)))
+                    (VP (VV 竞争))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme arg0 cannot finish"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 限期))
+                    (VP (VPT (VV 完)
+                    (AD 不)
+                    (VV 成))
+                    (NP-OBJ (NN 扭亏)
+                    (NN 任务))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    限期	  
+                </arg>
+                <arg n="1">
+                    扭亏 任务	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

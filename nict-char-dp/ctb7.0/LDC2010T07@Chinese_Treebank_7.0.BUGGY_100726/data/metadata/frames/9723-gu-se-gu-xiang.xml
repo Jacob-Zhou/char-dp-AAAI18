@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 古色古香 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 古色古香)))
+                    (DEC 的)))
+                    (ADJP (JJ 婚庆))
+                    (NP (NN 喜饼))) 
+                </parse>
+                <arg n="0">
+                    *T*-2 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

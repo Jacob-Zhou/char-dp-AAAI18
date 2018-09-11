@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 收受 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="bribe, gift"/>
+        <role argnum="2" argrole="giver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 监狱)
+                    (NN 人员))
+                    (VP (VP (VV 收受)
+                    (NP-OBJ (NN 贿赂))) 
+                    
+                </parse>
+                <arg n="0">
+                    监狱 人员          
+                </arg>
+                <arg n="1">
+                    贿赂          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

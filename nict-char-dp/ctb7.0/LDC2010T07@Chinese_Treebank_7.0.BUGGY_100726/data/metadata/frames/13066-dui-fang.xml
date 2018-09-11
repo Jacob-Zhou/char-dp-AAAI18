@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 堆放 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NN 里面))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 堆放)
+                    (AS 了)
+                    (NP-OBJ (DNP (QP (CD 大量))
+                    (DEG 的))
+                    (NP (NN 罐头)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="2">
+                    里面          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="1">
+                    大量 的 罐头          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="委任-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to appoint, to designate, to commission, to
+authorize, to assign" group="1">
+<commentary>
+</commentary>
+<examples>
+特区 行政 长官 董建华 委任 财政司 司长 曾荫权 为 接收 基金 的 公职 人员 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

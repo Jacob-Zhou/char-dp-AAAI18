@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 形迹可疑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (QP-PRD (QP (CD ２７)
+                    (CLP (M 岁)))))
+                    (VP (VE 有)
+                    (NP-OBJ (NN 伤害)
+                    (NN 前科)))))
+                    (DEC 的)))
+                    (NP-APP (NN 嫌犯))
+                    (NP-PN (NR 许安雄)))
+                    (VP (VV 形迹可疑))))) 
+                    
+                </parse>
+                <arg n="0">
+                    ２７ 岁 有 伤害 前科 的 嫌犯 许安雄           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 投置 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing thrown"/>
+        <role argnum="2" argrole="target"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="dir" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD １５０)
+                    (CLP (M 名)))
+                    (NP (NN 抗议者)))
+                    (VP (VP (PP-MNR (P 用)
+                    (NP (NP (NN 垃圾桶))
+                    (CC 和)
+                    (NP (ADJP (JJ 废旧))
+                    (NP (NN 汽车)))))
+                    (VP (VV 堵塞)
+                    (AS 了)
+                    (NP-OBJ (NN 交通))))
+                    (PU ，)
+                    (VP (ADVP (AD 并))
+                    (PP-DIR (P 向)
+                    (NP (NP-PN (NR 北约))
+                    (NP (NN 士兵))))
+                    (VP (VV 投置)
+                    (NP-OBJ (NN 石块))) 
+                    
+                </parse>
+                <arg n="0">
+                    １５０ 名 抗议者          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="2">
+                    向 北约 士兵          
+                </arg>
+                <arg n="1">
+                    石块          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

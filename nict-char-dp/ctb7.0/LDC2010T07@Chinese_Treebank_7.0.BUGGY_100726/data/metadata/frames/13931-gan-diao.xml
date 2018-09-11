@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 干掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity killed or removed"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人家))
+                    (VP (ADVP (AD 再))
+                    (VP (VP (PP-MNR (P 用)
+                    (NP (PN 这个)))
+                    (VP (VV 说)
+                    (IP-OBJ (NP-SBJ (PN 你))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 听话))))))
+                    (PU ，)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ-1 (PN 你)
+                    (NN 部长))
+                    (VP (VSB (VV 给)
+                    (VV 干掉))
+                    (AS 了)
+                    (NP-OBJ (-NONE- *-1))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人家          
+                </arg>
+                <arg n="m" f="adv">
+                    再          
+                </arg>
+                <arg n="1">
+                    你 部长 -> *-1          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

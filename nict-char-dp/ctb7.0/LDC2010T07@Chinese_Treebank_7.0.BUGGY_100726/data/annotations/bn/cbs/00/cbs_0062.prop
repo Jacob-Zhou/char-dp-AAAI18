@@ -1,0 +1,42 @@
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 0 4 gold 发布-v 发布.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 0 9 gold 宣布-v 宣布.01 ----- 9:0-rel 0:1-ARG0 1:1-ARGM-TMP 2:1-ARGM-MNR 8:1-ARGM-ADV 11:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 0 13 gold 决定-v 决定.01 ----- 13:0-rel 11:1-ARG0 14:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 0 20 gold 代表-v 代表.01 ----- 20:0-rel 14:0*14:1*21:0*21:1-ARG1 15:1-ARG0
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 0 22 gold 参加-v 参加.01 ----- 22:0-rel 15:1-ARG0 23:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 3 gold 指出-v 指出.01 ----- 3:0-rel 0:1-ARG0 1:2-ARGM-LOC 5:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 7 gold 是-v 是.01 ----- 7:0-rel 5:1-ARG0 8:4-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 12 gold 加入-v 加入.01 ----- 12:0-rel 9:1-ARG0 11:0-ARGM-ADV 13:1*8:1-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 18 gold 重要-v 重要.01 ----- 18:0-rel 15:1*16:1*20:1-ARG0 17:1-ARGM-ADV
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 25 gold 攸关-v 攸关.01 ----- 25:0-rel 5:1-ARG0 26:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 32 gold 重大-v 重大.01 ----- 32:0-rel 30:1*31:1*34:1-ARG0
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 40 gold 慎重-v 慎重.01 ----- 40:0-rel 39:1-ARGM-ADV
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 1 42 gold 考虑-v 考虑.01 ----- 42:0-rel 36:1-ARGM-DIS 37:1-ARG0 39:3-ARGM-ADV 43:1-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 2 gold 希望-v 希望.02 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 4 gold 能够-v 能够.01 ----- 4:0-rel
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 5 gold 邀请-v 邀请.01 ----- 5:0-rel 3:1-ARG0 6:4-ARG1 25:2-ARG2
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 10 gold 佳-v 佳.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 23:1*6:0*6:1*7:0*7:1-ARG0
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 14 gold 有-v 有.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV 15:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 17 gold 出席-v 出席.01 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-ADV 18:1-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 26 gold 代表-v 代表.01 ----- 26:0-rel
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 27 gold 出席-v 出席.01 ----- 27:0-rel 25:1-ARG0
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 32 gold 遗憾-v 遗憾.01 ----- 32:0-rel 29:1-ARGM-DIS 30:1-ARG0 31:1-ARGM-ADV
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 2 37 gold 受到-v 受到.01 ----- 37:0-rel 34:2-ARG0 38:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 3 7 gold 表示-v 表示.01 ----- 7:0-rel 0:3-ARG0 3:1-ARGM-LOC 6:1-ARGM-ADV 9:5-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 3 12 gold 邀请-v 邀请.01 ----- 12:0-rel 9:1-ARG0 10:2-ARGM-ADV 13:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 3 20 gold 改变-v 改变.01 ----- 20:0-rel 9:4-ARG1 18:1-ARGM-ADV 19:1-ARGM-ADV
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 4 3 gold 表示-v 表示.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 5:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 4 10 gold 愿意-v 愿意.01 ----- 10:0-rel 5:1-ARG0 6:1-ARGM-PRP 11:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 4 11 gold 代表-v 代表.01 ----- 11:0-rel 5:1-ARG0 6:1-ARGM-PRP 12:1-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 4 13 gold 出席-v 出席.01 ----- 13:0-rel 5:1-ARG0 6:1-ARGM-PRP
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 4 18 gold 必须-v 必须.01 ----- 18:0-rel
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 4 19 gold 尊重-v 尊重.01 ----- 19:0-rel 15:1-ARGM-DIS 16:1-ARG0 17:1-ARGM-ADV 20:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 9 gold 清楚-v 清楚.01 ----- 9:0-rel
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 11 gold 说明-v 说明.01 ----- 11:0-rel 0:1-ARGM-ADV 1:1-ARG0 2:1-ARGM-LOC 8:1-ARGM-ADV 9:2-ARGM-ADV 13:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 14 gold 是-v 是.01 ----- 14:0-rel 13:1-ARG0 15:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 29 gold 经过-v 经过.01 ----- 29:0-rel 28:1-ARG0 30:3-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 35 gold 请-v 请.01 ----- 35:0-rel 28:1-ARG0 36:1-ARG1 37:2-ARG2
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 41 gold 做-v 做.01 ----- 41:0-rel 37:1-ARG0 38:1-ARGM-ADV 42:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 45 gold 得到-v 得到.01 ----- 45:0-rel 28:1-ARG0 46:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 50 gold 决定-v 决定.01 ----- 50:0-rel 20:1-ARGM-LOC 27:1-ARG0 28:3-ARGM-TMP 49:1-ARGM-TMP 51:2-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 56 gold 代表-v 代表.01 ----- 56:0-rel 52:1-ARG0 57:1-ARG1
+bn/cbs/00/cbs_0062@0062@cbs@bn@ch@on 5 59 gold 出席-v 出席.01 ----- 59:0-rel 51:1-ARG1 52:1-ARG0

@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 翻建 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing rebuilt"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (VP (PP-DIR (P 从)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 村民们))
+                    (VP (ADVP (AD 最))
+                    (VP (VV 关心)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 事))))
+                    (VP (VV 做起)))
+                    (PU ，)
+                    (VP (ADVP (AD 先))
+                    (VP (VV 修)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 条)))
+                    (NP (NN 路)))))
+                    (PU ，)
+                    (VP (VV 改造)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 条)))
+                    (NP (NN 街))))
+                    (PU ，)
+                    (VP (VV 绿化)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 块)))
+                    (NP (NN 地))))
+                    (PU ，)
+                    (VP (VV 翻建)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 座)))
+                    (NP (NN 桥)))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="1">
+                    一 座 桥           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

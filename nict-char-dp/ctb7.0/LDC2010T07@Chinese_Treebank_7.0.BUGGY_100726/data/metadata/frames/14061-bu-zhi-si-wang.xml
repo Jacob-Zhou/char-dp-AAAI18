@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不治死亡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (IP-APP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 送医)))
+                    (NP (NN 途中)))
+                    (VP (VV 不治死亡))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    送医 途中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

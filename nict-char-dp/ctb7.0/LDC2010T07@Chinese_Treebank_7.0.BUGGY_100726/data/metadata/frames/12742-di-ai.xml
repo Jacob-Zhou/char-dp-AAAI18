@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 低矮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (QP (CD 一些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 低矮)))
+                    (DEC 的)))
+                    (NP (NN 花木))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 花木          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

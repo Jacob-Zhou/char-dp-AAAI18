@@ -1,0 +1,105 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 引渡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person that arg0 extradites"/>
+        <role argnum="2" argrole="destination"/>
+        <role argnum="3" argrole="source"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 引渡)
+                    (NP-OBJ (DP (DT 这)
+                    (QP (CD １５)
+                    (CLP (M 名))))
+                    (NP-PN (NR 上帝军))
+                    (NP (NN 成员))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    这１５ 名 上帝军 成员          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-MNR (P 通过)
+                    (NP (NN 外交)
+                    (NN 渠道)))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-PN-SBJ (NR 赖昌星))
+                    (VP (VP (VRD (VV 引渡)
+                    (VV 回))
+                    (NP-PN-OBJ (NR 中国)))
+                    (VP (VV 接受)
+                    (NP-OBJ (NN 审判)))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    通过 外交 渠道          
+                </arg>
+                <arg n="1">
+                    赖昌星          
+                </arg>
+                <arg n="2">
+                    中国          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg3"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-DIR (P 从)
+                    (NP-PN (NR 美国)))
+                    (VP (VV 引渡)
+                    (NP-OBJ (QP (CD 一些))
+                    (ADJP (JJ 涉嫌))
+                    (NP (NN 凶手)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="3">
+                    从 美国          
+                </arg>
+                <arg n="1">
+                    一些 涉嫌 凶手          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

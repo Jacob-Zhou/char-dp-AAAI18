@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 装备 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="equipment"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 海军))
+                    (VP (VV 装备)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (ADJP (JJ 新型))
+                    (NP (NN 舰)
+                    (NN 船))) 
+                    
+                </parse>
+                <arg n="0">
+                    海军          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 舰 船          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

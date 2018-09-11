@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="爬-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to climb, to ascend" group="1">
+<commentary>
+</commentary>
+<examples>
+从 这里 到 顶峰 ， 徒步 要 爬 多久
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to crawl, to creep, to get up (from bed)" group="1">
+<commentary>
+</commentary>
+<examples>
+货车 上 那 位 重伤者 爬 出来 告诉 救援 人员
+又 担心 失眠 后 早上 会 爬 不 起来
+鲍萨 会 被 泰森 的 铁 拳 打 得 爬 不 起来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="5" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 急治 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient treated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 经过)
+                    (NP (NP-PN (NN 海巡署))
+                    (DNP (ADJP (JJ 紧急))
+                    (DEG 的))
+                    (NP (NN 抢救))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 才))
+                    (ADVP (AD 紧急))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ-2 (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 受伤)))
+                    (DEC 的)))
+                    (QP (CD ４)
+                    (CLP (M 名)))
+                    (NP (NN 船员)))
+                    (VP (VSB (VV 送医)
+                    (VV 急治))
+                    (NP-OBJ (-NONE- *-2))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    经过 海巡署紧急 的 抢救          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <arg n="m" f="adv">
+                    紧急          
+                </arg>
+                <arg n="1">
+                    受伤 的 ４ 名 船员 -> *-2          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

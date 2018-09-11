@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查禁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity banned"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 中共))
+                    (VP (PP-TMP (P 从)
+                    (LCP (NP (NT １９８６年))
+                    (LC 起)))
+                    (ADVP (AD 就))
+                    (VP (VV 开始)
+                    (VP (VV 查禁)
+                    (NP-OBJ (DNP (NP-PN (NR 高行健))
+                    (DEG 的))
+                    (NP (NN 作品))))) 
+                    
+                </parse>
+                <arg n="0">
+                    中共          
+                </arg>
+                <arg n="m" f="tmp">
+                    从 １９８６年 起          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="1">
+                    高行健 的作品          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

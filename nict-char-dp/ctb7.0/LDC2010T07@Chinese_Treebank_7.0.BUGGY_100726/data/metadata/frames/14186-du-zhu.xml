@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赌住 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing blocked"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 赌住)
+                    (NP-OBJ (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (ADJP (JJ 假))
+                    (NP (NN 烟)))
+                    (VP (PP-DIR (-NONE- *T*-1))
+                    (VP (VV 流入)
+                    (NP-OBJ (NP (PN 我))
+                    (NP-PN (NR 上海市))))))
+                    (DEC 的)))
+                    (NP (NN 源头))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    假 烟 流入 我 上海市 的 源头          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

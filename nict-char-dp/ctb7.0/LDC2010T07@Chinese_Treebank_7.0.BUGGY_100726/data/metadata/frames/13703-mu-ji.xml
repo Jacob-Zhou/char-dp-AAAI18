@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 目击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="witness"/>
+        <role argnum="1" argrole="thing witnessed"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (NT 当时))
+                    (VP (VV 目击)
+                    (NP-OBJ (NN 爆炸)
+                    (NN 事件)))))
+                    (DEC 的)))
+                    (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 外国)
+                    (NN 观光客))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 外国观光客          
+                </arg>
+                <arg n="m" f="tmp">
+                    当时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

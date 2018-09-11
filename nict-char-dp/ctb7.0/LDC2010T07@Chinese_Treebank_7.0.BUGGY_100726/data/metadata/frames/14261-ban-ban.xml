@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 斑斑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (CP (NP-2 (-NONE- *PRO*))
+                    (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (PP-DIR (P 对)
+                    (NP (NP-PN (NR 中国))
+                    (NP (NN 人民))))
+                    (VP (VV 犯下)
+                    (NP-OBJ (ADJP (JJ 严重))
+                    (NP (NN 罪行)))))))
+                    (CC 或)
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (IP (NP-TPC (-NONE- *T*-3))
+                    (NP-SBJ (NN 劣迹))
+                    (VP (VV 斑斑)))))
+                    (NP (NN 外国)
+                    (NN 传教士))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    外国 传教士          
+                </arg>
+                <arg n="0" f="pse">
+                    劣迹          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

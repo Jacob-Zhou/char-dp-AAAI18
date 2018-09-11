@@ -1,0 +1,20 @@
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 0 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 0 4 gold 会-v 会.01 ----- 4:0-rel
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 0 5 gold 允许-v 允许.01 ----- 5:0-rel 2:1-ARG0 3:1-ARGM-ADV 6:1-ARG1 7:2-ARG2
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 0 8 gold 利用-v 利用.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 0 11 gold 袭击-v 袭击.01 ----- 11:0-rel 7:1-ARG0 13:4-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 1 9 gold 发动-v 发动.01 ----- 9:0-rel 0:1-ARGM-TMP 1:1-ARG0 2:1-ARGM-ADV 11:1-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 1 16 gold 涉嫌-v 涉嫌.01 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 1 18 gold 策划-v 策划.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 1 24 gold 驻-v 驻.01 ----- 24:0-rel 25:1-ARG1 22:0*22:1*23:0*23:1*27:1-ARG0
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 1 28 gold 进行-v 进行.01 ----- 28:0-rel 19:1-ARG0 29:2-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 2 20 gold 炸-v 炸.01 ----- 20:0-rel 12:1-ARGM-TMP 17:1-ARGM-LOC 14:2*21:0*21:1-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 2 23 gold 联系-v 联系.01 ----- 23:0-rel 0:2-ARG0 2:1-ARGM-ADV 4:2-ARG1 11:1-ARG1 24:1-ARGM-ADV
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 3 8 gold 有-v 有.05 ----- 8:0-rel 0:1-ARG0 9:3-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 3 14 gold 炸死-v 炸死.01 ----- 14:0-rel 15:1*9:2-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 4 8 gold 要求-v 要求.02 ----- 8:0-rel 0:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-ADV 9:1-ARG1 10:2-ARG2
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 4 16 gold 提供-v 提供.01 ----- 16:0-rel 10:1-ARG0 11:1-ARGM-LOC 17:4-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 5 3 gold 援引-v 援引.01 ----- 3:0-rel 0:1-ARGM-TMP 2:1-ARG0 4:3-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 5 6 gold 接近-v 接近.01 ----- 6:0-rel 10:1*4:1*5:1-ARG0 7:1-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 5 12 gold 说-v 说.01 ----- 12:0-rel 0:1-ARGM-TMP 2:1-ARG0 14:1-ARG1
+bn/vom/01/vom_0127@0127@vom@bn@ch@on 5 19 gold 画出-v 画出.01 ----- 19:0-rel 15:2-ARG0 18:1-ARGM-ADV 21:4-ARG1

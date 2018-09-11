@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="起-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to take effect, to act upon, to function, to play
+a part in" group="1">
+<commentary>
+</commentary>
+<examples>
+在 前 些 年 涉 港 婚姻 中 ， 经济 因素 在 其中 起 了 相当 重要 的 作用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to start, to begin, starting from" group="1">
+<commentary>
+</commentary>
+<examples>
+三峡 库区 西 起 重庆市 ， 东 至 湖北 宜昌市 ， 沿 长江 狭长 分布
+上图 左 起
+由 明日 （ 星期五 ） 起
+每 一 次 都 因 武器 核查 而 起 ， 又 都 因 美国 发出 动武 威胁 后 伊拉克 作出 让步 告结
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to build, to establish" group="1">
+<commentary>
+</commentary>
+<examples>
+自己 给 自己 起 了 一 堵堵 高 墙
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to rise, to stand up, to get up" group="1">
+<commentary>
+</commentary>
+<examples>
+风 生 水 起 好 运 来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="classifier for cases, events, occurence, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+协助 处理 了 七 起 较 大 的 涉及 香港 居民 利益 和 生命 安全 的 突发性 事件
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="up (indicating the action or result of the preceding verb)" group="1">
+<commentary>
+</commentary>
+<examples>
+已 星罗棋布 地 矗立 起 投资 一千万 美元 的 大 项目 近 七十 个
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="indicating the ability (when used in conjunction
+with de- or bu- and preceded by a verb)" group="1">
+<commentary>
+</commentary>
+<examples>
+但 小 牛津 的 学杂费 一 年 约 四万五千 元 人民币 （ 十八万 台币 ） ， 的确 也 不 是 所有 台商 都 付 得 起
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="indicating the way to look at one another
+(e.g. look down upon, look up to)" group="1">
+<commentary>
+</commentary>
+<examples>
+一 开始 谁 也 瞧 不 起 谁
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to occur, to appear (e.g. of a blister, swelling, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+一 晒 皮肤 就 起泡
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="assign a name" group="1">
+<commentary>
+</commentary>
+<examples>
+起 名字
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="11" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="54" ann_1_2_agreement="1.0" />
+</inventory>

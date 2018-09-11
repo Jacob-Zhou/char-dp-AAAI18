@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 叫成 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 calls"/>
+        <role argnum="2" argrole="name arg1 is called"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 来)
+                    (VP (VV 买刀))))
+                    (DEC 的)))
+                    (NP (NN 原著民)))
+                    (VP (PP-MNR (P 按)
+                    (NP (NN 闽南语)
+                    (NN 发音)))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-PN-SBJ (NR 华纳))
+                    (VP (VV 叫成)
+                    (AS 了)
+                    (NP-OBJ (NN 番刀王))))) 
+                    
+                </parse>
+                <arg n="0">
+                    来 买刀的 原著民          
+                </arg>
+                <arg n="m" f="mnr">
+                    按 闽南语 发音          
+                </arg>
+                <arg n="1">
+                    华纳          
+                </arg>
+                <arg n="2">
+                    番刀王          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

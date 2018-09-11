@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 种上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity planted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 低矮)))
+                    (DEC 的)))
+                    (NP (NN 花木)))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (LCP-TMP (NP (NT ５．２０))
+                    (LC 之后))
+                    (ADVP (AD 才))
+                    (ADVP (AD 新))
+                    (VP (VV 种上)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    一些 低矮 的 花木          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="tmp">
+                    ５．２０ 之后          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <arg n="m" f="adv">
+                    新          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

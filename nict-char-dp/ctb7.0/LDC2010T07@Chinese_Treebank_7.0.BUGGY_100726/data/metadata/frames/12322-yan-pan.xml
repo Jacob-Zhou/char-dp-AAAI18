@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 研判 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="inference"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 初步))
+                    (VP (VV 研判)
+                    (PU ，)
+                    (IP-OBJ (NP-SBJ (NN 死者))
+                    (VP (VV 应该)
+                    (VP (VC 是)
+                    (NP-PRD (NN 他杀)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    初步          
+                </arg>
+                <arg n="1">
+                    死者 应该 是 他杀          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

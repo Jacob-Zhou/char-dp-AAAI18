@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 擂动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing (drum) arg0 beats"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 战鼓))
+                    (VP (ADVP (AD 隐隐))
+                    (VP (VV 擂动)))) 
+                </parse>
+                <arg n="1">
+                    战鼓 
+                </arg>
+                <arg n="m" f="adv">
+                    隐隐 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 统筹兼顾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken charge by arg0"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 统筹兼顾)) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

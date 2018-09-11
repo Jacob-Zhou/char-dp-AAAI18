@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 追撞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+         
+        <role argnum="1" argrole="thing hit"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 轿车)
+                    (NN 车主))
+                    (VP (VP (VV 追撞)
+                    (NP-OBJ (DP (DT 另)
+                    (QP (CD 一)
+                    (CLP (M 辆))))
+                    (NP (NN 轿车)))) 
+                    
+                </parse>
+                <arg n="0">
+                    轿车车主          
+                </arg>
+                <arg n="1">
+                    另 一 辆 轿车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

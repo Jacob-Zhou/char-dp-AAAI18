@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="位-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be located" group="1">
+<commentary>
+</commentary>
+<examples>
+雅鲁藏布 大 峡谷 位 于 世界 海拔 最 高 的 青藏 高原
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="classifier for people" group="1">
+<commentary>
+</commentary>
+<examples>
+班汉 是 自 １９８０年 下半年 以来 首 位 访问 缅甸 的 泰国 总理
+他们 分为 ５ 个 小组 ， 共 约见 了 约 １５０ 位 议员 或 议员 助手 以及 政府 官员
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="rank, place (in competition)" group="1">
+<commentary>
+</commentary>
+<examples>
+在 中国 各 城市 出口 排名 中 列 第七 位
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="digit, figure, place (in mathematics)" group="1">
+<commentary>
+</commentary>
+<examples>
+１９９７年 是 欧盟 失业率 连续 保持 两 位 数 的 第六 个 年头
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="location, place, position" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="178" ann_1_2_agreement="0.988764044944" />
+</inventory>

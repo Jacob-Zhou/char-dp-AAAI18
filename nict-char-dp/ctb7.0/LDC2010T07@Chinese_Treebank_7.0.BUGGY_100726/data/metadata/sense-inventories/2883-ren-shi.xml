@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="认识-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to understand" group="1">
+<commentary>
+</commentary>
+<examples>
+要 正确 认识 今年 国家 的 财政 形势
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to realize" group="1">
+<commentary>
+</commentary>
+<examples>
+欧盟 认识 到 中国 经济 正在 向 市场 经济 发展
+越来越 多 的 体育界 人士 认识 到 经济 对 体育 的 直接 资助 和 间接 支持 作用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to meet, to acquaint" group="1">
+<commentary>
+</commentary>
+<examples>
+报名 参加 他 的 年夜饭 派对 ， 认 不 认识 都 没 关系
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="knowledge, understanding, cognition" group="1">
+<commentary>
+</commentary>
+<examples>
+增进 大陆 人民 对 我们 的 认识 与 了解
+金正日 也 利用 这 次 访问 的 机会 和 中共 高层 讨论 认识 方面 的 意见
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="114" ann_1_2_agreement="0.894736842105" />
+</inventory>

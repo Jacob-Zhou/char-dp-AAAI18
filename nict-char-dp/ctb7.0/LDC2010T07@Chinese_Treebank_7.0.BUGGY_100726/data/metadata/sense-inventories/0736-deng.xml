@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="登-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to publish, to print (eg. in a newspaper,
+periodical, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+《 湖北 日报 》 登 了 那 位 同志 的 检讨
+她 的 一 位 毕业 学生 在 网路 上 登 广告 卖 情趣 用品
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to climb, to ascend, to mount" group="1">
+<commentary>
+</commentary>
+<examples>
+然而 ， 在 老 董事长 叶进泰 耳 中 ， MP3 还 是 年轻人 的 玩意 ， 难 登 音响 世界 的 大雅之堂
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to step onto" group="1">
+<commentary>
+</commentary>
+<examples>
+八○年代 末 登 「 陆 」 的 台商 陈彬
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

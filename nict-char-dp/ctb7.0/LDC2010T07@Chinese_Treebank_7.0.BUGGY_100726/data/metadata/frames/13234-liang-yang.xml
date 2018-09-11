@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 两样 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 就是说))
+                    (PU ，)
+                    (NP-PN-TPC (NR 马来西亚)
+                    (PU 、)
+                    (NR 新加坡)
+                    (PU 、)
+                    (NR 文莱))
+                    (PU ，)
+                    (NP-SBJ (DNP (NP (NP (PN 我们))
+                    (LCP (NP (NR 婆罗州))
+                    (LC 一带))
+                    (NP (NN 人民)))
+                    (DEG 的))
+                    (NP (NN 生活)
+                    (NN 方式)))
+                    (VP (ADVP (AD 也))
+                    (ADVP (AD 没什么))
+                    (VP (VA 两样))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    就是说          
+                </arg>
+                <arg n="0" f="psr">
+                    马来西亚 、 新加坡 、 文莱          
+                </arg>
+                <arg n="0" f="pse">
+                    我们 婆罗州 一带 人民 的 生活 方式          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="m" f="adv">
+                    没什么          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

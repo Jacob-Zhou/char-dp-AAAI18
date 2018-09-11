@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="影响	04141-ying-xiang-n">
+<commentary></commentary>
+<sense n="1" name="影响, influence" group="" type="">
+<commentary>The power to have an effect on people or things, or someone or something having such power.</commentary><examples>社会影响
+social influence
+
+
+他的作品受到东方思想影响.
+His works were under Eastern influence.
+
+你能用你的影响帮我找一份工作吗?
+Will you use your influence to get me a job?
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="影响, 印象, impression," group="" type="">
+<commentary>Effect on the way someone feels or thinks.</commentary><examples>这会给人坏影响(印象)
+This would create a bad impression.
+
+你去面试晚到会给人坏影响(印象).
+It makes a bad impression if you're late for an interview.
+
+你的所有警告对他影响不大.
+All your warnings made little impression on him.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

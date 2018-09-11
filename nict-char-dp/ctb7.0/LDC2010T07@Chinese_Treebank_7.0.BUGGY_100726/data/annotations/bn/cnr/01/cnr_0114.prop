@@ -1,0 +1,5 @@
+bn/cnr/01/cnr_0114@0114@cnr@bn@ch@on 0 4 gold 报道-v 报道.01 ----- 4:0-rel 1:2-ARG0 3:1-ARGM-TMP
+bn/cnr/01/cnr_0114@0114@cnr@bn@ch@on 0 20 gold 举行-v 举行.01 ----- 20:0-rel 0:1-ARGM-MNR 6:3-ARG0 16:1-ARGM-LOC 21:1-ARG1
+bn/cnr/01/cnr_0114@0114@cnr@bn@ch@on 0 23 gold 讨论-v 讨论.01 ----- 23:0-rel 0:1-ARGM-MNR 6:3-ARG0 16:1-ARGM-LOC 24:2-ARG1
+bn/cnr/01/cnr_0114@0114@cnr@bn@ch@on 0 34 gold 结束-v 结束.01 ----- 34:0-rel 27:3-ARG1 30:3-ARGM-TMP 33:1-ARG1
+bn/cnr/01/cnr_0114@0114@cnr@bn@ch@on 0 36 gold 建立-v 建立.01 ----- 36:0-rel 24:1-ARG0 25:1-ARGM-ADV 26:1-ARGM-TMP 37:3-ARG1

@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 关押 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 imprisons"/>
+        <role argnum="2" argrole="location that arg1 is inprisoned in"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (DP (DT 上))
+                    (NP (NT 星期四)))
+                    (PU ，)
+                    (NP-PN-SBJ-1 (NR 赖昌星))
+                    (VP (VP (PP-PRP (P 因)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 涉嫌)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 违反)
+                    (NP-OBJ (NP-PN (NR 加拿大))
+                    (NP (NN 移民法))))))))
+                    (VP (SB 被)
+                    (VP (VV 逮捕)
+                    (NP-OBJ (-NONE- *-1)))))
+                    (PU ，)
+                    (VP (NP-TMP (NT 目前))
+                    (VP (SB 被)
+                    (VP (VV 关押)
+                    (PP (P 在)
+                    (NP (NP-PN (NR 温哥华))
+                    (NP (NN 拘留所)))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    赖昌星           
+                </arg>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <arg n="2">
+                    在 温哥华 拘留所          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

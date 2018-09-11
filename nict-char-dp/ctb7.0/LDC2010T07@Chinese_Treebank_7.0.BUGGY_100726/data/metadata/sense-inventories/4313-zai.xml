@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="在-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to exist, to be alive" group="1">
+<commentary>VV</commentary>
+<examples>
+那个问题还在,并没有解决。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be at/in/on/etc. (time, location, or occasion)" group="1">
+<commentary>VV</commentary>
+<examples>
+你的钢笔在桌子上。
+这件事发生在去年。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to depend on, to rest with" group="1">
+<commentary>VV</commentary>
+<examples>
+要学得好,主要在自己努力。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to lie in, to consist in" group="1">
+<commentary>VV</commentary>
+<examples>
+这首诗妙在含蓄而不明言。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="adverb indicating continuing action; used before a verb to act as a progressive aspect marker" group="1">
+<commentary>AD</commentary>
+<examples>
+我昨天去他家时,他在吃饭。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

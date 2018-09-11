@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闷烧 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 由于)
+                    (IP (NP-SBJ (DP (DT 整个))
+                    (NP (NN 店面)))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (PP-MNR (P 由)
+                    (NP (NN 铁皮)))
+                    (VP (VV 搭盖)))))))
+                    (PU ，)
+                    (ADVP (AD 所以))
+                    (NP-SBJ (NN 火势))
+                    (VP (VP (DVP (VP (VV 不断))
+                    (DEV 的))
+                    (VP (VV 闷烧))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    由于 整个 店面 都 是 由 铁皮 搭盖          
+                </arg>
+                <arg n="m" f="dis">
+                    所以          
+                </arg>
+                <arg n="m" f="adv">
+                    不断 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

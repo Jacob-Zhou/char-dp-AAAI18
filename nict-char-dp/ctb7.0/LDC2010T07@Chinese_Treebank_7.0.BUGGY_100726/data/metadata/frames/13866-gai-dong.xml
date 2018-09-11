@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 改动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing changed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 改动)
+                    (ADVP (ADVP (AD 最))
+                    (ADVP (AD 大)))))
+                    (DEC 的)))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1          
+                </arg>
+                <arg n="m" f="ext">
+                    最 大          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

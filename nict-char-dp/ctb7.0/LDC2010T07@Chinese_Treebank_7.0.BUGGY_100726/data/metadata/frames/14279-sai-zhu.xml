@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 塞住 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity blocked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 简义龙))
+                    (VP (VP (ADVP (AD 先))
+                    (VP (VC 是)
+                    (VP (PP-MNR (P 用)
+                    (NP (NN 卫生纸)))
+                    (VP (VV 塞住)
+                    (NP-OBJ (DNP (NP (NN 被害人))
+                    (DEG 的))
+                    (NP (NN 嘴巴))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    简义龙          
+                </arg>
+                <arg n="m" f="adv">
+                    先          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 卫生纸          
+                </arg>
+                <arg n="1">
+                    被害人 的 嘴巴          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

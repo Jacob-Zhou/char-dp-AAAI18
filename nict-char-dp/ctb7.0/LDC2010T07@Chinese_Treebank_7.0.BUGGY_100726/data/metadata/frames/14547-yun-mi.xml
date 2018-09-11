@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 晕迷 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 典狱长))
+                    (VP (VP (NP-LOC (NN 头))
+                    (VP (VV 受伤)))
+                    (VP (VV 晕迷)))) 
+                    
+                </parse>
+                <arg n="0">
+                    典狱长          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

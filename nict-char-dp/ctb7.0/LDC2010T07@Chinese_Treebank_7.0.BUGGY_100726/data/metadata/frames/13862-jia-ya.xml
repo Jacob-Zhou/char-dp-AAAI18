@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加压 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (LCP-LOC (NP (NN 荣誉))
+                    (LC 面前))
+                    (ADVP (AD 自我))
+                    (VP (VV 加压))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="loc">
+                    荣誉 面前          
+                </arg>
+                <arg n="m" f="adv">
+                    自我          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

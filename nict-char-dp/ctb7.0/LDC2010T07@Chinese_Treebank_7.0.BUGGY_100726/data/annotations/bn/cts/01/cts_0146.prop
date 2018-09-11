@@ -1,0 +1,24 @@
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 0 6 gold 快-v 快.01 ----- 6:0-rel 3:1*4:1*7:1-ARG0 5:1-ARGM-ADV
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 0 8 gold 侦破-v 侦破.01 ----- 8:0-rel 0:2-ARG0 2:1-ARGM-MNR 10:3-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 0 12 gold 发生-v 发生.01 ----- 12:0-rel 13:1-ARGM-TMP 10:0*10:1*11:0*11:1*20:1-ARG0
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 0 29 gold 抓到-v 抓到.01 ----- 29:0-rel 0:2-ARG0 31:2-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 0 37 gold 有-v 有.05 ----- 37:0-rel 34:1-ARG0 35:1-ARGM-DIS 36:1-ARGM-ADV 38:3-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 14 gold 是-v 是.01 ----- 14:0-rel
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 15 gold 有-v 有.01 ----- 15:0-rel 0:3-ARG0 12:1-ARGM-ADV 13:1-ARGM-ADV 16:2-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 29 gold 是-v 是.01 ----- 29:0-rel
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 44 gold 认识-v 认识.01 ----- 44:0-rel 41:1-ARGM-ADV 42:1-ARG0 43:1-ARGM-ADV 45:2-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 56 gold 出来-v 出来.01 ----- 56:0-rel 55:1-ARG0
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 67 gold 加以-v 加以.01 ----- 67:0-rel 28:1-ARG0 66:1-ARGM-ADV 68:1-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 70 gold 到-v 到.01 ----- 70:0-rel 28:1-ARG0 72:1-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 74 gold 拘禁-v 拘禁.01 ----- 74:0-rel 28:1-ARG0
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 77 gold 加以-v 加以.01 ----- 77:0-rel 28:1-ARG0 76:1-ARGM-ADV 78:1-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 104 gold 到-v 到.01 ----- 104:0-rel 28:1-ARG0 94:1-ARGM-DIS 95:1-ARGM-ADV 96:1-ARGM-TMP 101:1-ARGM-DIS 105:3-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 114 gold 作为-v 作为.01 ----- 114:0-rel 28:1-ARG0 94:1-ARGM-ADV 95:1-ARGM-ADV 96:1-ARGM-TMP 101:1-ARGM-ADV 115:1-ARG2
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 118 gold 利用-v 利用.01 ----- 118:0-rel 117:1-ARG0 119:3-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 122 gold 写-v 写.01 ----- 122:0-rel 120:1-ARG0 123:1-ARG1 119:0*119:1*121:0*121:1*125:1-ARGM-TMP
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 129 gold 写下-v 写下.01 ----- 129:0-rel 117:1-ARG0 126:1-ARGM-LOC 132:2-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 141 gold 发现-v 发现.01 ----- 141:0-rel 140:1-ARG0
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 160 gold 逮捕-v 逮捕.01 ----- 160:0-rel 150:1-ARGM-DIS 151:1-ARGM-ADV 157:1-ARG0 158:1-ARGM-DIS 159:1-ARGM-ADV 162:2-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 171 gold 顺利-v 顺利.01 ----- 171:0-rel
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 179 gold 取出-v 取出.01 ----- 179:0-rel 150:1-ARGM-ADV 151:1-ARGM-MNR 157:1-ARG0 178:1-ARGM-ADV 180:3-ARG1
+bn/cts/01/cts_0146@0146@cts@bn@ch@on 1 189 gold 有-v 有.05 ----- 189:0-rel 185:1-ARGM-DIS 186:1-ARGM-TMP 187:1-ARG0 188:1-ARGM-ADV 190:3-ARG1

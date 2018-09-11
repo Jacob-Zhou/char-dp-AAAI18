@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搭盖 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 builds"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 整个))
+                    (NP (NN 店面)))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (PP-MNR (P 由)
+                    (NP (NN 铁皮)))
+                    (VP (VV 搭盖))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    整个 店面          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="mnr">
+                    由 铁皮          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

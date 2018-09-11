@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 绝迹 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity no longer seen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (ADJP (JJ 黑))
+                    (NP (NN 金)))
+                    (VP (VV 绝迹))) 
+                </parse>
+                <arg n="0">
+                    黑 金 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

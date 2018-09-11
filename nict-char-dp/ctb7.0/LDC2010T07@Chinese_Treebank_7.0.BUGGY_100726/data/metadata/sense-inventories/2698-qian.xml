@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="迁-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to move, to migrate" group="1">
+<commentary>
+</commentary>
+<examples>
+目前 ， 该 地区 的 约 ２０万 居民 大部分 已 弃 家 北 迁
+国民党 政府 于 一九三七年 西 迁 重庆
+沿海 工业 也 纷纷 内 迁
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

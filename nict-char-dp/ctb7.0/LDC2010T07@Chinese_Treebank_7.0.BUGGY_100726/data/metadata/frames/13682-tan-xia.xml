@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 瘫下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity fallen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-DIR (P 从)
+                    (NP (NN 戏院)
+                    (NN 后山)))
+                    (VP (VV 瘫下))))
+                    (DEC 的)))
+                    (NP (NN 土石流))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1 -> 土石流          
+                </arg>
+                <arg n="m" f="dir">
+                    从 戏院 后山          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

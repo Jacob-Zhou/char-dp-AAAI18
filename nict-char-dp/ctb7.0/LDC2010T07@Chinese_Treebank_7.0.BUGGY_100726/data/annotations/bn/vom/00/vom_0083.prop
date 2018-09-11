@@ -1,0 +1,41 @@
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 0 5 gold 发现-v 发现.01 ----- 5:0-rel 0:1-ARGM-LOC 3:2-ARG0 6:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 0 8 gold 可能-v 可能.01 ----- 8:0-rel
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 0 9 gold 带有-v 带有.01 ----- 9:0-rel 10:1-ARG1 13:1*6:0*6:1*7:0*7:1-ARG0
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 0 17 gold 表示-v 表示.01 ----- 17:0-rel 15:1-ARGM-DIS 16:1-ARG0 19:5-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 0 25 gold 高-v 高.01 ----- 25:0-rel 19:4-ARG0 24:1-ARGM-ADV
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 0 30 gold 引起-v 引起.01 ----- 30:0-rel 15:2-ARGM-ADV 27:1-ARGM-DIS 28:1-ARG0 29:1-ARGM-ADV 32:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 20 gold 发现-v 发现.01 ----- 20:0-rel 0:1-ARGM-MNR 6:2-ARG0 11:1-ARGM-TMP 12:1-ARGM-LOC 21:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 22 gold 有-v 有.05 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 28 gold 呈-v 呈.01 ----- 28:0-rel 23:1-ARG0 29:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 33 gold 怀疑-v 怀疑.01 ----- 33:0-rel 0:1-ARGM-MNR 6:2-ARG0 32:1-ARGM-DIS 34:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 36 gold 可能-v 可能.01 ----- 36:0-rel
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 37 gold 受到-v 受到.01 ----- 37:0-rel 34:2-ARG0 39:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 46 gold 隔离-v 隔离.01 ----- 46:0-rel 0:1-ARGM-MNR 6:2-ARG0 41:1-ARGM-TMP 42:1-ARGM-ADV 44:2*47:0*47:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 50 gold 禁止-v 禁止.01 ----- 50:0-rel 0:1-ARGM-MNR 6:2-ARG0 49:1-ARGM-DIS 51:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 1 52 gold 买-v 买.01 ----- 52:0-rel 51:1-ARG0 53:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 2 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 2 6 gold 展开-v 展开.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 7:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 2 12 gold 要-v 要.06 ----- 12:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 11:1-ARGM-ADV 13:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 2 13 gold 检验-v 检验.01 ----- 13:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 11:1-ARGM-DIS 14:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 3 2 gold 证实-v 证实.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 3 4 gold 感染-v 感染.01 ----- 4:0-rel 3:1-ARG1 6:1-ARG0
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 3 20 gold 扩散-v 扩散.01 ----- 20:0-rel 18:1-ARG1 19:1-ARGM-ADV
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 4 8 gold 进行-v 进行.01 ----- 8:0-rel 0:3-ARG0 4:1-ARGM-TMP 10:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 4 13 gold 表示-v 表示.01 ----- 13:0-rel 12:1-ARG0 15:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 4 17 gold 发现-v 发现.01 ----- 17:0-rel 15:1-ARGM-DIS 16:1-ARG0 18:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 4 26 gold 低-v 低.01 ----- 26:0-rel 15:2-ARGM-ADV 21:1-ARGM-DIS 22:3-ARG0 25:1-ARGM-ADV
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 4 28 gold 显示-v 显示.01 ----- 28:0-rel 15:2-ARGM-ADV 21:1-ARGM-DIS 22:3-ARG0 29:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 4 31 gold 强-v 强.01 ----- 31:0-rel 29:1-ARG0 30:1-ARGM-ADV
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 5 10 gold 没有-v 没有.01 ----- 10:0-rel 0:1-ARGM-ADV 1:3-ARG1 8:1-ARGM-ADV 9:1-ARGM-ADV 11:1-ARG0
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 5 18 gold 可能-v 可能.01 ----- 18:0-rel
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 3 gold 发生-v 发生.01 ----- 3:0-rel 1:1-ARG1 2:1-ARGM-TMP 0:0*4:0*6:1-ARG0
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 8 gold 造成-v 造成.01 ----- 8:0-rel 0:3-ARG0 9:4-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 11 gold 死亡-v 死亡.01 ----- 11:0-rel 9:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 15 gold 有-v 有.05 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-DIS 16:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 19 gold 遭到-v 遭到.01 ----- 19:0-rel 16:2-ARG0 20:1-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 23 gold 引起-v 引起.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 6 25 gold 关注-v 关注.01 ----- 25:0-rel 24:1-ARG0
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 8 1 gold 通过-v 通过.03 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 8 10 gold 有-v 有.05 ----- 10:0-rel 7:1-ARGM-TMP 8:1-ARG0 9:1-ARGM-ADV 11:3-ARG1
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 8 14 gold 出售-v 出售.01 ----- 14:0-rel 11:2-ARG1 16:2-ARG2
+bn/vom/00/vom_0083@0083@vom@bn@ch@on 8 15 gold 到-v 到.01 ----- 15:0-rel

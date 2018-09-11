@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="下来-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="pass, finish" group="1">
+<commentary>
+</commentary>
+<examples>
+两 轮 下来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="verb particle indicating completion, continuation, initiation" group="1">
+<commentary>
+</commentary>
+<examples>
+目前 大量 的 订单 还 吃 不 下来
+静 坐 下来 反省 和 检讨 一 年 的 成长 状态
+两千 年 前 的 老 祖宗 传 下来 的 规矩
+接 下来 我 认为 应该 把 发言权 还给 原住民 自己
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to come down" group="1">
+<commentary>
+</commentary>
+<examples>
+电车 里 有 孕妇 ， 她 不 敢 下来 走路
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="158" ann_1_2_agreement="0.892405063291" />
+</inventory>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="33593-fang-mian-n 方面-n">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+
+
+<sense n="1" type="" name="aspect, side, 方面" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+我们讨论了这个问题的一个方面。
+
+
+
+We discussed one aspect/side of this question.
+
+
+
+
+
+
+
+任何事物都有两个方面。
+
+
+
+Everything has its two sides.
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="respect, 方面" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+这在许多方面都是一个重要的决定。
+
+
+
+In many respects this is an important decision.
+
+
+
+
+
+
+
+我觉得你各方面都错了。
+
+
+
+I think you are wrong in every respect.
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

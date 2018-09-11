@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 救下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="rescuer"/>
+        <role argnum="1" argrole="entity rescued"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NN 消防)
+                    (NN 人员))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 赶到)))
+                    (LC 后))
+                    (VP (VP (ADVP (AD 先))
+                    (PP-MNR (P 用)
+                    (NP (NN 云梯车)))
+                    (VP (VV 救下)
+                    (NP-OBJ (DP (DT 另外)
+                    (QP (CD ３)
+                    (CLP (M 个))))
+                    (NP (NN 人))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    消防 人员          
+                </arg>
+                <arg n="m" f="tmp">
+                    赶到 后          
+                </arg>
+                <arg n="m" f="adv">
+                    先          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 云梯车          
+                </arg>
+                <arg n="1">
+                    另外 ３ 个人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

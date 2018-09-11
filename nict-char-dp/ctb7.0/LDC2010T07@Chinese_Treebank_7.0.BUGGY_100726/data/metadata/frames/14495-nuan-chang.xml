@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暖场 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-TPC (DNP (NP (NN 朝野))
+                    (DEG 的))
+                    (NP (NN 对决)))
+                    (NP-SBJ (PN 这))
+                    (VP (ADVP (AD 才))
+                    (ADVP (AD 只))
+                    (VP (VC 是)
+                    (VP (VV 暖场))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    朝野 的 对决 -> 这          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <arg n="m" f="adv">
+                    只          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

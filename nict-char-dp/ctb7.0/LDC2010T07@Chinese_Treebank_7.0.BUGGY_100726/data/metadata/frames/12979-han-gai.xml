@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 含盖 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing included"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 内容))
+                    (VP (VV 含盖)
+                    (AS 了)
+                    (IP-OBJ (IP (NP-SBJ (NN 全球化))
+                    (VP (VV 创造)
+                    (NP-OBJ (ADJP (JJ 新))
+                    (NP (NN 机会)))))
+                    (PU 、)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 加强)
+                    (NP-OBJ (NP (ADJP (JJ 多边))
+                    (NP (NN 贸易)
+                    (NN 体系)))
+                    (PU 、)
+                    (NP (NN 贸易)
+                    (CC 与)
+                    (NN 投资)
+                    (NN 自由化))
+                    (CC 以及)
+                    (NP (NN 经济)
+                    (NN 科技)
+                    (NN 合作)))))
+                    (ETC 等等)))) 
+                    
+                </parse>
+                <arg n="0">
+                    内容          
+                </arg>
+                <arg n="1">
+                    全球化 创造 新 机会 、 加强 多边 贸易 体系 、 贸易 与 投资 自由化 以及 经济 科技 合作 等等          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

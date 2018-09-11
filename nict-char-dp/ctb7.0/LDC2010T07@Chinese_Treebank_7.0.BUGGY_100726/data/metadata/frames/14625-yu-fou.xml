@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 与否 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (CP-APP (IP (NP-SBJ (NP-APP (NP-PN (NR 美国)
+                    (NR 民主党))
+                    (NP (NN 总统)
+                    (NN 候选人)))
+                    (NP-PN (NR 戈尔)))
+                    (VP (VV 挑战)
+                    (NP-OBJ (DNP (NP (NP-PN (NR 佛罗里达州))
+                    (NP (NN 选举)))
+                    (DEG 的))
+                    (NP (NN 结果)))))
+                    (DEC 的))
+                    (NP (NN 努力)))
+                    (VP (VV 成功)))
+                    (VP (VV 与否))) 
+                    
+                </parse>
+                <arg n="0">
+                    美国 民主党 总统 候选人 戈尔 挑战 佛罗里达州 选举 的 结果 的 努力 成功          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

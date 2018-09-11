@@ -1,0 +1,28 @@
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 16 gold 发动-v 发动.01 ----- 16:0-rel 0:2-ARG0 3:1-ARGM-LOC 17:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 23 gold 炸死-v 炸死.01 ----- 23:0-rel 0:2-ARG0 22:1*24:1-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 29 gold 表示-v 表示.01 ----- 29:0-rel 26:1-ARG0 30:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 37 gold 负责-v 负责.01 ----- 37:0-rel 30:1-ARG0 31:1-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 40 gold 警告-v 警告.01 ----- 40:0-rel
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 41 gold 说-v 说.01 ----- 41:0-rel 26:1-ARG0 39:1-ARGM-DIS 42:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 44 gold 是-v 是.01 ----- 44:0-rel 42:1-ARG0 43:1-ARGM-ADV 45:3-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 53 gold 骑-v 骑.01 ----- 53:0-rel 50:2-ARG0 55:1-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 56 gold 接近-v 接近.01 ----- 56:0-rel 50:2-ARG0 57:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 63 gold 引爆-v 引爆.01 ----- 63:0-rel 50:2-ARG0 60:1-ARGM-LOC 64:1-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 70 gold 受-v 受.01 ----- 70:0-rel 66:2-ARG0 71:1-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 75 gold 指责-v 指责.02 ----- 75:0-rel 73:2-ARG0 76:2-ARG1 78:2-ARG2
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 89 gold 驳斥-v 驳斥.01 ----- 89:0-rel 84:2-ARG0 90:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 95 gold 是-v 是.01 ----- 95:0-rel 94:1-ARG0 96:4-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 108 gold 指责-v 指责.02 ----- 108:0-rel 105:1-ARG0 106:1-ARGM-ADV 107:1-ARGM-ADV 109:2-ARG1 112:2-ARG2
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 113 gold 是-v 是.01 ----- 113:0-rel 112:1-ARG0 114:3-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 117 gold 干-v 干.01 ----- 117:0-rel 114:0*114:1*118:0*118:1-ARG1 115:2-ARG0
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 124 gold 担任-v 担任.01 ----- 124:0-rel 123:1-ARGM-ADV 125:2-ARG1 121:0*121:1*122:0*122:1*128:1-ARG0
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 129 gold 组成-v 组成.02 ----- 129:0-rel 121:3-ARG0 131:3-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 133 gold 有-v 有.03 ----- 133:0-rel 134:3-ARG1 131:0*131:1*132:0*132:1*139:1-ARG0
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 146 gold 相当-v 相当.01 ----- 146:0-rel 141:1-ARGM-LOC 142:1-ARG0 145:1-ARG0
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 156 gold 开会-v 开会.01 ----- 156:0-rel 155:1-ARG0
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 158 gold 宣布-v 宣布.01 ----- 158:0-rel 148:2-ARG0 155:3-ARGM-TMP 160:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 172 gold 大-v 大.01 ----- 172:0-rel 164:2-ARG0 166:1-ARGM-ADV 167:1-ARGM-ADV 174:1-ARGM-EXT
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 178 gold 包括-v 包括.01 ----- 178:0-rel 164:2-ARG0 177:1-ARGM-ADV 180:2-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 191 gold 指责-v 指责.02 ----- 191:0-rel 187:2-ARG0 192:1-ARG1 193:2-ARG2
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 194 gold 干预-v 干预.01 ----- 194:0-rel 193:1-ARG0 195:3-ARG1
+bn/vom/01/vom_0105@0105@vom@bn@ch@on 0 203 gold 蒙上-v 蒙上.01 ----- 203:0-rel 193:1-ARG0 199:1-ARG1 205:1-ARG2

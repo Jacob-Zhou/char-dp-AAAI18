@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 尽其所能 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 国际)
+                    (NN 社会))
+                    (VP (ADVP (AD 将))
+                    (VP (VP (VV 尽其所能)) 
+                    
+                </parse>
+                <arg n="0">
+                    国际 社会          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 草菅人命 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 见死不救))
+                    (PU ，)
+                    (VP (ADVP (AD 眼睁睁))
+                    (VP (VV 看)
+                    (AS 着)
+                    (IP-OBJ (NP-SBJ (PN 他))
+                    (VP (VV 服食)
+                    (NP-OBJ (NN 农药))))))
+                    (PU ，)
+                    (VP (ADVP (AD 又))
+                    (ADVP (AD 没有))
+                    (VP (VV 通知)
+                    (NP-OBJ (NN 医护)
+                    (NN 单位))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 进行)
+                    (NP-OBJ (NN 急救))))))
+                    (PU ，)
+                    (VP (ADVP (AD 根本))
+                    (ADVP (AD 就))
+                    (VP (VC 是)
+                    (VP (VV 草菅人命)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

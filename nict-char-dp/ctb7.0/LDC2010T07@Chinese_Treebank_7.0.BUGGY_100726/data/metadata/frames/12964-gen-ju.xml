@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 根据 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing based on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 根据)
+                    (IP-OBJ (NP-SBJ (NN 立委))
+                    (VP (VV 转述)))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    立委 转述          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

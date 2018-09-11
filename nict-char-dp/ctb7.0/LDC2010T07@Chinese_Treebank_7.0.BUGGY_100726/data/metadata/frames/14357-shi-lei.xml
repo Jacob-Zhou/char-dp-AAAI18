@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拭泪 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (ADVP (AD 尽情))
+                    (VP (VV 拭泪)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <arg n="m" f="adv">
+                    尽情          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

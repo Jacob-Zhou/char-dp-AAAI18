@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="空-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="the sky, the air" group="1">
+<commentary>
+</commentary>
+<examples>
+天津 与 俄罗斯 有 方便 快捷 的 空 、 海 、 陆港 相通
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="in vain, futile" group="1">
+<commentary>
+</commentary>
+<examples>
+一 月 今年 始 ， 一 年 前 事 空 ， 凄凄 百 年 事 ， 应 与 一 年 同
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="empty, hollow, vacant" group="1">
+<commentary>
+</commentary>
+<examples>
+淡海 新 市镇 高楼 大厦 一 幢 一 幢 的 盖 ， 可是 空 屋 一 堆
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="silly, dumb (in Southern Min dialect)" group="1">
+<commentary>
+</commentary>
+<examples>
+大人 叫 这些 小孩 空 囝仔
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="bear market (on stock exchange)" group="1">
+<commentary>
+</commentary>
+<examples>
+产业界 对 金融 风暴 的 冲击 ， 倾向 用 「 短 空 长 多 」 来 形容
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="free time" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="opening (of space)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

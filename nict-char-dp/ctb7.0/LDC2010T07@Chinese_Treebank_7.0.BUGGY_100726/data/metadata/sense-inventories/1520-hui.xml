@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="会-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to have ability to do, to be able to (followed by a VP)" group="1">
+<commentary>VV</commentary>
+<examples>
+李小姐会滑雪吗?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to have ability to do, to be able to (followed by a NP)" group="1">
+<commentary>VV</commentary>
+<examples>
+小明会这题数学吗?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be good at, to be proficient in" group="1">
+<commentary>VV</commentary>
+<examples>
+那家钟表店的老板很会修各类的钟表。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to be likely to, to be liable to" group="1">
+<commentary>VV</commentary>
+<examples>
+气象报导说明天会下雨。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="will" group="1">
+<commentary>VV</commentary>
+<examples>
+我明天会把书带来。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to pay the bill, to pick up the tab" group="1">
+<commentary>VV</commentary>
+<examples>
+这顿饭钱我会过了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="meeting" group="1">
+<commentary>NN</commentary>
+<examples>
+张老师也在会上讲了话。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="organization" group="1">
+<commentary>NN</commentary>
+<examples>
+海基，海协两会是两岸沟通的桥梁。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to assemble, to gather together" group="1">
+<commentary>VV</commentary>
+<examples>
+明早七点在大门口会齐。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="to meet with, to see" group="1">
+<commentary>VV</commentary>
+<examples>
+此行的另一目地是要会这间学校的校长。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="to understand, to comprehend" group="1">
+<commentary>VV</commentary>
+<examples>
+这诀窍只可意会,不可言传。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="12" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

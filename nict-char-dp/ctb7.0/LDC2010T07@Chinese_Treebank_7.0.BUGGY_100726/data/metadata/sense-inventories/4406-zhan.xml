@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="站-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to take a position or a perspective" group="1">
+<commentary>
+</commentary>
+<examples>
+考夫曼 称 他 手下 的 １８ 名 球员 中 有 “ 三 到 四 位 ” 站 在 资方 一 边
+而 站 在 中共 的 立场 ， 能够 把 改革 开放 的 经验
+书 中 批 孔子 、 评 孟子 、 刺 韩非 ， 都 站 在 新 时代 重新 看 过去
+华侨 也 相当 关切 这 项 灾情 ， 发挥 血 浓于 水 的 精神 ， 捐出 新台币 １９亿多 元 的 款项 并且 与 灾民 站 在一起
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="get back on one's feet" group="1">
+<commentary>
+</commentary>
+<examples>
+台湾 与 灾区 并没有 被 击倒 ， 并且 以 坚毅 的 自信 与 国家 的 尊严 勇敢 的 站起来
+当选 的 陈水扁 在 以 「 台湾 站 起来 ―― 迎接 向上 提升 的 新 时代 」
+吵 得 他 这 个 旁观者 不 能 睡 ， 站 出来 大 叫 一 声 ： 「 不 要 吵 了 ！ 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="stop (classifier)" group="1">
+<commentary>
+</commentary>
+<examples>
+１４号 已经 抵达 了 瑞士 日内瓦 ， 进行 第二 站 的 访问 行程
+大隘社 在 石冈 的 土牛 国小 设立 「 石冈仔 工作 站 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to stand (in an up-right position), to stay (in a  particular position)" group="1">
+<commentary>
+</commentary>
+<examples>
+大街 上 许多 商家 的 门口 都 站 着 有 戴 着 红 帽 装 着 红 衣服 的 圣诞 老人
+宣宗 的 球杆 ， 一 根根 分门别类 「 站 」 在 特制 的 球台 上
+陆铿 是 华人 新闻界 最 资深 的 老 前辈 ， 八十一 岁 的 高龄 却 还 站 在 第一 线 上
+充分 证明 以 国家 兴亡 为 己任 ， 站 在 时代 的 前列
+如果 没有 民主 前辈们 前仆后继 的 无畏 牺牲 、 没有 千万 人民 对于 自由 民主 的 坚定 信仰 ， 我们 今天 就 不 可能 站 在 自己 亲爱 的 土地 上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="idiomatic usage, meaning reasonable (站得住脚)" group="1">
+<commentary>
+</commentary>
+<examples>
+首先 ， 美国 的 这 次 行动 没有 任何 站 得 住 脚 的 理由
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="16" ann_1_2_agreement="0.9375" />
+</inventory>

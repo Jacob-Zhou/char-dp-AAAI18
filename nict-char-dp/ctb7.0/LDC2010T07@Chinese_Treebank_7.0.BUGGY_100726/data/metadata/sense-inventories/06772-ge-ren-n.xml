@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="06772-ge-ren-n-n 个人-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="个人, individual," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+
+
+个人负责。
+
+individual responsibility
+
+
+
+
+
+
+
+个人问题。
+
+individual problem
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+
+
+<sense n="2" type="" name="个人, personal, personality," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+计较个人名利。
+
+A concern for personal fame and gain.
+
+
+
+
+
+
+
+个人崇拜。
+
+personality cult
+
+
+
+
+
+
+
+个人简历
+
+personal particulars
+
+
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+
+
+<sense n="3" type="" name="个人, own," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+个人持有
+
+hold in his own possession
+
+
+
+
+
+
+
+用他的个人名义。
+
+in his own name
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>
+

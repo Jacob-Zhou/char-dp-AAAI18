@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 烧掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing arg0 burns"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 还好))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 只))
+                    (VP (VV 烧掉)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 部分))
+                    (NP (NN 杂物))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    还好          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    只          
+                </arg>
+                <arg n="1">
+                    部分 杂物          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

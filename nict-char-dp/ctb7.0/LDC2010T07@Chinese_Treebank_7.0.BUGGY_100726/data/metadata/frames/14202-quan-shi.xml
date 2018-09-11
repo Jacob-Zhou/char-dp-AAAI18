@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 全失 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing lost"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 投资人))
+                    (VP (NP-FOC-1 (NN 信心))
+                    (VP (VV 全失)
+                    (NP-OBJ (-NONE- *T*-1)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    投资人           
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 信心          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

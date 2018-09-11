@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 也罢 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP-FOC (NP-FOC-1 (DP (DT 这)
+                    (CLP (M 种)))
+                    (NP (NN 邻居)))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 要)
+                    (NP-OBJ (-NONE- *-1)))))
+                    (VP (VV 也罢))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="0" f="prd">
+                    这 种 邻居 不 要           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

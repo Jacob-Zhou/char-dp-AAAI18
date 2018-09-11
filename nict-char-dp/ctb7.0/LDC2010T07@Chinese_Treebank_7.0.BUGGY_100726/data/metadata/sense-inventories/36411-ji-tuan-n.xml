@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="36411-ji-tuan-n 集团-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="集团, 公司; bloc, group, corporations, companies" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+军事集团
+
+a military bloc.
+
+
+
+外国集团
+
+Foreign corporations.
+
+
+
+集团公司
+
+company group.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="组织﹐团体, organization, ring," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+犯罪集团
+
+Criminal groups.
+
+
+
+犯罪集团
+
+criminal ring
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+
+

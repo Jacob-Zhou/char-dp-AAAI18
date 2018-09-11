@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 失窃 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="place"/>
+        <role argnum="1" argrole="thing stolen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 家中))
+                    (VP (VV 失窃)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (ADJP (JJ 机密))
+                    (NP (NN 文件))) 
+                    
+                </parse>
+                <arg n="0">
+                    家中          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 机密 文件          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

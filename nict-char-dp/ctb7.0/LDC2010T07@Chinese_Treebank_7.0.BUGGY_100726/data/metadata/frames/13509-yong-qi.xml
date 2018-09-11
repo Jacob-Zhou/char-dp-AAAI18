@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 涌起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 中关村))
+                    (NP (NN 科技园))
+                    (QP (ADJP (JJ 新))
+                    (QP (CD 一)
+                    (CLP (M 轮))))
+                    (NP (NN 创业)
+                    (NN 热潮)))
+                    (VP (VV 涌起)) 
+                    
+                </parse>
+                <arg n="0">
+                    中关村 科技园 新 一 轮 创业 热潮          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

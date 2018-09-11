@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一查到底 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="investigator"/>
+        <role argnum="1" argrole="entity investigated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP (DP (DT 各))
+                    (NP (NN 级)))
+                    (NP (NN 政府)))
+                    (CC 和)
+                    (NP (DP (DT 各))
+                    (ADJP (JJ 有关))
+                    (NP (NN 部门))))
+                    (VP (VV 要)
+                    (VP (VP (VV 支持)
+                    (IP-OBJ (NP-SBJ (ADJP (JJ 执法))
+                    (NP (NN 机关)))
+                    (VP (ADVP (AD 依法))
+                    (VP (VV 办案)))))
+                    (PU ，)
+                    (VP (VV 敢于)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 碰硬))))
+                    (PU ，)
+                    (VP (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 不论))
+                    (VP (VRD (VV 涉及)
+                    (VV 到))
+                    (NP-OBJ (NP (DP (DT 什么))
+                    (NP (NN 单位)))
+                    (PU 、)
+                    (NP (DP (DT 什么))
+                    (NP (NN 人)))))))
+                    (ADVP (AD 都))
+                    (VP (VV 要)
+                    (VP (VP (VV 一查到底))
+                    (PU ，)
+                    (VP (ADVP (AD 绝))
+                    (ADVP (AD 不))
+                    (VP (VV 姑息)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    各 级 政府 和 各 有关 部门          
+                </arg>
+                <arg n="m" f="adv">
+                    不论 涉及 到 什么 单位 、 什么 人          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

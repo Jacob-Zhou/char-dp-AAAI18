@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 气绝 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (NN 死者)
+                    (NN 先生))
+                    (VP (VV 发现)))
+                    (LC 时))
+                    (NP-PN-SBJ (NR 司秀娟))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 气绝)
+                    (ADVP (AD 多时)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    死者 先生 发现 时          
+                </arg>
+                <arg n="0">
+                    司秀娟          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="m" f="ext">
+                    多时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

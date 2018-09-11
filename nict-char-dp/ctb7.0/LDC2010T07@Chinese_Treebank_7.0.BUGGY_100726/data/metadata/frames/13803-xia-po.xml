@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 下坡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-2))
+                    (VP (VP (VV 骑)
+                    (NP-OBJ (NN 车)))
+                    (VP (PP-MNR (P 经过)
+                    (NP-PN (NR 园林)
+                    (NR 四同向桥)))
+                    (VP (VV 下坡))))))
+                    (DEC 的)))
+                    (NP (NN 时候))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-2 -> 时候          
+                </arg>
+                <arg n="m" f="adv">
+                    经过 园林 四同向桥          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

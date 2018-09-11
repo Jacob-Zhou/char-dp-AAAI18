@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 问顶 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme arg0 makes attempt at winning"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 戈尔))
+                    (VP (VV 问顶)
+                    (NP-PN-OBJ (NR 白宫)))) 
+                    
+                </parse>
+                <arg n="0">
+                    戈尔          
+                </arg>
+                <arg n="1">
+                    白宫          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 砍杀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 发酒疯)))
+                    (DEC 的)))
+                    (NP (NN 儿子)))
+                    (VP (VV 砍杀)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NN 老母))
+                    (DEG 的))
+                    (NP (NN 手背)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    发酒疯 的 儿子          
+                </arg>
+                <arg n="1">
+                    老母 的 手背          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

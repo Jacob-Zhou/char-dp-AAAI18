@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="32671-di-qu-n 地区-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="areas, 地区," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+住宅地区。
+
+residential areas.
+
+
+
+水灾地区
+
+a flood-affected area.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="locality， 地区，地方，" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+这两家工厂在同一地区。
+
+The two factories are in the same locality.
+
+
+
+住在潮湿地区的人易患风湿病。
+
+Rheumatism affects peole living in damp localities.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="3" type="" name="grgion, regional，zone, 地区，地方，" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+地区差价
+
+paricties according to region.
+
+
+
+地区工资类别
+
+wage zones
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

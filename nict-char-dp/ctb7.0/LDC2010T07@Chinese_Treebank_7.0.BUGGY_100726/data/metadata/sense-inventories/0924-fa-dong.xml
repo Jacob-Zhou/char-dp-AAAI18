@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发动-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to start, to launch, to set into action" group="1">
+<commentary>
+</commentary>
+<examples>
+１９７４年 ， 希族人 为 寻求 与 希腊 联盟 而 发动 政变 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to start up, to turn on (a machine)" group="1">
+<commentary>
+</commentary>
+<examples>
+通过 卫星 上 的 远地点 发动机 ３ 次 发动
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to mobilize" group="1">
+<commentary>
+</commentary>
+<examples>
+作为 这 次 游说 的 后续 行动 ， 他 准备 发动 公司 下属 的 数万 名 经销商 给 当地 国会 议员 写信 ， 支持 延长 中国 的 贸易 最惠国 待遇
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="65" ann_1_2_agreement="0.969230769231" />
+</inventory>

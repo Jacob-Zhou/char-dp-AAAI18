@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 难受 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="cause"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="dir" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 一)))
+                    (NP (NN 幕)))
+                    (VP (PP-DIR (P 对)
+                    (LCP (NP (DP (DT 另)
+                    (QP (CD 一)
+                    (CLP (M 个))))
+                    (NP (NN 家庭)))
+                    (LC 来说)))
+                    (ADVP (AD 却))
+                    (ADVP (AD 更))
+                    (VP (VA 难受)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="1">
+                    这 一 幕          
+                </arg>
+                <arg n="0">
+                    对 另 一 个 家庭 来说          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="adv">
+                    更          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

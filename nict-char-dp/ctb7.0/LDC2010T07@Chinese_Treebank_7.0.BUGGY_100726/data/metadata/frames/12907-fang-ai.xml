@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 防碍 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 防碍)
+                    (NP-OBJ (NN 司法))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    司法          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

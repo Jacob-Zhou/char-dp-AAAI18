@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 寻线 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警方))
+                    (VP (ADVP (AD 后来))
+                    (VP (VP (VV 寻线))
+                    (VP (ADVP (AD 先))
+                    (VP (VV 救出)
+                    (NP-OBJ (DP (DT 其他))
+                    (NP (NN 被害人)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="m" f="tmp">
+                    后来          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

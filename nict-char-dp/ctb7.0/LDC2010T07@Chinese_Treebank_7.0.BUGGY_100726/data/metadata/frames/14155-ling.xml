@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 另 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="causer"/>
+        <role argnum="1" argrole="causee"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 另)
+                    (NP-OBJ (NN 人))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 震惊)))))
+                    (DEC 的)))
+                    (NP (NN 行动))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 行动          
+                </arg>
+                <arg n="1">
+                    人          
+                </arg>
+                <arg n="2">
+                    震惊          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

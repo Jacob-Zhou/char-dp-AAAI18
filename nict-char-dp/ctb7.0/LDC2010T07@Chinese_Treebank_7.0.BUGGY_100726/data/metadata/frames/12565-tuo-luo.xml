@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 脱落 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-LOC (NP (NN 变压器))
+                    (LC 上))
+                    (NP-SBJ (DNP (QP (CD ３４万５千)
+                    (CLP (M 伏特)))
+                    (DEG 的))
+                    (NP (NN 套管)))
+                    (VP (VV 脱落))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    变压器 上          
+                </arg>
+                <arg n="0">
+                    ３４万５千 伏特 的 套管          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="居-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be in, to hold, to occupy, situated at (e.g. position, ranking, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+天津港 保税区 各 项 经济 指标 增幅 居 中国 首 位
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to live at, to reside" group="1">
+<commentary>
+</commentary>
+<examples>
+谭盾 （ 作曲家 和 指挥家 ） ： 一九五七年 於 湖南省 出生 ， 现 居 纽约 ， 以 创意 和 原创 精神 著称 ， 享负 国际 盛名
+其中 很多 是 被 居 於 拆卸 单位 的 住户 所 购买
+我们 与 海外 朋友 仿佛 比邻 而 居
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="a residence" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

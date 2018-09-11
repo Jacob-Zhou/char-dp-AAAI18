@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 禁用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme forbidden"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 为了)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 保障)
+                    (NP-OBJ (DNP (NP (NN 粮食)
+                    (PU 、)
+                    (NN 蔬菜))
+                    (DEG 的))
+                    (NP (NN 食用)
+                    (NN 安全))))))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 海南省))
+                    (VP (VV 开始)
+                    (VP (VV 禁用)
+                    (NP-OBJ (QP (CD １６)
+                    (CLP (M 种)))
+                    (ADJP (JJ 高毒)
+                    (PU 、)
+                    (JJ 高残留))
+                    (NP (NN 农药)))))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    为了 保障 粮食 、 蔬菜 的 食用 安全          
+                </arg>
+                <arg n="0">
+                    海南省          
+                </arg>
+                <arg n="1">
+                    １６ 种 高毒 、 高残留 农药          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

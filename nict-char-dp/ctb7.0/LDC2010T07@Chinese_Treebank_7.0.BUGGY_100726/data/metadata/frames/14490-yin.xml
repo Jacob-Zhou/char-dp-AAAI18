@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 饮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 drinks"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 大家))
+                    (VP (ADVP (AD 一起))
+                    (DVP (VP (VA 热闹))
+                    (DEV 的))
+                    (ADVP (AD 共))
+                    (VP (VV 饮)
+                    (PP (P 到)
+                    (NP (NT 天明))) 
+                    
+                </parse>
+                <arg n="0">
+                    大家          
+                </arg>
+                <arg n="m" f="adv">
+                    一起          
+                </arg>
+                <arg n="m" f="adv">
+                    热闹 的          
+                </arg>
+                <arg n="m" f="adv">
+                    共          
+                </arg>
+                <arg n="m" f="tmp">
+                    到 天明          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

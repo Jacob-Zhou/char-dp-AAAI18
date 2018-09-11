@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="开张-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to open for business, to start doing business" group="1">
+<commentary>
+</commentary>
+<examples>
+取名 为 “ 倍顺 ” 的 两 家 便民 超市 今天 在 此间 开张 营业 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

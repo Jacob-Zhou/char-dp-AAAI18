@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 透漏 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="information"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 涂)
+                    (NN 太太))
+                    (VP (VV 透漏)
+                    (AS 了)
+                    (NP-OBJ (NP (NN 隐案))
+                    (DNP (ADJP (JJ 最新))
+                    (DEG 的))
+                    (NP (NN 信息)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    涂 太太          
+                </arg>
+                <arg n="1">
+                    隐案 最新 的 信息          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

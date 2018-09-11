@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 热身 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 先))
+                    (VP (VP (VV 谈)
+                    (NP-OBJ (ADJP (JJ 小))
+                    (NP (NN 三通))))
+                    (PU ，)
+                    (VP (PP-BNF (P 为)
+                    (IP (NP-SBJ (QP (CD 两))
+                    (NP (NN 岸)))
+                    (VP (VV 三通))))
+                    (VP (VV 热身)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    先          
+                </arg>
+                <arg n="m" f="prp">
+                    为 两 岸 三通          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

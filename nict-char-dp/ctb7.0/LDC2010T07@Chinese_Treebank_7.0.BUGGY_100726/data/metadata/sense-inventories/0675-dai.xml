@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="待-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to need, to require" group="1">
+<commentary>
+</commentary>
+<examples>
+她们 的 技术 水平 尚 待 提高
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to deal with, to treat" group="1">
+<commentary>
+</commentary>
+<examples>
+相互 尊重 、 平等 相 待
+远来 是 客 ， 以 礼 待 之
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to stay, to remain at" group="1">
+<commentary>
+</commentary>
+<examples>
+她 家 兄妹 俩 都 曾 在 外国 待 过
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to await, to wait for" group="1">
+<commentary>
+</commentary>
+<examples>
+只 待 将 孩子 送进 小学 ， 重新 找 份 工作 应该 不 难
+不 待 秒针 走完 一 圈
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

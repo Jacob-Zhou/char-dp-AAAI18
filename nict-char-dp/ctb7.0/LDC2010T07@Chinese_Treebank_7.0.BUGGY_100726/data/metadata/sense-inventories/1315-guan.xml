@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="管-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to control, to run, to manage, to administer" group="1">
+<commentary>
+</commentary>
+<examples>
+海关 是 管 钱 、 管 物 的 单位
+公平会 也 无 法 可 管
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="pipe, tube" group="1">
+<commentary>
+</commentary>
+<examples>
+土地 开发商 共 投入 四十亿 港元 用 于 电厂 、 区 内 主干道 及 地下 管 网 、 土地 平整 、 邮电 通讯 等 基础 设施 建设
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to discipline" group="1">
+<commentary>
+</commentary>
+<examples>
+孩子 还是 管 不 住 ， 怕 要 变坏 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to care" group="1">
+<commentary>
+</commentary>
+<examples>
+使得 爱美 不 分 男女 ， 塑身 那 管 老少
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="classifier for tube-shaped things" group="1">
+<commentary>
+</commentary>
+<examples>
+好不容易 存 了 钱 ， 也 只 够 买上 一 管 油画 颜料
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="wind instrument" group="1">
+<commentary>
+</commentary>
+<examples>
+生活 中 书 画 棋奕 、 管 笛 拳术 样样 通 ， 都 是 来自 父亲 的 影响
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to provide" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="16" ann_1_2_agreement="0.8125" />
+</inventory>

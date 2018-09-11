@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 指使 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 orders"/>
+        <role argnum="2" argrole="thing arg0 orders arg1 to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 背后))
+                    (VP (VV 指使)
+                    (NP-OBJ (NN 暴力)))))
+                    (DEC 的)))
+                    (NP (NN 人)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 人          
+                </arg>
+                <arg n="m" f="adv">
+                    背后          
+                </arg>
+                <arg n="1">
+                    暴力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VP (VV 指使)
+                    (NP-OBJ (NN 手下))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 台北)
+                    (NR 古城))))
+                    (VP (VV 吸收)
+                    (NP-OBJ (NN 青少年))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="1">
+                    手下          
+                </arg>
+                <arg n="2">
+                    在 台北 古城 吸收 青少年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

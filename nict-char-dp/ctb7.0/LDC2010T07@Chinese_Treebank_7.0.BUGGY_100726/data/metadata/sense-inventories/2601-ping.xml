@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="平-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="level, even, flat, to make level, to flatten (of
+physical measurement)" group="1">
+<commentary>
+</commentary>
+<examples>
+路 不 平
+实行 平 垸 行 洪 、 退 田 还 湖
+已 累计 开发 土地 五 平方公里 ， 基础 设施 投资 十一亿 元 ， 达到 “ 七 通 一 平 ” 的 投资 要求
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to equalize, to be on the same level" group="1">
+<commentary>
+</commentary>
+<examples>
+球杆 虽 稍稍 打弯 ， 但 伍兹 也 平 了 标准杆
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="calm, peaceful (of mentality, temperament, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+另外 ， 总 员额 两万两千 人 的 海巡署 变成 行政院 的 一 级 单位 ， 总 员额 七万多 的 警察 仍 「 窝 」 在 行政院 二 级 单位 ， 也 叫 许多 警界 人士 不 平
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to tie another (in sports games, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+辰吉丈一郎 的 战绩 是 ２３ 战 １７ 胜 、 ５ 负 、 １ 平
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="indicating the result of a verb (e.g. solve
+problems, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+否则 私权 被 影响 ， 未来 地主 利益 摆 不 平 ， 纠纷 必然 不断
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

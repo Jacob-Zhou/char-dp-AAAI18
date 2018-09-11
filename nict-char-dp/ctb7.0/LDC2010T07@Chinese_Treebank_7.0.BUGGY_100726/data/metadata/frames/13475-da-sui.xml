@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 打碎 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity broken"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 据)
+                    (NP (NN 报道)))
+                    (NP-SBJ (NN 反对派))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 控制)
+                    (NP-OBJ (NN 议会)
+                    (NN 大厦))))
+                    (LC 之后))
+                    (PU ，)
+                    (VP (VP (VV 打碎)
+                    (NP-OBJ (NN 窗户))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    据 报道          
+                </arg>
+                <arg n="0">
+                    反对派          
+                </arg>
+                <arg n="m" f="tmp">
+                    控制 议会 大厦 之后          
+                </arg>
+                <arg n="1">
+                    窗户          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

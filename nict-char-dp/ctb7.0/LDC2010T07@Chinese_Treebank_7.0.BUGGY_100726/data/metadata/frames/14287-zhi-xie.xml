@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 致谢 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party thanked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 并))
+                    (VP (VV 代表)
+                    (NP-PN-OBJ (NR 纽约)
+                    (CC 还有)
+                    (NR 美国)))))
+                    (PU ，)
+                    (NP-SBJ (PN 我们))
+                    (VP (ADVP (AD 一起))
+                    (VP (VV 致谢)
+                    (NP-PN-OBJ (NR 穆那汉)
+                    (NN 参议员))))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    并 代表 纽约 还有 美国          
+                </arg>
+                <arg n="0">
+                    我们          
+                </arg>
+                <arg n="m" f="adv">
+                    一起          
+                </arg>
+                <arg n="1">
+                    穆那汉 参议员          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

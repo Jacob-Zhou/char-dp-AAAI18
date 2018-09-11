@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 上报 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="information"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (DP (DT 各))
+                    (NP (NN 省)
+                    (PU 、)
+                    (NN 自治区)
+                    (PU 、)
+                    (NN 直辖市)))
+                    (VP (VV 上报)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 数据)))) 
+                    
+                </parse>
+                <arg n="0">
+                    各 省 、 自治区 、 直辖市          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 数据          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="找到-v">
+<commentary>
+I suggest sense tagger to first think about the meaning of 找 in the sentential context before combining 找 with 到
+</commentary>
+<sense n="1" type="" name="to find, to locate" group="1">
+<commentary>
+</commentary>
+<examples>
+亚太 地区 必须 找到 自己 的 发展 方式
+或者 能 及时 找到 外资 奥援
+找到 １２ 具 罹难者 的 尸体
+谈 妈祖 ， 谈 同乡 情谊 ， 台 澳 之间 并 不 难 找到 话题
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

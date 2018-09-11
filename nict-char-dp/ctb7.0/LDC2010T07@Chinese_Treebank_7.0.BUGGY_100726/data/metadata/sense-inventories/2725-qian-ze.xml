@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="谴责-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to condemn" group="1">
+<commentary>
+</commentary>
+<examples>
+也门 驻 联合国 代表 阿什塔尔 强烈 谴责 这 起 事件 ， 要求 联合国 安理会 对 被 通过 的 对 伊拉克 动武 的 ６７８ 号 决议 负责 。
+德奎利亚尔 对 伊 平民 死亡 表示 悲痛 一些 国家 谴责 多国 部队 屠杀 无辜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 多加 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="activity"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 所以))
+                    (NP-SBJ (NN 市民))
+                    (VP (VV 可以)
+                    (VP (VV 多加)
+                    (NP-OBJ (NN 利用)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    所以           
+                </arg>
+                <arg n="0">
+                    市民          
+                </arg>
+                <arg n="1">
+                    利用          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

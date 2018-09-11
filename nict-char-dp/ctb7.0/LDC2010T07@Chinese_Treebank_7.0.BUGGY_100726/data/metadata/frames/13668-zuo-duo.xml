@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 作多 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NN 财政部))
+                    (VP (ADVP (AD 并))
+                    (ADVP (AD 将))
+                    (PP-ADV (P 会同)
+                    (NP (NN 司法)
+                    (NN 单位)))
+                    (VP (VP (VV 加强)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 查稽)
+                    (NP-OBJ (NN 市场)
+                    (NN 流言)))))
+                    (PU ，)
+                    (VP (ADVP (AD 强力))
+                    (VP (VV 作多)))) 
+                    
+                </parse>
+                <arg n="0">
+                    财政部          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="0" f="crd">
+                    会同  司法单位          
+                </arg>
+                <arg n="m" f="adv">
+                    强力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

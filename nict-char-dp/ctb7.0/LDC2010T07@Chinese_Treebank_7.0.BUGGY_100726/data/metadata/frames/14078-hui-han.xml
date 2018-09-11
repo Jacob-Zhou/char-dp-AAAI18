@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 挥汗 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 选手们))
+                    (VP (VP (VRD (VV 跑)
+                    (VV 完))
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 大会))
+                    (VP (VV 规划)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 路线))))
+                    (PU ，)
+                    (VP (ADVP (AD 最后))
+                    (ADVP (AD 都))
+                    (ADVP (AD 统统))
+                    (VP (VP (VV 回到)
+                    (AS 了)
+                    (NP-PN-OBJ (NR 台中)
+                    (NN 体育场)))
+                    (PU ，)
+                    (VP (VP (ADVP (AD 尽情))
+                    (VP (VV 挥汗))) 
+                    
+                </parse>
+                <arg n="0">
+                    选手们          
+                </arg>
+                <arg n="m" f="tmp">
+                    最后          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    统统          
+                </arg>
+                <arg n="m" f="adv">
+                    尽情          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

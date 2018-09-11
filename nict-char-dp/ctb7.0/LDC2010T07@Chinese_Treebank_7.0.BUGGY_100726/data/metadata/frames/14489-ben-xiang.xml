@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 奔向 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="goal"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 原))
+                    (VP (VV 属)
+                    (NP-OBJ (NN 铁路)))))
+                    (DEC 的)))
+                    (QP (CD 五))
+                    (ADJP (JJ 大))
+                    (NP (NN 公司)))
+                    (VP (VP (PP-ADV (P 和)
+                    (NP (NN 铁道部)))
+                    (VP (VV 脱钩)))
+                    (PU ，)
+                    (VP (VV 转属)
+                    (NP-PN-OBJ (NN 中央)
+                    (NN 企业)
+                    (NN 工委)))
+                    (PU ，)
+                    (VP (VV 开始)
+                    (VP (VV 奔向)
+                    (NP-OBJ (NP (NN 市场))
+                    (ADJP (JJ 自主))
+                    (NP (NN 经营)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    原 属 铁路 的 五 大 公司          
+                </arg>
+                <arg n="1">
+                    市场 自主 经营          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

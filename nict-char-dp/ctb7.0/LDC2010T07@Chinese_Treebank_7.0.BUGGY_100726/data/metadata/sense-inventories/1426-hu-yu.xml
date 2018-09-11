@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="呼吁-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="making an appeal to a particular group" group="1">
+<commentary>
+</commentary>
+<examples>
+安理会 呼吁 安哥拉 冲突 双方 协助 寻找 空难 幸存者
+陈元 呼吁 PRO 加强 国际 合作 推动 世界 经济 发展
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb>f1</pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="making an appeal to some general audience" group="1">
+<commentary>
+</commentary>
+<examples>
+专家 呼吁 ， 可可西里 亟待 加大 保护
+昨天 新泽西 网队 明星 威廉姆斯 便 也 加入 呼吁 公开 投票 的 阵营
+除 威廉姆斯 和 威利斯 公开 呼吁 外
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb>f2</pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="appeal, noun usage" group="1">
+<commentary>
+</commentary>
+<examples>
+这 绝 不 是 倡导 清贫 思想 、 简朴 生活 ， 或是 「 重 建 人生 新 价值观 」 之类 的 呼吁 就 能 遏止 的 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb>f2</pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="173" ann_1_2_agreement="0.832369942197" />
+</inventory>

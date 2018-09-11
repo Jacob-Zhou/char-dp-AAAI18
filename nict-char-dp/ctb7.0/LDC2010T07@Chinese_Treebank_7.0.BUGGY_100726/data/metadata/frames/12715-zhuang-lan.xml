@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撞烂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing arg0 smashes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-LOC (DNP (NP (NN 死难者))
+                    (DEG 的))
+                    (NP (NN 当中)))
+                    (NP-SBJ-3 (DNP (NP (QP (CD 一些))
+                    (NP (NN 人)))
+                    (DEG 的))
+                    (NP (NN 尸体)))
+                    (VP (VP (SB 被)
+                    (VP (ADVP (AD 严重))
+                    (VP (VV 烧焦)
+                    (NP-OBJ (-NONE- *-3)))))
+                    (CC 或者)
+                    (VP (SB 被)
+                    (VP (VV 撞烂)
+                    (NP-OBJ (-NONE- *-3)))))))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    死难者 的 当中          
+                </arg>
+                <arg n="1">
+                    一些 人 的 尸体 -> *-3          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

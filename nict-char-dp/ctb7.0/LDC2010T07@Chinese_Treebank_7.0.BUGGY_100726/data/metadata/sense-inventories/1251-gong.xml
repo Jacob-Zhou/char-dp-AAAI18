@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="共-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to share" group="1">
+<commentary>
+</commentary>
+<examples>
+要 加强 军政 、 军民 团结 ， 真正 做到 与 各 族 人民 同 呼吸 、 共 命运 、 心连心 。
+天涯 共 此时
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="altogether, in all, in total" group="1">
+<commentary>
+</commentary>
+<examples>
+去年 经 台 当局 核准 的 台商 投资案 共 四百九十 项 ， 金额 为 十点九二亿 美元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="collectively, together" group="1">
+<commentary>
+</commentary>
+<examples>
+东盟 同 中 日 韩 加强 合作 ， 共 谋 发展
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="abbreviation of the communist party" group="1">
+<commentary>
+</commentary>
+<examples>
+半解放区 的 亲 共 势力 强大
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="13" ann_1_2_agreement="0.692307692308" />
+</inventory>

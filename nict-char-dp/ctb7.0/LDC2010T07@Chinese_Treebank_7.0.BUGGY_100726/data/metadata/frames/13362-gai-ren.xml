@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 改任 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="new position"/>
+        <role argnum="2" argrole="original position"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 沈方泉))
+                    (VP (PP-DIR (P 由)
+                    (NP (NN 技术员)))
+                    (VP (VV 改任)
+                    (NP-OBJ (NP (NN 导弹)
+                    (NN 测试)
+                    (NN 连))
+                    (NP (NN 连长)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    沈方泉          
+                </arg>
+                <arg n="2">
+                    由 技术员          
+                </arg>
+                <arg n="1">
+                    导弹 测试 连 连长          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

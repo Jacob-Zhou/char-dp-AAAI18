@@ -1,0 +1,1156 @@
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 0 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:6-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 1 4 gold 好-v 好.01 ----- 4:0-rel 3:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 2 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 2 5 gold 好-v 好.01 ----- 5:0-rel 4:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 3 2 gold 欢迎-v 欢迎.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 3 5 gold 来到-v 来到.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 4 4 gold 欢迎-v 欢迎.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 5 4 gold 好-v 好.01 ----- 4:0-rel 3:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 6 4 gold 请-v 请.01 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-DIS 5:1-ARG1 6:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 6 10 gold 欢迎-v 欢迎.01 ----- 10:0-rel 6:1-ARG0 7:1-ARGM-ADV 9:1-ARGM-ADV 1:1*11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 6 14 gold 是-v 是.01 ----- 14:0-rel 1:3-ARG0 13:1-ARGM-ADV 16:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 7 4 gold 好-v 好.01 ----- 4:0-rel 3:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 8 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 9 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 9 13 gold 看-v 看.02 ----- 13:0-rel 4:1-ARGM-LOC 8:1-ARG0 9:1-ARGM-ADV 10:1-ARGM-LOC 16:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 10 6 gold 欢迎-v 欢迎.01 ----- 6:0-rel 1:1-ARG0 2:2-ARGM-ADV 7:6-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 11 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 12 20 gold 走-v 走.01 ----- 20:0-rel 1:1-ARGM-DIS 4:2-ARG0 11:1-ARGM-ADV 19:1-ARGM-ADV 13:3*23:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 13 7 gold 做-v 做.05 ----- 7:0-rel 1:1-ARGM-LOC 6:1-ARG0 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 13 11 gold 是-v 是.01 ----- 11:0-rel 12:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 13 19 gold 认为-v 认为.01 ----- 19:0-rel 18:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 14 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 14 5 gold 展望-v 展望.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 14 8 gold 展望-v 展望.01 ----- 8:0-rel 4:1-ARG0 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 15 2 gold 是-v 是.03 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 15 8 gold 来-v 来.05 ----- 8:0-rel 5:1-ARGM-DIS 6:1-ARG0 7:1-ARGM-ADV 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 15 9 gold 欢迎-v 欢迎.01 ----- 9:0-rel 5:1-ARGM-DIS 6:1-ARG0 7:1-ARGM-ADV 10:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 16 8 gold 看-v 看.02 ----- 8:0-rel 1:1-ARG0 2:1-ARGM-LOC 7:1-ARGM-ADV 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 18 18 gold 是-v 是.01 ----- 18:0-rel 1:1-ARGM-DIS 4:3-ARG0 16:1-ARGM-DIS 17:1-ARGM-ADV 19:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 19 8 gold 说-v 说.01 ----- 8:0-rel 3:1-ARGM-DIS 6:2-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 19 10 gold 排外-v 排外.01 ----- 10:0-rel 9:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 20 6 gold 排外-v 排外.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 21 4 gold 是-v 是.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 21 6 gold 在-v 在.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 21 11 gold 得-v 得.02 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 21 18 gold 认-v 认.02 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-DIS 19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 21 23 gold 对-v 对.02 ----- 23:0-rel 22:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 22 10 gold 可能-v 可能.02 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 22 11 gold 可以-v 可以.01 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 22 12 gold 看到-v 看到.01 ----- 12:0-rel 1:1-ARGM-ADV 2:1-ARGM-LOC 9:1-ARG0 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 23 3 gold 希望-v 希望.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 23 14 gold 服务-v 服务.01 ----- 14:0-rel 4:1-ARG0 5:1-ARGM-TMP 8:1-ARGM-LOC 10:2-ARGM-ADV 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 24 4 gold 贡献-v 贡献.01 ----- 4:0-rel 1:1-ARG0 2:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 24 7 gold 是-v 是.01 ----- 7:0-rel 1:2-ARG0 6:1-ARGM-DIS 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 24 11 gold 贡献-v 贡献.01 ----- 11:0-rel 8:1-ARG0 9:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 24 15 gold 贡献-v 贡献.01 ----- 15:0-rel 8:1-ARG0 13:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 25 2 gold 来-v 来.05 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 25 3 gold 欢迎-v 欢迎.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 30 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 31 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 32 2 gold 欢迎-v 欢迎.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 33 4 gold 看到-v 看到.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 33 14 gold 有-v 有.05 ----- 14:0-rel 13:1-ARG0 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 33 16 gold 说-v 说.01 ----- 16:0-rel 15:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 33 21 gold 是-v 是.01 ----- 21:0-rel 5:1-ARGM-TPC 6:1-ARGM-LOC 13:2-ARGM-ADV 19:1-ARGM-ADV 20:1-ARG0 22:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 33 29 gold 好-v 好.01 ----- 29:0-rel 28:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 34 6 gold 是-v 是.01 ----- 6:0-rel 1:2-ARG0 5:1-ARGM-ADV 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 35 3 gold 在-v 在.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 36 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-DIS 2:2-ARG0 6:1-ARGM-ADV 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 37 2 gold 入-v 入.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 37 7 gold 走-v 走.01 ----- 7:0-rel 1:1-ARG0 5:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 39 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 40 3 gold 有-v 有.05 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 40 5 gold 说-v 说.01 ----- 5:0-rel 4:1-ARG0 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 40 13 gold 是-v 是.04 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 40 15 gold 发-v 发.05 ----- 15:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:1-ARGM-ADV 16:1*7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 41 5 gold 要-v 要.03 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 41 8 gold 拿去-v 拿去.01 ----- 8:0-rel 1:1-ARGM-DIS 4:1-ARGM-ADV 7:1-ARG0 2:2*9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 42 2 gold 让-v 让.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 42 5 gold 去-v 去.02 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 42 6 gold 发-v 发.02 ----- 6:0-rel 4:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 42 7 gold 去-v 去.01 ----- 7:0-rel 4:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 43 4 gold 要-v 要.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 43 5 gold 掌握-v 掌握.01 ----- 5:0-rel 1:1-ARGM-ADV 2:1-ARG0 3:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 44 4 gold 掌握-v 掌握.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 45 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 45 8 gold 是-v 是.04 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 45 9 gold 有-v 有.01 ----- 9:0-rel 3:1-ARG0 4:1-ARGM-LOC 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 46 4 gold 低调-v 低调.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 46 7 gold 好-v 好.01 ----- 7:0-rel 6:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 47 6 gold 一鸣惊人-v 一鸣惊人.01 ----- 6:0-rel 3:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 48 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 48 6 gold 做-v 做.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 48 8 gold 已-v 已.01 ----- 8:0-rel 4:2-ARG0 7:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 48 13 gold 做-v 做.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 49 2 gold 来-v 来.05 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 49 3 gold 看看-v 看看.01 ----- 3:0-rel 1:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 50 3 gold 来-v 来.05 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 50 4 gold 看看-v 看看.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-DIS 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 52 5 gold 告诉-v 告诉.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 3:1-ARG0 4:1-ARGM-DIS 6:1-ARG2 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 52 13 gold 是-v 是.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 52 17 gold 来-v 来.01 ----- 17:0-rel 15:1-ARG0 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 52 20 gold 感觉-v 感觉.01 ----- 20:0-rel 15:1-ARG0 19:1-ARGM-ADV 21:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 52 23 gold 荣幸-v 荣幸.01 ----- 23:0-rel 21:1-ARG0 22:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 53 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 53 10 gold 可以-v 可以.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 53 21 gold 跨-v 跨.02 ----- 21:0-rel 19:1*20:1-ARG0 22:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 54 3 gold 拍-v 拍.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 54 12 gold 是-v 是.04 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 54 20 gold 去-v 去.02 ----- 20:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 54 21 gold 拍-v 拍.01 ----- 21:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 8:3-ARG0 19:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 55 4 gold 可以-v 可以.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 55 5 gold 看到-v 看到.01 ----- 5:0-rel 3:1-ARG0 6:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 55 15 gold 应该-v 应该.01 ----- 15:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 55 16 gold 是-v 是.04 ----- 16:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 56 7 gold 跨到-v 跨到.01 ----- 7:0-rel 1:3-ARG0 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 56 12 gold 是-v 是.01 ----- 12:0-rel 1:3-ARG0 11:1-ARGM-ADV 13:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 56 14 gold 跨-v 跨.02 ----- 14:0-rel 13:1-ARG0 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 56 19 gold 跨-v 跨.02 ----- 19:0-rel 13:1-ARG0 20:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 57 7 gold 听说-v 听说.01 ----- 7:0-rel 6:1-ARG0 1:3*8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 58 3 gold 做-v 做.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 58 12 gold 觉得-v 觉得.01 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 58 15 gold 重要-v 重要.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 59 3 gold 要-v 要.03 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 59 10 gold 建-v 建.01 ----- 10:0-rel 4:1-ARG0 6:2-ARG1 11:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 60 3 gold 请-v 请.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG1 6:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 60 7 gold 来-v 来.05 ----- 7:0-rel 6:1-ARG0 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 60 10 gold 说说-v 说说.02 ----- 10:0-rel 6:1-ARG0 8:1-ARGM-BNF
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 61 9 gold 要-v 要.05 ----- 9:0-rel 6:1-ARG0 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 61 10 gold 建-v 建.01 ----- 10:0-rel 6:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 62 9 gold 是-v 是.01 ----- 9:0-rel 1:1-ARGM-DIS 4:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 62 18 gold 重要-v 重要.01 ----- 18:0-rel 11:1*10:1-ARG0 12:3-ARGM-LOC 17:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 63 4 gold 没有-v 没有.01 ----- 4:0-rel 3:1-ARG1 5:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 64 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-DIS 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 65 10 gold 是-v 是.01 ----- 10:0-rel 3:1-ARGM-TMP 4:3-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 65 15 gold 布置-v 布置.01 ----- 15:0-rel 3:1-ARGM-TMP 4:3-ARG1 9:1-ARGM-ADV 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 66 11 gold 受-v 受.01 ----- 11:0-rel 1:1-ARGM-DIS 4:2-ARG0 9:1-ARGM-ADV 10:1-ARGM-ADV 13:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 67 8 gold 在-v 在.01 ----- 8:0-rel 1:1-ARGM-TMP 2:3-ARG0 7:1-ARGM-ADV 9:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 68 14 gold 有-v 有.03 ----- 14:0-rel 1:1-ARGM-DIS 4:3-ARG0 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 69 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 69 4 gold 讲-v 讲.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 7:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 69 18 gold 需要-v 需要.01 ----- 18:0-rel 7:3-ARG0 16:1-ARGM-ADV 17:1-ARGM-ADV 19:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 72 9 gold 对-v 对.02 ----- 9:0-rel 6:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 73 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 74 7 gold 是-v 是.04 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 74 19 gold 开发-v 开发.01 ----- 19:0-rel 1:2-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 10:1-ARGM-LOC 23:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 75 7 gold 准备-v 准备.02 ----- 7:0-rel 1:1-ARGM-TMP 3:1*10:1-ARGM-TPC 5:1-ARG0 6:1-ARGM-DIS 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 75 9 gold 开发-v 开发.01 ----- 9:0-rel 8:1-ARG0 3:1*10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 76 13 gold 有-v 有.02 ----- 13:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 6:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 77 6 gold 讲-v 讲.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 77 9 gold 没有-v 没有.01 ----- 9:0-rel 1:1-ARGM-DIS 4:2-ARGM-ADV 8:1-ARG1 10:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 78 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 78 9 gold 准备-v 准备.02 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 78 15 gold 建立-v 建立.01 ----- 15:0-rel 10:1-ARG0 11:1-ARGM-LOC 16:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 79 9 gold 好-v 好.01 ----- 9:0-rel 1:1-ARGM-DIS 2:2-ARG0 6:1-ARG0 8:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 79 12 gold 有-v 有.02 ----- 12:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 6:1-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 80 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 80 3 gold 满足-v 满足.01 ----- 3:0-rel 1:1-ARG1 9:3-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 80 14 gold 包括-v 包括.01 ----- 14:0-rel 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 80 25 gold 可以-v 可以.01 ----- 25:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 80 28 gold 进-v 进.01 ----- 28:0-rel 17:3-ARG0 21:3-ARGM-ADV 29:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 81 16 gold 是-v 是.01 ----- 16:0-rel 1:1-ARGM-TMP 2:7-ARG0 15:1-ARGM-ADV 17:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 81 19 gold 走-v 走.01 ----- 19:0-rel 1:1-ARGM-TMP 2:7-ARG0 15:1-ARGM-ADV 17:1-ARGM-MNR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 82 5 gold 建设-v 建设.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1*8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 82 13 gold 是-v 是.04 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 82 14 gold 辐射-v 辐射.01 ----- 14:0-rel 10:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-DIS 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 82 18 gold 辐射-v 辐射.01 ----- 18:0-rel 10:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-DIS 19:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 83 9 gold 会-v 会.02 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 83 10 gold 有-v 有.08 ----- 10:0-rel 1:1-ARG0 8:1-ARGM-DIS 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 84 3 gold 讲-v 讲.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 84 5 gold 要-v 要.05 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 84 6 gold 建-v 建.01 ----- 6:0-rel 4:1-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 84 11 gold 是-v 是.01 ----- 11:0-rel 4:2-ARG0 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 85 8 gold 要-v 要.05 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 6:1-ARG0 7:1-ARGM-DIS 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 85 9 gold 给-v 给.02 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 6:1-ARG0 7:1-ARGM-DIS 10:1-ARG1 11:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 85 12 gold 看-v 看.02 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 85 19 gold 知道-v 知道.01 ----- 19:0-rel 16:1-ARGM-DIS 18:1-ARG0 20:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 85 34 gold 重视-v 重视.01 ----- 34:0-rel 20:1-ARGM-ADV 26:3-ARG0 33:1-ARGM-ADV 35:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 85 60 gold 做-v 做.01 ----- 60:0-rel 39:1-ARG0 40:1-ARGM-TMP 51:1-ARGM-DIS 52:1-ARGM-ADV 53:1-ARGM-ADV 54:1-ARGM-TMP 57:1-ARGM-ADV 59:1-ARGM-DIS 62:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 86 5 gold 来-v 来.05 ----- 5:0-rel 1:1-ARGM-LOC 3:1-ARG0 4:1-ARGM-DIS 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 86 6 gold 看看-v 看看.01 ----- 6:0-rel 1:1-ARGM-LOC 3:1-ARG0 4:1-ARGM-DIS 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 86 14 gold 是-v 是.04 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 86 15 gold 有-v 有.01 ----- 15:0-rel 9:1-ARGM-TPC 10:1-ARG0 16:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 87 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 87 10 gold 为-v 为.02 ----- 10:0-rel 7:1-ARG0 8:1-ARG2 11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 87 17 gold 为-v 为.02 ----- 17:0-rel 7:1-ARG0 13:1-ARG2 18:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 88 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 88 5 gold 确定-v 确定.01 ----- 5:0-rel 4:1-ARG0 3:1*6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 89 3 gold 取得-v 取得.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 89 14 gold 联手-v 联手.01 ----- 14:0-rel 10:1-ARGM-DIS 11:1-ARG0 12:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 89 17 gold 合作-v 合作.01 ----- 17:0-rel 10:1-ARGM-DIS 11:1-ARG0 15:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 89 32 gold 是-v 是.01 ----- 32:0-rel 33:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 89 48 gold 有-v 有.03 ----- 48:0-rel 19:1-ARGM-LOC 47:1-ARG0 49:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 89 57 gold 建立-v 建立.01 ----- 57:0-rel 55:1-ARGM-LOC 56:1-ARG0 59:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 90 4 gold 开工-v 开工.01 ----- 4:0-rel 1:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 90 6 gold 是-v 是.04 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 90 7 gold 有-v 有.02 ----- 7:0-rel 1:2-ARGM-TPC 5:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 91 7 gold 有-v 有.01 ----- 7:0-rel 1:1*2:1-ARGM-TPC 3:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 91 11 gold 是-v 是.01 ----- 11:0-rel 1:3-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 91 18 gold 可以-v 可以.01 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 91 20 gold 竣工-v 竣工.01 ----- 20:0-rel 12:1-ARG0 13:1-ARGM-TMP 19:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 91 23 gold 投入-v 投入.02 ----- 23:0-rel 12:1-ARG0 13:1-ARGM-TMP 22:1-ARGM-DIS 24:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 92 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 92 7 gold 告别-v 告别.01 ----- 7:0-rel 4:1-ARG0 5:1-ARGM-ADV 9:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 92 10 gold 没有-v 没有.01 ----- 10:0-rel 9:1-ARG1 11:4-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 93 4 gold 可以-v 可以.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 93 14 gold 提高-v 提高.01 ----- 14:0-rel 1:1-ARGM-ADV 2:1-ARG0 3:1-ARGM-ADV 12:2-ARGM-ADV 15:1*6:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 94 3 gold 使-v 使.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1 6:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 94 10 gold 连接-v 连接.01 ----- 10:0-rel 6:1-ARG1 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 94 14 gold 建-v 建.01 ----- 14:0-rel 1:1-ARGM-PRP 12:1-ARG0 13:1-ARGM-DIS 16:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 95 9 gold 通-v 通.02 ----- 9:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-ADV 4:1-ARGM-TMP 7:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 96 16 gold 突破-v 突破.01 ----- 16:0-rel 2:1-ARGM-TMP 3:3-ARG0 13:2-ARGM-ADV 17:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 97 12 gold 是-v 是.01 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 97 24 gold 可以-v 可以.01 ----- 24:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 97 25 gold 突破-v 突破.01 ----- 25:0-rel 1:3-ARG0 8:1-ARGM-TMP 10:3-ARGM-TMP 19:1-ARGM-MNR 23:1-ARGM-ADV 26:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 98 25 gold 增长-v 增长.01 ----- 25:0-rel 1:2-ARGM-ADV 4:3-ARGM-TMP 9:3-ARG0 16:1-ARGM-ADV 17:1-ARGM-ADV 20:1-ARGM-MNR 24:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 99 3 gold 继续-v 继续.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 99 7 gold 增长-v 增长.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-MNR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 99 12 gold 可以-v 可以.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 100 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-DIS 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 101 21 gold 是-v 是.01 ----- 21:0-rel 1:1-ARGM-DIS 3:2-ARGM-TPC 6:3-ARGM-ADV 20:1-ARG0 22:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 102 2 gold 看看-v 看看.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 102 6 gold 是-v 是.04 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 102 8 gold 关键-v 关键.01 ----- 8:0-rel 3:2-ARG0 7:1-ARGM-ADV 10:2-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 102 16 gold 一体化-v 一体化.01 ----- 16:0-rel 13:1-ARG1 12:1*15:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 103 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-ADV 2:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 104 9 gold 要-v 要.03 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 104 10 gold 建成-v 建成.02 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARGM-TPC 8:1-ARG1 11:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 105 3 gold 没有-v 没有.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG1 4:3-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 105 9 gold 作为-v 作为.02 ----- 9:0-rel 4:2-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 105 15 gold 作为-v 作为.02 ----- 15:0-rel 4:2-ARG0 16:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 105 27 gold 是-v 是.04 ----- 27:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 105 31 gold 达到-v 达到.01 ----- 31:0-rel 26:1-ARG0 28:2-ARGM-ADV 30:1-ARGM-DIS 32:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 105 33 gold 有-v 有.01 ----- 33:0-rel 32:1-ARG0 34:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 106 8 gold 提到-v 提到.01 ----- 8:0-rel 2:1-ARGM-DIS 3:1-ARGM-TMP 5:1-ARG0 7:1-ARGM-ADV 10:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 106 21 gold 增长-v 增长.01 ----- 21:0-rel 10:2-ARGM-TPC 16:1-ARG0 18:2-ARGM-ADV 20:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 107 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 107 3 gold 给-v 给.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG2 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 107 17 gold 是-v 是.04 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 107 23 gold 进出口-v 进出口.01 ----- 23:0-rel 9:1-ARGM-DIS 10:1-ARGM-TMP 11:3-ARG1 16:1-ARGM-ADV 18:1-ARGM-MNR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 108 10 gold 开放-v 开放.01 ----- 10:0-rel 8:1-ARG0 9:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 108 16 gold 提高-v 提高.01 ----- 16:0-rel 5:2-ARG1 12:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 108 23 gold 会-v 会.02 ----- 23:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 108 26 gold 扩大-v 扩大.01 ----- 26:0-rel 1:1-ARGM-DIS 3:1-ARGM-TMP 4:1-ARGM-ADV 19:3-ARG1 22:1-ARGM-ADV 24:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 109 4 gold 经过-v 经过.01 ----- 4:0-rel 2:1*3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 109 13 gold 会-v 会.02 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 109 15 gold 增加-v 增加.01 ----- 15:0-rel 1:1-ARGM-DIS 2:3-ARG1 12:1-ARGM-ADV 14:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 110 8 gold 会-v 会.02 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 110 17 gold 提高-v 提高.01 ----- 17:0-rel 1:1-ARGM-DIS 2:3-ARG1 7:1-ARGM-ADV 9:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 111 6 gold 没有-v 没有.02 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-LOC 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 111 27 gold 是-v 是.04 ----- 27:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 111 29 gold 能-v 能.01 ----- 29:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 112 9 gold 有-v 有.01 ----- 9:0-rel 1:1-ARGM-DIS 3:1-ARGM-ADV 5:1-ARG0 11:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 112 24 gold 没有-v 没有.01 ----- 24:0-rel 23:1-ARG1 25:3-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 112 30 gold 起-v 起.01 ----- 30:0-rel 25:2-ARG0 29:1-ARGM-ADV 31:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 112 38 gold 是-v 是.01 ----- 38:0-rel 36:1-ARG0 37:1-ARGM-ADV 39:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 113 13 gold 有-v 有.01 ----- 13:0-rel 2:2-ARGM-LOC 11:2-ARG0 14:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 113 22 gold 形成-v 形成.01 ----- 22:0-rel 1:1-ARGM-PRP 19:1-ARG0 20:1-ARGM-DIR 23:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 114 17 gold 要-v 要.06 ----- 17:0-rel 2:1,18:2-ARG0 3:1-ARGM-DIS 5:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 114 19 gold 想-v 想.02 ----- 19:0-rel 18:1-ARG0 20:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 114 23 gold 成为-v 成为.01 ----- 23:0-rel 20:1-ARG0 21:2-ARGM-ADV 24:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 115 12 gold 有-v 有.01 ----- 12:0-rel 1:1-ARGM-TMP 2:4-ARGM-TMP 9:1-ARG0 10:1-ARG1 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 115 22 gold 要-v 要.03 ----- 22:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 115 23 gold 建成-v 建成.02 ----- 23:0-rel 18:1-ARG0 19:1-ARGM-ADV 21:1-ARG1 25:3-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 116 4 gold 没有-v 没有.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG1 5:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 116 8 gold 没有-v 没有.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG1 9:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 117 7 gold 思考-v 思考.01 ----- 7:0-rel 3:1-ARGM-DIS 4:1-ARG0 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 117 10 gold 是-v 是.04 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 117 12 gold 实际-v 实际.01 ----- 12:0-rel 3:1-ARGM-DIS 4:1-ARG0 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 118 3 gold 喜欢-v 喜欢.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 118 5 gold 讲-v 讲.01 ----- 5:0-rel 4:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 118 9 gold 布置-v 布置.02 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 118 13 gold 设想-v 设想.01 ----- 13:0-rel 8:1-ARG0 14:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 118 18 gold 有-v 有.01 ----- 18:0-rel 7:1-ARG0 8:2-ARGM-TMP 19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 120 14 gold 要-v 要.03 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 120 15 gold 有-v 有.01 ----- 15:0-rel 13:1-ARG0 16:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 121 5 gold 说-v 说.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-TMP 2:1*6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 121 31 gold 没有-v 没有.01 ----- 31:0-rel 1:1-ARGM-DIS 2:4-ARGM-TPC 22:2-ARG1 29:1-ARGM-TMP 30:1-ARGM-ADV 32:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 122 3 gold 要-v 要.06 ----- 3:0-rel 2:1,4:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 122 5 gold 成为-v 成为.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 122 28 gold 说-v 说.01 ----- 28:0-rel 27:1-ARG0 29:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 123 14 gold 是-v 是.04 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 123 27 gold 确定-v 确定.01 ----- 27:0-rel 1:1-ARGM-DIS 2:1-ARGM-MNR 11:1-ARGM-ADV 12:1-ARG0 13:1-ARGM-ADV 15:1-ARGM-TMP 26:1-ARGM-ADV 29:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 123 31 gold 是-v 是.01 ----- 31:0-rel 29:1-ARG0 32:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 125 24 gold 形成-v 形成.01 ----- 24:0-rel 2:2-ARGM-TPC 8:1-ARGM-ADV 10:1-ARGM-TMP 15:1-ARG0 16:1-ARGM-ADV 17:1-ARGM-LOC 23:1-ARGM-ADV 25:4-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 126 11 gold 达到-v 达到.01 ----- 11:0-rel 1:5-ARG0 10:1-ARGM-ADV 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 127 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 129 4 gold 有-v 有.04 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 130 2 gold 加上-v 加上.01 ----- 2:0-rel 1:1-ARG2 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 130 9 gold 争取-v 争取.01 ----- 9:0-rel 1:2-ARGM-ADV 8:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 131 2 gold 争取-v 争取.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 132 10 gold 应该-v 应该.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 132 11 gold 是-v 是.01 ----- 11:0-rel 2:1-ARGM-ADV 3:1-ARGM-ADV 9:1-ARG0 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 133 5 gold 相信-v 相信.01 ----- 5:0-rel 4:1-ARG0 6:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 133 7 gold 不用-v 不用.01 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 133 8 gold 到-v 到.01 ----- 8:0-rel 6:1-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 135 6 gold 是-v 是.03 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 136 7 gold 知道-v 知道.01 ----- 7:0-rel 3:1-ARGM-DIS 6:1-ARG0 10:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 136 31 gold 看好-v 看好.01 ----- 31:0-rel 10:1-ARGM-TMP 11:1-ARGM-ADV 12:3-ARG0 29:1-ARGM-ADV 30:1-ARGM-ADV 32:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 136 45 gold 接洽-v 接洽.01 ----- 45:0-rel 38:1-ARG0 39:1-ARGM-DIS 40:1-ARGM-ADV 41:1-ARGM-ADV 42:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 137 8 gold 要-v 要.03 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 137 10 gold 保证-v 保证.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 137 12 gold 要-v 要.03 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 137 13 gold 有-v 有.01 ----- 13:0-rel 11:1-ARG0 14:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 137 17 gold 在-v 在.01 ----- 17:0-rel 14:2-ARG0 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 137 20 gold 是-v 是.03 ----- 20:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 138 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 139 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 139 3 gold 透露-v 透露.01 ----- 3:0-rel 1:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 140 3 gold 准备-v 准备.02 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 140 6 gold 是-v 是.04 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 140 12 gold 有-v 有.05 ----- 12:0-rel 11:1-ARG0 13:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 140 21 gold 投入-v 投入.01 ----- 21:0-rel 13:2-ARG1 17:1-ARGM-TMP 20:1-ARGM-ADV 22:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 141 12 gold 完工-v 完工.01 ----- 12:0-rel 1:1-ARGM-TMP 3:1-ARGM-ADV 4:2-ARG1 9:1-ARG0 10:1-ARGM-DIS 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 141 14 gold 投入-v 投入.02 ----- 14:0-rel 1:1-ARGM-TMP 3:1-ARGM-ADV 4:2-ARG1 9:1-ARG0 10:1-ARGM-ADV 11:1-ARGM-ADV 15:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 142 13 gold 决定-v 决定.01 ----- 13:0-rel 1:1-ARGM-TMP 2:2-ARGM-TPC 8:2-ARG0 12:1-ARGM-ADV 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 142 16 gold 准备-v 准备.02 ----- 16:0-rel 15:1-ARG0 19:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 142 21 gold 进行-v 进行.01 ----- 21:0-rel 19:1-ARGM-TPC 22:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 143 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 143 4 gold 引进-v 引进.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 143 18 gold 进行-v 进行.01 ----- 18:0-rel 1:1-ARG0 2:1-ARGM-ADV 19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 144 3 gold 看到-v 看到.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 144 6 gold 点-v 点.01 ----- 6:0-rel 5:1-ARG0 21:1*22:1*4:1*7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 144 14 gold 有-v 有.05 ----- 14:0-rel 11:1-ARGM-DIS 13:1-ARG0 15:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 144 24 gold 成长-v 成长.01 ----- 24:0-rel 21:1*22:1*4:1*7:1-ARG0 23:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 144 31 gold 做-v 做.02 ----- 31:0-rel 15:3-ARG0 29:1-ARGM-LOC 32:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 145 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 146 2 gold 相信-v 相信.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 146 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 147 4 gold 让-v 让.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 147 14 gold 是-v 是.01 ----- 14:0-rel 1:1-ARGM-DIS 2:3-ARG0 13:1-ARGM-ADV 15:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 147 16 gold 得-v 得.02 ----- 16:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 147 17 gold 飞-v 飞.01 ----- 17:0-rel 15:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 147 22 gold 对-v 对.02 ----- 22:0-rel 21:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 148 5 gold 够-v 够.01 ----- 5:0-rel 1:2-ARG0 4:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 148 11 gold 有-v 有.03 ----- 11:0-rel 7:1-ARGM-ADV 8:1-ARG0 10:1-ARGM-DIS 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 148 22 gold 有-v 有.07 ----- 22:0-rel 14:1-ARGM-DIS 17:1-ARGM-ADV 20:1-ARG0 21:1-ARGM-DIS 23:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 151 3 gold 要-v 要.03 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 2 gold 知道-v 知道.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 5 gold 来到-v 来到.01 ----- 5:0-rel 3:2-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 11 gold 来-v 来.01 ----- 11:0-rel 9:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 14 gold 隔-v 隔.01 ----- 14:0-rel 16:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 19 gold 来-v 来.01 ----- 19:0-rel 3:2-ARG0 18:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 21 gold 发现-v 发现.01 ----- 21:0-rel 3:2-ARG0 24:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 153 28 gold 快-v 快.01 ----- 28:0-rel 24:3-ARG0 27:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 154 9 gold 想-v 想.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV 8:1-ARGM-ADV 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 154 14 gold 是-v 是.01 ----- 14:0-rel 12:1-ARG0 13:1-ARGM-ADV 15:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 154 20 gold 来-v 来.01 ----- 20:0-rel 16:1-ARGM-ADV 18:1-ARG0 15:1*19:1-ARGM-TMP 21:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 154 32 gold 发现-v 发现.01 ----- 32:0-rel 15:3-ARGM-TMP 25:1-ARGM-ADV 26:1-ARGM-ADV 30:1-ARG0 31:1-ARGM-ADV 33:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 154 35 gold 变化-v 变化.02 ----- 35:0-rel 33:1-ARG0 34:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 155 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 155 9 gold 有-v 有.03 ----- 9:0-rel 7:1*8:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 156 10 gold 要-v 要.03 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 156 11 gold 开始-v 开始.02 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 5:2-ARG0 9:1-ARGM-DIS 12:3-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 156 14 gold 壮大-v 壮大.01 ----- 14:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 5:2-ARG1 9:1-ARGM-DIS 12:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 158 2 gold 是-v 是.03 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 158 11 gold 表示-v 表示.01 ----- 11:0-rel 1:3-ARGM-ADV 5:3-ARG0 10:1-ARGM-ADV 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 158 14 gold 要-v 要.03 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 158 18 gold 成长-v 成长.01 ----- 18:0-rel 13:1-ARG0 15:3-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 158 20 gold 跑-v 跑.01 ----- 20:0-rel 13:1-ARG0 21:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 159 5 gold 有-v 有.01 ----- 5:0-rel 1:1-ARGM-DIS 4:1-ARG0 7:6-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 160 2 gold 来-v 来.05 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 160 3 gold 听听-v 听听.01 ----- 3:0-rel 1:1-ARG0 6:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 160 8 gold 是-v 是.04 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 160 12 gold 介绍-v 介绍.01 ----- 12:0-rel 6:1-ARG0 9:1-ARGM-ADV 10:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 161 13 gold 达到-v 达到.01 ----- 13:0-rel 3:1-ARGM-TMP 4:2-ARG0 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 162 5 gold 有-v 有.01 ----- 5:0-rel 1:2-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 162 15 gold 是-v 是.01 ----- 15:0-rel 11:1-ARG0 12:1-ARGM-LOC 14:1-ARGM-DIS 16:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 164 7 gold 是-v 是.01 ----- 7:0-rel 3:1-ARGM-ADV 4:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 164 9 gold 建设-v 建设.01 ----- 9:0-rel 3:1-ARGM-DIS 4:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 165 14 gold 是-v 是.01 ----- 14:0-rel 1:1-ARGM-TPC 4:3-ARG0 13:1-ARGM-TMP 16:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 165 20 gold 投入-v 投入.02 ----- 20:0-rel 16:1*17:1-ARG1 18:1-ARGM-TMP 19:1-ARGM-ADV 21:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 165 23 gold 是-v 是.01 ----- 23:0-rel 16:3-ARG0 24:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 166 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 10:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 167 7 gold 有-v 有.01 ----- 7:0-rel 3:1-ARGM-DIS 4:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-DIS 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 167 10 gold 超过-v 超过.01 ----- 10:0-rel 8:1*9:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 168 18 gold 要-v 要.03 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 168 19 gold 达到-v 达到.01 ----- 19:0-rel 17:1-ARG0 22:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 168 24 gold 可以-v 可以.01 ----- 24:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 168 25 gold 旅游-v 旅游.01 ----- 25:0-rel 22:1*23:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 168 29 gold 到-v 到.02 ----- 29:0-rel 22:3-ARG0 30:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 169 14 gold 是-v 是.01 ----- 14:0-rel 13:1-ARGM-TMP 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 169 18 gold 能够-v 能够.01 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 169 19 gold 突破-v 突破.03 ----- 19:0-rel 1:1-ARGM-DIS 3:1-ARG0 7:1-ARGM-ADV 21:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 169 28 gold 是-v 是.01 ----- 28:0-rel 26:1-ARGM-DIS 27:1-ARG0 29:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 170 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 170 7 gold 建-v 建.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 171 2 gold 有-v 有.07 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 173 4 gold 建-v 建.01 ----- 4:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 173 15 gold 竣工-v 竣工.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 173 18 gold 投入-v 投入.02 ----- 18:0-rel 13:1-ARG1 17:1-ARGM-TMP 19:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 174 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 174 8 gold 扩建-v 扩建.01 ----- 8:0-rel 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 174 14 gold 使-v 使.01 ----- 14:0-rel 7:5-ARGM-LOC 13:1-ARG0 15:1-ARG1 16:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 174 18 gold 成为-v 成为.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-DIS 19:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 3 gold 相信-v 相信.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 13 gold 建成-v 建成.01 ----- 13:0-rel 11:1-ARG1 12:1*10:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 18 gold 举办-v 举办.01 ----- 18:0-rel 16:1-ARG1 15:1*17:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 25 gold 应该-v 应该.01 ----- 25:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 26 gold 是-v 是.04 ----- 26:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 27 gold 要-v 要.03 ----- 27:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 28 gold 有-v 有.02 ----- 28:0-rel 4:1-ARGM-TPC 5:2-ARGM-ADV 7:1-ARGM-TMP 23:1-ARG0 24:1-ARGM-ADV 29:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 34 gold 可以-v 可以.01 ----- 34:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 175 35 gold 超过-v 超过.01 ----- 35:0-rel 4:1-ARGM-TPC 5:2-ARGM-ADV 7:1-ARGM-TMP 23:1-ARG0 32:1-ARGM-DIS 33:1-ARGM-ADV 36:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 176 9 gold 应当-v 应当.01 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 176 10 gold 是-v 是.04 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 176 11 gold 要-v 要.03 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 176 12 gold 突破-v 突破.01 ----- 12:0-rel 3:3-ARG0 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 177 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARGM-ADV 2:3-ARG0 4:1-ARGM-ADV 6:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 177 10 gold 组合-v 组合.01 ----- 10:0-rel 7:1-ARG1 13:1*6:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 177 12 gold 成-v 成.02 ----- 12:0-rel 7:1-ARG0 13:1*6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 178 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 178 4 gold 有-v 有.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 180 2 gold 觉得-v 觉得.01 ----- 2:0-rel 1:1-ARG0 3:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 180 15 gold 组成-v 组成.01 ----- 15:0-rel 3:4-ARG1 14:1-ARGM-ADV 17:5-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 182 6 gold 来-v 来.05 ----- 6:0-rel 2:1-ARG0 1:1*3:1-ARGM-TMP 4:1-ARGM-DIR 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 182 7 gold 参加-v 参加.01 ----- 7:0-rel 2:1-ARG0 1:1*3:1-ARGM-TMP 4:1-ARGM-DIR 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 182 19 gold 听到-v 听到.01 ----- 19:0-rel 1:3-ARGM-TMP 13:1-ARGM-LOC 18:1-ARG0 20:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 182 23 gold 打-v 打.01 ----- 23:0-rel 20:2-ARG0 24:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 183 2 gold 说-v 说.01 ----- 2:0-rel 1:1-ARG0 3:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 183 6 gold 到-v 到.03 ----- 6:0-rel 3:1*4:1-ARGM-TPC 5:1-ARGM-DIR 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 183 13 gold 没有-v 没有.01 ----- 13:0-rel 3:3-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 184 3 gold 推-v 推.01 ----- 3:0-rel 1:1-ARG1 2:1-ARGM-ADV 4:2-ARGM-EXT
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 185 3 gold 说明-v 说明.02 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 186 3 gold 说明-v 说明.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 186 12 gold 增大-v 增大.01 ----- 12:0-rel 4:2-ARGM-DIS 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 187 5 gold 说明-v 说明.02 ----- 5:0-rel 1:2-ARGM-DIS 4:1-ARG0 6:9-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 187 17 gold 够-v 够.01 ----- 17:0-rel 6:7-ARG0 16:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 188 3 gold 叫-v 叫.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 189 6 gold 是-v 是.01 ----- 6:0-rel 1:2-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 189 20 gold 汇聚-v 汇聚.01 ----- 20:0-rel 18:1-ARG0 17:1*19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 190 2 gold 叫做-v 叫做.01 ----- 2:0-rel 1:1-ARG1 3:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 190 11 gold 是-v 是.01 ----- 11:0-rel 5:2-ARG0 10:1-ARGM-ADV 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 190 12 gold 这样-v 这样.01 ----- 12:0-rel 5:2-ARG0 10:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 191 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARG0 4:1-ARGM-ADV 6:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 192 4 gold 说到-v 说到.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 192 14 gold 解决-v 解决.01 ----- 14:0-rel 11:1-ARGM-DIS 12:1-ARG0 13:1-ARGM-ADV 15:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 193 9 gold 是-v 是.04 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 193 10 gold 解决-v 解决.01 ----- 10:0-rel 1:1-ARG0 8:1-ARGM-ADV 11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 193 17 gold 有-v 有.01 ----- 17:0-rel 14:1-ARGM-ADV 15:1-ARG0 16:1-ARGM-DIS 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 194 4 gold 解决-v 解决.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 194 10 gold 进出-v 进出.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 195 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 195 6 gold 想到-v 想到.01 ----- 6:0-rel 4:1-ARGM-DIS 5:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 196 5 gold 到-v 到.01 ----- 5:0-rel 4:1-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 196 9 gold 是-v 是.04 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 196 17 gold 要-v 要.03 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 196 18 gold 到-v 到.01 ----- 18:0-rel 15:1-ARG0 16:1-ARGM-ADV 19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 196 21 gold 来-v 来.06 ----- 21:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 197 15 gold 是-v 是.01 ----- 15:0-rel 2:2-ARG0 16:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 197 18 gold 有-v 有.08 ----- 18:0-rel 2:2-ARG0 19:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 197 24 gold 可以-v 可以.01 ----- 24:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 198 6 gold 到-v 到.03 ----- 6:0-rel 5:1-ARGM-DIR 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 198 12 gold 是-v 是.04 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 198 14 gold 方便-v 方便.03 ----- 14:0-rel 3:1-ARGM-TMP 5:4-ARG0 11:1-ARGM-ADV 13:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 198 23 gold 近-v 近.01 ----- 23:0-rel 19:1-ARG0 20:1-ARG1 22:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 199 7 gold 远-v 远.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-ADV 8:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 200 7 gold 有-v 有.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 8:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 201 18 gold 应该-v 应该.01 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 201 19 gold 说-v 说.07 ----- 19:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 201 21 gold 应付-v 应付.01 ----- 21:0-rel 20:1-ARG0 22:1*10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 201 24 gold 没-v 没.01 ----- 24:0-rel 20:1-ARG1 23:1-ARGM-ADV 25:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 202 5 gold 增长-v 增长.02 ----- 5:0-rel 2:1-ARGM-DIS 3:1-ARGM-TMP 4:1-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 202 16 gold 是-v 是.04 ----- 16:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 203 10 gold 做-v 做.01 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 4:1-ARGM-LOC 9:1-ARGM-DIS 12:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 204 10 gold 准备-v 准备.02 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 204 12 gold 建设-v 建设.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 205 16 gold 过来-v 过来.01 ----- 16:0-rel 1:1-ARG0 2:1-ARGM-DIR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 205 19 gold 到达-v 到达.01 ----- 19:0-rel 1:1-ARG0 18:1-ARGM-ADV 21:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 206 8 gold 是-v 是.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-TPC 6:2-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 206 10 gold 希望-v 希望.02 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 206 12 gold 能够-v 能够.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 206 24 gold 好-v 好.01 ----- 24:0-rel 14:2-ARG0 23:1-ARGM-ADV 25:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 206 28 gold 快-v 快.01 ----- 28:0-rel 14:2-ARG0 27:1-ARGM-ADV 29:1-ARGM-EXT
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 207 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-DIS 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 207 9 gold 减轻-v 减轻.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 207 18 gold 来-v 来.01 ----- 18:0-rel 13:1*14:1-ARG0 15:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 207 23 gold 要-v 要.03 ----- 23:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 207 25 gold 穿过-v 穿过.01 ----- 25:0-rel 10:1-ARGM-ADV 13:3-ARG0 22:1-ARGM-ADV 26:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 207 36 gold 到-v 到.01 ----- 36:0-rel 10:1-ARGM-DIS 13:3-ARG0 28:1-ARGM-ADV 30:1-ARGM-MNR 37:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 208 2 gold 穿越-v 穿越.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 208 6 gold 对-v 对.02 ----- 6:0-rel 5:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 209 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 209 10 gold 应该-v 应该.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 209 11 gold 说-v 说.07 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 209 14 gold 大-v 大.01 ----- 14:0-rel 12:1*8:1-ARG0 13:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 210 7 gold 考虑-v 考虑.01 ----- 7:0-rel 1:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-ADV 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 210 12 gold 是-v 是.04 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 210 13 gold 到-v 到.01 ----- 13:0-rel 10:1-ARG0 11:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 211 3 gold 到-v 到.03 ----- 3:0-rel 1:1-ARGM-DIR 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 211 10 gold 有-v 有.03 ----- 10:0-rel 1:4-ARG0 8:1-ARGM-TMP 9:1-ARGM-ADV 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 212 10 gold 想-v 想.01 ----- 10:0-rel 8:1-ARGM-DIS 9:1-ARG0 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 212 15 gold 批-v 批.03 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-DIS 17:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 212 29 gold 能够-v 能够.01 ----- 29:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 212 31 gold 没有-v 没有.01 ----- 31:0-rel 27:1*28:1-ARG1 30:1-ARGM-ADV 32:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 212 35 gold 到-v 到.03 ----- 35:0-rel 27:1*28:1-ARG0 30:1-ARGM-ADV 34:1-ARGM-ADV 36:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 213 14 gold 能够-v 能够.01 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 213 15 gold 建-v 建.01 ----- 15:0-rel 3:1-ARGM-DIS 4:1-ARGM-LOC 13:1-ARG0 16:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 214 5 gold 想-v 想.01 ----- 5:0-rel 1:1-ARGM-DIS 4:1-ARG0 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 214 10 gold 要-v 要.03 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 214 11 gold 依靠-v 依靠.01 ----- 11:0-rel 8:1-ARG0 9:1-ARGM-ADV 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 216 6 gold 有-v 有.05 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 5:1-ARG0 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 216 12 gold 到-v 到.03 ----- 12:0-rel 7:2-ARG0 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 216 17 gold 快-v 快.01 ----- 17:0-rel 7:2-ARG0 16:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 218 12 gold 能够-v 能够.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 218 13 gold 完成-v 完成.01 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 5:1-ARG0 7:1-ARGM-TMP 15:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 219 8 gold 到-v 到.03 ----- 8:0-rel 1:2-ARG0 7:1-ARGM-TMP 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 219 16 gold 延伸-v 延伸.01 ----- 16:0-rel 1:2-ARG0 14:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 219 19 gold 到-v 到.01 ----- 19:0-rel 1:2-ARGM-MNR 20:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 219 26 gold 延伸-v 延伸.01 ----- 26:0-rel 1:2-ARG0 24:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 219 36 gold 延伸-v 延伸.01 ----- 36:0-rel 29:3-ARG0 34:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 219 38 gold 到-v 到.03 ----- 38:0-rel 1:2-ARG0 40:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 220 3 gold 这样-v 这样.01 ----- 3:0-rel 2:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 220 19 gold 连接-v 连接.01 ----- 19:0-rel 15:2-ARG0 18:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 221 14 gold 连接-v 连接.01 ----- 14:0-rel 1:1-ARGM-DIS 7:1-ARGM-DIS 8:1-ARG0 16:1*2:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 222 3 gold 可能-v 可能.02 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 222 4 gold 采取-v 采取.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 222 11 gold 增强-v 增强.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARG0 13:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 224 3 gold 会-v 会.02 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 224 4 gold 使-v 使.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:4-ARG1 12:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 224 13 gold 加快-v 加快.01 ----- 13:0-rel 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 225 6 gold 想-v 想.01 ----- 6:0-rel 5:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 225 19 gold 附带-v 附带.01 ----- 19:0-rel 18:1-ARG0 17:1*21:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 225 24 gold 是-v 是.01 ----- 24:0-rel 5:2-ARGM-ADV 8:2-ARGM-TPC 17:3-ARG0 23:1-ARGM-ADV 25:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 225 26 gold 要-v 要.03 ----- 26:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 225 27 gold 使-v 使.01 ----- 27:0-rel 25:1-ARG0 28:1-ARG1 29:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 225 30 gold 发挥-v 发挥.01 ----- 30:0-rel 29:1-ARG0 31:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 226 9 gold 必须-v 必须.02 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 226 12 gold 配套-v 配套.01 ----- 12:0-rel 1:3-ARG1 10:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 227 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 227 7 gold 要-v 要.03 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 227 9 gold 使-v 使.01 ----- 9:0-rel 1:1-ARGM-DIS 2:2-ARG0 4:1-ARGM-DIS 10:1-ARG1 12:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 227 13 gold 发挥-v 发挥.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 228 21 gold 必须-v 必须.02 ----- 21:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 228 25 gold 建立-v 建立.01 ----- 25:0-rel 20:1-ARGM-TPC 23:2-ARGM-ADV 1:2*27:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 229 17 gold 会-v 会.02 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 229 29 gold 包括-v 包括.01 ----- 29:0-rel 30:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 230 9 gold 快-v 快.01 ----- 9:0-rel 8:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 230 11 gold 发展-v 发展.05 ----- 11:0-rel 1:2-ARG1 5:2-ARG1 8:3-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 231 4 gold 高-v 高.01 ----- 4:0-rel 1:2-ARG0 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 232 6 gold 为-v 为.02 ----- 6:0-rel 3:1-ARG0 4:1-ARG2 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 232 26 gold 快-v 快.01 ----- 26:0-rel 1:1-ARGM-DIS 3:2-ARGM-ADV 9:5-ARG0 21:2-ARG0 24:1-ARGM-ADV 25:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 233 3 gold 知道-v 知道.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 233 13 gold 是-v 是.01 ----- 13:0-rel 4:1-ARGM-DIS 5:2-ARG0 10:2-ARGM-ADV 12:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 234 14 gold 希望-v 希望.02 ----- 14:0-rel 1:1-ARGM-DIS 2:3-ARGM-TPC 12:1-ARG0 13:1-ARGM-ADV 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 234 17 gold 能够-v 能够.01 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 235 14 gold 是-v 是.01 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 235 16 gold 关键-v 关键.01 ----- 16:0-rel 1:2-ARG0 4:1-ARGM-DIR 10:1-ARGM-DIR 15:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 236 4 gold 能够-v 能够.01 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 236 6 gold 买到-v 买到.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:1-ARGM-ADV 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 236 9 gold 飞-v 飞.02 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG3 3:1-ARGM-ADV 8:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 236 25 gold 可能-v 可能.02 ----- 25:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 237 6 gold 流动-v 流动.01 ----- 6:0-rel 2:2-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 237 13 gold 会-v 会.02 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 237 14 gold 带动-v 带动.01 ----- 14:0-rel 1:1-ARGM-TMP 11:1-ARG0 12:1-ARGM-ADV 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 238 8 gold 是-v 是.04 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 238 10 gold 影响-v 影响.01 ----- 10:0-rel 1:3-ARGM-LOC 7:1-ARG0 9:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 238 15 gold 是-v 是.04 ----- 15:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 238 17 gold 促进-v 促进.01 ----- 17:0-rel 13:1-ARGM-DIS 14:1-ARG0 16:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 239 7 gold 必须-v 必须.02 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 239 8 gold 要-v 要.03 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 239 9 gold 有-v 有.05 ----- 9:0-rel 1:1-ARGM-DIS 2:2-ARG0 6:1-ARGM-ADV 10:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 239 16 gold 服务-v 服务.01 ----- 16:0-rel 10:3-ARG0 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 240 5 gold 讲-v 讲.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 240 9 gold 是-v 是.04 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 240 10 gold 要-v 要.03 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 240 11 gold 靠-v 靠.01 ----- 11:0-rel 1:1-ARGM-DIS 3:2-ARGM-MNR 7:1-ARG0 8:1-ARGM-ADV 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 240 18 gold 是-v 是.03 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 241 3 gold 要-v 要.03 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 241 4 gold 靠-v 靠.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARG1 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 241 12 gold 配置-v 配置.01 ----- 12:0-rel 10:1-ARG0 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 241 24 gold 配置-v 配置.01 ----- 24:0-rel 14:2-ARGM-LOC 22:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 242 7 gold 是-v 是.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-ADV 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 242 8 gold 解决-v 解决.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-ADV 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 243 6 gold 了解-v 了解.01 ----- 6:0-rel 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 243 12 gold 会-v 会.02 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 243 13 gold 有-v 有.01 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:4-ARGM-TMP 10:1-ARGM-DIS 11:1-ARGM-ADV 14:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 243 20 gold 是-v 是.03 ----- 20:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 244 11 gold 是-v 是.01 ----- 11:0-rel 2:3-ARG0 6:1-ARG0 12:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 244 18 gold 会-v 会.02 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 244 19 gold 带动-v 带动.01 ----- 19:0-rel 2:3-ARG0 16:1-ARGM-DIS 17:1-ARGM-ADV 20:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 245 4 gold 造成-v 造成.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 245 6 gold 成为-v 成为.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 246 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 247 3 gold 回来-v 回来.01 ----- 3:0-rel 2:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 247 6 gold 来-v 来.05 ----- 6:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 247 7 gold 看看-v 看看.01 ----- 7:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 4:1-ARG0 5:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 248 8 gold 如何-v 如何.01 ----- 8:0-rel 1:1-ARGM-TMP 2:1-ARGM-TMP 5:3-ARG0 10:1-ARGM-PRP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 248 13 gold 是-v 是.01 ----- 13:0-rel 11:1-ARG0 14:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 249 2 gold 休息-v 休息.01 ----- 2:0-rel 1:1-ARG0 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 249 5 gold 回来-v 回来.01 ----- 5:0-rel 1:1-ARG0 4:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 251 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 251 8 gold 继续-v 继续.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-TMP 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 251 9 gold 来-v 来.05 ----- 9:0-rel 5:1-ARG0 6:1-ARGM-TMP 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 251 10 gold 谈-v 谈.01 ----- 10:0-rel 5:1-ARG0 6:1-ARGM-TMP 11:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 252 6 gold 是-v 是.04 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 252 8 gold 要-v 要.03 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 252 9 gold 建设-v 建设.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG1 5:1-ARGM-DIS 10:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 253 5 gold 有-v 有.05 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-DIS 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 253 7 gold 说-v 说.01 ----- 7:0-rel 6:1-ARG0 11:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 253 12 gold 竞争-v 竞争.01 ----- 12:0-rel 11:1-ARG0 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 253 18 gold 是-v 是.01 ----- 18:0-rel 11:2-ARG0 17:1-ARGM-ADV 19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 255 2 gold 是-v 是.04 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 255 6 gold 说-v 说.01 ----- 6:0-rel 1:1-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 256 2 gold 应该-v 应该.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 256 3 gold 说-v 说.07 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 256 6 gold 是-v 是.04 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 256 8 gold 重要-v 重要.01 ----- 8:0-rel 4:1-ARG0 7:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 257 13 gold 作为-v 作为.02 ----- 13:0-rel 1:1-ARGM-ADV 8:1-ARG0 9:1-ARGM-LOC 12:1-ARGM-ADV 14:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 258 4 gold 使得-v 使得.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIS 5:1-ARG1 6:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 258 7 gold 成为-v 成为.01 ----- 7:0-rel 6:1-ARG0 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 258 14 gold 大-v 大.01 ----- 14:0-rel 8:1*9:1-ARG0 10:1-ARGM-TMP 12:1-ARGM-LOC 13:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 260 4 gold 成为-v 成为.01 ----- 4:0-rel 1:1-ARGM-ADV 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 261 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 261 4 gold 有-v 有.05 ----- 4:0-rel 1:1-ARG0 5:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 261 10 gold 说明-v 说明.02 ----- 10:0-rel 5:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 262 16 gold 达到-v 达到.01 ----- 16:0-rel 2:1-ARGM-DIS 3:1-ARGM-TPC 7:3-ARG0 19:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 263 3 gold 排除-v 排除.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 265 3 gold 有-v 有.03 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 265 14 gold 是-v 是.01 ----- 14:0-rel 11:1-ARG0 12:1-ARGM-ADV 13:1-ARGM-ADV 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 265 28 gold 定-v 定.03 ----- 28:0-rel 15:1-ARGM-TMP 21:1-ARG0 22:1-ARGM-ADV 23:1-ARGM-ADV 25:2-ARG1 29:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 266 3 gold 开辟-v 开辟.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 266 27 gold 是-v 是.01 ----- 27:0-rel 25:1-ARG0 26:1-ARGM-ADV 28:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 267 5 gold 要-v 要.03 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 267 7 gold 来-v 来.05 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 267 9 gold 看一看-v 看一看.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:1-ARGM-ADV 8:1-ARGM-ADV 11:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 6 gold 看到-v 看到.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 4:1-ARG0 5:1-ARGM-ADV 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 13 gold 是-v 是.01 ----- 13:0-rel 7:2-ARGM-TPC 12:1-ARG0 14:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 17 gold 做出-v 做出.01 ----- 17:0-rel 16:1-ARG0 19:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 20 gold 开发-v 开发.01 ----- 20:0-rel 19:1-ARG0 22:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 21 gold 开放-v 开放.01 ----- 21:0-rel 19:1-ARG0 22:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 29 gold 做出-v 做出.01 ----- 29:0-rel 28:1-ARG0 31:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 32 gold 要-v 要.03 ----- 32:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 33 gold 发展-v 发展.03 ----- 33:0-rel 31:1-ARG0 34:1-ARG1 35:2-ARG3
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 36 gold 作为-v 作为.02 ----- 36:0-rel 35:1-ARG0 37:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 269 50 gold 得到-v 得到.01 ----- 50:0-rel 15:1-ARGM-TMP 49:1-ARG0 14:1*51:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 270 10 gold 是-v 是.04 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 270 20 gold 建设-v 建设.01 ----- 20:0-rel 1:1-ARGM-TMP 8:1-ARGM-TPC 9:1-ARG1 11:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 271 3 gold 说-v 说.07 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 271 5 gold 看到-v 看到.01 ----- 5:0-rel 4:1-ARG0 7:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 271 11 gold 云集-v 云集.01 ----- 11:0-rel 7:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 271 16 gold 初具规模-v 初具规模.01 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 272 5 gold 谈到-v 谈到.01 ----- 5:0-rel 3:1-ARGM-TMP 4:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 272 14 gold 是-v 是.04 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 272 25 gold 是-v 是.01 ----- 25:0-rel 15:1-ARGM-ADV 23:1-ARG0 24:1-ARGM-DIS 27:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 272 31 gold 是-v 是.01 ----- 31:0-rel 27:1-ARGM-LOC 30:1-ARG0 32:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 273 2 gold 举-v 举.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 273 19 gold 占到-v 占到.01 ----- 19:0-rel 9:1-ARGM-DIS 10:1-ARGM-TMP 13:5-ARG0 20:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 274 3 gold 有-v 有.02 ----- 3:0-rel 1:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 274 9 gold 有-v 有.02 ----- 9:0-rel 6:1-ARGM-DIS 7:1-ARG0 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 275 21 gold 是-v 是.04 ----- 21:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 275 23 gold 完备-v 完备.01 ----- 23:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARGM-ADV 7:1-ARGM-ADV 16:2-ARG1 22:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 276 5 gold 知道-v 知道.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 276 18 gold 是-v 是.01 ----- 18:0-rel 17:1-ARGM-ADV 19:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 276 24 gold 要-v 要.03 ----- 24:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 276 25 gold 放到-v 放到.01 ----- 25:0-rel 11:4-ARG1 27:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 276 28 gold 来-v 来.06 ----- 28:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 277 5 gold 是-v 是.01 ----- 5:0-rel 1:3-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 278 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 278 11 gold 有-v 有.01 ----- 11:0-rel 4:1*5:1-ARG0 6:1-ARG0 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 278 19 gold 接近-v 接近.02 ----- 19:0-rel 14:1*15:1-ARG0 16:1-ARG0 18:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 278 29 gold 会-v 会.02 ----- 29:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 278 30 gold 放到-v 放到.01 ----- 30:0-rel 4:3-ARG1 28:1-ARGM-ADV 31:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 280 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 280 6 gold 说-v 说.07 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 280 14 gold 可能-v 可能.02 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 280 16 gold 会-v 会.02 ----- 16:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 280 17 gold 在-v 在.01 ----- 17:0-rel 8:3-ARG0 15:1-ARGM-ADV 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 281 9 gold 相关-v 相关.01 ----- 9:0-rel 5:1*6:1-ARG0 7:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 281 12 gold 会-v 会.02 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 281 13 gold 在-v 在.01 ----- 13:0-rel 1:1-ARGM-DIS 2:3-ARG0 11:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 282 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 283 16 gold 是-v 是.01 ----- 16:0-rel 1:1-ARGM-DIS 2:3-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 17:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 284 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 284 3 gold 对-v 对.02 ----- 3:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 285 8 gold 说到-v 说到.01 ----- 8:0-rel 5:2-ARGM-TPC 7:1-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 285 24 gold 是-v 是.01 ----- 24:0-rel 3:1-ARGM-DIS 4:1-ARGM-ADV 5:3-ARGM-ADV 21:1-ARG0 22:1-ARGM-DIS 23:1-ARGM-ADV 26:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 285 33 gold 拍-v 拍.02 ----- 33:0-rel 32:1-ARG0 34:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 286 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 286 8 gold 有-v 有.01 ----- 8:0-rel 1:1-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 287 4 gold 有-v 有.07 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-DIS 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 287 11 gold 是-v 是.01 ----- 11:0-rel 5:1-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 288 9 gold 总结-v 总结.01 ----- 9:0-rel 3:1-ARGM-ADV 4:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-LOC 8:1-ARGM-ADV 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 288 17 gold 使-v 使.01 ----- 17:0-rel 13:2-ARG0 18:1-ARG1 19:4-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 288 22 gold 可-v 可.01 ----- 22:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 288 23 gold 动摇-v 动摇.01 ----- 23:0-rel 19:1-ARG1 20:1-ARGM-ADV 21:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 290 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 291 3 gold 没有-v 没有.01 ----- 3:0-rel 1:1-ARG1 2:1-ARGM-ADV 4:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 291 11 gold 说-v 说.01 ----- 11:0-rel 7:1-ARGM-TMP 8:1-ARG0 10:1-ARGM-ADV 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 292 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 292 10 gold 进入-v 进入.01 ----- 10:0-rel 5:2-ARG0 4:1*9:1-ARGM-LOC 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 293 4 gold 登陆-v 登陆.01 ----- 4:0-rel 1:1-ARG0 2:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 293 8 gold 是-v 是.04 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 293 11 gold 登陆-v 登陆.01 ----- 11:0-rel 1:1-ARG0 6:1-ARGM-DIS 7:1-ARGM-ADV 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 293 13 gold 是-v 是.04 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 293 16 gold 登陆-v 登陆.01 ----- 16:0-rel 1:1-ARG0 6:1-ARGM-DIS 7:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 294 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-DIS 7:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 294 9 gold 吸引-v 吸引.01 ----- 9:0-rel 7:1*8:1-ARG0 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 294 14 gold 集中-v 集中.02 ----- 14:0-rel 7:1*8:1-ARG1 13:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 295 7 gold 能-v 能.01 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 295 8 gold 说明-v 说明.02 ----- 8:0-rel 2:2-ARG0 6:1-ARGM-DIS 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 296 3 gold 有-v 有.07 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 6:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 296 11 gold 使-v 使.01 ----- 11:0-rel 6:3-ARG0 12:3-ARG1 32:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 296 43 gold 定-v 定.01 ----- 43:0-rel 32:1-ARGM-TPC 33:4-ARGM-LOC 40:1-ARG1 41:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 298 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 5:1-ARG0 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 299 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 299 6 gold 是-v 是.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 299 12 gold 进行-v 进行.01 ----- 12:0-rel 8:1-ARGM-MNR 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 300 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 300 9 gold 进行-v 进行.01 ----- 9:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-MNR 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 301 3 gold 不得了-v 不得了.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:1-ARGM-PRP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 301 10 gold 占-v 占.01 ----- 10:0-rel 6:3-ARG0 9:1-ARGM-ADV 11:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 302 4 gold 讲-v 讲.01 ----- 4:0-rel 1:1-ARGM-ADV 3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 302 22 gold 多-v 多.03 ----- 22:0-rel 14:1-ARGM-TMP 15:2-ARG0 21:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 303 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 303 9 gold 生成-v 生成.01 ----- 9:0-rel 1:1-ARGM-DIS 2:3-ARG1 6:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 304 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 304 30 gold 生成-v 生成.01 ----- 30:0-rel 26:2-ARG1 28:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 305 4 gold 生成-v 生成.01 ----- 4:0-rel 1:1-ARG1 2:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 306 10 gold 来-v 来.05 ----- 10:0-rel 3:1-ARGM-DIS 4:2-ARGM-LOC 8:1-ARG0 9:1-ARGM-DIS 11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 306 11 gold 看看-v 看看.01 ----- 11:0-rel 3:1-ARGM-DIS 4:2-ARGM-LOC 8:1-ARG0 9:1-ARGM-DIS 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 306 15 gold 说-v 说.01 ----- 15:0-rel 12:1-ARG0 14:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 307 2 gold 觉得-v 觉得.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 307 16 gold 是-v 是.01 ----- 16:0-rel 3:2-ARGM-TPC 11:1-ARGM-DIS 12:1-ARGM-DIS 15:1-ARG0 17:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 308 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-TPC 3:1-ARG0 5:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 309 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 309 13 gold 知道-v 知道.01 ----- 13:0-rel 14:1*10:1-ARGM-TPC 12:1-ARG0 14:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 309 16 gold 是-v 是.01 ----- 16:0-rel 14:1*10:1-ARG0 15:1-ARGM-TMP 17:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 310 2 gold 觉得-v 觉得.01 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 310 8 gold 是-v 是.04 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 310 9 gold 密不可分-v 密不可分.01 ----- 9:0-rel 3:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 311 4 gold 建-v 建.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 311 23 gold 有-v 有.03 ----- 23:0-rel 11:1-ARGM-ADV 13:3-ARG1 22:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 312 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 4:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 313 3 gold 觉得-v 觉得.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 313 9 gold 是-v 是.04 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 313 28 gold 是-v 是.01 ----- 28:0-rel 22:5-ARG0 27:1-ARGM-ADV 29:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 313 33 gold 高-v 高.01 ----- 33:0-rel 29:1-ARG0 32:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 313 37 gold 跨-v 跨.01 ----- 37:0-rel 35:1*36:1-ARG0 38:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 313 43 gold 多-v 多.03 ----- 43:0-rel 35:3-ARG0 42:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 314 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 314 16 gold 是-v 是.04 ----- 16:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 314 18 gold 体现-v 体现.01 ----- 18:0-rel 11:3-ARG1 15:1-ARGM-ADV 17:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 315 18 gold 高-v 高.01 ----- 18:0-rel 1:2-ARGM-TPC 8:3-ARG0 15:1-ARGM-DIS 16:1-ARGM-ADV 17:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 316 2 gold 觉得-v 觉得.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 316 10 gold 有-v 有.01 ----- 10:0-rel 3:1-ARGM-TPC 5:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 317 14 gold 围绕-v 围绕.01 ----- 14:0-rel 1:4-ARG0 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 318 6 gold 可以-v 可以.01 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 318 7 gold 释放-v 释放.02 ----- 7:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 5:1-ARG0 9:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 319 9 gold 是-v 是.04 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 319 11 gold 体现-v 体现.01 ----- 11:0-rel 1:2-ARGM-TPC 7:1-ARG0 8:1-ARGM-ADV 10:1-ARGM-ADV 13:6-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 320 2 gold 可以-v 可以.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 320 6 gold 服务-v 服务.01 ----- 6:0-rel 1:1-ARG0 3:3-ARGM-ADV 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 320 12 gold 服务-v 服务.01 ----- 12:0-rel 1:1-ARG0 3:3-ARGM-ADV 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 321 3 gold 觉得-v 觉得.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 321 11 gold 应当-v 应当.01 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 321 12 gold 超越-v 超越.01 ----- 12:0-rel 5:3-ARGM-TPC 10:1-ARG0 13:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 322 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 322 4 gold 体现-v 体现.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 323 5 gold 必须-v 必须.02 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 323 6 gold 要-v 要.03 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 323 7 gold 有-v 有.01 ----- 7:0-rel 1:2-ARGM-TPC 4:1-ARG0 8:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 323 19 gold 体现-v 体现.01 ----- 19:0-rel 18:1-ARG0 20:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 323 23 gold 体现-v 体现.01 ----- 23:0-rel 18:1-ARG0 24:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 324 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 324 6 gold 围绕-v 围绕.01 ----- 6:0-rel 1:2-ARG0 4:1-ARGM-ADV 7:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 324 14 gold 服务-v 服务.01 ----- 14:0-rel 1:2-ARG0 4:1-ARGM-ADV 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 324 17 gold 配合-v 配合.01 ----- 17:0-rel 1:2-ARG0 4:1-ARGM-ADV 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 324 27 gold 创造-v 创造.01 ----- 27:0-rel 1:2-ARG0 4:1-ARGM-ADV 28:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 324 39 gold 付出-v 付出.01 ----- 39:0-rel 1:2-ARG0 4:1-ARGM-ADV 32:1-ARGM-BNF 40:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 325 5 gold 在-v 在.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 325 10 gold 觉得-v 觉得.01 ----- 10:0-rel 11:1*3:2-ARGM-TPC 7:1-ARG0 8:1-ARGM-TMP 9:1-ARGM-ADV 11:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 325 13 gold 理所当然-v 理所当然.01 ----- 13:0-rel 11:1*3:2-ARG0 12:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 325 17 gold 应该-v 应该.01 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 325 19 gold 在-v 在.01 ----- 19:0-rel 16:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 326 5 gold 有-v 有.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARGM-DIS 6:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 326 11 gold 是-v 是.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 326 29 gold 有-v 有.03 ----- 29:0-rel 16:3-ARG1 24:1-ARG0 28:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 326 33 gold 对-v 对.02 ----- 33:0-rel 32:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 327 6 gold 是-v 是.04 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 327 7 gold 在-v 在.01 ----- 7:0-rel 1:1-ARGM-DIS 2:2-ARG0 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 328 8 gold 是-v 是.04 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 328 9 gold 在-v 在.01 ----- 9:0-rel 1:1-ARGM-DIS 2:3-ARG0 7:1-ARGM-DIS 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 329 4 gold 是-v 是.04 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 329 6 gold 大-v 大.01 ----- 6:0-rel 1:1-ARGM-DIS 2:2-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 330 9 gold 知道-v 知道.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 7:1-ARG0 8:1-ARGM-DIS 10:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 330 19 gold 关心-v 关心.01 ----- 19:0-rel 10:2-ARG0 18:1-ARGM-DIS 21:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 331 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 332 6 gold 能-v 能.01 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 333 7 gold 做-v 做.01 ----- 7:0-rel 1:1-ARG0 2:1-ARGM-LOC 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 334 2 gold 应该-v 应该.01 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 334 3 gold 说-v 说.07 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 334 19 gold 是-v 是.01 ----- 19:0-rel 6:2-ARG0 14:1-ARGM-ADV 20:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 335 9 gold 是-v 是.01 ----- 9:0-rel 1:1-ARGM-DIS 2:3-ARGM-ADV 7:2-ARG0 10:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 336 8 gold 有-v 有.01 ----- 8:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 5:1-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 336 24 gold 会-v 会.02 ----- 24:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 336 25 gold 有-v 有.01 ----- 25:0-rel 19:1-ARGM-DIS 20:2-ARG0 23:1-ARGM-DIS 26:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 337 15 gold 是-v 是.01 ----- 15:0-rel 1:1-ARGM-DIS 2:3-ARGM-TPC 12:3-ARG0 16:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 338 7 gold 是-v 是.04 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 338 8 gold 起到-v 起到.01 ----- 8:0-rel 3:1-ARGM-TPC 6:1-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 338 11 gold 调配-v 调配.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 339 6 gold 讲-v 讲.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 4:1-ARGM-DIS 5:1-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 339 11 gold 叫-v 叫.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 340 3 gold 发展-v 发展.05 ----- 3:0-rel 2:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 340 9 gold 形成-v 形成.01 ----- 9:0-rel 1:1-ARGM-DIS 2:3-ARGM-TMP 7:1-ARG1 8:1-ARGM-DIS 11:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 341 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARG0 4:1-ARGM-ADV 6:7-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 342 9 gold 强大-v 强大.01 ----- 9:0-rel 8:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 342 11 gold 参与-v 参与.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 4:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-TMP 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 343 11 gold 有-v 有.01 ----- 11:0-rel 2:1-ARG0 3:1-ARGM-DIS 4:1-ARGM-ADV 5:1-ARGM-LOC 12:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 343 17 gold 完善-v 完善.01 ----- 17:0-rel 14:1*15:1-ARG1 16:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 343 25 gold 有-v 有.01 ----- 25:0-rel 23:1*24:1-ARG0 26:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 343 34 gold 参与-v 参与.01 ----- 34:0-rel 33:1-ARG0 35:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 343 37 gold 是-v 是.04 ----- 37:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 344 11 gold 是-v 是.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 9:1-ARG0 10:1-ARGM-ADV 12:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 344 14 gold 发展-v 发展.01 ----- 14:0-rel 12:2-ARG0 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 344 19 gold 是-v 是.01 ----- 19:0-rel 12:3-ARG0 18:1-ARGM-ADV 20:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 344 30 gold 是-v 是.01 ----- 30:0-rel 12:3-ARG0 29:1-ARGM-ADV 31:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 344 31 gold 代表-v 代表.01 ----- 31:0-rel 12:3-ARG0 29:1-ARGM-DIS 32:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 344 34 gold 参与-v 参与.01 ----- 34:0-rel 32:2-ARG0 35:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 345 8 gold 形成-v 形成.01 ----- 8:0-rel 1:1-ARGM-DIS 3:1-ARG1 6:1-ARGM-TMP 7:1-ARGM-ADV 10:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 345 19 gold 有-v 有.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-ADV 18:1-ARGM-ADV 20:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 346 3 gold 知道-v 知道.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 346 16 gold 转变-v 转变.01 ----- 16:0-rel 4:3-ARG1 11:1-ARGM-ADV 12:1-ARG3
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 347 5 gold 转变-v 转变.01 ----- 5:0-rel 2:1-ARG1 3:1-ARG3
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 347 18 gold 要-v 要.03 ----- 18:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 348 9 gold 有-v 有.03 ----- 9:0-rel 1:1-ARGM-DIS 5:2-ARG0 10:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 349 18 gold 要-v 要.06 ----- 18:0-rel 17:1,19:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 349 19 gold 实现-v 实现.01 ----- 19:0-rel 17:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 349 24 gold 困难-v 困难.01 ----- 24:0-rel 1:1-ARGM-LOC 17:2-ARG0 23:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 350 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 7 gold 有-v 有.05 ----- 7:0-rel 1:1-ARGM-DIS 4:1-ARG0 6:1-ARGM-DIS 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 16 gold 建议-v 建议.01 ----- 16:0-rel 8:2-ARG0 12:1-ARGM-DIS 13:1-ARG2 21:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 20 gold 是-v 是.01 ----- 20:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 22 gold 利用-v 利用.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 39 gold 要-v 要.03 ----- 39:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 40 gold 打造-v 打造.02 ----- 40:0-rel 21:1-ARG0 35:2-ARG3 42:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 351 45 gold 叫做-v 叫做.01 ----- 45:0-rel 43:1*44:1-ARG1 49:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 352 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 354 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 354 11 gold 起来-v 起来.01 ----- 11:0-rel 7:1-ARG0 8:1-ARGM-TMP 9:1-ARGM-ADV 10:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 355 7 gold 起-v 起.04 ----- 7:0-rel 1:2-ARG1 4:1-ARGM-ADV 5:1-ARGM-ADV 6:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 356 6 gold 起-v 起.04 ----- 6:0-rel 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 356 21 gold 开始-v 开始.02 ----- 21:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARGM-LOC 11:1-ARG0 12:1-ARGM-DIR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 357 3 gold 使-v 使.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:1-ARG1 5:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 357 10 gold 建成-v 建成.01 ----- 10:0-rel 8:1-ARG1 7:1*9:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 357 15 gold 是-v 是.04 ----- 15:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 357 16 gold 在-v 在.01 ----- 16:0-rel 5:1-ARG0 6:1-ARGM-ADV 7:3-ARGM-TMP 14:1-ARGM-ADV 17:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 357 23 gold 是-v 是.04 ----- 23:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 357 24 gold 居于-v 居于.01 ----- 24:0-rel 5:1-ARG0 6:1-ARGM-ADV 7:3-ARGM-TMP 14:1-ARGM-ADV 25:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 358 2 gold 高人一等-v 高人一等.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 359 2 gold 高人一等-v 高人一等.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 360 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 361 6 gold 有-v 有.02 ----- 6:0-rel 1:1-ARGM-TMP 2:1-ARGM-LOC 4:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 362 9 gold 是-v 是.04 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 362 10 gold 占-v 占.01 ----- 10:0-rel 1:4-ARG0 11:6-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 362 15 gold 进入-v 进入.01 ----- 15:0-rel 13:1*14:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 363 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 363 6 gold 进入-v 进入.01 ----- 6:0-rel 4:1-ARG0 3:1*5:1-ARGM-LOC 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 364 6 gold 要-v 要.05 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:1-ARG1 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 364 7 gold 建-v 建.01 ----- 7:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:1-ARG1 9:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 364 8 gold 在-v 在.03 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 364 21 gold 是-v 是.01 ----- 21:0-rel 1:2-ARG0 19:1-ARGM-DIS 20:1-ARGM-ADV 22:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 364 27 gold 健全-v 健全.01 ----- 27:0-rel 23:3-ARG1 26:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 365 4 gold 完善-v 完善.01 ----- 4:0-rel 1:1-ARG1 2:1-ARGM-ADV 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 365 13 gold 应该-v 应该.01 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 365 14 gold 说-v 说.07 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 365 16 gold 是-v 是.01 ----- 16:0-rel 15:1*6:1-ARG0 17:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 365 18 gold 好-v 好.01 ----- 18:0-rel 15:1*6:1-ARG0 17:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 366 2 gold 会-v 会.02 ----- 2:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 366 3 gold 给-v 给.01 ----- 3:0-rel 1:1-ARG0 4:1-ARG2 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 367 19 gold 降到-v 降到.01 ----- 19:0-rel 1:1-ARGM-MNR 6:2-ARG1 14:1-ARG2 16:1-ARGM-DIS 17:1-ARGM-TMP 18:1-ARGM-ADV 20:2-ARG3
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 368 3 gold 知道-v 知道.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 368 17 gold 有-v 有.02 ----- 17:0-rel 4:2-ARG0 16:1-ARGM-ADV 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 369 3 gold 有-v 有.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 369 7 gold 到-v 到.02 ----- 7:0-rel 1:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 370 3 gold 说明-v 说明.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 371 13 gold 做-v 做.01 ----- 13:0-rel 1:1-ARGM-TPC 2:1-ARGM-LOC 11:1-ARG0 15:2-ARGM-EXT
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 371 16 gold 有-v 有.03 ----- 16:0-rel 15:1-ARGM-ADV 17:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 372 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 372 16 gold 发-v 发.04 ----- 16:0-rel 5:1-ARGM-ADV 8:3-ARG0 14:1-ARGM-LOC 18:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 372 20 gold 少-v 少.01 ----- 20:0-rel 5:1-ARGM-ADV 8:3-ARG1 14:1-ARGM-LOC 18:1-ARGM-ADV 19:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 373 11 gold 控制-v 控制.01 ----- 11:0-rel 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 373 18 gold 强-v 强.01 ----- 18:0-rel 1:1-ARGM-DIS 3:1-ARGM-ADV 6:1-ARGM-DIS 8:2-ARG0 16:1-ARGM-ADV 17:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 373 23 gold 放心-v 放心.01 ----- 23:0-rel 20:1-ARG0 21:1-ARGM-DIS 22:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 374 10 gold 开放-v 开放.01 ----- 10:0-rel 6:1-ARGM-TMP 8:1-ARGM-ADV 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 374 11 gold 改革-v 改革.01 ----- 11:0-rel 6:1-ARGM-TMP 8:1-ARGM-ADV 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 374 17 gold 会-v 会.02 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 374 18 gold 扮演-v 扮演.01 ----- 18:0-rel 1:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-LOC 16:1-ARGM-DIS 22:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 375 6 gold 列为-v 列为.01 ----- 6:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 5:1-ARG1 7:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 376 2 gold 想-v 想.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 376 9 gold 可以-v 可以.01 ----- 9:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 376 11 gold 利用-v 利用.01 ----- 11:0-rel 3:1-ARGM-DIS 8:1-ARG0 10:1-ARGM-ADV 13:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 376 26 gold 推进-v 推进.01 ----- 26:0-rel 3:1-ARGM-ADV 8:1-ARG0 27:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 377 2 gold 来-v 来.05 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 377 3 gold 发展-v 发展.01 ----- 3:0-rel 1:1-ARG0 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 378 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 378 9 gold 回来-v 回来.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 378 11 gold 要-v 要.03 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 378 12 gold 看-v 看.02 ----- 12:0-rel 5:1-ARGM-DIS 6:1-ARG0 7:2-ARGM-ADV 10:1-ARGM-DIS 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 378 20 gold 是-v 是.01 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-DIS 21:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 378 26 gold 有趣-v 有趣.01 ----- 26:0-rel 23:1*24:1-ARG0 25:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 379 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 379 11 gold 是-v 是.04 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 379 13 gold 大-v 大.01 ----- 13:0-rel 4:1-ARG0 8:2-ARG0 10:1-ARGM-ADV 12:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 379 16 gold 说-v 说.01 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-TMP
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 380 4 gold 占据-v 占据.01 ----- 4:0-rel 2:1*3:1-ARG0 5:2-ARG2 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 380 18 gold 是-v 是.01 ----- 18:0-rel 1:1-ARGM-DIS 2:3-ARG0 20:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 380 24 gold 大-v 大.01 ----- 24:0-rel 20:1*21:1-ARG0 22:1-ARGM-LOC 23:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 381 7 gold 要-v 要.03 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 381 9 gold 开发-v 开发.01 ----- 9:0-rel 1:1-ARGM-DIS 14:1*2:2-ARGM-TPC 6:1-ARG0 8:1-ARGM-ADV 14:1*10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 382 7 gold 思考-v 思考.01 ----- 7:0-rel 1:1-ARGM-ADV 2:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 383 4 gold 有-v 有.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIS 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 383 21 gold 告诉-v 告诉.01 ----- 21:0-rel 14:1-ARGM-TMP 15:1-ARG0 16:1-ARGM-LOC 22:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 385 2 gold 欢迎-v 欢迎.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1 4:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 385 5 gold 继续-v 继续.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 385 6 gold 收看-v 收看.01 ----- 6:0-rel 4:1-ARG0 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 385 8 gold 纵横-v 纵横.01 ----- 8:0-rel 7:1-ARG0 9:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 386 3 gold 展望-v 展望.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 386 7 gold 展望-v 展望.01 ----- 7:0-rel 1:1-ARGM-TMP 2:1-ARG0 6:1-ARGM-DIS 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 387 7 gold 看到-v 看到.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 6:1-ARG0 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 388 5 gold 想-v 想.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 388 13 gold 办-v 办.01 ----- 13:0-rel 10:2-ARG1 12:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 389 4 gold 使用-v 使用.01 ----- 4:0-rel 2:1-ARG1 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 389 5 gold 好-v 好.01 ----- 5:0-rel 1:1-ARGM-TMP 2:2-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 390 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 390 5 gold 是-v 是.04 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 390 6 gold 有限-v 有限.01 ----- 6:0-rel 4:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 391 3 gold 要-v 要.05 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 391 4 gold 发展-v 发展.05 ----- 4:0-rel 1:1-ARG1 2:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 391 7 gold 必须-v 必须.02 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 391 8 gold 要-v 要.03 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 391 9 gold 有-v 有.01 ----- 9:0-rel 6:1-ARG0 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 392 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 392 22 gold 叫-v 叫.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-ADV 23:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 393 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 393 4 gold 占-v 占.01 ----- 4:0-rel 1:1-ARG0 5:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 394 7 gold 建-v 建.01 ----- 7:0-rel 1:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 395 4 gold 通-v 通.02 ----- 4:0-rel 1:2-ARG0 3:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 10 gold 应该-v 应该.01 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 11 gold 是-v 是.04 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 12 gold 说-v 说.07 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 19 gold 一样-v 一样.02 ----- 19:0-rel 14:1*3:2-ARG0 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 23 gold 卖-v 卖.01 ----- 23:0-rel 21:1-ARG1 22:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 26 gold 弄-v 弄.05 ----- 26:0-rel 21:1-ARG0 25:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 29 gold 开发-v 开发.01 ----- 29:0-rel 21:1-ARG0 28:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 33 gold 建-v 建.01 ----- 33:0-rel 32:1-ARG0 34:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 396 36 gold 有-v 有.01 ----- 36:0-rel 31:1-ARGM-TPC 32:2-ARG0 35:1-ARGM-ADV 37:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 397 5 gold 定为-v 定为.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG1 3:1-ARGM-TMP 8:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 398 8 gold 看一看-v 看一看.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 400 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 400 11 gold 有-v 有.02 ----- 11:0-rel 10:1-ARG0 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 401 21 gold 有-v 有.01 ----- 21:0-rel 3:1-ARGM-TMP 7:3-ARGM-TMP 19:1-ARG0 20:1-ARGM-ADV 22:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 402 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 402 4 gold 希望-v 希望.02 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 402 11 gold 作为-v 作为.01 ----- 11:0-rel 5:1-ARG0 7:1-ARG1 12:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 402 17 gold 发展-v 发展.05 ----- 17:0-rel 15:1-ARG1 16:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 403 7 gold 觉得-v 觉得.01 ----- 7:0-rel 3:2-ARGM-TPC 6:1-ARG0 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 403 10 gold 是-v 是.04 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 403 12 gold 重-v 重.02 ----- 12:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 404 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 404 6 gold 发展-v 发展.05 ----- 6:0-rel 4:1-ARG1 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 404 10 gold 是-v 是.01 ----- 10:0-rel 8:1-ARGM-DIS 9:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 405 4 gold 要-v 要.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 405 9 gold 发展-v 发展.01 ----- 9:0-rel 3:1-ARG0 5:3-ARGM-ADV 11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 405 21 gold 批准-v 批准.01 ----- 21:0-rel 1:1-ARGM-DIS 2:1-ARGM-PRP 16:1-ARGM-TMP 19:1-ARG0 20:1-ARGM-ADV 23:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 406 7 gold 讲-v 讲.01 ----- 7:0-rel 2:1-ARG0 3:1-ARGM-TMP 5:2-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 406 14 gold 是-v 是.01 ----- 14:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 9:2-ARG0 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 406 15 gold 指-v 指.01 ----- 15:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 9:2-ARG1 16:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 407 14 gold 想-v 想.02 ----- 14:0-rel 3:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-LOC 10:1-ARGM-ADV 11:1-ARGM-TMP 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 407 20 gold 定位-v 定位.01 ----- 20:0-rel 15:1-ARG0 18:1-ARG1 23:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 407 25 gold 是-v 是.01 ----- 25:0-rel 23:1-ARG0 24:1-ARGM-ADV 26:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 407 26 gold 上-v 上.08 ----- 26:0-rel 23:1-ARG0 24:1-ARGM-ADV 27:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 407 39 gold 是-v 是.01 ----- 39:0-rel 32:3-ARGM-TPC 36:1-ARG0 38:1-ARGM-ADV 40:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 408 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 2:2-ARG0 5:1-ARGM-ADV 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 408 7 gold 说-v 说.07 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 408 19 gold 讲-v 讲.01 ----- 19:0-rel 8:2-ARGM-TPC 17:1-ARGM-TMP 18:1-ARG0 22:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 408 23 gold 是-v 是.04 ----- 23:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 408 26 gold 要-v 要.05 ----- 26:0-rel 22:1-ARG0 27:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 409 3 gold 用-v 用.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 409 6 gold 可惜-v 可惜.01 ----- 6:0-rel 1:2-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 410 4 gold 紧张-v 紧张.01 ----- 4:0-rel 1:1-ARGM-TPC 2:1-ARG0 3:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 411 3 gold 觉得-v 觉得.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 411 7 gold 应该-v 应该.01 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 411 14 gold 走-v 走.01 ----- 14:0-rel 9:3-ARG0 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 411 19 gold 跨越-v 跨越.01 ----- 19:0-rel 17:1*18:1-ARG0 21:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 411 29 gold 走-v 走.01 ----- 29:0-rel 9:3-ARG0 30:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 412 6 gold 叫-v 叫.01 ----- 6:0-rel 1:1-ARGM-DIS 2:2-ARG0 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 413 4 gold 是-v 是.04 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 413 6 gold 要-v 要.03 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 413 7 gold 注意-v 注意.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-TPC 3:1-ARGM-ADV 9:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 414 2 gold 利用-v 利用.01 ----- 2:0-rel 1:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 414 20 gold 发展-v 发展.05 ----- 20:0-rel 1:1-ARG0 17:1-ARGM-DIS 22:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 415 3 gold 是-v 是.04 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 415 19 gold 为主-v 为主.01 ----- 19:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 416 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 6:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 417 8 gold 建设-v 建设.01 ----- 8:0-rel 3:1-ARGM-ADV 4:1-ARG0 7:1-ARG1 10:3-ARGM-EXT
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 417 11 gold 漂亮-v 漂亮.01 ----- 11:0-rel 10:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 11 gold 拥挤-v 拥挤.01 ----- 11:0-rel 1:1-ARGM-DIS 2:4-ARG0 10:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 15 gold 向往-v 向往.01 ----- 15:0-rel 1:1-ARGM-DIS 2:4-ARG0 14:1-ARGM-ADV 16:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 17 gold 有-v 有.05 ----- 17:0-rel 16:1-ARG0 18:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 23 gold 叫-v 叫.01 ----- 23:0-rel 18:2-ARG0 24:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 29 gold 能-v 能.01 ----- 29:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 30 gold 去-v 去.02 ----- 30:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 418 31 gold 享受-v 享受.01 ----- 31:0-rel 27:1-ARG0 28:1-ARGM-ADV 32:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 419 5 gold 可能-v 可能.02 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 419 6 gold 会-v 会.02 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 419 7 gold 发展-v 发展.01 ----- 7:0-rel 1:1-ARGM-DIS 4:1-ARG0 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 420 12 gold 可以-v 可以.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 420 13 gold 吸引-v 吸引.02 ----- 13:0-rel 4:1-ARGM-ADV 5:2-ARG0 11:1-ARGM-DIS 14:2-ARG1 16:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 420 17 gold 去-v 去.02 ----- 17:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 420 19 gold 参观-v 参观.01 ----- 19:0-rel 16:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 420 20 gold 旅游-v 旅游.01 ----- 20:0-rel 16:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 421 4 gold 看到-v 看到.01 ----- 4:0-rel 2:1-ARG0 3:1-ARGM-TMP 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 421 13 gold 拍-v 拍.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:1*10:1-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 422 3 gold 看-v 看.02 ----- 3:0-rel 2:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 422 6 gold 感到-v 感到.01 ----- 6:0-rel 1:1-ARG0 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 422 10 gold 惊讶-v 惊讶.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 423 16 gold 包括-v 包括.01 ----- 16:0-rel 17:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 424 4 gold 发现-v 发现.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 6:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 424 11 gold 飞快-v 飞快.01 ----- 11:0-rel 9:1*10:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 424 16 gold 逼近-v 逼近.01 ----- 16:0-rel 6:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-MNR 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 425 4 gold 看-v 看.02 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-DIR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 426 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 427 3 gold 城市化-v 城市化.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 428 8 gold 有-v 有.03 ----- 8:0-rel 1:3-ARG0 7:1-ARGM-DIS 11:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 428 13 gold 留给-v 留给.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG2 11:1*15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 429 12 gold 进行-v 进行.01 ----- 12:0-rel 2:1-ARGM-DIS 11:1-ARGM-ADV 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 429 39 gold 设想-v 设想.01 ----- 39:0-rel 15:1-ARG0 16:1-ARGM-LOC 20:1-ARGM-ADV 21:2-ARGM-MNR 34:3*40:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 429 43 gold 规划-v 规划.01 ----- 43:0-rel 15:1-ARG0 16:1-ARGM-LOC 20:1-ARGM-ADV 21:2-ARGM-MNR 42:1*45:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 429 61 gold 没有-v 没有.01 ----- 61:0-rel 58:1-ARGM-DIS 59:1-ARG0 60:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 430 19 gold 像-v 像.01 ----- 19:0-rel 17:1*18:1-ARG0 20:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 430 32 gold 大-v 大.01 ----- 32:0-rel 27:1*28:1-ARG0 29:2-ARGM-LOC 31:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 430 43 gold 变成-v 变成.01 ----- 43:0-rel 1:1-ARGM-TPC 38:1-ARGM-DIS 39:1-ARG1 40:2-ARGM-ADV 42:1-ARGM-ADV 44:3-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 430 47 gold 密集-v 密集.01 ----- 47:0-rel 44:1*45:1-ARGM-LOC 46:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 430 52 gold 是-v 是.01 ----- 52:0-rel 49:1*50:1-ARG0 51:1-ARGM-ADV 53:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 430 54 gold 林立-v 林立.01 ----- 54:0-rel 53:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 431 10 gold 觉得-v 觉得.01 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 9:1-ARG0 11:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 431 13 gold 是-v 是.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 431 24 gold 做成-v 做成.02 ----- 24:0-rel 11:1-ARG0 12:1-ARGM-ADV 14:1-ARGM-MNR 20:3-ARG1 23:1-ARGM-TMP 25:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 5 gold 可以-v 可以.01 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 6 gold 说-v 说.07 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 8 gold 是-v 是.01 ----- 8:0-rel 7:1-ARG0 9:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 11 gold 可以-v 可以.01 ----- 11:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 14 gold 是-v 是.01 ----- 14:0-rel 13:1-ARG0 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 19 gold 实验-v 实验.01 ----- 19:0-rel 9:2-ARG0 16:1-ARGM-LOC 22:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 432 27 gold 相处-v 相处.01 ----- 27:0-rel 22:1-ARG0 24:1-ARG0 26:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 433 15 gold 相处-v 相处.01 ----- 15:0-rel 1:2-ARG0 7:1-ARG0 13:1-ARGM-ADV 14:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 434 4 gold 是-v 是.04 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 434 6 gold 进行-v 进行.01 ----- 6:0-rel 2:1-ARGM-ADV 3:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 435 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 435 7 gold 是-v 是.04 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 435 8 gold 看到-v 看到.01 ----- 8:0-rel 4:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-DIS 9:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 435 14 gold 城市化-v 城市化.01 ----- 14:0-rel 13:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 435 21 gold 考虑-v 考虑.01 ----- 21:0-rel 9:1-ARG0 10:1-ARGM-TMP 12:1-ARGM-LOC 19:1-ARGM-ADV 23:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 436 6 gold 展望-v 展望.01 ----- 6:0-rel 4:1-ARG0 3:1*5:1-ARGM-TMP 7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 436 14 gold 感到-v 感到.01 ----- 14:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 12:1-ARG0 13:1-ARGM-ADV 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 437 2 gold 有-v 有.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 437 11 gold 执行-v 执行.01 ----- 11:0-rel 8:1-ARGM-DIS 9:1-ARG0 10:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 437 14 gold 规划-v 规划.01 ----- 14:0-rel 8:1-ARGM-DIS 9:1-ARG0 13:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 439 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 439 13 gold 看-v 看.02 ----- 13:0-rel 5:1-ARGM-DIS 6:1-ARG0 7:1-ARGM-MNR 15:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 439 25 gold 贡献-v 贡献.01 ----- 25:0-rel 15:1-ARG0 16:1-ARG2 26:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 439 32 gold 是-v 是.04 ----- 32:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 440 17 gold 多-v 多.03 ----- 17:0-rel 3:2-ARG0 16:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 441 13 gold 为-v 为.02 ----- 13:0-rel 10:1-ARG0 11:1-ARG2 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 441 20 gold 看-v 看.02 ----- 20:0-rel 2:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-MNR
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 441 24 gold 会-v 会.02 ----- 24:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 442 7 gold 是-v 是.04 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 442 15 gold 一样-v 一样.01 ----- 15:0-rel 1:1-ARGM-ADV 2:2-ARG0 6:1-ARGM-ADV 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 442 30 gold 一样-v 一样.02 ----- 30:0-rel 1:1-ARGM-ADV 2:2-ARG0 6:1-ARGM-ADV 17:1-ARGM-ADV 18:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 442 32 gold 变成-v 变成.01 ----- 32:0-rel 1:1-ARGM-DIS 2:2-ARG1 6:1-ARGM-ADV 33:2-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 442 50 gold 会-v 会.02 ----- 50:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 442 51 gold 是-v 是.01 ----- 51:0-rel 44:4-ARG0 49:1-ARGM-ADV 52:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 443 8 gold 会-v 会.02 ----- 8:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 443 9 gold 是-v 是.01 ----- 9:0-rel 1:4-ARG0 7:1-ARGM-ADV 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 444 10 gold 相关-v 相关.01 ----- 10:0-rel 2:1*3:1-ARG0 4:1-ARGM-ADV 5:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 444 16 gold 会-v 会.02 ----- 16:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 444 19 gold 这样-v 这样.01 ----- 19:0-rel 1:2-ARG0 15:1-ARGM-DIS 17:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 445 5 gold 会-v 会.02 ----- 5:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 445 6 gold 这样-v 这样.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 4:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 446 2 gold 这样-v 这样.01 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 446 6 gold 可能-v 可能.02 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 446 7 gold 能-v 能.01 ----- 7:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 447 3 gold 可能-v 可能.02 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 447 4 gold 要-v 要.03 ----- 4:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 447 6 gold 花-v 花.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 447 10 gold 去-v 去.02 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 447 11 gold 治病-v 治病.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 448 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 448 9 gold 知道-v 知道.01 ----- 9:0-rel 6:1-ARGM-DIS 7:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 449 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 449 4 gold 对-v 对.02 ----- 4:0-rel 1:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 450 7 gold 感觉-v 感觉.01 ----- 7:0-rel 1:1-ARG0 8:1-ARGM-ADV 9:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 450 10 gold 没有-v 没有.01 ----- 10:0-rel 9:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 451 6 gold 重要-v 重要.01 ----- 6:0-rel 1:2-ARG0 5:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 452 10 gold 有-v 有.01 ----- 10:0-rel 1:4*14:1-ARGM-TPC 9:1-ARG0 11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 452 12 gold 要-v 要.03 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 452 13 gold 保证-v 保证.01 ----- 13:0-rel 9:1-ARG0 1:4*14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 453 2 gold 为了-v 为了.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 453 7 gold 为-v 为.05 ----- 7:0-rel 1:1-ARG0 6:1-ARGM-DIS 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 455 7 gold 访问-v 访问.01 ----- 7:0-rel 5:1-ARG0 4:1*6:1-ARGM-TMP 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 455 14 gold 问-v 问.01 ----- 14:0-rel 1:1-ARGM-DIS 3:1-ARG0 4:3-ARGM-TMP 13:1-ARGM-DIS 15:1-ARG2 17:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 455 27 gold 像-v 像.01 ----- 27:0-rel 17:2-ARG0 28:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 455 31 gold 爱-v 爱.01 ----- 31:0-rel 29:1-ARG0 32:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 455 33 gold 听-v 听.01 ----- 33:0-rel 32:1-ARG0 28:1*34:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 456 2 gold 说-v 说.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 456 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 456 6 gold 这样-v 这样.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 457 2 gold 有-v 有.07 ----- 2:0-rel 1:1-ARG0 3:4-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 457 8 gold 包括-v 包括.01 ----- 8:0-rel 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 458 12 gold 是-v 是.01 ----- 12:0-rel 3:1-ARGM-TPC 10:1-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 458 16 gold 组成-v 组成.01 ----- 16:0-rel 14:1*15:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 458 25 gold 是-v 是.01 ----- 25:0-rel 21:1-ARG0 24:1-ARGM-ADV 26:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 459 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 459 10 gold 是-v 是.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 13:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 460 3 gold 放在-v 放在.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG1 4:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 461 2 gold 来-v 来.05 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 461 3 gold 看看-v 看看.01 ----- 3:0-rel 1:1-ARG0 4:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 461 7 gold 说-v 说.01 ----- 7:0-rel 4:1-ARG0 6:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 462 5 gold 喜欢-v 喜欢.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARGM-ADV 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 463 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 463 6 gold 养成-v 养成.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 3:1*7:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 464 12 gold 喜欢-v 喜欢.01 ----- 12:0-rel 1:1-ARG0 2:3-ARGM-TMP 8:1-ARGM-ADV 9:3-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 465 3 gold 工作-v 工作.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 465 7 gold 有-v 有.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 465 10 gold 会-v 会.02 ----- 10:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 465 14 gold 去-v 去.02 ----- 14:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 466 3 gold 觉得-v 觉得.01 ----- 3:0-rel 2:1-ARG0 6:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 466 10 gold 是-v 是.01 ----- 10:0-rel 6:1-ARG0 9:1-ARGM-DIS 11:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 467 6 gold 是-v 是.01 ----- 6:0-rel 2:2-ARG0 5:1-ARGM-DIS 7:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 468 6 gold 和谐-v 和谐.01 ----- 6:0-rel 1:3-ARG0
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 468 10 gold 是-v 是.01 ----- 10:0-rel 1:4-ARGM-TPC 7:1-ARG0 8:1-ARGM-ADV 9:1-ARGM-DIS 13:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 469 3 gold 能-v 能.01 ----- 3:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 470 7 gold 有-v 有.01 ----- 7:0-rel 1:2-ARGM-TPC 6:1-ARG0 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 471 2 gold 放-v 放.01 ----- 2:0-rel 1:1-ARG1 3:3-ARG2
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 471 10 gold 是-v 是.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-DIS 14:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 472 8 gold 一样-v 一样.02 ----- 8:0-rel 1:0-ARGM-ADV 2:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 472 12 gold 能-v 能.01 ----- 12:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 472 13 gold 代替-v 代替.01 ----- 13:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 10:1-ARG2 11:1-ARGM-ADV 14:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 473 4 gold 组合-v 组合.01 ----- 4:0-rel 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 474 9 gold 包括-v 包括.01 ----- 9:0-rel 10:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 474 13 gold 是-v 是.04 ----- 13:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 474 14 gold 这样-v 这样.01 ----- 14:0-rel 1:1-ARGM-DIS 3:3-ARG0 12:1-ARGM-DIS
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 475 13 gold 包括-v 包括.01 ----- 13:0-rel 14:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 475 22 gold 是-v 是.01 ----- 22:0-rel 1:5-ARGM-TPC 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-DIS 23:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 476 2 gold 认为-v 认为.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 476 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 477 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 478 6 gold 看-v 看.02 ----- 6:0-rel 1:1-ARGM-LOC 5:1-ARG0 7:5-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 478 18 gold 含-v 含.01 ----- 18:0-rel 7:4-ARG1 17:1-ARGM-ADV 19:1-ARGM-ADV
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 479 14 gold 充满-v 充满.01 ----- 14:0-rel 12:1*13:1-ARG0 15:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 479 20 gold 是-v 是.04 ----- 20:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 479 31 gold 演奏-v 演奏.01 ----- 31:0-rel 1:2-ARGM-ADV 3:4-ARG0 21:1-ARGM-BNF 35:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 480 7 gold 相信-v 相信.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 6:1-ARG0 8:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 480 10 gold 是-v 是.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 480 20 gold 造福-v 造福.01 ----- 20:0-rel 19:1-ARG0 21:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 481 7 gold 感谢-v 感谢.01 ----- 7:0-rel 1:1-ARGM-LOC 5:1-ARG0 6:1-ARGM-ADV 8:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 481 13 gold 谢谢-v 谢谢.01 ----- 13:0-rel 1:1-ARGM-LOC 5:1-ARG0 12:1-ARGM-DIS 14:2-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 482 2 gold 感谢-v 感谢.02 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 483 2 gold 纵横-v 纵横.01 ----- 2:0-rel 1:1-ARG0 3:1-ARGM-LOC
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 483 6 gold 要-v 要.03 ----- 6:0-rel
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 483 8 gold 祝福-v 祝福.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 483 11 gold 祝福-v 祝福.01 ----- 11:0-rel 7:1-ARG0 12:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 483 15 gold 祝福-v 祝福.01 ----- 15:0-rel 7:1-ARG0 14:1-ARGM-DIS 16:3-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 484 2 gold 谢谢-v 谢谢.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+bc/phoenix/00/phoenix_0005@0005@phoenix@bc@ch@on 485 5 gold 再见-v 再见.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV

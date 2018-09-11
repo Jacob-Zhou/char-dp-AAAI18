@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="易-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+这 位 巴拉圭籍 后卫 能够 把 球 准确 地 从 后场 传给 前锋 是 “ 十分 不 易 ” 的
+这 种 做法 严重 违反 了 《 中华 人民 共和国 商业 银行法 》 和 中国 人民 银行 《 银行 账户 管理 办法 》 等 有关 规定 ， 极 易 引发 金融 机构 支付 风险 ， 危及 社会 安定
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

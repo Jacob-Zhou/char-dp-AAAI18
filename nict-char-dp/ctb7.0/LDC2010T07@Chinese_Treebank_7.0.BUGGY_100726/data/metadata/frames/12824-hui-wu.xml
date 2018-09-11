@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 挥舞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 waves"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 小朋友们))
+                    (VP (VP (VP (NP-LOC (NN 头))
+                    (VP (VV 带)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 画)
+                    (AS 着)
+                    (NP-OBJ (NP (QP (CD 双))
+                    (NP (NN 十)))
+                    (NP (NN 字样)))))
+                    (DEC 的)))
+                    (NP (NN 纸帽)))))
+                    (PU ，)
+                    (VP (LCP-LOC (NP (NN 手))
+                    (LC 里))
+                    (VP (VV 挥舞)
+                    (AS 着)
+                    (NP-OBJ (ADJP (JJ 小))
+                    (NP (NN 国旗)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    小朋友们          
+                </arg>
+                <arg n="m" f="loc">
+                    手 里          
+                </arg>
+                <arg n="1">
+                    小 国旗          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

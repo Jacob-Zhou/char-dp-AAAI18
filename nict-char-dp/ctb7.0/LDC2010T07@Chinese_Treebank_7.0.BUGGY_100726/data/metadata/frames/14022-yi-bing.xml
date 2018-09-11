@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 移兵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme moved"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NN 空军))
+                    (NP (NN ｓ２ｔ)
+                    (NN 反潜)))
+                    (VP (VV 移兵)
+                    (NP-OBJ (NN 海军)))) 
+                    
+                </parse>
+                <arg n="1">
+                    空军 ｓ２ｔ 反潜          	  
+                </arg>
+                <arg n="2">
+                    海军          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="破坏-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to destroy, to damage, to spoil, to discredit, to violate" group="1">
+<commentary>
+</commentary>
+<examples>
+企图 破坏 和 推迟 古巴 恢复 经济 的 进程
+美国 在 此 问题 上 对 朝鲜 施加 压力 只 会 破坏 和平 与 稳定
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="28" ann_1_2_agreement="1.0" />
+</inventory>

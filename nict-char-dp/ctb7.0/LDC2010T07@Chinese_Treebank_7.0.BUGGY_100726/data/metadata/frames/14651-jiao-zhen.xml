@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 叫阵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 其他)
+                    (QP (CD 三)
+                    (CLP (M 名))))
+                    (NP (NN 嫌犯)))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 旁边)))
+                    (VP (VV 叫阵))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    其他 三 名 嫌犯           
+                </arg>
+                <arg n="m" f="loc">
+                    在 旁边          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="紧-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="urgent, pressing" group="1">
+<commentary>
+</commentary>
+<examples>
+前 一阵子 局势 最 紧 时 ， 韩国 每 天 都 有 上 百 家 企业 倒闭
+从 小 开始 ， 鲍 妈妈 就 苦心 经营 女儿 的 英语 环境 ， 小学 一 、 二 年级 趁 台湾 功课 还 没 那么 紧 时 先 送 美国 念 小学
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="tight, close, tighten, to make tight" group="1">
+<commentary>
+</commentary>
+<examples>
+再 谈起 统 独 、 政治 ， 吴建乐 却 一 改 坦率 ， 口风 突然 紧 起来
+怎么 这里 的 土 夯 得 这么 紧 呢
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="strict, firm" group="1">
+<commentary>
+</commentary>
+<examples>
+政府 对 国片 约束 太 紧 ， 对 西片 、 港片 太 松 ， 让 港片 有 机会 入侵
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="hard up, difficult (for money)" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 中直 机关 决定 带头 过 紧 日子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

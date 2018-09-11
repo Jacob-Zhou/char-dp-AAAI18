@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拼写 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing spelled"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 用)
+                    (NP (NP (NN 英文)
+                    (ETC 等))
+                    (NP (NN 外文))))
+                    (VP (VV 拼写)
+                    (NP-OBJ (NN 地名)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 英文 等 外文          
+                </arg>
+                <arg n="1">
+                    地名          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

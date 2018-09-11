@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 善后 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 deal with"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 美军))
+                    (VP (VP (PP-TMP (P 在)
+                    (NP (NP-PN (NR 越战))
+                    (NP (NN 期间))))
+                    (DVP (ADVP (AD 大量))
+                    (DEV 的))
+                    (VP (NN 使用)
+                    (NP-OBJ (NP (NN 成剂))
+                    (PRN (VP (ADVP (AD 也))
+                    (ADVP (AD 就))
+                    (VP (VC 是)
+                    (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP (-NONE- *PRO*))
+                    (VP (VV 俗称)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 落叶剂)))))))))
+                    (VP (MSP 所)
+                    (VP (VV 造成)
+                    (NP-OBJ (-NONE- *T*-2))))))
+                    (DEC 的)))
+                    (NP (NN 污染)
+                    (NN 伤害)))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NR 越南))
+                    (NP (NN 政府)))
+                    (VP (ADVP (AD 并))
+                    (VP (VP (VE 没有)
+                    (NP-OBJ (NN 能力)))
+                    (VP (ADVP (AD 独自))
+                    (VP (VV 来)
+                    (VP (VCD (VV 处理)
+                    (VV 善后))))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    美军 越战 期间 大量 的 使用 成剂 也 就 是 俗称 的 落叶剂 所 造成 的 污染 伤害          
+                </arg>
+                <arg n="0">
+                    越南 政府          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="m" f="adv">
+                    独自          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

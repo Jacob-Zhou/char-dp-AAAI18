@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="点-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+居民 努力 地 要 把 环境 与 人 的 关系 找 回来 ， 在 街 上 点 灯 ， 搬出 凳子 坐 下来 谈古说今
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+微阵列 晶片 则 是 将 基因 的 片段 或 寡核酸 、 蛋白质 、 抗体 冷 生物 分子 点 在 晶片 上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+吴思华 则 以 英特尔 为 例 ， 说明 知识 「 点 矽 成 金 」 的 威力
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+作 陶猪 时 ， 他 起身 到 屋 前 的 竹林 ， 随手 折下 竹枝 ， 来 点 猪 鼻孔
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+再 不然 ， 就 到 火车站 前 的 小美 冰淇淋 里 ， 点 上 一 片 西瓜 ， 然後 就 坐 上 一 天 ， 以 店 里 的 客人 当 素描 对象
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

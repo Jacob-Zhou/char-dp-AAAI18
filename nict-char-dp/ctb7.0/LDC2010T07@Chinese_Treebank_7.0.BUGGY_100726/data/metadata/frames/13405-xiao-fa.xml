@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 效法 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity learned from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 西安)
+                    (NR 汉斯)
+                    (NN 公司))
+                    (VP (NP-TMP (NT 今年))
+                    (ADVP (AD 又))
+                    (VP (VP (VV 效法)
+                    (NP-PN (NR 青啤)
+                    (NN 集团)))
+                    (VP (VCD (VV 出资)
+                    (VV 控股))) 
+                    
+                </parse>
+                <arg n="0">
+                    西安 汉斯 公司           
+                </arg>
+                <arg n="m" f="tmp">
+                    今年          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="1">
+                    青啤 集团          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

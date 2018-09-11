@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 仰躺 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (CP (WHPP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ-1 (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-2))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 人))
+                    (VP (VV 发现)
+                    (NP-OBJ (-NONE- *-1))))))))
+                    (NP (NN 时候)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 仰躺)
+                    (PP (P 在)
+                    (NP (NN 地上))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    被 人 发现 时候          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    在 地上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

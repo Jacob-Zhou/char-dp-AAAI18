@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 无悔 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 英雄))
+                    (VP (VP (VV 无悔)) 
+                    
+                </parse>
+                <arg n="0">
+                    英雄          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

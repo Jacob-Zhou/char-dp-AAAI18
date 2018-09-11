@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 滞港 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 滞港)
+                    (ADVP (AD 多时))))
+                    (DEC 的)))
+                    (NP (NN 大陆)
+                    (NN 同胞))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 大陆 同胞          
+                </arg>
+                <arg n="m" f="ext">
+                    大陆 同胞          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

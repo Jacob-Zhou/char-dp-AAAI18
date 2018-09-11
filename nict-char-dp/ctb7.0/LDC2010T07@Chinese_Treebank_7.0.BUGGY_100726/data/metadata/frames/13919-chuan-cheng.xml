@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 串成 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme linked up"/>
+        <role argnum="2" argrole="creation"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-MNR (NP-APP (NN 珊瑚)
+                    (PU 、)
+                    (NN 玉石)
+                    (PU 、)
+                    (NN 玛瑙)
+                    (CC 和)
+                    (NN 天珠)
+                    (ETC 等))
+                    (ADJP (JJ 珍贵))
+                    (NP (NN 宝石)))
+                    (VP (VV 串成)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 项链))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    珊瑚 、 玉石 、 玛瑙 和 天珠 等 珍贵 宝石          
+                </arg>
+                <arg n="2">
+                    *T*-1 -> 项链          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

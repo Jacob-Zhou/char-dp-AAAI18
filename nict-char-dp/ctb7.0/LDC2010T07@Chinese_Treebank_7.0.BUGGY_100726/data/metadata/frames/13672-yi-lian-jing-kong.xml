@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一脸惊恐 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 受伤)))
+                    (DEC 的)))
+                    (NP (NN 小朋友)))
+                    (VP (VP (ADVP (AD 频频))
+                    (VP (VV 叫痛)))
+                    (PU ，)
+                    (VP (LCP-TMP (IP (NP-SBJ-2 (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VV 问到)
+                    (NP-IO (-NONE- *-2))
+                    (NP-OBJ (NN 经过)
+                    (NN 情形)))))
+                    (LC 时))
+                    (PU ，)
+                    (VP (VV 一脸惊恐))))) 
+                    
+                </parse>
+                <arg n="0">
+                    受伤 的 小朋友          
+                </arg>
+                <arg n="m" f="tmp">
+                    被 问到 经过 情形 时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

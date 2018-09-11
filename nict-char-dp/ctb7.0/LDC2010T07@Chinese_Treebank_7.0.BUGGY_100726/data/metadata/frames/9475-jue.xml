@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 噘 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="thing which arg0 gets pursed up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (PN 她))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 一迳))
+                    (VP (VP (VV 噘)
+                    (AS 著)
+                    (NP-OBJ (NN 嘴)))
+                    (VP (VV 摇)
+                    (NP-OBJ (NN 头)))))) 
+                </parse>
+                <arg n="0">
+                    她 
+                </arg>
+                <arg n="1">
+                    嘴 
+                </arg>
+                <arg n="m" f="adv">
+                    一迳 
+                </arg>
+                <arg n="m" f="adv">
+                    却 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

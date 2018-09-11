@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逼疯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="party that goes crazy"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-3 (-NONE- *PRO*))
+                    (VP (ADVP (AD 几乎))
+                    (ADVP (AD 快))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 钱))
+                    (VP (VV 逼疯)
+                    (NP-OBJ (-NONE- *-3))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *PRO* -> *-3          
+                </arg>
+                <arg n="m" f="adv">
+                    几乎          
+                </arg>
+                <arg n="m" f="adv">
+                    快          
+                </arg>
+                <arg n="0">
+                    钱          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

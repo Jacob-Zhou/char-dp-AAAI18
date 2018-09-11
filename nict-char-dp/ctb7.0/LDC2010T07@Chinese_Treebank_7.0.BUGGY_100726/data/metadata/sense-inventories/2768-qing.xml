@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="轻-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="light (indicating the weight)" group="1">
+<commentary>
+</commentary>
+<examples>
+第五 个 出生 的 男婴 体重 最 轻 ， 只 有 四百九十五 克
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to despise, to depreciate, to belittle, to look
+down upon" group="1">
+<commentary>
+</commentary>
+<examples>
+改变 重 原料药 生产 、 轻 制剂 开发 的 做法
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="small, minor, slight (in severity, number, degree,
+etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+未来 犯 最 轻 本刑 为 五 年 以上 有期 徒刑 之 重罪 者 ， 在 停止 羁押 保外就医 期间 ， 如 从事 选举 等 与 保外就医 无关 之 活动 或 已经 回复 健康 ， 即 必须 重新 执行 羁押
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="easily, without due consideration" group="1">
+<commentary>
+</commentary>
+<examples>
+尤其 「 有 话 不 轻 谈 」 的 男性们 ， 常 将 情绪 憋 在 心 里
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="easy to be manipulated, misled or deceived
+(used in a idiomatic usage, i.e. er-duo-qing)" group="1">
+<commentary>
+</commentary>
+<examples>
+也 养成 我 『 耳朵 不 轻 』 的 好 习惯
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="light (e.g. artillery, machine, industry, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+民国 五十 年代 开始 ， 台湾 顺利 从 农业 社会 转入 轻 工业 社会
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="light, soft (music)" group="1">
+<commentary>
+</commentary>
+<examples>
+有 描述 北极 原野 辽阔 、 宁静 的 轻 爵士
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="gentle, soft" group="1">
+<commentary>
+</commentary>
+<examples>
+十月份 的 两 个 秋台 ―― 瑞伯 和 芭比丝 ， 轻 扫 裙摆 ， 让 北部 地区 也 饱尝 淹水 之 苦
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="9" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

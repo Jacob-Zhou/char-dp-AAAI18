@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吸毒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-PN (NR 陈))
+                    (NP (NN 姓)))
+                    (NP (NN 男子)))
+                    (VP (ADVP (AD 同时))
+                    (VP (VV 酗酒)
+                    (CC 和)
+                    (VV 吸毒)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    陈 姓 男子          
+                </arg>
+                <arg n="m" f="adv">
+                    同时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

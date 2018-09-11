@@ -1,0 +1,29 @@
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 0 3 gold 逮捕-v 逮捕.01 ----- 3:0-rel 0:2-ARG0 2:1-ARGM-TMP 5:2-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 0 21 gold 涉嫌-v 涉嫌.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 0 32 gold 做-v 做.01 ----- 32:0-rel 19:1-ARGM-ADV 20:2-ARGM-ADV 25:1-ARGM-TMP 29:1-ARG0 30:1-ARGM-ADV 31:1-ARGM-ADV 34:3-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 0 36 gold 有-v 有.02 ----- 36:0-rel 34:0*35:0-ARG0 37:2-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 0 43 gold 有-v 有.03 ----- 43:0-rel 41:1-ARGM-ADV 42:1-ARG0 44:3-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 0 47 gold 是-v 是.01 ----- 47:0-rel
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 1 11 gold 带回-v 带回.01 ----- 11:0-rel 12:1*8:1-ARG1 10:1-ARG0 12:1*8:1-ARG2
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 1 25 gold 掩饰-v 掩饰.01 ----- 25:0-rel 21:1-ARGM-DIS 22:1-ARG0 23:1-ARGM-ADV 24:1-ARGM-ADV 26:4-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 1 30 gold 犯下-v 犯下.01 ----- 30:0-rel 26:1-ARG0 29:1-ARGM-ADV 31:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 2 1 gold 涉嫌-v 涉嫌.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 2 3 gold 利用-v 利用.01 ----- 3:0-rel 2:1-ARG0 4:6-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 2 5 gold 送-v 送.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 2 7 gold 到-v 到.01 ----- 7:0-rel 4:1-ARG0 8:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 3 1 gold 看准-v 看准.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 3 7 gold 装设-v 装设.01 ----- 7:0-rel 3:2-ARG2 6:1-ARGM-ADV 8:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 3 29 gold 戴-v 戴.01 ----- 29:0-rel 10:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 31:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 3 34 gold 进入-v 进入.01 ----- 34:0-rel 10:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 35:2-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 3 39 gold 找-v 找.01 ----- 39:0-rel 10:1-ARG0 27:1-ARGM-ADV 28:1-ARGM-ADV 38:1-ARGM-ADV 40:3-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 4 4 gold 带到-v 带到.01 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1 5:4-ARG2
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 4 9 gold 无-v 无.01 ----- 9:0-rel 11:1*7:1*8:1-ARG0 10:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 4 19 gold 加以-v 加以.01 ----- 19:0-rel 0:1-ARG0 18:1-ARGM-ADV 20:1-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 3 gold 带回-v 带回.01 ----- 3:0-rel 0:1*4:1-ARG1 2:1-ARG0 0:1*4:1-ARG2
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 9 gold 否认-v 否认.01 ----- 9:0-rel 0:3-ARGM-TMP 7:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 21 gold 吻合-v 吻合.01 ----- 21:0-rel 16:1-ARG0 17:1-ARG0 20:1-ARGM-ADV
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 29 gold 坦诚-v 坦诚.01 ----- 29:0-rel 14:2-ARGM-TMP 23:3-ARG0 28:1-ARGM-DIS 30:2-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 32 gold 是-v 是.01 ----- 32:0-rel 30:1-ARG0 31:1-ARGM-ADV 33:3-ARG1
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 35 gold 布线-v 布线.01 ----- 35:0-rel
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 36 gold 追踪-v 追踪.01 ----- 36:0-rel 34:1-ARG0 33:1*37:1*44:1-ARG1 38:2-ARGM-EXT
+bn/cts/00/cts_0031@0031@cts@bn@ch@on 7 39 gold 久-v 久.01 ----- 39:0-rel 38:1-ARGM-ADV

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="走-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to walk, to travel on foot" group="1">
+<commentary>
+</commentary>
+<examples>
+闲步 走 在 澳门 繁华 闹区
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="move, travel" group="1">
+<commentary>
+</commentary>
+<examples>
+当时 缆车 已经 在 长 约 ３２００ 公尺 的 隧道 当中 走 了 大约 有 ６００ 公尺
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to leave, to depart" group="1">
+<commentary>
+</commentary>
+<examples>
+人 走 之后 不 到 １ 个 小时 就 发生 了 这 一 项 惨剧
+人才 引进 部门 还 积极 走 出去 延揽 科技 管理 人才
+男女 竞逐 身体 之 美 ， 可 达成 一 种 平衡 ， 而 非 各 往 一 个 极端 走
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to visit (family, friends)" group="1">
+<commentary>
+</commentary>
+<examples>
+山下人 到 这 个 村 走 亲戚
+那些 老是 怨天尤人 的 人 ， 应该 到 癌症 安宁 病房 走 一 圈
+我 想 可能 曾志伟 、 谭咏麟 他们 可能 会 带 他 去 走 一 走 ， 去 玩 一 玩
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="go through, by" group="1">
+<commentary>
+</commentary>
+<examples>
+其中 煤炭 从 徐州 运来 ， 走 运河 比 走 陆路 运费 每 吨 便宜 十五 元
+有 了 车子 走 的 「 道路 」 后 ， 居民 却 失去 了 生活
+汕头 超声 仪器 研究所 ， 坚持 走 引进 和 自主 研究 开发 相 结合 的 路子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to live, to experience" group="1">
+<commentary>
+</commentary>
+<examples>
+一 生 喜欢 「 跟 着 感觉 走
+有 过 一 次 战胜 自己 的 经验 ， 可以 让 未来 的 路 走 得 更 稳 ， 更 好
+走 过 二十 世纪 以 资本 多寡 为 企业 决胜点 的 年代
+坪林人 一 年 的 生活 作息 更 是 跟 着 茶事 走
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to advance, to make progress (abstract)" group="1">
+<commentary>
+</commentary>
+<examples>
+作为 祖国 大陆 最早 制定 涉台 法规 的 省份 ， 福建 涉台 立法 一直 走 在 前列
+台北市 有 义务 牵 着 其他 姊妹 的 手 一起 向前 走
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="verb particle indicating departure, away" group="1">
+<commentary>
+</commentary>
+<examples>
+立委 李清华 家中 失窃 ， 军购 弊案 的 部分 文件 被 偷 走
+逃走
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to leak out (of air, a secret, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+说 走 了 嘴 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="243" ann_1_2_agreement="0.740740740741" />
+</inventory>

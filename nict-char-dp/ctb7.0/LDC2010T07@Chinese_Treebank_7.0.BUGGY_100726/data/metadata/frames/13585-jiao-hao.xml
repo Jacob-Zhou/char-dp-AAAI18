@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 交好 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (PP-ADV (P 和)
+                    (NP-PN (NR 以色列)))
+                    (VP (VV 交好))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="0" f="crd">
+                    和 以色列          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

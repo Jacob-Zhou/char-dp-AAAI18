@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 问津 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (VV 问津)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

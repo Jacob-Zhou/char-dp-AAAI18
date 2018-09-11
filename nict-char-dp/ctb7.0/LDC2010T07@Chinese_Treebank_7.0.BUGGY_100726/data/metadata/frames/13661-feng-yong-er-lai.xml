@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 蜂拥而来 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 蜂拥而来)))
+                    (DEC 的)))
+                    (QP (ADVP (AD 上))
+                    (QP (CD 千)))
+                    (NP (NN 影迷))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 影迷          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

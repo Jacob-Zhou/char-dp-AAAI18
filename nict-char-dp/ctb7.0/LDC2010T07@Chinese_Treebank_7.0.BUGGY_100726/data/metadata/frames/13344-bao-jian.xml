@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 报建 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 倒塌)))
+                    (DEC 的)))
+                    (NP (NN 楼房)))
+                    (VP (VP (ADVP (AD 没有))
+                    (VP (VV 报建))) 
+                    
+                </parse>
+                <arg n="1">
+                    倒塌 的 楼房          
+                </arg>
+                <arg n="m" f="adv">
+                    没有          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

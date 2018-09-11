@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 命中 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="target"/>
+        <role argnum="2" argrole="arg1 is hit by"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-LOC (NN 其中))
+                    (NP-SBJ (DNP (NP (NN 背部)
+                    (PU 、)
+                    (NN 头部)
+                    (CC 和)
+                    (NN 颈部))
+                    (DEG 的))
+                    (NP (NN 刀伤)))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 命中)
+                    (NP-OBJ (NN 要害))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    其中          
+                </arg>
+                <arg n="2">
+                    背部 、头部 和 颈部 的 刀伤          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="1">
+                    要害          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

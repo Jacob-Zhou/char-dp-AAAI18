@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 表 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="opinion, attitude"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (NP-PN-SBJ (NR 董瑞斌))
+                    (VP (ADVP (AD 颇))
+                    (VP (VV 表)
+                    (NP-OBJ (NN 赞成))))))
+                </parse>
+                <arg n="0"> 董瑞斌 </arg>
+                <arg n="M" f="ADV"> 颇 </arg>
+                <V/>
+                <arg n="1"> 赞成 </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>
+

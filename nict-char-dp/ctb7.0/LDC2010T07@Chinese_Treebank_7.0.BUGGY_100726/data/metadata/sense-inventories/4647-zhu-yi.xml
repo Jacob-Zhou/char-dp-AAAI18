@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="注意-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to pay attention to" group="1">
+<commentary>
+</commentary>
+<examples>
+田宏茂 表示 ， 我 国 对于 所国 发生 的 事情 都 密切 注意 并且 掌握 ，
+值得 注意 的 是 ，
+注意 了 节地 造地 和 环保 工作
+产品 的 售价 也 要 注意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be concerned with, care about" group="1">
+<commentary>
+</commentary>
+<examples>
+随着 中国人 生活 水平 的 提高 ， 人们 更 注意 食用 健康 食品
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to notice" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 注意 到 今年 上 半 年 ， 中 俄 两 国 贸易额 比 去年 同 期 下降
+不 要 加入 时 满怀 发财梦 ， 只 注意 到 奖金 的 额度 和 国外 旅游 、 钻石 翡翠 等 荣衔 ， 却 忽略 了 将来 的 退路
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="attention" group="1">
+<commentary>
+</commentary>
+<examples>
+宋楚瑜 的 聪明 处 还 在 懂得 掌握 时势 ， 知道 什么 时候 该 说 什么 话 ， 会 引起 注意 。
+大隘社 位于 北埔 下街 ， 外观 古朴 ， 引 人 注意 。
+但是 这 一 纸 契约 却 也 引起 了 部分 监督 团体 的 注意 ， 认为 希拉里 有 从中 谋利 之 嫌 ， 不 符合 参议院 伦理 的 准则 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="127" ann_1_2_agreement="0.803149606299" />
+</inventory>

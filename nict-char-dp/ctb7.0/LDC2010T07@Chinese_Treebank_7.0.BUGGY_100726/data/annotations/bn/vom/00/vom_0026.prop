@@ -1,0 +1,19 @@
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 0 3 gold 要求-v 要求.02 ----- 3:0-rel 0:3-ARG0 4:3-ARG1 7:2-ARG2
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 0 13 gold 制止-v 制止.01 ----- 13:0-rel 7:1-ARG0 8:1-ARGM-TMP 14:4-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 1 1 gold 指责-v 指责.02 ----- 1:0-rel 0:1-ARG0 2:1-ARG1 3:2-ARG2
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 1 4 gold 挑起-v 挑起.01 ----- 4:0-rel 3:1-ARG0 6:1-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 2 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 2 13 gold 好转-v 好转.01 ----- 13:0-rel 2:1-ARGM-DIS 3:1-ARGM-TMP 10:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-ADV
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 2 19 gold 放弃-v 放弃.01 ----- 19:0-rel 18:1-ARG0 20:1-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 4 gold 作出-v 作出.01 ----- 4:0-rel 0:2-ARG0 2:1-ARGM-DIS 3:1-ARGM-ADV 5:3-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 11 gold 表示-v 表示.01 ----- 11:0-rel 9:1-ARGM-DIS 10:1-ARG0 12:2-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 13 gold 必须-v 必须.01 ----- 13:0-rel
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 22 gold 是-v 是.01 ----- 22:0-rel 21:1-ARGM-ADV 23:3-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 26 gold 居住-v 居住.01 ----- 26:0-rel 24:1-ARG0 23:1*25:1*28:1-ARGM-LOC
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 29 gold 撤军-v 撤军.01 ----- 29:0-rel 12:1-ARG0 14:1-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 3 32 gold 缓解-v 缓解.01 ----- 32:0-rel 12:1-ARG0 33:2-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 4 3 gold 打-v 打.01 ----- 3:0-rel 0:3-ARG0 4:1-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 4 5 gold 到-v 到.01 ----- 5:0-rel
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 4 7 gold 敦促-v 敦促.01 ----- 7:0-rel 0:3-ARG0 8:3-ARG1 11:2-ARG2
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 4 14 gold 施加-v 施加.01 ----- 14:0-rel 11:1-ARG0 12:1-ARG2 15:1-ARG1
+bn/vom/00/vom_0026@0026@vom@bn@ch@on 4 17 gold 缓和-v 缓和.01 ----- 17:0-rel 11:1-ARG0 18:1-ARG1

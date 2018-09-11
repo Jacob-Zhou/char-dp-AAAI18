@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 欢唱 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 sings"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 鸟)
+                    (NN 兽))
+                    (VP (NP-ADV (PN 相互))
+                    (DVP (VP (VA 和平))
+                    (DEV 地))
+                    (VP (VV 聚居)
+                    (CC 与)
+                    (VV 欢唱)))) 
+                </parse>
+                <arg n="0">
+                    鸟 兽 
+                </arg>
+                <arg n="m" f="adv">
+                    和平 地 
+                </arg>
+                <arg n="m" f="adv">
+                    相互 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

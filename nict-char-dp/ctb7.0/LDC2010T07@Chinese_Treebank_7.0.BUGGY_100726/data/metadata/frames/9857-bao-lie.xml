@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 爆裂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing exploding"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-HLN (NP-SBJ (NN 瓦斯箱))
+                    (VP (VV 爆裂))) 
+                </parse>
+                <arg n="0">
+                    瓦斯箱 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

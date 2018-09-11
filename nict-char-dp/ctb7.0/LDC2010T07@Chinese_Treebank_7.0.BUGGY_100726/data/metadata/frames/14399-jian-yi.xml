@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 建意 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="proposer"/>
+        <role argnum="1" argrole="proposal"/>
+        <role argnum="2" argrole="proposing to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VV 建意)
+                    (NP-OBJ (NN 议会))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 同意)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 和解))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="1">
+                    议会          
+                </arg>
+                <arg n="2">
+                    和解          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

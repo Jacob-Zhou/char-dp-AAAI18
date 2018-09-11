@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="领-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to get, to receive, to draw (e.g. pay)" group="1">
+<commentary>
+</commentary>
+<examples>
+十八 岁 以上 （ 含 十八 岁 ） 的 港 澳 居民 可 申请 领 十 年 有效 的 证件
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to lead, to guide" group="1">
+<commentary>
+</commentary>
+<examples>
+就 可 看到 身 背 彩带 写 着 「 通宝 巴士 」 字样 的 小姐 ， 以 小 推车 领 着 客人 坐车
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="the collar (of a garment)" group="1">
+<commentary>
+</commentary>
+<examples>
+如 传统 原住民 服装 本 无 领 、 无 袖
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 就近 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 就近)))
+                    (DEC 的)))
+                    (NP-PN (NR 万芳)
+                    (NN 医院))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 万芳 医院          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

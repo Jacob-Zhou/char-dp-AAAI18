@@ -1,0 +1,32 @@
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 0 1 gold 会见-v 会见.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 2 9 gold 会见-v 会见.01 ----- 9:0-rel 5:1-ARG0 6:1-ARGM-LOC 10:4-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 2 18 gold 说-v 说.01 ----- 18:0-rel 0:2-ARG0 4:1-ARGM-TMP 5:3-ARGM-TMP 20:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 2 22 gold 重视-v 重视.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-ADV 23:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 2 24 gold 发展-v 发展.01 ----- 24:0-rel 23:1-ARG0 25:4-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 2 42 gold 合作-n 合作.01 ----- 42:0-rel 37:3-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 3 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:5-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 3 8 gold 有-v 有.03 ----- 8:0-rel 3:3-ARG0 9:3-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 3 11 gold 传统-v 传统.01 ----- 11:0-rel 9:0*10:0*13:1-ARG0
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 3 21 gold 友好-v 友好.01 ----- 21:0-rel 15:4-ARG0 19:1-ARGM-ADV 20:1-ARGM-ADV
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:5-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 8 gold 来访-n 来访.01 ----- 8:0-rel 3:1-ARG0 6:1-ARGM-ADV
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 18 gold 互访-n 互访.01 ----- 18:0-rel 10:3-ARG0
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 20 gold 有利于-v 有利于.01 ----- 20:0-rel 3:4-ARG0 21:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 22 gold 推进-v 推进.01 ----- 22:0-rel 21:1-ARG0 23:6-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 28 gold 发展-n 发展.01 ----- 28:0-rel 21:1-ARG0 22:0-rel-Sup 23:3-ARG1 27:1-ARGM-DGR
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 4 35 gold 合作-n 合作.01 ----- 35:0-rel 30:1-ARGM-LOC 34:1-ARGM-MNR
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 5 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 5 5 gold 高兴-v 高兴.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 5 7 gold 会见-v 会见.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 6 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 6 8 gold 发展-n 发展.01 ----- 8:0-rel 6:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 6 9 gold 迅速-v 迅速.01 ----- 9:0-rel 3:1-ARGM-TMP 6:2-ARG0 8:1-ARG0
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 6 15 gold 感到-v 感到.01 ----- 15:0-rel 11:2-ARG0 16:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 6 18 gold 高兴-v 高兴.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 7 1 gold 表示-v 表示.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 7 3 gold 赞同-v 赞同.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 7 8 gold 认为-v 认为.01 ----- 8:0-rel 0:1-ARG0 9:3-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 7 13 gold 应-v 应.01 ----- 13:0-rel
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 7 15 gold 发展-v 发展.01 ----- 15:0-rel 9:2-ARG0 14:1-ARGM-ADV 16:4-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 7 21 gold 合作-n 合作.01 ----- 21:0-rel 9:2-ARG0 15:0-rel-Sup 16:2-ARGM-MNR 20:0-ARG1
+nw/xinhua/03/chtb_0302@0302@xinhua@nw@ch@on 8 1 gold 完-v 完.01 ----- 1:0-rel

@@ -1,0 +1,16 @@
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 0 8 gold 选出-v 选出.01 ----- 8:0-rel 0:1-ARG0 4:1-ARGM-TMP 10:4-ARG1 30:2-ARGM-PRP
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 0 13 gold 荣获-v 荣获.01 ----- 13:0-rel 12:1-ARGM-TMP 15:2-ARG1 10:0*10:1*11:0*11:1*22:1-ARG0
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 0 27 gold 出生-v 出生.01 ----- 27:0-rel 26:1-ARGM-TMP 24:0*24:1*25:0*25:1*29:1-ARG0
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 0 31 gold 作为-v 作为.02 ----- 31:0-rel 30:1-ARG0 32:3-ARG2
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 4 gold 指出-v 指出.01 ----- 4:0-rel 0:1-ARG0 6:2-ARG1
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 7 gold 选出-v 选出.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 9:2-ARG2 14:3-ARGM-PRP
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 10 gold 为-v 为.01 ----- 10:0-rel 9:1-ARG0 11:1-ARG1
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 17 gold 是-v 是.01 ----- 17:0-rel 16:1-ARG0 18:3-ARG1
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 21 gold 荣获-v 荣获.01 ----- 21:0-rel 18:2-ARG0 23:2-ARG1
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 33 gold 独特-v 独特.01 ----- 33:0-rel 32:0*35:1-ARG0
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 45 gold 强烈-v 强烈.01 ----- 45:0-rel 43:0*44:0*47:1-ARG0
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 49 gold 穿透-v 穿透.01 ----- 49:0-rel 30:2-ARG0 39:1-ARGM-ADV 40:1-ARGM-ADV 51:3-ARG1
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 62 gold 凝聚-v 凝聚.01 ----- 62:0-rel 30:2-ARG0 39:1-ARGM-ADV 40:1-ARGM-ADV 64:2-ARG1
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 63 gold 成-v 成.01 ----- 63:0-rel
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 68 gold 积极-v 积极.01 ----- 68:0-rel 66:0*66:1*67:0*67:1*70:1-ARG0
+bn/cbs/01/cbs_0136@0136@cbs@bn@ch@on 1 72 gold 改变-v 改变.01 ----- 72:0-rel 30:2-ARG0 39:1-ARGM-ADV 40:1-ARGM-ADV 74:3-ARG1

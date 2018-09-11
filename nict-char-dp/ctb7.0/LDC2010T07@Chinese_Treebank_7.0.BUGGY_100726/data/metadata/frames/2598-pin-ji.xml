@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 贫瘠 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 土地))
+                    (VP (VA 零散)
+                    (PU 、)
+                    (VA 贫瘠)
+                    (PU 、)
+                    (VA 破碎))) 
+                </parse>
+                <arg n="0">
+                    土地 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

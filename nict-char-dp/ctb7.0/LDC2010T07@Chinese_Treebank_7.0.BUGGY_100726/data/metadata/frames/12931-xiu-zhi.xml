@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 休职 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity whose position is stopped"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 法官))
+                    (VP (VP-FOC (VV 休职)) 
+                    
+                </parse>
+                <arg n="1">
+                    法官          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

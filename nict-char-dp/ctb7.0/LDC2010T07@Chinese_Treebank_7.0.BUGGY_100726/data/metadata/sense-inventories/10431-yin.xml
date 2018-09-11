@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="印-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to print, to stamp" group="1">
+<commentary>
+</commentary>
+<examples>
+印 书 的 雕版 高 达 十多万 片
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="seal, stamp, chop" group="1">
+<commentary>NN
+</commentary>
+<examples>
+随后 陈水扁 接受 立法 院长 王金平 授与 「 中华 民国 之 玺 」 、 「 荣典 之 玺 」 、 「 总统 之 印 」 与 「 总统 之 章 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="trace, mark, imprint" group="1">
+<commentary>NN
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="abbreviation of India" group="1">
+<commentary>NN
+</commentary>
+<examples>
+正在 访 印 的 斯里兰卡 总统 钱德里卡・班达拉奈克・库马拉通加
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

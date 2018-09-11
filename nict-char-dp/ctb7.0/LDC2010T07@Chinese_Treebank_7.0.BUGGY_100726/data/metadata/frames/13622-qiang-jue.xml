@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 枪决 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 再加上))
+                    (NP-SBJ-3 (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 职务))
+                    (VP (ADVP (AD 更))
+                    (VP (VA 高))))
+                    (DEC 的)))
+                    (NP-APP (ADJP (JJ 全国))
+                    (NP (NN 人大)
+                    (NN 副委员长)))
+                    (NP-PN (NR 成克杰)))
+                    (VP (NP-TMP (NT 今年)
+                    (NT 九月))
+                    (ADVP (AD 也))
+                    (PP-PRP (P 因)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VCD (VV 受贿)
+                    (VV 贪污))))
+                    (VP (SB 被)
+                    (VP (VV 枪决)
+                    (NP-OBJ (-NONE- *-3)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    再加上          
+                </arg>
+                <arg n="1">
+                    职务更 高 的 全国 人大 副委员长 成克杰 -> *-3          
+                </arg>
+                <arg n="m" f="tmp">
+                    今年 九月          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="m" f="prp">
+                    因 受贿 贪污          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

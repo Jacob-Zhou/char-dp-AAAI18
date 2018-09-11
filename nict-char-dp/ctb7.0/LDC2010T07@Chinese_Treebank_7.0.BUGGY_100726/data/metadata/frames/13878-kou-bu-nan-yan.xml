@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 口不难言 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (DP (DT 这些))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 口不难言)))
+                    (DEC 的)))
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 幸存))))
+                    (NP (NN 老人))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 老人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

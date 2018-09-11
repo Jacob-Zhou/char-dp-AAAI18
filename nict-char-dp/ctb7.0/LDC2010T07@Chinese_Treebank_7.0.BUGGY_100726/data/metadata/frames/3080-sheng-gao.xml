@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 升高 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing rising"/>
+        <role argnum="1" argrole="extent of rising"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (ADVP (AD 至此))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NR 纳斯达克))
+                    (NP (NN 指数)))
+                    (VP (PP (P 比)
+                    (NP (NT 年初)))
+                    (VP (VV 升高)
+                    (QP-OBJ (CD 百分之三十八点八))))) 
+                    
+                </parse>
+                <arg n="0">
+                    纳斯达克 指数 	  	  
+                </arg>
+                <arg n="1">
+                    百分之三十八点八 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    比 年初 	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    至此 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="thing rising"/>
+        <role argnum="1" argrole="endpoint"/>
+        <role argnum="2" argrole="agent"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 锂))
+                    (VP (VV 让)
+                    (NP-OBJ (DNP (NP (PN 我))
+                    (DEG 的))
+                    (NP (NN 荷尔蒙)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VRD (VV 升高)
+                    (DFL (AS 了))
+                    (VV 到))
+                    (AS 了)
+                    (NP-OBJ (DNP (ADJP (JJ 那样))
+                    (DEG 的))
+                    (NP (NN 程度))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*	  	  
+                </arg>
+                <arg n="1">
+                    那样 的 程度	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

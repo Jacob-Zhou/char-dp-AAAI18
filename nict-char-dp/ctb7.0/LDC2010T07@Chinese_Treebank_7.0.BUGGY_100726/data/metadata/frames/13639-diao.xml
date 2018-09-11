@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 叼 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity held by teeth or lips"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CLP (M 位)))
+                    (NP (NN 烈士)))
+                    (VP (LCP-LOC (NP (NN 嘴))
+                    (LC 里))
+                    (VP (VV 叼)
+                    (AS 着)
+                    (NP-OBJ (NP (NN 敌人))
+                    (QP (CD 半)
+                    (CLP (M 块)))
+                    (NP (NN 耳朵)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    位 烈士           
+                </arg>
+                <arg n="m" f="loc">
+                    嘴 里          
+                </arg>
+                <arg n="1">
+                    敌人 半块 耳朵          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

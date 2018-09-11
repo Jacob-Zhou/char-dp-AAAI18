@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 中弹 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 巴勒斯坦人)))
+                    (DEG 的))
+                    (NP (NN 颈部)))
+                    (VP (VV 中弹)))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 巴勒斯坦人 的 颈部          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

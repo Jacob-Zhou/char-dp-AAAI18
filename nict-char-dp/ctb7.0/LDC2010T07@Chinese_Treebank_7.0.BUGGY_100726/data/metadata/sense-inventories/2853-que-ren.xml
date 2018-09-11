@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="确认-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to confirm" group="1">
+<commentary>
+</commentary>
+<examples>
+村民 自治 进一步 确认 了 我们 当家 作主 的 权利
+一九九四年 中国 科学家 实地 勘察 后 确认 其 为 世界 第一 大 峡谷
+一九九二年 武汉 被 确认 为 沿江 对 外 开放 城市
+莫斯科 希望 确认 在 米洛舍维奇 下台 之后 ， 俄国 并没有 失去 在 巴尔干 半岛 上 的 影响力
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to identify, to assess" group="1">
+<commentary>
+</commentary>
+<examples>
+在 「 风险 管理 」 这 门 课 上 ， 课程 进行 到 如何 确认 风险
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="confirmation" group="1">
+<commentary>
+</commentary>
+<examples>
+日本 首相 森喜朗 在 安然 度过 不信任案 之后 ， ２２号 坚称 ： 他 的 首相 职位 已经 再度 获得 了 确认
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="51" ann_1_2_agreement="0.803921568627" />
+</inventory>

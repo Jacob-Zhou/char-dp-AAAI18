@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 省得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing saved"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 干脆))
+                    (NP-SBJ (PN 我))
+                    (VP (VP (ADVP (AD 就))
+                    (VP (VV 让)
+                    (NP-OBJ (PN 你们)
+                    (NN 警察))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (NP-MNR (PN 自己))
+                    (VP (VV 来)
+                    (VP (VP (VV 抓)
+                    (NP-OBJ (PN 我)))
+                    (VP (VV 上去))))))))
+                    (VP (VV 省得)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 那么))
+                    (VP (VA 累)))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    干脆          
+                </arg>
+                <arg n="0">
+                    我          
+                </arg>
+                <arg n="1">
+                    那么 累          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

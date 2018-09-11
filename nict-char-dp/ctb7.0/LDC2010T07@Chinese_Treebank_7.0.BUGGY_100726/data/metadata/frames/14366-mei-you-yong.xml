@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 没有用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 威胁)
+                    (PU 、)
+                    (NN 警告)
+                    (CC 和)
+                    (NN 讹诈))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (VV 没有用)))))
+                    (SP 的)) 
+                    
+                </parse>
+                <arg n="0">
+                    威胁 、 警告 和 讹诈          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

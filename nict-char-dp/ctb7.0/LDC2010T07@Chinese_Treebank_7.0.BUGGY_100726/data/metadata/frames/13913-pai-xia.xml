@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拍下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity filmed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (NN 警方))
+                    (VP (VP (VV 动用)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 许多))
+                    (NP (NN 摄像机))))
+                    (PU ，)
+                    (VP (ADVP (AD 全程))
+                    (VP (VV 拍下)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NN 游行)
+                    (NN 集会))
+                    (DEG 的))
+                    (NP (NN 过程)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="m" f="adv">
+                    全程          
+                </arg>
+                <arg n="1">
+                    游行 集会 的 过程          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

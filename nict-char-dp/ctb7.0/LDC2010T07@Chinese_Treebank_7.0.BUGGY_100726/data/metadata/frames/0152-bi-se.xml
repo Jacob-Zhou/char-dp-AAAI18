@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闭塞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="agent, cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (NP (DNP (NP (NT 过去))
+                    (DEG 的))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 闭塞)))
+                    (DEC 之)))
+                    (NP (NN 地)))) 
+                    
+                </parse>
+                <arg n="0">
+                    (*T*-1)->(地) 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 只要))
+                    (IP (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 闭塞)
+                    (NP-OBJ (NN 方向)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    只要        
+                </arg>
+                <arg n="1">
+                    他们        
+                </arg>
+                <arg n="m" f="adv">
+                    不        
+                </arg>
+                <arg n="0">
+                    方向        
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

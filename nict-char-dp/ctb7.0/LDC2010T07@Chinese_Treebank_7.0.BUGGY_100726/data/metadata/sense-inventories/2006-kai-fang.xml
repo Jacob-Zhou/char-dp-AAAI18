@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="开放-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to bloom (of a flower)" group="1">
+<commentary>VV</commentary>
+<examples>
+春天到了,百花齐开放。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to lift, to revoke (a blockade, ban, restriction, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+台湾约在二十年前开放观光。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to operate for the public (of a park, library, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+图书馆星期日照常开放。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to open to foreign investors" group="1">
+<commentary>VV</commentary>
+<examples>
+中国将继续实行金融对外开放政策。
+中国化学工业加快对外开放步伐。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="make available, give access to" group="1">
+<commentary>VV</commentary>
+<examples>
+王码电脑软件将对国内开放。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="open" group="1">
+<commentary>VA</commentary>
+<examples>
+公园是一个开放的场所。
+目前南宁市各类开放公园有十二座。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="open-minded" group="1">
+<commentary>VA</commentary>
+<examples>
+他父亲的思想很开放。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="23" ann_1_2_agreement="0.95652173913" />
+</inventory>

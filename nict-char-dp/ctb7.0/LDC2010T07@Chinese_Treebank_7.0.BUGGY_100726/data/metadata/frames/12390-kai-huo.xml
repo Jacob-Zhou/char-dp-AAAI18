@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 开火 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="target that arg0 opens fire on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 以色列))
+                    (VP (ADVP (AD 甚至))
+                    (VP (VP (VV 出动)
+                    (NP-OBJ (NP (NN 坦克))))
+                    (VP (PP-DIR (P 向)
+                    (NP (NN 示威者)))
+                    (VP (VV 开火))))) 
+                    
+                </parse>
+                <arg n="0">
+                    以色列          
+                </arg>
+                <arg n="m" f="adv">
+                    甚至          
+                </arg>
+                <arg n="1">
+                    向 示威者          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

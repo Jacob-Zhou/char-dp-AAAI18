@@ -1,0 +1,106 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 换 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="exchanger"/>
+        <role argnum="1" argrole="thing exchanged"/>
+        <role argnum="2" argrole="exchanging for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-MNR (P 以)
+                    (NP (NN 资源)))
+                    (VP (VV 换)
+                    (NP-OBJ (NN 技术))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  	  
+                </arg>
+                <arg n="1">
+                    以 资源 	  	  
+                </arg>
+                <arg n="2">
+                    技术 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2" edef="change">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing changed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 那))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 到)
+                    (AS 了)
+                    (NP-PN-OBJ (NR 上海)))
+                    (VP (VV 换)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 环境)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    那	  	  
+                </arg>
+                <arg n="0">
+                    *pro*	  	  
+                </arg>
+                <arg n="1">
+                    一 个 环境	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3" edef="change to">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="things agent change to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 提前))
+                    (ADVP (AD 稍微))
+                    (VP (VA 早)
+                    (AS 了)
+                    (ADVP (AD 一点))))
+                    (PU ，)
+                    (VP (VP (VV 换)
+                    (NP-OBJ (NN 地铁)))
+                    (VP (VV 过来)))))
+                    (SP 的)) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  	  
+                </arg>
+                <arg n="1">
+                    地铁	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

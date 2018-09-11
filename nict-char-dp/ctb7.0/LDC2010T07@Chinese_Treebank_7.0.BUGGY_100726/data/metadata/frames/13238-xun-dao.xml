@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 寻到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="finder"/>
+        <role argnum="1" argrole="thing found"/>
+        <role argnum="2" argrole="place searched"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT ２５号))
+                    (PP-DIR (P 从)
+                    (PU “)
+                    (NP-PN (NR 库尔斯克号))
+                    (PU ”)
+                    (NP (QP (CD ９))
+                    (NP (NN 号)))
+                    (NP (NN 船舱)))
+                    (VP (VV 寻到)
+                    (NP-OBJ (QP (CD ４)
+                    (CLP (M 具)))
+                    (NP (NN 尸体))))))
+                    (DEC 的)))
+                    (NP (NN 潜水夫))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 潜水夫          
+                </arg>
+                <arg n="m" f="tmp">
+                    ２５号          
+                </arg>
+                <arg n="2">
+                    从 “ 库尔斯克号 ” ９ 号 船舱          
+                </arg>
+                <arg n="1">
+                    ４ 具 尸体          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

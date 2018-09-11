@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 历数 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing counted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这个))
+                    (NP (NN 国际)
+                    (NN 人权)
+                    (NN 组织)))
+                    (VP (PP-LOC (P 在)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (NT 星期三))
+                    (VP (VV 发表)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 报告))))
+                    (VP (VV 历数)
+                    (AS 了)
+                    (NP-OBJ (NP (QP (CD １５０多)
+                    (CLP (M 个)))
+                    (NP (NN 国家)))
+                    (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 使用)
+                    (NP-OBJ (NN 酷刑))))
+                    (DEC 的))
+                    (NP (NN 事例))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这个 国际人权组织          
+                </arg>
+                <arg n="m" f="loc">
+                    在 星期三 发表 的 报告          
+                </arg>
+                <arg n="1">
+                    １５０多 个 国家 使用 酷刑 的 事例          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

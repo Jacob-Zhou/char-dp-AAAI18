@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="铺-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to pave, to lay (e.g. roads, tracks, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+为 此 ， 罗 计划 在 今后 十 年 内 新 铺 地铁 线路 ６０ 公里 ， 新 建 车站 ５０ 个
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to spread, to unfold, to extend" group="1">
+<commentary>
+</commentary>
+<examples>
+譬如 近年 饱受 土石流 侵害 的 台湾 ， 需要 大量 的 边坡 防护 地工 织物 （ 铺 在 地下 以 防止 水土 流失 ）
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

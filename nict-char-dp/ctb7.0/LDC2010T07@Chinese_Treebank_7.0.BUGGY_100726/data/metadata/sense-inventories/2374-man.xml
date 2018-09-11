@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="慢-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="slow" group="1">
+<commentary>
+</commentary>
+<examples>
+长期 发展 慢 的 投资类 电子 产品 发展 速度 加快
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to postpone, to defer" group="1">
+<commentary>
+</commentary>
+<examples>
+台北市 木栅 线 捷运 于 民国 八十五 年 通车 ， 是 台湾 现代化 的 一 个 里程碑 ， 只是 离 当初 规画 ， 已 整整 慢 了 二十 年
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

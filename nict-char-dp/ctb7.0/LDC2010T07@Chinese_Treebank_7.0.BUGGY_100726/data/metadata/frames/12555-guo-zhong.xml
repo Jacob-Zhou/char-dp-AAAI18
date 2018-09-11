@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 过重 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 重量))
+                    (VP (VV 过重)))) 
+                    
+                </parse>
+                <arg n="0">
+                    重量          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

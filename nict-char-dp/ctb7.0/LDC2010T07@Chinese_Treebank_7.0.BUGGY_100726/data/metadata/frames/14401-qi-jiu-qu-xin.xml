@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 弃旧娶新 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 趁机))
+                    (PP-BNF (P 为)
+                    (NP (ADJP (JJ 非婚生))
+                    (NP (NN 子女))))
+                    (VP (VV 报)
+                    (NP-OBJ (NN 户口))))
+                    (PU ，)
+                    (VP (ADVP (AD 再))
+                    (VP (VV 弃旧娶新))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    再          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

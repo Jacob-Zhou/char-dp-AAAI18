@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="认定-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to recognize as, to identify, to establish
+somebody's identity" group="1">
+<commentary>
+</commentary>
+<examples>
+其中 ， 已 被 广东省 科委 认定 的 高新 技术 企业 二十 家
+去年 ， 这些 科技 园区 内 被 正式 认定 资格 的 高 新 技术 企业 达 一百五十 家
+经 省 认定 的 高新 技术 企业 达 五百六十九 家
+中年人 常 被 认定 是 权力 、 能力 、 财力 、 体力 都 在 高原期 的 强势 族群
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to suppose, to presume, to take something for granted" group="1">
+<commentary>
+</commentary>
+<examples>
+「 十五 年 前 的 台湾 家庭 谁 喝 得 起 鲜奶 、 新鲜 果汁 ， 威玛 公司 认定 台湾人民 的 生活 条件 不 可能 在 二十 年 内 达到 一定 水平 ， 自动 放弃 在 台湾 开店 的 想法 。 」
+在 种种 主张 碰壁 之余 ， 中国人 才 找到 了 马克思 列宁主义 ， 才 认定 只有 社会主义 才 能 救 中国
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

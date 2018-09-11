@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 请进 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="people invited"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (DP-TMP (DT 每)
+                    (QP (CLP (M 年))))
+                    (VP (VP (VV 请进)
+                    (NP-OBJ (-NONE- *T*-1)))
+                    (CC 和)
+                    (VP (VV 派出)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (CP (DEC 的)))
+                    (NP (NN 科技)
+                    (NN 人员))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    每 年          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 科技 人员          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

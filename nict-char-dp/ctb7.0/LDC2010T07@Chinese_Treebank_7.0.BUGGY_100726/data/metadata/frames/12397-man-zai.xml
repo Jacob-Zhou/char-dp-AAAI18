@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 满载 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="vehicle described"/>
+        <role argnum="1" argrole="thing arg0 carries"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 一)
+                    (CLP (M 条))))
+                    (ADJP (JJ 小))
+                    (NP (NN 船)))
+                    (VP (VP (VV 满载)
+                    (AS 着)
+                    (NP-OBJ (ADJP (JJ 高能))
+                    (NP (VV 炸药)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 一 条 小 船          
+                </arg>
+                <arg n="1">
+                    高能 炸药          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="家	36501-jia-n">
+<commentary></commentary>
+<sense n="1" name="家, family" group="" type="">
+<commentary>A social group of parents, children, and other relatives.</commentary>
+<examples>
+家事
+family matters
+
+良家姑娘
+a young girl of good family.
+
+你家有几口人?
+How many persons are there in your family?
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="家, home, place" group="" type="">
+<commentary>A structure in which a person lives, esp. a house or apartment.</commentary>
+<examples>
+回家
+go home.
+
+上我家去.
+Come to my place.
+
+我把这当作我的家.
+I look upon this as my home.
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="家, a person or family engaged in a certain trade" group="" type="">
+<commentary>a person or family engaged in a certain trade, such as peasant (farm) family, etc.</commentary>
+<examples>
+船家
+boatman
+
+农家
+peasant(farm) family
+
+渔家
+fisherman's family
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" name="家, a specialist in a certain field" group="" type="">
+<commentary>a specialist in a certain field such as scientist, painter, etc.</commentary>
+<examples>
+画家
+painter
+
+科学家
+scientist
+
+文学家
+a man of letters (writer)
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" name="家, my" group="" type="">
+<commentary>my here means in Chinese members of the family, such as my father, my wife, etc.</commentary>
+<examples>
+家父
+my father
+
+家人
+my wife
+
+家兄
+my elder brother
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" name="家, domestic, tame" group="" type="">
+<commentary>domestic animals are usually called 家兔 rabbit, or 家狗 dog, etc.</commentary>
+<examples>
+家兔
+rabbit
+
+家畜
+domestic animal (pets)
+
+家狗
+dog
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" name="家, internal" group="" type="">
+<commentary>internal means within a family, such as 家仇 internal hate, or 家贼 pilferer working from within, etc.</commentary>
+<examples>
+家贼
+pilferer working from within
+
+家仇
+internal hate
+
+家斗
+internal fight
+</examples>
+<mappings>
+<wn version=""></wn>
+<omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

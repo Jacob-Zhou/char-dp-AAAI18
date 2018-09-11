@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 余波荡漾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 我们))
+                    (VP (PP-MNR (P 以)
+                    (NP (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-TMP (NT 过去))
+                    (NP-TPC (NN 橡胶业))
+                    (NP-SBJ (PN 它))
+                    (VP (MSP 所)
+                    (VP (PP-DIR (P 对)
+                    (NP (NN 股市)))
+                    (VP (VV 造成)
+                    (NP-OBJ (-NONE- *T*-3))))))
+                    (DEC 的)))
+                    (QP (CD 一)
+                    (NP (M 个)))
+                    (ADJP (JJ 负面))
+                    (NP (NN 影响))))
+                    (PP-TMP (P 到)
+                    (LCP (NP (NT 目前))
+                    (LC 为止)))
+                    (VP (ADVP (AD 还是))
+                    (VP (VV 余波荡漾))))) 
+                    
+                </parse>
+                <arg n="0">
+                    以 过去 橡胶业 它 所 对 股市 造成 的 一 个 负面 影响          
+                </arg>
+                <arg n="m" f="tmp">
+                    到 目前 为止          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

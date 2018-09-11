@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="无-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="without, have not, not exist" group="1">
+<commentary>
+</commentary>
+<examples>
+他 的 理论 或许 并 无 独特 之 处
+多 年 后 ， 我 翻阅 他 当时 的 日记 ， 在 音讯 全 无 的 当时 ， 他 就 猜 我 不会 跟 着 军队 的 眷属 在 大 后方 干 等待
+两 岸 经贸 交流 从 无 到 有 ， 从 小 到 大 ， 已 结出 丰硕 的 果实
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="nothing, nil" group="1">
+<commentary>
+</commentary>
+<examples>
+对 夏阳 而 言 ， 不论 他们 是 谁 ， 都 「 只不过 是 画家 笔 下 的 模特儿 而已 」 ， 最后 全 归于 无 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="not, do not, did not, have not, negation of a proposition" group="1">
+<commentary>
+</commentary>
+<examples>
+交战 队伍 常 可以 无 需 打满 ７ 场 便 可 定 输赢
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="13" ann_1_2_agreement="0.923076923077" />
+</inventory>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 风雨同行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-ADV (P 与)
+                    (NP-PN (NR 中国)))
+                    (VP (VV 风雨同行)
+                    (QP-EXT (CD ５０多)
+                    (CLP (M 年)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="0" f="crd">
+                    与 中国          
+                </arg>
+                <arg n="m" f="ext">
+                    ５０多 年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

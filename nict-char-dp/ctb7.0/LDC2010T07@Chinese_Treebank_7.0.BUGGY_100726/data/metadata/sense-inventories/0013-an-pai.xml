@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="安排-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to arrange" group="1">
+<commentary>
+</commentary>
+<examples>
+此外 ， 中国 在 航天 技术 和 激光 技术 领域 安排 了 四百多 个 课题 的 研究
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="arrangement, plan" group="1">
+<commentary>
+</commentary>
+<examples>
+在 该 名 ＂ 老细 ＂ 安排 下 ， 两 人 在 二月 底 到 港 。
+或许 这 就 是 评审 的 巧妙 安排 吧
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to coordinate some people to do something" group="1">
+<commentary>
+</commentary>
+<examples>
+海协 安排 专家 介绍 案件 的 具体 情况 ， 并 回答 问题
+还 安排 数十 名 关键 人员 昼夜 值班
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to schedule" group="1">
+<commentary>
+</commentary>
+<examples>
+到 各 小学 作 筛检 ， 谢从宾 都 须 事先 与 学校 健康 中心 护士 接洽 ， 安排 时间
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to put in" group="1">
+<commentary>
+</commentary>
+<examples>
+但 他 谴责 伊拉克 总统 萨达姆 将 平民 安排 在 军事 设施 内 ， 置 他们 于 险地
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to find a job/position for" group="1">
+<commentary>
+</commentary>
+<examples>
+他 解释 说 ， 除 正常 开支 外 ， 还 需要 一 大 笔 钱 用 于 收编 红色 高棉 武装 、 发 军饷 和 安排 他们 的 家属 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="81" ann_1_2_agreement="0.765432098765" />
+</inventory>

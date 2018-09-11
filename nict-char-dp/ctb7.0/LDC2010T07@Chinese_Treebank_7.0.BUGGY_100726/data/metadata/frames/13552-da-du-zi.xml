@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 大肚子 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 位)))
+                    (NP (NN 媳妇)))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 大肚子)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 位 媳妇          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

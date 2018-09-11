@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 躺倒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people laying down"/>
+        <role argnum="1" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ５)
+                    (CLP (M 名)))
+                    (NP (NN 示威者)))
+                    (VP (VV 躺倒)
+                    (LCP-OBJ (NP (DNP (NP (NN 议会)
+                    (NN 大厦))
+                    (DEG 的))
+                    (NP (NN 台阶)))
+                    (LC 上))))) 
+                    
+                </parse>
+                <arg n="0">
+                    ５ 名 示威者          
+                </arg>
+                <arg n="1">
+                    议会 大厦 的 台阶 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

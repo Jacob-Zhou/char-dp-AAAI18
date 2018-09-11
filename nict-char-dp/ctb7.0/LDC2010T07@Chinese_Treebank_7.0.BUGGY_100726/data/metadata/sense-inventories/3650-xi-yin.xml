@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="吸引-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to attract" group="1">
+<commentary>
+</commentary>
+<examples>
+引进 各 种 独资 、 合资 项目 一千二百多 个 ， 吸引 外资 近 一百亿 美元
+大 运河 的 大 规模 整治 ， 改善 了 沿 河 市 县 的 投资 环境 ， 以 良好 的 水运 优势 吸引 外商 投资 ， 促进 了 外向型 经济 的 发展 。
+二 是 一九九六年 中国 大幅度 降低 关税 ， 将 进一步 改善 中国 的 投资 环境 ， 吸引 更 多 外商 前来 投资 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="atraction between planets(in Physics and Astronomy)" group="1">
+<commentary>
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="164" ann_1_2_agreement="0.725609756098" />
+</inventory>

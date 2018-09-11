@@ -1,0 +1,15 @@
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 0 14 gold 发生-v 发生.01 ----- 14:0-rel 0:1-ARGM-MNR 11:2-ARG1 13:1-ARGM-TMP 15:3-ARG0
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 0 24 gold 击毙-v 击毙.01 ----- 24:0-rel 22:1-ARG0 25:2-ARG1
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 0 31 gold 受伤-v 受伤.01 ----- 31:0-rel 29:2-ARG0
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 1 8 gold 打出-v 打出.01 ----- 8:0-rel 0:1-ARGM-MNR 2:2-ARG0 7:1-ARGM-ADV 9:3-ARG1
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 1 17 gold 有-v 有.05 ----- 17:0-rel 16:1-ARG0 18:2-ARG1
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 1 22 gold 挂起-v 挂起.01 ----- 22:0-rel 18:1-ARG0 19:1-ARGM-LOC 23:1-ARG1
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 1 26 gold 引起-v 引起.01 ----- 26:0-rel 25:1-ARG0 27:1-ARG1
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 3 gold 赶来-v 赶来.01 ----- 3:0-rel
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 4 gold 声援-v 声援.01 ----- 4:0-rel 0:3-ARG0
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 14 gold 来自-v 来自.01 ----- 14:0-rel 15:1-ARG1 12:0*12:1*13:0*13:1*17:1-ARG0
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 24 gold 拦截-v 拦截.01 ----- 24:0-rel 6:1-ARGM-TMP 20:2-ARG0 25:0*25:1*9:3-ARG1
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 35 gold 围观-v 围观.01 ----- 35:0-rel 33:0*33:1*34:0*34:1*37:1-ARG0
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 45 gold 能-v 能.01 ----- 45:0-rel
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 2 46 gold 制止-v 制止.01 ----- 46:0-rel 40:1-ARG0 44:1-ARGM-ADV
+bn/vom/02/vom_0224@0224@vom@bn@ch@on 3 6 gold 报道-v 报道.01 ----- 6:0-rel 0:5-ARG0 5:1-ARGM-LOC

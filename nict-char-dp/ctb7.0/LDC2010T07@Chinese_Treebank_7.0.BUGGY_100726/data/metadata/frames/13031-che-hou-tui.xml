@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扯后腿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (ADJP (JJ 在野))
+                    (NP (NN 党)))
+                    (NP (NN 主席)))
+                    (VP (VV 扯后腿))) 
+                    
+                </parse>
+                <arg n="0">
+                    在野 党 主席          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 控 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <role argnum="2" argrole="crime arg0 sues arg1 for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-CND (NP-SBJ (NN 父母))
+                    (VP (VV 控)
+                    (NP-OBJ (NN 子)))) 
+                </parse>
+                <arg n="0">
+                    父母 
+                </arg>
+                <arg n="1">
+                    子 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (VP (ADVP (AD 即))
+                    (PP-MNR (P 照)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (MSP 所)
+                    (VP (VV 控)
+                    (NP-OBJ (-NONE- *T*-1)))))))))
+                    (VP (VV 办理))) 
+                </parse>
+                <arg n="0">
+                    *pro* 
+                </arg>
+                <arg n="2">
+                    *T*-1 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 龟裂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing cracking"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 屋宅))
+                    (VP (VV 龟裂))) 
+                </parse>
+                <arg n="0">
+                    屋宅 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

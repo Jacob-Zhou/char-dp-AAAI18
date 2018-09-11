@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 组阁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 民进党))
+                    (NP (NN 人士)))
+                    (VP (NP-TMP (NT 今后))
+                    (ADVP (AD 完全))
+                    (VP (VV 组阁)))) 
+                    
+                </parse>
+                <arg n="0">
+                    民进党 人士          
+                </arg>
+                <arg n="m" f="tmp">
+                    今后          
+                </arg>
+                <arg n="m" f="adv">
+                    完全          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

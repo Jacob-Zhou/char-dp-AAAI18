@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 反共 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-MNR (-NONE- *T*-1))
+                    (ADVP (AD 一贯))
+                    (VP (VCD (VV 反共)
+                    (VV 反华)))))
+                    (DEC 的)))
+                    (NP (NN 立场))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    一贯          
+                </arg>
+                <arg n="m" f="mnr">
+                    *T*-1 -> 立场          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

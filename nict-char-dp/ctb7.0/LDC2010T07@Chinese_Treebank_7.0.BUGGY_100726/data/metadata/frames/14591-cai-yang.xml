@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 采样 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="a whole mass that arg0 takes specimen from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NP-PN (NR 中华)
+                    (NN 民国))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 驻)
+                    (NP-PN-OBJ (NR 法)))))
+                    (NP (NN 代表处)))
+                    (VP (PP-DIR (P 向)
+                    (NP (NP-PN (NP (ADJP (JJ 游离))
+                    (NP (NN 辐射)))
+                    (NP (NN 防护局)))
+                    (CC 和)
+                    (NP-PN (NR 家乐福)
+                    (NN 超商))))
+                    (VP (VCD (VV 采样)
+                    (VV 探询)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    中华 民国 驻 法 代表处           	  
+                </arg>
+                <arg n="1">
+                    向 游离 辐射 防护局 和 家乐福 超商          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

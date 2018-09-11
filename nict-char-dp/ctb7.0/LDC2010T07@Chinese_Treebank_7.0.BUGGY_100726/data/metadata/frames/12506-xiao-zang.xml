@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 销赃 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="stolen goods that arg0 sells"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 加上))
+                    (NP-SBJ (NN 手机))
+                    (VP (VP-FOC (VV 销赃))
+                    (VP (VA 容易)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    加上          
+                </arg>
+                <arg n="1">
+                    手机          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

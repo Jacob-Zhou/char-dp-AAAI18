@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 侦训 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity investigated"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 接着))
+                    (VP (VV 叫醒)
+                    (NP-OBJ (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 报案)))
+                    (DEC 的)))
+                    (NP-PN (NR 黄)
+                    (NN 姓))
+                    (NP (NN 屋主)))
+                    (CC 和)
+                    (NP (NP (PN 他))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 熟睡)))
+                    (DEC 的)))
+                    (NP (NN 前妻))))))
+                    (PU ，)
+                    (VP (ADVP (AD 统统))
+                    (VP (VP (VV 带回)
+                    (NP-OBJ (NN 警局)))
+                    (VP (VV 侦训))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="04798-zu-zhi-n 组织-n">
+<commentary></commentary>
+<sense n="1" name="团体﹐公司, organizations, groups" group="" type="">
+<commentary>text not found in stamplite.
+
+A group whose members work together for a shared purpose in a continuing way.
+</commentary>
+<examples>学术组织
+academic organization
+
+世界贸易组织
+World Trade Organization (WTO)
+
+群众组织。
+mass organization.
+
+他们参加组织生活
+They had regular activities of an organization.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="生物组织﹐ aggregate of cells, tissues, structures" group="" type="">
+<commentary>text not fund in stamplite.
+
+A group of related cells that forms larger parts of animals and plants.
+</commentary>
+<examples>结缔组织
+connective tissue
+
+加玛射线可能会伤害基因组织。
+The gamma rays may damage genetic tissues.
+
+神经组织
+Nerve tissue.
+
+他研究组织疗法已多年。
+He studied tissue therapy for several years.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

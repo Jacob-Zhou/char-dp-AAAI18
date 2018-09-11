@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="shang-wu, 上午-n">
+<commentary></commentary>
+<sense n="1" name="上午, morning, forenoon" group="" type="">
+<commentary>the part of the day from the time when the sun rises until the middle of the day.</commentary><examples>明天上午
+tomorrow morning
+
+我每周上午在书店工作三天。
+I work three mornings a week at the bookstore.
+
+星期天上午
+Sunday morning
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="上午, 早上，  forenoon" group="" type="">
+<commentary>the half of the day between 12 o'clock at night and 12 o'clock in the middle of the day.</commentary><examples>谋杀案发生在早上四点。
+The murder took place at four in the morning.
+
+火车明天上午两点开车
+The train leaves at 2 tomorrow morning.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

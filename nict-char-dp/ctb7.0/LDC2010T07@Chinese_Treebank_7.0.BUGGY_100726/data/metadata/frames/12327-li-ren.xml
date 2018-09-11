@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 离任 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NP-PN (NR 美国))
+                    (NP (NN 总统)))
+                    (NP-PN (NR 克林顿)))
+                    (VP (ADVP (AD 即将))
+                    (VP (VV 离任)))) 
+                    
+                </parse>
+                <arg n="0">
+                    美国 总统 克林顿          
+                </arg>
+                <arg n="m" f="adv">
+                    即将          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

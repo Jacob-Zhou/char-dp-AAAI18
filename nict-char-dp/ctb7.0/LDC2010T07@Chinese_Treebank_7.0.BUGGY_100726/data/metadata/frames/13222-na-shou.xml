@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拿手 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="thing arg0 is good at"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (PN 自己))
+                    (VP (ADVP (AD 最))
+                    (VP (VV 拿手))))
+                    (DEC 的)))
+                    (NP (NN 歌曲)))) 
+                    
+                </parse>
+                <arg n="0">
+                    自己          
+                </arg>
+                <arg n="m" f="adv">
+                    最          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 歌曲          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

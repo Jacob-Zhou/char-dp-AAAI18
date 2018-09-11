@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="尽-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to fulfill (e.g. duty, responsibility, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+依 法 纳税 是 每 个 纳税人 应 尽 的 义务
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to finish, to exhaust, to use up" group="1">
+<commentary>
+</commentary>
+<examples>
+长日 将 尽
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to exert (e.g. effort, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+我 有 责任 尽 一 份 力
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="all, entirely, totally, completely" group="1">
+<commentary>
+</commentary>
+<examples>
+放眼 望去 尽 是 年 在 三 、 四十 岁 左右 的 青 壮 族群
+他们 尽 可以 让 年轻 一 代 留 在 外面 创业
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to the utmost degree" group="1">
+<commentary>
+</commentary>
+<examples>
+也 希望 能 发挥 最 大 的 「 互补 」 功效 ， 尽 可能 吸纳 各 类型 的 票源
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="5" ann_1_2_agreement="0.6" />
+</inventory>

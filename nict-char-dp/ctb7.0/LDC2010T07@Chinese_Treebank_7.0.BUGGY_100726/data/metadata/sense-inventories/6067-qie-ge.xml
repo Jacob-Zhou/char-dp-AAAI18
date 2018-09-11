@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="切割-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+有 了 这样 的 领悟 ， 郑永国 首先 将 一 把 砂 仔细 筛 过 ， 掺入 陶土 中 ， 使劲 地 搓揉 ， 然後 拿出 事先 依 标本 形状 做好 的 内模 ， 将 搓 得 像 披萨皮 的 陶土 包覆 其 上 ， 再 以 自己 刨削 、 上面 刻 著 方格纹 的 短 木棒 拍打 ， 切割 出 陶罐 的 下 半段 ， 小心 取下
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+而 除了 螺丝钉 是 买 现成 的 外 ， 其他 部分 都 是 他 以 铁片 、 铁条 纯 手工 切割 、 焊接 而 成
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

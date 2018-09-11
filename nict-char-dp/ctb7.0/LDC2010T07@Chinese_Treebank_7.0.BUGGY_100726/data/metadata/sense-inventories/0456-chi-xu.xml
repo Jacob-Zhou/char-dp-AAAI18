@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="持续-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to last" group="1">
+<commentary>
+</commentary>
+<examples>
+二十一 颗 彗核 撞击 时间 持续 五 天 半 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to continue to be in a certain state" group="1">
+<commentary>
+</commentary>
+<examples>
+两 岸 关系 持续 低迷
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to continue to do" group="1">
+<commentary>
+</commentary>
+<examples>
+侨务 委员会 多 年 来 持续 对 中正 学院 经费 、 师资 、 教材 与 教育 补助 ， 令 人 由衷 的 感谢
+中国 经济 发展 的 传奇 将 持续 到 新 的 世纪
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="167" ann_1_2_agreement="0.634730538922" />
+</inventory>

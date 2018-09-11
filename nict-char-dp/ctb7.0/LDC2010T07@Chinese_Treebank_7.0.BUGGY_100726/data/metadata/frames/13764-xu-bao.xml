@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 虚报 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing reported"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 警官)))
+                    (VP (VP-FOC (VV 虚报)
+                    (NP-OBJ (NN 值班费))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 警官          
+                </arg>
+                <arg n="1">
+                    值班费          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

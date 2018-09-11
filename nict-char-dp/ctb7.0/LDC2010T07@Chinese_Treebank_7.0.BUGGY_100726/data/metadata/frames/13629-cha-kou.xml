@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查扣 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity detained"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 邮局)
+                    (NN 人员))
+                    (VP (VP (VV 配合)
+                    (NP-OBJ (NN 警方)))
+                    (VV 查扣))) 
+                    
+                </parse>
+                <arg n="0">
+                    邮局 人员          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

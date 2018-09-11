@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 钜开 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 saws"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NN 消防)
+                    (NN 人员))
+                    (VP (ADVP (AD 连忙))
+                    (PP-MNR (P 用)
+                    (NP (NN 铁钜)))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ-1 (NN 铁门))
+                    (VP (VV 钜开)
+                    (NP-OBJ (-NONE- *-1))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    消防 人员          
+                </arg>
+                <arg n="m" f="adv">
+                    连忙          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 铁钜          
+                </arg>
+                <arg n="1">
+                    铁门 -> *-1          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

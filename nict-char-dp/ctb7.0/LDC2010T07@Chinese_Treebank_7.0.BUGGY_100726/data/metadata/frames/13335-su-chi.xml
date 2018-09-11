@@ -1,0 +1,76 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 诉斥 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity reprimanded"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 当地)
+                    (NN 居民))
+                    (VP (NP-TMP (NT 上午))
+                    (VP (VP (VP (VV 到)
+                    (NP-OBJ (NN 镇公所)
+                    (NN 门前)))
+                    (VP (VV 焚烧)
+                    (NP-OBJ (NN 稻草人))))
+                    (PU ，)
+                    (VP (VV 诉斥)
+                    (NP-OBJ (NN 镇公所))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VP (VP (VE 没有)
+                    (NP-OBJ (NN 办法)))
+                    (VP (VV 动用)
+                    (NP-OBJ (NN 工程令))))
+                    (VP (VV 勒令)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 违法))
+                    (VP (VV 设)
+                    (PP (P 在)
+                    (NP (NP (NN 水池))
+                    (NP (NN 北)
+                    (NN 源))
+                    (NP (NN 保护区)))))))
+                    (DEC 的)))
+                    (NP (NN 焚化炉)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 停工)))))
+                    (PU ，)
+                    (VP (ADVP (AD 而))
+                    (DVP (ADVP (AD 持续))
+                    (DEV 的))
+                    (VP (VV 让)
+                    (NP-OBJ (NN 当地)
+                    (NN 居民))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 受到)
+                    (NP-OBJ (NN 阻碍)))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    当地 居民          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <arg n="1">
+                    镇公所          
+                </arg>
+                <arg n="2">
+                    没有 办法 动用 工程令 勒令 违法 设 在 水池 北 源 保护区 的 焚化炉 停工 ， 而 持续 的 让 当地 居民受到 阻碍          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 平步轻云 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (CP-CND (IP (NP-SBJ (PN 你))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 美国)))
+                    (VP (VV 一鸣惊人))))
+                    (SP 的话))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 就))
+                    (ADVP (AD 容易))
+                    (VP (VV 平步轻云)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="m" f="cnd">
+                    你 在 美国 一鸣惊人 的话          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    容易          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

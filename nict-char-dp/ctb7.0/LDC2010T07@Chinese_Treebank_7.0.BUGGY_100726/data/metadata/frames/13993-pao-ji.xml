@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 炮击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme/target"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-MNR (-NONE- *T*-1))
+                    (VP (VV 炮击)
+                    (NP-OBJ (NP-PN (NR 加沙)
+                    (NN 地带))
+                    (NP-PN (NR 巴勒斯坦))
+                    (NP (NN 目标))))))
+                    (DEC 的)))
+                    (VP (NN 时候)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-1 -> 时候          
+                </arg>
+                <arg n="1">
+                    加沙 地带 巴勒斯坦 目标          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

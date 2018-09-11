@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 回押 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 escorts"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 海事处))
+                    (VP (VP (DVP (ADVP (AD 紧急))
+                    (DEV 的))
+                    (VP (VV 派出)
+                    (AS 了)
+                    (NP-OBJ (NN 船舰))))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 海峡)
+                    (NN 中间))
+                    (LC 附近)))
+                    (VP (VRD (VV 拦截)
+                    (VV 到))
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 艘)))
+                    (NP (NN 渔船)))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-1 (DNP (QP (CD ８)
+                    (CLP (M 名)))
+                    (DEG 的))
+                    (NP (NN 大陆)
+                    (NN 渔工)))
+                    (VP (VP (VRD (VV 带)
+                    (VV 回来))
+                    (NP-OBJ (-NONE- *-1)))
+                    (VP (ADVP (AD 统统))
+                    (VP (VV 回押)
+                    (NP-OBJ (-NONE- *-1)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    海事处          
+                </arg>
+                <arg n="1">
+                    ８ 名 的 大陆 渔工 -> *-1          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

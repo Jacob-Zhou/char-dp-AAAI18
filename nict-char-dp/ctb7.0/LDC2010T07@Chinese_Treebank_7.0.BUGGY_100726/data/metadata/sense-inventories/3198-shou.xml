@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="受-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to receive, to accept (similar to the usage of
+jie-shou)" group="1">
+<commentary>
+</commentary>
+<examples>
+担心 小孩 忘 了 母语 ， 赶紧 送 他 回 台 受 教育
+阿齐兹 受 伊拉克 总统 萨达姆 的 委托
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="suffer, bear, endure" group="1">
+<commentary>
+</commentary>
+<examples>
+于是 他 由 三 楼 住处 窗户 拉 绳子 逃生 ， 双 手 受 轻伤
+父亲 为了 培养 我们 ， 受 了 不少 委屈
+农 、 渔 、 养殖业 严重 受创
+有 个 资讯 人员 受 不 了 Ｙ２Ｋ 的 压力 ， 决定 辞职 跳槽
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="be subjected to" group="1">
+<commentary>
+</commentary>
+<examples>
+受 中国 法律 保护
+这 是 未来 我 国 可以 依靠 己力 ， 较 不 受 军购 所 左右 的 发展 关键
+因为 他 正在 施行 的 政策 ， 马上 就 受 检验
+澳门 幅员 太 小 ， 又 坐落 在 中国 大陆 旁边 ， 经济 上 是 典型 的 『 浮游 型态 』 ， 受 外在 的 牵制 很 大
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to experience, to enjoy (welcome, respect, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+为什么 企管所 特别 受 社会 人士 青睐
+将 任命 备 受 各界 敬重 的 中研院 院长 李远哲 担任 阁揆
+头发 总是 梳 得 美美 的 谢霆峰 、 陈晓东 ， 都 是 十分 受 欢迎 的 俊美 偶像
+广 受 社会 肯定
+其中 较 受 社会 瞩目 的 案件
+许多 年轻 作曲家 受 此 鼓舞
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

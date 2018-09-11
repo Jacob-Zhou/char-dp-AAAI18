@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="望-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to look afar, to look into the distance, to look at" group="1">
+<commentary>
+</commentary>
+<examples>
+我 伸 了 伸 舌头 ， 仰头 想 望 一眼 峰巅 ， 只 见 云雾 缭绕 ， 不 见 峥嵘
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to look at, to scrutinize (e.g. patients, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+望 着 眼 前 这 个 儿童 ， 戴 着 副 遮挡 半 个 脸 的 大 眼镜 ， 满 面 稚气 ， 童声 可爱
+他们 在 这里 还 要 学习 针灸 、 推拿 和 “ 闻 问 望 切 ” 等 传统 医术
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to hope" group="1">
+<commentary>
+</commentary>
+<examples>
+海协 再次 重申 上述 邀请 ， 望 海基会 早日 提出 行期 和 名单
+今年 国有 商业 银行 投放 在 此 方面 的 贷款 有 望 达到 三百六十亿 元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

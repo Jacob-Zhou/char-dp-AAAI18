@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发起-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to initiate, to sponsor, to promote an activity, to start, to launch, to set into action" group="1">
+<commentary>
+</commentary>
+<examples>
+温州市 教委 和 共青团 温州 市委 还 联合 灾区 学校 师生 ， 发起 “ 为 受灾 学校献 爱心 ” 募捐 活动
+泰康 人寿 保险 股份 有限 公司 筹备处 负责人 陈东升 称 ， 这 家 公司 将 按照 现代 企业 制度 建立 ， 由 中国 国际 旅行社 、 中国 对 外 贸易 运输 总 公司 等 发起 ， 募集 五亿 元 人民币 企业 法人 股本 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to give" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 家 中 长辈 与 後辈 为数 众多 ， 发起 红包 来 ， 一 笔 难得 的 年终 奖金 也 可能 就此 泡汤
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="idiomatic expression, 发起狠来" group="1">
+<commentary>
+</commentary>
+<examples>
+大概 是 由于 没有 一 个 人 赛 前 看好 鲍萨 会 爆 冷门 ， 所以 他 寂寞 得 发起 狠 来 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="29" ann_1_2_agreement="0.620689655172" />
+</inventory>

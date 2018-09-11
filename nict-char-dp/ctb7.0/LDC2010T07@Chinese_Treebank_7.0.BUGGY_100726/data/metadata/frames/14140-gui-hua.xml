@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 归划 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing planned"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 归划)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-MNR (P 以)
+                    (NP-PN (NR 台湾)))
+                    (VP (VC 为)
+                    (NP-PRD (NN 主导)))))
+                    (DEC 的)))
+                    (NP (QP (CD 两))
+                    (NP (NN 岸)))
+                    (NP (NN 科技)
+                    (NN 研究))
+                    (NP (NN 分工))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    以 台湾 为 主导 的 两 岸 科技 研究 分工          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

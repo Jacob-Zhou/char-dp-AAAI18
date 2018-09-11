@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 被道反驰 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这个))
+                    (NP (NN 建议)))
+                    (VP (PP-ADV (P 和)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 安理会))
+                    (VP (VV 给)
+                    (NP-IO (NN 战争)
+                    (NN 罪行)
+                    (NN 法庭))
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 命令))))
+                    (VP (VV 被道反驰))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这个 建议          
+                </arg>
+                <arg n="0" f="crd">
+                    和 安理会 给 战争 罪行 法庭 的 命令          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

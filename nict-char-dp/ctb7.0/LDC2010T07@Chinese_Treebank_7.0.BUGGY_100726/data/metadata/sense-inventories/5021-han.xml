@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="喊-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to advertise/promote a slogan, such as 喊口号" group="1">
+<commentary>
+</commentary>
+<examples>
+「 六四 」 十 周年 ， 大陆 仍 喊 著 回归 五四 时代 的 「 民主 、 科学 」 精神
+从 清末 洋务 运动 高 喊 「 师 夷 之 技 以 制 夷 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to shout" group="1">
+<commentary>
+</commentary>
+<examples>
+「 嘿咻 ！ 」 孩子们 喊 著
+「 厝 里 ！ 」 爸爸 大 喊 一 声
+做 贼 的 喊 捉 贼
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to name" group="1">
+<commentary>
+</commentary>
+<examples>
+几乎 没有 店家 喊 得 出 它们 的 「 本名 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to complain" group="1">
+<commentary>
+</commentary>
+<examples>
+「 有 冤 无 处 申 、 痛苦 无 处 喊 」
+警方 今天 将 涉嫌 泄密 的 刑事局 前 队长 林根江 设立 起诉 ， 不过 林曾江 大 喊 冤枉 ， 他 说 他 绝对 没有 泄密 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="23" ann_1_2_agreement="0.869565217391" />
+</inventory>

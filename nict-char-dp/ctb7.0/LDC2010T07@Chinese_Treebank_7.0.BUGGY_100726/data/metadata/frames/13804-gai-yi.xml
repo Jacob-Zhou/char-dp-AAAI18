@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 改以 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing changed"/>
+        <role argnum="2" argrole="changed into"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-PRP (P 由于)
+                    (IP (NP-SBJ (NN 耳膘))
+                    (VP (VV 会)
+                    (VP (VV 脱落)))))
+                    (ADVP (AD 所以))
+                    (VP (VV 改以)
+                    (NP-OBJ (NN 免疫证))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="prp">
+                    由于 耳膘 会 脱落          
+                </arg>
+                <arg n="m" f="dis">
+                    所以          
+                </arg>
+                <arg n="2">
+                    免疫证          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

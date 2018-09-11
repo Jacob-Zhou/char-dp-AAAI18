@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 居次 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 澳门))
+                    (NP (NN 航线)))
+                    (VP (QP-MNR (CD ３８万)
+                    (CLP (M 人次)))
+                    (VP (VV 居次)))) 
+                    
+                </parse>
+                <arg n="0">
+                    澳门 航线          
+                </arg>
+                <arg n="m" f="mnr">
+                    ３８万 人次          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

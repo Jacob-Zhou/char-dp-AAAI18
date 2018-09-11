@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 浪漫 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (ADJP (JJ 飘带型))
+                    (NP (NN 屋顶)))
+                    (VP (VP (VA 飘逸)
+                    (PU 、)
+                    (VA 浪漫)))) 
+                </parse>
+                <arg n="0">
+                    飘带型 屋顶 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

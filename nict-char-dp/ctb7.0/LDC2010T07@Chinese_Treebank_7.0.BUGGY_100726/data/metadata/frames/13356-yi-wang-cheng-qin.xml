@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一网成擒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="catcher"/>
+        <role argnum="1" argrole="entity caught"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 上海))
+                    (NP (NN 公安)))
+                    (VP (ADVP (AD 顺势))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (PN 他们))
+                    (VP (VV 一网成擒)))) 
+                    
+                </parse>
+                <arg n="0">
+                    上海 公安          	  
+                </arg>
+                <arg n="m" f="adv">
+                    顺势          	  
+                </arg>
+                <arg n="1">
+                    他们           	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

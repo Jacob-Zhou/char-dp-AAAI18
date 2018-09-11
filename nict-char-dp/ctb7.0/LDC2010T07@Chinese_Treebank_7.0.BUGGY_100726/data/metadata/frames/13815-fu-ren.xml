@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赴任 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 赴任)))
+                    (DEC 的)))
+                    (ADJP (JJ 新任))
+                    (NP (NN 院长))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 院长          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="dian-shi, 电视-n">
+<commentary></commentary>
+<sense n="1" name="电视, television" group="" type="">
+<commentary>Any kind of television.</commentary><examples>看电视
+watch television
+
+总统向全国作了电视讲话.
+The Presidednt spoke to the whole nation on television.
+
+黑白电视
+black-and-white television
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="电视, picture, video" group="" type="">
+<commentary>Other items related to television.</commentary><examples>电视唱片
+video disc
+
+电视电话
+picturephone
+
+电视放像机
+videoplayer
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

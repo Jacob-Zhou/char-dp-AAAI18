@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 复终 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="case"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (DP (DT 前)
+                    (QP (CD 三)
+                    (CLP (M 位))))
+                    (NP (NN 总统)))
+                    (VP (MSP 所)
+                    (VP (VV 面临)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (NP (NN 弹劾案)))
+                    (VP (ADVP (AD 都))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 移送)
+                    (NP-OBJ (NN 参议院))))
+                    (LC 之前)))
+                    (ADVP (AD 就))
+                    (VP (VV 开始)
+                    (VP (VV 复终))))) 
+                    
+                </parse>
+                <arg n="1">
+                    前 三 位 总统 所 面临 的 弹劾案          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 移送 参议院 之前          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

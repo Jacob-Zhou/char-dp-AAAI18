@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闹翻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 竞选)
+                    (NP-OBJ (NP-PN (NR 伦敦))
+                    (NP (NN 市长)))))
+                    (LC 时)))
+                    (PU ，)
+                    (PP-PRP (P 因为)
+                    (IP (NP-SBJ (NP-APP (NP-PN (NR 工党))
+                    (NP (NN 领袖)))
+                    (NP-PN (NR 布莱尔)))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 支持)
+                    (NP-OBJ (PN 他))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 竞选)))))))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 利文思通))
+                    (VP (PP-ADV (P 和)
+                    (NP-PN (NR 布莱尔)
+                    (CC 以及)
+                    (NR 工党)))
+                    (ADVP (AD 都))
+                    (VP (VV 闹翻)
+                    (AS 了)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 竞选 伦敦 市长 时          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 工党 领袖 布莱尔 不 支持 他 竞选          
+                </arg>
+                <arg n="0">
+                    利文思通          
+                </arg>
+                <arg n="m" f="crd">
+                    和 布莱尔 以及 工党          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

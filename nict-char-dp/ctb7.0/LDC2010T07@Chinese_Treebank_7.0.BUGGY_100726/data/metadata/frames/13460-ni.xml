@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逆 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 goes against"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 在)
+                    (NP (DNP (NP (DNP (NP (NN 世纪))
+                    (DEG 之))
+                    (NP (NN 交)))
+                    (DEG 的))
+                    (NP (NT 今天))))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NR 梵蒂冈))
+                    (NP (NN 教廷)))
+                    (VP (VP (VP (VV 逆)
+                    (NP-OBJ (NN 历史)
+                    (NN 潮流)))
+                    (VP (MSP 而)
+                    (VP (VV 动)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    在 世纪 之 交的 今天          
+                </arg>
+                <arg n="0">
+                    梵蒂冈 教廷          
+                </arg>
+                <arg n="1">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

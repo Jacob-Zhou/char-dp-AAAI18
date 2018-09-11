@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 系上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 ties"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (PN 她们))
+                    (VP (VP (ADVP (AD 还是))
+                    (PP-LOC (P 在)
+                    (LCP (NP (NN 看守所))
+                    (LC 周围)))
+                    (VP (VV 系上)
+                    (AS 了)
+                    (NP-OBJ (NN 黄丝带)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    她们          
+                </arg>
+                <arg n="m" f="dis">
+                    还是          
+                </arg>
+                <arg n="2">
+                    在 看守所 周围          
+                </arg>
+                <arg n="1">
+                    黄丝带          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

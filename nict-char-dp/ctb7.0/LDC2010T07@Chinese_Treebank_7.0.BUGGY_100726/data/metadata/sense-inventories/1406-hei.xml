@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="黑-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="black" group="1">
+<commentary>
+</commentary>
+<examples>
+部队 里 只 找 得 到 黑 、 红 两 色 墨水 和 铅笔
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="criminal, involving illegal activities" group="1">
+<commentary>
+</commentary>
+<examples>
+又 如何 监督 新 世纪 的 领航者 带领 台湾 走向 和平 、 黑 金 绝迹 的 未来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="dark, dark skinned" group="1">
+<commentary>
+</commentary>
+<examples>
+黑 白 黄 种族 混血 不 稀奇
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="unfavorable, indicating whom to be disapproved, or penalized (e.g. blacklist)" group="1">
+<commentary>
+</commentary>
+<examples>
+戴国辉 就 在 日本 组织 研究会 ， 研究 台湾史 及 亚洲 相关 议题 ， 也 因此 被 打入 政治 黑 名单
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="reactionary, counterrevolutionary" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 不幸 成为 “ 黑 五 类 ” 子女 ， 那么 无论 你 怎样 努力 也 难以 摆脱 处 于 社会 最 底 层 的 命运
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="11" ann_1_2_agreement="0.909090909091" />
+</inventory>

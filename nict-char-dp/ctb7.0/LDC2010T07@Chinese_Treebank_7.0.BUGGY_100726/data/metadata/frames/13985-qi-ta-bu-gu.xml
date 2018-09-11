@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 弃他不顾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (DNP (NP (PN 他))
+                    (DEG 的))
+                    (NP (NN 同伙)))
+                    (VP (ADVP (AD 则))
+                    (VP (VC 是)
+                    (VP (VP (VV 眼看)
+                    (IP-OBJ (NP-SBJ (NN 情况))
+                    (VP (VA 不妙))))
+                    (PU ，)
+                    (VP (VV 弃他不顾))
+                    (VP (VV 逃离)
+                    (NP-OBJ (NN 现场)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    他 的 同伙          
+                </arg>
+                <arg n="m" f="dis">
+                    则          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

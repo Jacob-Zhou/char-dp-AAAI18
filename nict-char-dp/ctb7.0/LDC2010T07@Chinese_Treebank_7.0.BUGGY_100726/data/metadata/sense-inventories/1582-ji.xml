@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="集-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to gather, to collect" group="1">
+<commentary>
+</commentary>
+<examples>
+宁波港 由 北仑 港区 、 镇海 港区 和 宁波 港区 组成 ， 集 内河港 、 河口港 和 海港 于 一体
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="part, volume, episode (of books, films, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+可惜 的 是 ， 由于 电视台 主管 有 意见 ， 几 集 之后 ， 原先 讲 台语 的 演员 改 以 「 台湾 国语 」 念 台词
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="anthology" group="1">
+<commentary>
+</commentary>
+<examples>
+叶笃庄 主译 的 《 达尔文 进化论 全集 》 包括 ： 《 达尔文 自传 与 书信集 》
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="(math) set" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

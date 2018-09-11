@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 裁定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="verdict"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT １９９２年))
+                    (NP-SBJ (NN 安理会))
+                    (VP (VV 裁定)
+                    (IP-OBJ (NP-PN-SBJ (NR 南斯拉夫))
+                    (VP (ADVP (AD 不))
+                    (ADVP (AD 再))
+                    (VP (VV 存在)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    １９９２年          
+                </arg>
+                <arg n="0">
+                    安理会          
+                </arg>
+                <arg n="1">
+                    南斯拉夫 不 再 存在          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

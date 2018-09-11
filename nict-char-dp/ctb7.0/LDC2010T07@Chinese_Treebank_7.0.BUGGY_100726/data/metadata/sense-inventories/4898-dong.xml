@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="动-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+担心 动 了 母 蛇 胎气
+大 卖场 开幕 ， 商人 头脑 动 得 快
+是 不 是 被 动 了 手脚
+塑身 的 动机 可能 也 不 足以 让 人 动 起来
+宪法 为 国家 大法 ， 动辄 修宪 ， 被 讥为 比 民 、 刑法 动 得 更 频繁
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

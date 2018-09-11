@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 睡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity sleeping"/>
+        <role argnum="1" argrole="the sleep"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 可能))
+                    (NP-TMP (QP (ADVP (AD 好))
+                    (QP (CD 几)
+                    (CLP (M 个))))
+                    (NP (NN 月)))
+                    (NP-SBJ (PN 我))
+                    (VP (ADVP (AD 都))
+                    (VP (VPT (VV 睡)
+                    (AD 不)
+                    (VV 上))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (ADJP (JJ 好))
+                    (NP (NN 觉)))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    可能	  
+                </arg>
+                <arg n="m" f="tmp">
+                    好 几 个 月	  
+                </arg>
+                <arg n="0">
+                    我	  
+                </arg>
+                <arg n="m" f="adv">
+                    都	  
+                </arg>
+                <arg n="1">
+                    一 个 好 觉	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

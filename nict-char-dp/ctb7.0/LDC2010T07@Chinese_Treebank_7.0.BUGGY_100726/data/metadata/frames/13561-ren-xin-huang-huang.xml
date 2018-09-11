@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 人心惶惶 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 民众))
+                    (VP (VV 人心惶惶))) 
+                    
+                </parse>
+                <arg n="0">
+                    民众          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

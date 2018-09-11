@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 短寿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP-PN-APP (NR 成)
+                    (PU 、)
+                    (NR 哀)
+                    (PU 、)
+                    (NR 平帝))
+                    (QP (CD 三))
+                    (NP (NN 君)))
+                    (VP (ADVP (AD 皆))
+                    (VP (VV 短寿)))) 
+                </parse>
+                <arg n="0">
+                    成 、 哀 、 平帝 三 君 
+                </arg>
+                <arg n="m" f="adv">
+                    皆 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

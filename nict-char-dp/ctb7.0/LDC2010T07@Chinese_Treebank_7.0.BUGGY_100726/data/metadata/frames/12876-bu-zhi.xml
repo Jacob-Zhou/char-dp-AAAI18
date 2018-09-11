@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不治 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD １２))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 则))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ-SBJ (-NONE- *pro*))
+                    (VP (VV 送医)))
+                    (LC 之后)))
+                    (VP (VV 不治)))) 
+                    
+                </parse>
+                <arg n="0">
+                    １２ 人          
+                </arg>
+                <arg n="m" f="dis">
+                    则          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 送医 之后          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

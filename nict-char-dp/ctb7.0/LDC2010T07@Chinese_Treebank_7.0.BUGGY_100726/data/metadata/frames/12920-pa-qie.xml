@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扒窃 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thief"/>
+        <role argnum="1" argrole="thing stolen"/>
+        <role argnum="2" argrole="party stolen from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (NP-TMP (NT 最近))
+                    (VP (VP (VV 出没)
+                    (NP-OBJ (NP-PN (NR 台北市))
+                    (NP-APP (NP (DP (DT 各))
+                    (ADJP (JJ 大))
+                    (NP (NN 百货)
+                    (NN 公司)))
+                    (PU 、)
+                    (NP (NN 花市))
+                    (CC 以及)
+                    (NP (ADJP (JJ 大型))
+                    (NP (NN 活动)))
+                    (ETC 等))
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 人潮))
+                    (VP (PP-LOC (-NONE- *T*-1))
+                    (VP (VV 聚集))))
+                    (DEC 的)))
+                    (NP (NN 地方))))
+                    (PU ，)
+                    (VP (ADVP (AD 专门))
+                    (VP (VP (VV 找)
+                    (NP-OBJ (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 带)
+                    (NP-OBJ (NN 小孩))))
+                    (DEC 的)))
+                    (NP (NN 妇人)))
+                    (CC 或是)
+                    (NP (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (ADVP (AD 专心))
+                    (VP (VV 购物))))
+                    (DEC 的)))
+                    (NP (NN 女性)))))
+                    (VP (VCD (VV 下手)
+                    (VV 扒窃))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="m" f="tmp">
+                    最近          
+                </arg>
+                <arg n="m" f="adv">
+                    专门          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

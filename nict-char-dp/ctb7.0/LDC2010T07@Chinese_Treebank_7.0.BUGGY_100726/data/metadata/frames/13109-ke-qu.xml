@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 可取 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 乱))
+                    (VP (VV 刮)
+                    (NP-OBJ (ADJP (JJ 欧式))
+                    (NP (NN 风))))))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 可取)))) 
+                    
+                </parse>
+                <arg n="0">
+                    乱 刮 欧式 风          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

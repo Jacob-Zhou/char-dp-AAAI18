@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="搞-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to do, to be engaged in" group="1">
+<commentary>
+</commentary>
+<examples>
+搞 市场 经济 以来 的 这 几 年
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to figure out" group="1">
+<commentary>
+</commentary>
+<examples>
+但 他 一 句 忘情 喊出 的 「 台湾 主权 独立 万万 岁 」 ， 却 让 人 搞 不 清楚 该 相信 哪 一 个 阿扁
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to get, to secure, to get hold of" group="1">
+<commentary>
+</commentary>
+<examples>
+「 能 搞 得 到 食 ？ 」 是 普遍 的 怀疑
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to cause" group="1">
+<commentary>
+</commentary>
+<examples>
+一 来 兴建 水库 对 身家 财产 安全 的 威胁 ， 搞 得 人心惶恐 ， 甚至 迁居 他乡
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to deal with (people)" group="1">
+<commentary>
+</commentary>
+<examples>
+她 的 意志力 很 强 ， 澳洲 电影圈 都 知道 她 很 难 搞
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="23" ann_1_2_agreement="0.95652173913" />
+</inventory>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 兼于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="basis"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VC 是)
+                    (VP (VV 兼于)
+                    (NP-OBJ (NN 参考)
+                    (CC 还是)
+                    (NN 长官)
+                    (NN 压力))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    参考 还是 长官 压力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拘泥于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 is confined to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 美国))
+                    (VP (VP (ADVP (AD 不在))
+                    (VP (VV 拘泥于)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (NT 过去))
+                    (ADVP (AD 再三))
+                    (VP (VV 声明)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (DNP (NP (QP (CD １０万))
+                    (NP (NN 兵)))
+                    (DEG 的))
+                    (NP (NN 兵力)
+                    (NN 体制))))) 
+                    
+                </parse>
+                <arg n="0">
+                    美国          
+                </arg>
+                <arg n="m" f="adv">
+                    不在          
+                </arg>
+                <arg n="1">
+                    过去 再三声明 的 １０万 兵 的 兵力 体制          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="投放-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to put in, to throw in, to invest" group="1">
+<commentary>
+</commentary>
+<examples>
+据 建设部 预计 ， 今年 国有 商业 银行 投放 在 此 方面 的 贷款 有 望 达到 三百六十亿 元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to put into circulation, to put on the market
+(e.g. money, goods, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+以便 在 欧元 更新期 前 造出 足够 数额 的 欧元 投放 市场
+河北省 节日 期间 投放 商品 总值 三十四亿 元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

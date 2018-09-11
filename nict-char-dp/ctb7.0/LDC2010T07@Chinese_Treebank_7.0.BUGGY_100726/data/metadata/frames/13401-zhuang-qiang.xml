@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撞墙 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 闻)
+                    (NN 姓))
+                    (NP (NN 学生)))
+                    (VP (VP (VV 碰到)
+                    (AS 了)
+                    (NP-OBJ (NP (QP (OD 三))
+                    (NP (NN 年级)))
+                    (NP-PN (NR 李)
+                    (NN 姓))
+                    (NP (NN 学生))))
+                    (VP (MSP 而)
+                    (VP (VV 撞墙))))) 
+                    
+                </parse>
+                <arg n="0">
+                    闻 姓 学生           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

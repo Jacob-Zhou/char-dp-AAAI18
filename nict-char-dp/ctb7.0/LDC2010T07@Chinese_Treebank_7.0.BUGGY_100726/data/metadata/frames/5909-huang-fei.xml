@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 荒废 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="cause"/>
+        <role argnum="1" argrole="thing arg0 causes to be desolate and not in use"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 老厝))
+                    (VP (VV 荒废)
+                    (AS 了))) 
+                </parse>
+                <arg n="1">
+                    老厝 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

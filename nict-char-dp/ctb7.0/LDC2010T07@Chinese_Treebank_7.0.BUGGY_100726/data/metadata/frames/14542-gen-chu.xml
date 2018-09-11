@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 根除 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 gets rid of"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 根除)
+                    (NP-OBJ (NP (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 恶名昭彰)))
+                    (DEC 的)))
+                    (ADJP (JJ 前))
+                    (ADJP (JJ 首席))
+                    (NP (NN 保安)
+                    (NN 人员)))
+                    (NP-PN (NR 猛特希洛斯)))
+                    (PP (P 在)
+                    (NP (NN 军中)))
+                    (DNP (ADJP (JJ 残余))
+                    (DEG 的))
+                    (NP (NN 势力)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    恶名昭彰 的 前 首席 保安 人员 猛特希洛斯 在 军中 残余 的 势力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

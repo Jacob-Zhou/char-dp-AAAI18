@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 验尸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 检察官))
+                    (VP (NP-TMP (NT 上午))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 殡仪馆)))
+                    (VP (VV 验尸)))) 
+                    
+                </parse>
+                <arg n="0">
+                    检察官          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

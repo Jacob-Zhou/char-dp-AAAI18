@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 断定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing concluded"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 调查)
+                    (NN 单位))
+                    (VP (ADVP (AD 仍然))
+                    (ADVP (AD 无法))
+                    (VP (VV 断定)
+                    (NP-OBJ (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 事故))
+                    (VP (PP-PRP (-NONE- *T*-1))
+                    (VP (VV 发生))))
+                    (DEC 的)))
+                    (NP (NN 原因))))) 
+                    
+                </parse>
+                <arg n="0">
+                    调查 单位          
+                </arg>
+                <arg n="m" f="adv">
+                    仍然          
+                </arg>
+                <arg n="m" f="adv">
+                    无法          
+                </arg>
+                <arg n="1">
+                    事故 发生 的 原因          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

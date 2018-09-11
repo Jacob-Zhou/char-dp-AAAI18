@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 净化 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 cleans"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (-NONE- *PRO*))
+                    (VP (VP (VV 建立)
+                    (NP-OBJ (DNP (NP (NP (NN 卷烟)
+                    (NN 打假))
+                    (ADJP (JJ 长效))
+                    (ADJP (JJ 综合))
+                    (NP (NN 治理)))
+                    (DEG 的))
+                    (NP (NN 机制))))
+                    (PU ，)
+                    (VP (VV 净化)
+                    (NP-OBJ (DNP (NP (NP (PN 我们))
+                    (NP-PN (NR 上海)))
+                    (DEG 的))
+                    (NP (NN 卷烟)
+                    (NN 市场))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    我们 上海 的 卷烟 市场          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

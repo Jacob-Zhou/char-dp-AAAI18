@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 打人 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 打人)))
+                    (DEC 的)))
+                    (NP (NN 日籍)
+                    (NN 管工)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 日籍 管工          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

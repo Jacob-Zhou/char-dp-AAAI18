@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="上升-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be on the rise, to increase (in degree, amount, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+私人 地盘 完成 工程 名义 总值 为 一百一十七亿 元 ， 较 九六年 同 季 上升 百分之二十八
+呈 直线 上升 之 势
+进出口额 由 一九七八年 的 二百零六亿 美元 上升 到 一九九七年 的 三千二百五十亿 美元
+占 全 市 工业 的 比重 将 上升 到 百分之五十五 左右
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to get higher (in social status, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+一九九八年 ， 中国 在 世界 舞台 上 的 地位 急剧 上升 。
+短短 几 年 江西省 钢铁 企业 的 工艺 流程 ， 已经 从 全 国 的 后列 上升 到 中上 水平
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to rise, to go up (in a physical way)" group="1">
+<commentary>
+</commentary>
+<examples>
+电梯 上升
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="81" ann_1_2_agreement="0.938271604938" />
+</inventory>

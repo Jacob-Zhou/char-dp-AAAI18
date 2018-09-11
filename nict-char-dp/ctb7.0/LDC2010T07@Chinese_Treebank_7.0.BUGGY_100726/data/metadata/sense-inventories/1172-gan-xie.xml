@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="感谢-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to thank" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 感谢 他们 的 一 片 赤诚 。
+钱其琛 感谢 宋浩京 转达 朝鲜 领导人 的 问候
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="thank (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+书记 主教 在 获知 之后 都 向 我 国 政府 和 教廷 大使馆 表达 了 感谢 之 意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="89" ann_1_2_agreement="0.943820224719" />
+</inventory>

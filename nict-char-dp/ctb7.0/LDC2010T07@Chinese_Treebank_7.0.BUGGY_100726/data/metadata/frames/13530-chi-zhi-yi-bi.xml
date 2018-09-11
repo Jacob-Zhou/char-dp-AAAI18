@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 嗤之以鼻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity scorned"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (NP-SBJ (NP-PN (NR 巴勒斯坦))
+                    (NP (NN 方面)))
+                    (VP (PP-DIR (P 对)
+                    (NP (CP-APP (IP (NP-PN-SBJ (NR 以色列))
+                    (VP (VV 推迟)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 加强)
+                    (NP-OBJ (NN 镇压))))))
+                    (DEC 的))
+                    (NP (NN 行动))))
+                    (VP (VV 嗤之以鼻)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="0">
+                    巴勒斯坦 方面          
+                </arg>
+                <arg n="1">
+                    对 以色列 推迟 加强 镇压 的 行动          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 互致 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity sent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 中国)
+                    (CC 与)
+                    (NR 新加坡))
+                    (NP (NN 领导人)))
+                    (VP (VP (VV 互致)
+                    (NP-OBJ (NN 贺电))) 
+                    
+                </parse>
+                <arg n="0">
+                    中国 与 新加坡 领导人          
+                </arg>
+                <arg n="1">
+                    贺电          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

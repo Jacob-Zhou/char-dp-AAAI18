@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷劫 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing stolen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-DIR (P 从)
+                    (NP (NN 警察局)
+                    (NN 证据室)))
+                    (VP (VV 偷劫)
+                    (NP-OBJ (QP (CD ８)
+                    (CLP (M 磅)))
+                    (NP (PU “)
+                    (NN 股科简)
+                    (PU ”))
+                    (NP (NN 毒品))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="dir">
+                    从 警察局证据室          
+                </arg>
+                <arg n="1">
+                    ８ 磅 “股科简 ” 毒品          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

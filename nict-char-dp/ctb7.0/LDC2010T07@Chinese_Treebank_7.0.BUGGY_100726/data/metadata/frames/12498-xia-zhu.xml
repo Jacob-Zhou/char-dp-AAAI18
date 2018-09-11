@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 下注 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 places bets on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ５０多))
+                    (NP (NN 人)))
+                    (VP (VP (PP-LOC (P 在)
+                    (NP (NN 一旁)))
+                    (VP (VSB (VV 鼓噪)
+                    (VV 下注)))) 
+                    
+                </parse>
+                <arg n="0">
+                    ５０多 人          
+                </arg>
+                <arg n="m" f="loc">
+                    在 一旁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

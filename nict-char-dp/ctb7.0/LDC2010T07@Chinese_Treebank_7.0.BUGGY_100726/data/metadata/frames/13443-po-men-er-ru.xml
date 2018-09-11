@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 破门而入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 护士))
+                    (VP (VP (VV 发现)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VA 不对劲))))
+                    (PU ，)
+                    (VP (ADVP (AD 赶紧))
+                    (VP (VV 破门而入)))) 
+                    
+                </parse>
+                <arg n="0">
+                    护士          
+                </arg>
+                <arg n="m" f="Adv">
+                    赶紧          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

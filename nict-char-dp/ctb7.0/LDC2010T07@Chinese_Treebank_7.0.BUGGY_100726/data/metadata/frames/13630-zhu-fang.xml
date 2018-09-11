@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逐放 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="people expelled"/>
+        <role argnum="2" argrole="destination"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                 
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 作为)
+                    (NP (NP (NP-PN (NR 巴))
+                    (NP (NN 政府)))
+                    (DNP (PP (P 对)
+                    (NP (NP-PN (NR 沙特))
+                    (NP (NN 政府))))
+                    (DEG 的))
+                    (NP (NN 回报))))
+                    (PU ，)
+                    (PP-MNR (P 根据)
+                    (NP (DNP (NP (NP-APP (NP-PN (NR 巴))
+                    (ADJP (JJ 首席))
+                    (NP (NN 执行官)))
+                    (NP-PN (NR 穆沙拉赫)))
+                    (DEG 的))
+                    (NP (NN 建议))))
+                    (PU ，)
+                    (NP-SBJ (NP-APP (NN 总统))
+                    (NP-PN (NR 塔拉尔)))
+                    (VP (PP-MNR (P 依照)
+                    (NP (ADJP (JJ 有关))
+                    (NP (NN 法律))))
+                    (VP (VP (VV 免除)
+                    (AS 了)
+                    (NP-OBJ (NP-PN (NR 谢里夫))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 剩余)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 刑期))))
+                    (PU ，)
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NP-PN (NR 谢里夫))
+                    (CC 及)
+                    (NP (PN 其)
+                    (NN 家人)))
+                    (VP (VRD (VV 逐放)
+                    (VV 到))
+                    (NP-PN-OBJ (NR 沙特阿拉伯))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    作为 巴 政府 对 沙特 政府 的 回报          
+                </arg>
+                <arg n="m" f="mnr">
+                    根据巴 首席 执行官 穆沙拉赫 的 建议           
+                </arg>
+                <arg n="0">
+                    总统 塔拉尔          
+                </arg>
+                <arg n="m" f="mnr">
+                    依照 有关 法律          
+                </arg>
+                <arg n="1">
+                    谢里夫 及 其 家人          
+                </arg>
+                <arg n="2">
+                    沙特阿拉伯          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

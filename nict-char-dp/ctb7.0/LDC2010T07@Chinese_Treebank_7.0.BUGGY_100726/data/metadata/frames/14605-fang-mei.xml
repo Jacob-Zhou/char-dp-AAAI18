@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 访美 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 巴拉克))
+                    (VP (VV 可能)
+                    (VP (PP-TMP (P 于)
+                    (NP (NT １２月)))
+                    (VP (VV 访美))))) 
+                    
+                </parse>
+                <arg n="0">
+                    巴拉克          
+                </arg>
+                <arg n="m" f="tmp">
+                    于 １２月          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

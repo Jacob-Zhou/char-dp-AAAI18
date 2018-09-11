@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遥及 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity influenced"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 在)
+                    (LCP (NP (DNP (NP-PN (NR 邓小平))
+                    (DEG 的))
+                    (NP (NN 倡导)))
+                    (LC 下)))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 中国))
+                    (VP (PP-TMP (P 在)
+                    (NP (NT １９８６年)
+                    (NT ３月)))
+                    (VP (VP (VV 出台)
+                    (AS 了)
+                    (NP-OBJ (DNP (ADJP (JJ 所谓))
+                    (DEG 的))
+                    (NP (NN ８６３)
+                    (NN 计划))))
+                    (PU ，)
+                    (VP (VV 遥及)
+                    (NP-OBJ (DNP (NP (NP (NN 世界))
+                    (DP (DT 各))
+                    (NP (NN 地)))
+                    (DEC 的))
+                    (NP-PN (NR 中国))
+                    (NP (NN 科学家)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 主攻)
+                    (NP-OBJ (QP (CD ７)
+                    (CLP (M 个)))
+                    (NP (NN 科学)
+                    (NN 研究)
+                    (NN 领域))))))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    在 邓小平 的 倡导 下          
+                </arg>
+                <arg n="0">
+                    中国          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 １９８６年 ３月          
+                </arg>
+                <arg n="1">
+                    世界各 地 的 中国 科学家 主攻 ７ 个 科学 研究 领域          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吓倒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity arg0 scares"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 起)))
+                    (NP (NN 事件)))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 会)
+                    (VP (VV 吓倒)
+                    (NP-OBJ (NP-PN (NR 美国))
+                    (DNP (PP (P 在)
+                    (NP-PN (NR 中东)))
+                    (DEG 的))
+                    (NP (NN 驻军)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 起 事件          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="1">
+                    美国在 中东 的 驻军          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

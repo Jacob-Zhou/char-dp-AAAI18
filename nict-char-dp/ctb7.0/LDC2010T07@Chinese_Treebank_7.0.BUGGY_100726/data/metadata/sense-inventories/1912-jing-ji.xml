@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="经济-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="economical, with little waste, at a saving" group="1">
+<commentary>
+</commentary>
+<examples>
+奥历若克 乳化油 是 一 种 安全 、 经济 、 有 竞争力 、 有 效益 的 燃料
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="economy, of economy" group="1">
+<commentary>
+</commentary>
+<examples>
+上海 浦东 近年 来 颁布 实行 了 涉及 经济 、 贸易 、 建设 、 规划 、 科技 、 文教 等 领域 的 七十一 件 法规性 文件
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="127" ann_1_2_agreement="0.992125984252" />
+</inventory>

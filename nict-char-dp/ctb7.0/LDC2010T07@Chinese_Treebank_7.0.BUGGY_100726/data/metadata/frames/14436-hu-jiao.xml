@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 呼叫 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 开始)
+                    (VP (VV 淹水))))
+                    (LC 时))
+                    (NP-SBJ (NN 邻居们))
+                    (VP (VP (ADVP (AD 都))
+                    (DVP (ADVP (AD 大声))
+                    (DEV 的))
+                    (VP (VV 呼叫))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    开始 淹水 时          
+                </arg>
+                <arg n="0">
+                    邻居们          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    大声 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

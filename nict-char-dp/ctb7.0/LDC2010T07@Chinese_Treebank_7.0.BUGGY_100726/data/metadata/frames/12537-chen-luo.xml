@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 沉落 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 潜艇))
+                    (VP (PP-PRP (-NONE- *T*-1))
+                    (VP (VA 沉落))))
+                    (DEC 的)))
+                    (NP (NN 原因))) 
+                    
+                </parse>
+                <arg n="0">
+                    潜艇          
+                </arg>
+                <arg n="m" f="prp">
+                    原因          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 惊传 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="source of message"/>
+        <role argnum="1" argrole="message"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 今天)
+                    (NT 清晨))
+                    (NP-PN-SBJ (NR 高雄市))
+                    (VP (VV 惊传)
+                    (NP-OBJ (IP-APP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 疯狂))
+                    (VP (VV 杀)
+                    (NP-OBJ (NN 人)))))
+                    (NP (NN 案))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    今天 清晨          
+                </arg>
+                <arg n="0">
+                    高雄市          
+                </arg>
+                <arg n="1">
+                    疯狂 杀 人 案          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

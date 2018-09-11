@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 积欠 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="debtor"/>
+        <role argnum="1" argrole="creditor"/>
+        <role argnum="2" argrole="entity owed"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 台北市)
+                    (NN 警察局))
+                    (VP (VP (ADVP (AD 居然))
+                    (VP (VV 知法犯法)))
+                    (PU ，)
+                    (VP (VV 积欠)
+                    (AS 了)
+                    (NP-OBJ (NN 交通)
+                    (NN 罚款))
+                    (VP-EXT (ADVP (AD 高))
+                    (VP (VV 达)
+                    (AS 了)
+                    (QP-OBJ (CD ６８万)
+                    (CLP (M 元))))) 
+                    
+                </parse>
+                <arg n="0">
+                    台北市 警察局          
+                </arg>
+                <arg n="2">
+                    交通 罚款          
+                </arg>
+                <arg n="2" f="qty">
+                    高 达 了 ６８万 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

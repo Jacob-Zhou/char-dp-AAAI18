@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 有功 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VSB (VV 创校)
+                    (VA 有功))))
+                    (DEC 的)))
+                    (NP (NN 伯伯)
+                    (NN 叔叔)
+                    (CC 和)
+                    (NN 阿姨))) 
+                    
+                </parse>
+                <arg n="0">
+                    伯伯 叔叔 和 阿姨          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

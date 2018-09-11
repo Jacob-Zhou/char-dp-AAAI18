@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 花钱 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 狂乱))
+                    (VP (VV 花钱)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

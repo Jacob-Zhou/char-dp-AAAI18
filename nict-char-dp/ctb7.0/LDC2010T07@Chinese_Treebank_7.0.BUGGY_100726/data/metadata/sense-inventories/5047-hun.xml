@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="混-v">
+<commentary>
+what do different groups in ceta mean? do I group accordingly?
+</commentary>
+<sense n="1" type="" name="to mix" group="1">
+<commentary>
+</commentary>
+<examples>
+为何 要 将 公帐 、 私帐 混 在一起
+海参 花枝 和 肉丸 ， 三 分 天下 混 一 团
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to muddle along" group="1">
+<commentary>
+this sense is a predicate that's used for people
+</commentary>
+<examples>
+只有 小孩 在 网路 上面 混
+年轻 人 回乡 总 被 视为 在 外面 混 不 下去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to pass of as" group="1">
+<commentary>
+</commentary>
+<examples>
+让 错误 日期 「 混 」 进来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

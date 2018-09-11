@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="48806-zhong-xin-n 中心-n">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+
+
+<sense n="1" type="" name="中心, middle," group="1">
+
+
+
+<commentary>
+
+This word in Chinese is used as a noun although its translation in English can be used as an adjective.
+
+</commentary>
+
+<examples>
+
+商店都开设在城市的中西。
+
+The shops are all in a central position in the city.
+
+
+
+交通中心
+
+traffic center
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="center 中心, 中央, 中心点" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+她喜欢成为人们注意的中心。
+
+She loves to be the center of interest.
+
+
+
+那个新的购物中心真是难看极了。
+
+That new shopping centre is a real eyesore.”
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="3" type="" name="middle 中心, 中间" group="1">
+
+<commentary>
+
+This word is used as a noun in Chinese although its translation can be used as an adjective.
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+你可以找出这个圆形的中心吗？
+
+
+
+Can you determine the middle of this circle?
+
+
+
+
+
+唱盘中心
+
+
+
+middle of turntable
+
+
+
+
+
+半夜我们被大声吵醒。
+
+The noise woke us up in the middle of the might.
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="4" type="" name="center,heart, 中心, 中央, 中心点" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+她喜欢成为人们注意的中心。
+
+She loves to be the center of interest.
+
+
+
+那个新的购物中心真是难看极了。
+
+That new shopping center is a real eyesore.”
+
+
+
+这里是市中心。
+
+
+
+Here is the heart of the city.
+
+
+
+
+
+金融区的中心
+
+
+
+the heart of the financial district
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="5" type="" name="core, 中心, 核心" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+这就是所有问题的中心。
+
+
+
+This is the core of all the questions.
+
+
+
+
+
+背斜中心
+
+
+
+core of anticline
+
+
+
+
+
+安全成了新联邦政策的中心问题。
+
+Safety concerns are at the core of the new federal policies.
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

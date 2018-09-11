@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起源于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="entity arg0 originates from"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这个))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-MNR (P 以)
+                    (IP (NP (-NONE- *pro*))
+                    (VP (VV 反清复明))))
+                    (VP (VC 为)
+                    (NP-PRD (NN 目标)))))
+                    (DEC 的)))
+                    (ADJP (JJ 秘密))
+                    (NP (NN 组织)))
+                    (VP (VV 应该)
+                    (VP (VC 是)
+                    (VP (VV 起源于)
+                    (LCP-OBJ (NP (DNP (NP-PN (NR 江西省)
+                    (NR 南城县)
+                    (NR 红门镇))
+                    (DEG 的))
+                    (NP (NN 名义)
+                    (NN 完方)
+                    (NN 附木)
+                    (NN 城))
+                    (NP (NN 兴建)))
+                    (LC 之内))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这个 以 反清复明 为 目标 的 秘密 组织          
+                </arg>
+                <arg n="1">
+                    江西省 南城县 红门镇 的 名义 完方 附木 城 兴建 之内          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

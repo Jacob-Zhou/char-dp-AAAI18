@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 为了 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="reason/purpose"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 出发点))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 完全))
+                    (VP (VV 为了)
+                    (IP-OBJ (NP-SBJ (PN 她))
+                    (VP (VA 好)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    出发点          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="adv">
+                    完全          
+                </arg>
+                <arg n="1">
+                    她 好          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 取材自 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 is based on/copied from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP-PN (NR 宋太祖))
+                    (NP (NN 画像)))
+                    (VP (VV 取材自)
+                    (NP-OBJ (NP-PN (NR 故宫)
+                    (NN 博物院))
+                    (NP-TTL (PU 《)
+                    (NP (NP-PN (NR 故宫))
+                    (NP (NN 图像)))
+                    (NP (NN 选萃))
+                    (PU 》))))) 
+                </parse>
+                <arg n="0">
+                    宋太祖 画像 
+                </arg>
+                <arg n="1">
+                    故宫 博物院 《 故宫 图像 选萃 》 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

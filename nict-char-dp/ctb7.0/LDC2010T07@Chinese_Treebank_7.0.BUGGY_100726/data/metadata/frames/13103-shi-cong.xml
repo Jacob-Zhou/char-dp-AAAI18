@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 师从 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="student"/>
+        <role argnum="1" argrole="teacher"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 赵善灿))
+                    (VP (VP (NP-TMP (NT 今年))
+                    (QP-PRD (CD ６６)
+                    (CLP (M 岁))))
+                    (PU ，)
+                    (VP (NP-TMP (NN 早年))
+                    (VP (VC 是)
+                    (NP-PRD (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 医生)))))
+                    (PU ，)
+                    (VP (ADVP (AD 自幼))
+                    (VP (VV 喜欢)
+                    (NP-OBJ (DNP (NP-PN (NR 中国))
+                    (DEG 的))
+                    (NP (NN 书画)
+                    (NN 艺术)))))
+                    (PU ，)
+                    (VP (ADVP (AD 并))
+                    (ADVP (AD 曾))
+                    (VP (VP (VV 师从)
+                    (NP-OBJ (NP-APP (DNP (NP-PN (NR 张大千))
+                    (DEG 的))
+                    (ADJP (JJ 嫡传))
+                    (NP (NN 弟子)))
+                    (NP-PN (NR 陶寿博)
+                    (CC 和)
+                    (NR 孙云生)))) 
+                    
+                </parse>
+                <arg n="0">
+                    赵善灿          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="m" f="adv">
+                    曾          
+                </arg>
+                <arg n="1">
+                    张大千 的 嫡传 弟子 陶寿博 和 孙云生          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

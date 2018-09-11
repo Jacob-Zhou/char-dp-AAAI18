@@ -1,0 +1,28 @@
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 0 7 gold 举行-v 举行.01 ----- 7:0-rel 1:1-ARG0
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 0 17 gold 结束-v 结束.01 ----- 17:0-rel 0:3-ARG1 12:1-ARGM-TMP 13:1-ARGM-LOC
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 0 25 gold 达成-v 达成.01 ----- 25:0-rel 19:1-ARG0 20:1-ARGM-LOC 24:1-ARGM-ADV 26:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 1 4 gold 希望-v 希望.02 ----- 4:0-rel 0:1-ARG0 1:1-ARGM-LOC 5:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 1 6 gold 承诺-v 承诺.01 ----- 6:0-rel 5:1-ARG0 8:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 1 9 gold 停止-v 停止.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 1 11 gold 试射-v 试射.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 1 15 gold 限制-v 限制.02 ----- 15:0-rel 8:1-ARG0 16:2-ARG2
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 1 23 gold 出口-v 出口.01 ----- 23:0-rel 16:1-ARG0 17:1-ARG2 24:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 4 gold 讨论-v 讨论.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-DIS 6:3-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 10 gold 产生-v 产生.01 ----- 10:0-rel 8:1-ARG0 15:1*6:0*6:1*7:0*7:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 20 gold 探讨-v 探讨.01 ----- 20:0-rel 0:2-ARG0 18:1-ARGM-DIS 19:1-ARGM-ADV 22:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 25 gold 帮助-v 帮助.02 ----- 25:0-rel 24:1-ARG0 26:1-ARG1 27:2-ARG2
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 28 gold 发射-v 发射.01 ----- 28:0-rel 27:1-ARG0 29:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 30 gold 作为-v 作为.01 ----- 30:0-rel 22:1-ARG0 23:1-ARGM-MNR 31:4-ARG2
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 2 32 gold 限制-v 限制.01 ----- 32:0-rel 31:1-ARG0 33:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 3 8 gold 结束-v 结束.01 ----- 8:0-rel 7:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 3 10 gold 发表-v 发表.01 ----- 10:0-rel 6:1-ARG0 7:3-ARGM-TMP 11:1*15:1*5:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 3 17 gold 说-v 说.01 ----- 17:0-rel 0:4-ARG0 4:1-ARGM-LOC 19:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 3 20 gold 涉及-v 涉及.01 ----- 20:0-rel 19:1-ARG0 22:3-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 3 28 gold 考虑-v 考虑.01 ----- 28:0-rel 23:2-ARG0 27:1-ARGM-ADV 22:1*29:1*35:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 4 2 gold 澄清-v 澄清.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 4 13 gold 继续-v 继续.01 ----- 13:0-rel 0:1-ARG1 11:1-ARGM-ADV 12:1-ARGM-ADV 14:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 4 14 gold 扩展-v 扩展.01 ----- 14:0-rel 0:1-ARG0 11:1-ARGM-ADV 12:1-ARGM-ADV 15:3-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 4 18 gold 关心-v 关心.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV 15:1*19:1*21:1-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 4 27 gold 有待-v 有待.01 ----- 27:0-rel 23:1-ARGM-DIS 24:2-ARG0 26:1-ARGM-ADV 28:3-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 5 8 gold 举行-v 举行.01 ----- 8:0-rel 0:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-TMP 6:1-ARGM-LOC 10:2-ARG1
+bn/ctv/00/ctv_0050@0050@ctv@bn@ch@on 6 2 gold 报道-v 报道.01 ----- 2:0-rel 0:1-ARG0

@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 陈明 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing stated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 可是))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 德尔彭特))
+                    (VP (VCD (VV 陈明)
+                    (VV 表示))
+                    (PU ：)
+                    (IP-OBJ (IP (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 不仅))
+                    (ADVP (AD 绝对))
+                    (ADVP (AD 不))
+                    (VP (VV 会)
+                    (VP (ADVP (AD 那样))
+                    (VP (VV 做)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    可是          
+                </arg>
+                <arg n="0">
+                    德尔彭特          
+                </arg>
+                <arg n="1">
+                    他 不仅 绝对 不 会 那样 做          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

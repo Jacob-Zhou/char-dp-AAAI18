@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 听见 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="hearer"/>
+        <role argnum="1" argrole="thing heard"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 根据)
+                    (IP (NP-SBJ (DNP (NP (NN 附近))
+                    (DEG 的))
+                    (NP (NN 邻居)))
+                    (VP (VV 表示))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (IP-TMP (NP-SBJ (NN 天))
+                    (VP (ADVP (AD 还))
+                    (ADVP (AD 没))
+                    (VP (VA 亮))))
+                    (ADVP (AD 就))
+                    (VP (VV 听见)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VE 有)
+                    (IP-OBJ (NP-SBJ (NN 人))
+                    (VP (VV 喊)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 救命)))))))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    根据 附近 的 邻居 表示          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    天 还 没 亮          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="1">
+                    有 人 喊 救命          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

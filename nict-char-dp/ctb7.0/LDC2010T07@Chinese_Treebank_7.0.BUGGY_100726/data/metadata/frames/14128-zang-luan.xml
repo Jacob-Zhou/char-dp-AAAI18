@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 脏乱 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但))
+                    (PP-LOC (P 在)
+                    (NP (NP-PN (NR 台北市))
+                    (NP (NN 街头))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 却))
+                    (VP (VC 是)
+                    (VP (VA 脏乱)
+                    (ADVP (AD 不堪))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="0">
+                    在台北市 街头          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="ext">
+                    不堪          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

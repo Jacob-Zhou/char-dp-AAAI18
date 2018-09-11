@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="送-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to deliver  (paper, mail, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+等 对方 送 资料 上 门
+所以 人家 不 要 的 都 会 送 来 这里
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to give (presents, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+圣诞 老人 在 平安夜 挨家挨户 送 礼物 的 本领 根本 是 不 合 逻辑 的 。
+相传 人 、 蛇 相逢 ， 应 礼让 蛇 先 行 ， 或 割下 一 块 红 布 送 过去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to send, to accompany, to see off" group="1">
+<commentary>
+</commentary>
+<examples>
+但 当 他 看到 在 澳门 念 小学 的 孙子 满口 广东话 ， 又 担心 小孩 忘 了 母语 ， 赶紧 送 他 回 台 受 教育 。
+两 人 好生 演出 一 段 「 十八相送 」 ， 才 依依不舍 地 含泪 上班 而 去 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to hand over" group="1">
+<commentary>
+</commentary>
+<examples>
+但 堤坡 太 滑 ， 他 和 孩子 又 几 次 滑 入 水 中 ， 秦真 拼尽 全力 把 孩子 顶 在 了 自己 的 头 上 ， 往上 托 ， 往上 送 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to ruin, to lose (one's life)" group="1">
+<commentary>
+</commentary>
+<examples>
+送 命
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="41" ann_1_2_agreement="0.560975609756" />
+</inventory>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 亲吻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="kisser"/>
+        <role argnum="1" argrole="entity kissed"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-APP (NP-PN (NR 台中))
+                    (NP (NN 市长)))
+                    (NP-PN (NR 张文英)))
+                    (NP (NN 夫妇)))
+                    (VP (VP (ADVP (AD 更))
+                    (ADVP (AD 当众))
+                    (ADVP (AD 相互))
+                    (VP (VV 亲吻))) 
+                    
+                </parse>
+                <arg n="0">
+                    台中 市长 张文英          
+                </arg>
+                <arg n="m" f="adv">
+                    更          
+                </arg>
+                <arg n="m" f="adv">
+                    当众          
+                </arg>
+                <arg n="m" f="adv">
+                    相互          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

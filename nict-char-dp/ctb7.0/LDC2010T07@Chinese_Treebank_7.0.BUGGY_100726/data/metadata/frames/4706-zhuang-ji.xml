@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撞击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 hits"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-HLN (NP-PN-SBJ (NR 中国))
+                    (VP (VV 建立)
+                    (NP-OBJ (IP-APP (NP-SBJ (NN 彗星))
+                    (VP (VV 撞击)
+                    (NP-PN-OBJ (NR 木星))))
+                    (NP (NN 观测网))))) 
+                </parse>
+                <arg n="0">
+                    彗星 
+                </arg>
+                <arg n="1">
+                    木星 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TPC (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 撞击)))
+                    (DEC 的)))
+                    (NP (NN 彗核)))
+                    (NP-SBJ (NN 编号))
+                    (VP (VC 为)
+                    (QP-PRD (OD 第二十一)
+                    (CLP (M 号))))) 
+                </parse>
+                <arg n="0">
+                    *T*-1 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

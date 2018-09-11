@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 分别 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 分别)
+                    (QP-EXT (CD 五十)
+                    (CLP (M 年)))))
+                    (DEC 的)))
+                    (NP (NN 家庭))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 家庭          
+                </arg>
+                <arg n="m" f="ext">
+                    五十 年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

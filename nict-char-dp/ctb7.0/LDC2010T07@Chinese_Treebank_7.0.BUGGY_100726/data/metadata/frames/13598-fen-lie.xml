@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 分列 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="rank/position"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 魏建华)
+                    (PU 、)
+                    (NR 黎磊))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NP (NN 女子)
+                    (NN 标枪))
+                    (NP (NN 决赛)))
+                    (LC 中)))
+                    (VP (VV 分列)
+                    (NP-OBJ (QP (OD 第十)
+                    (CC 和)
+                    (OD 第十一))
+                    (NP (NN 位))))) 
+                    
+                </parse>
+                <arg n="0">
+                    魏建华 、 黎磊          
+                </arg>
+                <arg n="m" f="loc">
+                    在 女子 标枪 决赛 中          
+                </arg>
+                <arg n="1">
+                    第十 和第十一 位          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

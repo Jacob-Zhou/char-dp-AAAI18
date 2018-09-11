@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 俐落 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-4 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-4))
+                    (VP (VCD (VA 乾净)
+                    (VA 俐落))))
+                    (DEC 的)))
+                    (ADJP (JJ 粗))
+                    (ADJP (JJ 硬))
+                    (NP (NN 线条))) 
+                </parse>
+                <arg n="0">
+                    *T*-4 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 成绩斐然 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 审计)
+                    (NN 工作))
+                    (VP (PP-MNR (P 作为)
+                    (NP (DNP (NP (NP (PN 我)
+                    (NN 国))
+                    (NP (NN 经济)
+                    (NN 建设)))
+                    (DEG 的))
+                    (NP (NN 侦察兵))))
+                    (PP-TMP (P 在)
+                    (LCP (QP (DNP (NP (NT 过去))
+                    (DEG 的))
+                    (QP (CD 一)
+                    (CLP (M 年))))
+                    (LC 里)))
+                    (VP (VV 成绩斐然)))) 
+                    
+                </parse>
+                <arg n="0">
+                    审计工作          
+                </arg>
+                <arg n="m" f="adv">
+                    作为 我 国 经济 建设 的 侦察兵          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 过去 的 一 年 里          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

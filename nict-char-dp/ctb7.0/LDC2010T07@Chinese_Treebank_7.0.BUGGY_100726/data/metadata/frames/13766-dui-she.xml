@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 对射 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NN 巴勒斯坦人)
+                    (NN 民兵))
+                    (CC 和)
+                    (NP (NP-PN (NR 以色列))
+                    (NP (NN 士兵))))
+                    (VP (VV 对射))) 
+                    
+                </parse>
+                <arg n="0">
+                    巴勒斯坦人 民兵 和 以色列 士兵           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

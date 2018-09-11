@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 自理 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken care of"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg0"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-3 (DP (DT 这些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-2 (-NONE- *T*-1))
+                    (VP (ADVP (AD 原来))
+                    (PP-LGS (P 由)
+                    (NP (NN 工作)
+                    (NN 对象)))
+                    (VP (VV 负担)
+                    (NP-OBJ (-NONE- *-2)))))
+                    (DEC 的)))
+                    (DNP (NP (NN 海关)
+                    (NN 人员)
+                    (NN 外勤)
+                    (NN 工作))
+                    (DEG 的))
+                    (NP (NN 费用)))
+                    (VP (ADVP (AD 将))
+                    (ADVP (AD 全部))
+                    (VP (VP (VV 纳入)
+                    (NP-OBJ (DNP (NP-PN (NN 海关)
+                    (NN 总署))
+                    (DEG 的))
+                    (ADJP (JJ 年度))
+                    (NP (NN 经济)
+                    (NN 预算))))
+                    (PU ，)
+                    (VP (PP-LGS (P 由)
+                    (NP (NN 海关)))
+                    (VP (VV 自理)
+                    (NP-OBJ (-NONE- *-3)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    这些 原来 由 工作 对象 负担 的 海关 人员 外勤 工作 的 费用 => *-3          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="adv">
+                    全部          
+                </arg>
+                <arg n="0">
+                    由 海关          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

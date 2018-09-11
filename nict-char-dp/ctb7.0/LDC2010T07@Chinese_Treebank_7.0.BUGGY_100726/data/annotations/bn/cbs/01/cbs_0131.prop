@@ -1,0 +1,26 @@
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 0 2 gold 播报-v 播报.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 1 33 gold 坠毁-v 坠毁.01 ----- 33:0-rel 0:1-ARGM-MNR 10:4-ARG0 24:1-ARGM-TMP 25:1-ARGM-LOC
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 1 37 gold 造成-v 造成.01 ----- 37:0-rel 0:1-ARGM-MNR 10:4-ARG0 24:2-ARG0 35:1-ARGM-ADV 36:1-ARGM-ADV 38:3-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 2 12 gold 表示-v 表示.01 ----- 12:0-rel 1:4-ARG0 7:1-ARG2
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 2 20 gold 坠毁-v 坠毁.01 ----- 20:0-rel 0:1-ARGM-MNR 14:1-ARG0 15:1-ARGM-TMP
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 2 26 gold 逃生-v 逃生.01 ----- 26:0-rel 22:1-ARGM-DIS 23:1-ARG0 24:1-ARGM-ADV
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 2 33 gold 送到-v 送到.01 ----- 33:0-rel 22:1-ARGM-DIS 23:1-ARG1 28:1-ARGM-ADV 29:1-ARGM-ADV 31:1-ARG0 34:3-ARG2
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 3 6 gold 有-v 有.03 ----- 6:0-rel 1:1-ARG0 3:1-ARGM-ADV 5:1-ARGM-ADV 7:2-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 3 15 gold 待-v 待.03 ----- 15:0-rel 11:1-ARGM-ADV 12:1-ARGM-TMP 13:1-ARG0 14:1-ARGM-ADV 16:1-ARGM-LOC
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 3 22 gold 造成-v 造成.01 ----- 22:0-rel 0:1-ARGM-PRP 19:1-ARG0 20:1-ARGM-DIS 21:1-ARGM-ADV 23:3-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 3 41 gold 有-v 有.05 ----- 41:0-rel 38:1-ARG0 39:1-ARGM-ADV 40:1-ARGM-ADV 42:3-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 3 47 gold 搜寻-v 搜寻.01 ----- 47:0-rel 42:2-ARG0 45:1-ARGM-LOC 48:3-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 5 gold 坠毁-v 坠毁.01 ----- 5:0-rel 2:0*2:1*3:0*3:1*7:1-ARG0
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 9 gold 属于-v 属于.01 ----- 9:0-rel 0:2-ARG0 10:1-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 14 gold 是-v 是.01 ----- 14:0-rel 0:2-ARG0 13:1-ARGM-ADV 15:3-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 16 gold 用来-v 用来.01 ----- 16:0-rel 15:1-ARG1 17:4-ARG2
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 18 gold 支援-v 支援.02 ----- 18:0-rel 17:1-ARG0 19:1-ARG1 23:2-ARG2
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 24 gold 进攻-v 进攻.01 ----- 24:0-rel 23:1-ARG0
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 4 25 gold 作战-v 作战.01 ----- 25:0-rel 23:1-ARG0
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 5 1 gold 配备-v 配备.01 ----- 1:0-rel 0:1-ARG2 3:2-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 5 2 gold 有-v 有.01 ----- 2:0-rel
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 5 13 gold 大-v 大.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 6 3 gold 配备-v 配备.01 ----- 3:0-rel 0:1-ARGM-TMP 1:2-ARG2 5:3-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 6 7 gold 是-v 是.01 ----- 7:0-rel 5:0*6:0-ARG0 8:1-ARG1
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 6 11 gold 能够-v 能够.01 ----- 11:0-rel
+bn/cbs/01/cbs_0131@0131@cbs@bn@ch@on 6 13 gold 作战-v 作战.01 ----- 13:0-rel 0:1-ARGM-TMP 1:2-ARG0 12:1-ARGM-ADV

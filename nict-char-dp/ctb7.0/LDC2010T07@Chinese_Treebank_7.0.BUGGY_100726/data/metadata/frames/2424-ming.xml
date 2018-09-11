@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 明 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 灯))
+                    (VP (ADVP (AD 不))
+                    (VP (VA 明)))) 
+                    
+                </parse>
+                <arg n="0">
+                    灯 	  
+                </arg>
+                <arg n="m" f="adv">
+                    不 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity understood"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 如果))
+                    (CP (IP (NP-SBJ (PU ＂)
+                    (QP (CD 五))
+                    (NP (NN 角))
+                    (PU ＂))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 明)
+                    (NP-OBJ (NN 道理)))))
+                    (SP 的话))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    如果	  
+                </arg>
+                <arg n="0">
+                    五 角	  
+                </arg>
+                <arg n="m" f="adv">
+                    不	  
+                </arg>
+                <arg n="1">
+                    道理	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

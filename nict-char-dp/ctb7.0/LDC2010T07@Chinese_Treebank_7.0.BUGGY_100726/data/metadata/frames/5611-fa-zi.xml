@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 发自 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="thing arg0 comes from"/>
+        <role argnum="2" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (IP-CND (NP-SBJ (DNP (NP (PN 这样))
+                    (DEG 的))
+                    (NP (NN 动作)))
+                    (VP (ADVP (CS 若))
+                    (VP (VC 是)
+                    (VP (VV 发自)
+                    (NP-OBJ (DNP (NP (NN 内心))
+                    (DEG 的))
+                    (NP (NN 诚恳)))))))
+                    (PU ，)
+                    (NP-SBJ (DNP (NP (NN 男性))
+                    (DEG 的))
+                    (NP (NN 魅力)))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 会)
+                    (VP (VRD (VV 显现)
+                    (VV 出来)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这样 的 动作 	
+                </arg>
+                <arg n="1">
+                    内心 的 诚恳 	
+                </arg>
+                <arg n="m" f="dis">
+                    若 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NP-APP (NP-PN (DNP (NP-PN (NR 美国))
+                    (DEG 之))
+                    (NP (NN 音)))
+                    (NP (NN 记者)))
+                    (NP-PN (NR 布埃尔)))
+                    (VP (VV 发自)
+                    (NP-PN-OBJ (NR 耶路撒冷))))
+                    (DEC 的)))
+                    (NP (NN 报道)))))) 
+                    
+                </parse>
+                <arg n="2">
+                    美国 之 音 记者 布埃尔	
+                </arg>
+                <arg n="1">
+                    耶路撒冷	
+                </arg>
+                <arg n="0">
+                    *T*-1 -> 报道	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

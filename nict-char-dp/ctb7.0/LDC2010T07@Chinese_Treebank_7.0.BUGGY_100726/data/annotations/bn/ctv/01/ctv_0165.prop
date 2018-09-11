@@ -1,0 +1,19 @@
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 0 6 gold 保护-v 保护.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:3-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 0 15 gold 做出-v 做出.01 ----- 15:0-rel 0:2-ARGM-TPC 3:1-ARGM-PRP 12:2-ARG0 14:1-ARGM-TMP 16:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 0 20 gold 进行-v 进行.01 ----- 20:0-rel 0:2-ARGM-DIS 3:1-ARGM-PRP 12:2-ARG0 14:1-ARGM-TMP 21:3-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 0 23 gold 为期-v 为期.01 ----- 23:0-rel 24:1-ARG1 21:0*21:1*22:0*22:1*27:1-ARG0
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 0 36 gold 到-v 到.01 ----- 36:0-rel
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 1 4 gold 禁止-v 禁止.01 ----- 4:0-rel 0:1-ARGM-TMP 3:1-ARG0 5:3-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 1 14 gold 进行-v 进行.01 ----- 14:0-rel 5:2-ARG0 11:1-ARGM-LOC 15:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 1 18 gold 禁止-v 禁止.01 ----- 18:0-rel 0:1-ARGM-TMP 3:1-ARG0 19:2-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 1 20 gold 收购-v 收购.01 ----- 20:0-rel 19:1-ARG0 21:0*21:1*24:0*24:1*27:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 1 23 gold 储运-v 储运.01 ----- 23:0-rel 19:1-ARG0 21:1*24:1*27:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 1 26 gold 贩卖-v 贩卖.01 ----- 26:0-rel 19:1-ARG0 21:1*24:1*27:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 2 1 gold 位-v 位.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 2 8 gold 为-v 为.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 2 13 gold 是-v 是.01 ----- 13:0-rel 12:1-ARG0 14:2-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 2 19 gold 大-v 大.01 ----- 19:0-rel 18:1-ARGM-ADV 16:0*16:1*17:0*17:1*21:1-ARG0
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 2 23 gold 盛产-v 盛产.01 ----- 23:0-rel 12:1-ARG0 24:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 3 1 gold 好-v 好.01 ----- 1:0-rel 0:1-ARG0
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 3 4 gold 是-v 是.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bn/ctv/01/ctv_0165@0165@ctv@bn@ch@on 3 13 gold 报道-v 报道.01 ----- 13:0-rel 8:1-ARGM-TMP 9:1-ARG0 10:1-ARGM-ADV 11:1-ARGM-DIR 14:1-ARG1

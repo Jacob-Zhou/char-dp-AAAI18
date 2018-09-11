@@ -1,0 +1,21 @@
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 0 2 gold 开展-v 开展.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 0 7 gold 前所未有-v 前所未有.01 ----- 7:0-rel 13:1*5:1*6:1-ARG0
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 0 10 gold 保护-v 保护.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 1 2 gold 说-v 说.01 ----- 2:0-rel 0:2-ARG0 4:2-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 1 5 gold 捕获-v 捕获.01 ----- 5:0-rel 4:1-ARG0 8:3-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 1 6 gold 没收-v 没收.01 ----- 6:0-rel 4:1-ARG0 8:3-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 2 2 gold 保护-v 保护.01 ----- 2:0-rel 3:2-ARG1 0:0*0:1*1:0*1:1*5:1-ARG0
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 2 6 gold 说-v 说.01 ----- 6:0-rel 0:3-ARG0 8:2-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 2 14 gold 参与-v 参与.01 ----- 14:0-rel 15:2-ARG1 12:0*12:1*13:0*13:1*21:1-ARG0
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 3 3 gold 逮捕-v 逮捕.01 ----- 3:0-rel 0:0*0:1*1:0*1:1*4:0*4:1*8:1-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 3 10 gold 怀疑-v 怀疑.01 ----- 10:0-rel 0:3*11:1-ARG1 12:2-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 3 21 gold 买下-v 买下.01 ----- 21:0-rel 12:1-ARG0 13:1-ARGM-DIR 22:3-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 3 32 gold 走私-v 走私.01 ----- 32:0-rel
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 4 3 gold 保护-v 保护.01 ----- 3:0-rel 4:2-ARG1 1:0*1:1*2:0*2:1*7:1-ARG0
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 4 8 gold 说-v 说.01 ----- 8:0-rel 0:2-ARG0 10:4-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 4 12 gold 可能-v 可能.01 ----- 12:0-rel
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 4 13 gold 来自-v 来自.01 ----- 13:0-rel 10:2-ARG0 14:3-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 4 19 gold 有-v 有.03 ----- 19:0-rel 18:1-ARG0 20:2-ARG1
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 4 24 gold 饲养-v 饲养.01 ----- 24:0-rel 25:1-ARG1 22:0*22:1*23:0*23:1*27:1-ARG0
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 5 8 gold 没有-v 没有.01 ----- 8:0-rel 0:1-ARGM-DIS 1:5-ARG1 9:2-ARG0
+bn/vom/00/vom_0081@0081@vom@bn@ch@on 5 10 gold 生存-v 生存.01 ----- 10:0-rel 9:1-ARG0

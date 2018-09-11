@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逛一逛 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADVP (AD 凡是))
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 来到)
+                    (NP-PN-OBJ (NR 北京))))
+                    (DEC 的)))
+                    (NP (NN 人))))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 会)
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NP-PN (NR 北京))
+                    (NP (NP (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (QP (CD 百)
+                    (CLP (M 年)))
+                    (ADJP (JJ 老))
+                    (NP (NN 店)))
+                    (VP (PP-LOC (-NONE- *T*-2))
+                    (VP (VV 云集))))
+                    (DEC 的)))
+                    (NP-PN (NR 大十二)
+                    (NN 商业街)))
+                    (CC 和)
+                    (NP (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 珍藏荟翠)))
+                    (DEC 的)))
+                    (NP-PN (NR 琉璃厂)
+                    (NN 文化街))))))
+                    (VP (VV 去)
+                    (VP (VV 逛一逛))))) 
+                    
+                </parse>
+                <arg n="0">
+                    凡是 来到 北京 的 人          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

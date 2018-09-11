@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 洗淘 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing arg0 washes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (PU 「)
+                    (NP-TPC-1 (NN 肠)
+                    (NN 腹))
+                    (ADVP (AD 经年))
+                    (NP-SBJ (NN 酒))
+                    (VP (VV 洗淘)
+                    (NP-OBJ (-NONE- *T*-1)))
+                    (PU 」)) 
+                </parse>
+                <arg n="0">
+                    酒 
+                </arg>
+                <arg n="1">
+                    *T*-1 
+                </arg>
+                <arg n="m" f="adv">
+                    经年 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

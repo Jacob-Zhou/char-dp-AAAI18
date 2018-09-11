@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="当-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to treat as, to regard as" group="1">
+<commentary>
+</commentary>
+<examples>
+不 许 破坏 草场 ， 以 草 当 柴
+一 天 当 五 天 用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to become, to serve as, to act as" group="1">
+<commentary>
+</commentary>
+<examples>
+一 位 被 评为 省 “ 优秀 共产党员 ” 和 “ 全 国 劳动 模范 ” 的 刘加坤 当 支部书记
+他 为 统一 集团 总裁 高清愿 当 向导
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="in front of, in the presence of" group="1">
+<commentary>
+</commentary>
+<examples>
+有次 ， 北京 国台办 高层 官员 当 著 许多 干部 的 面前 问 了 一 句 ： 你 在 东莞 集结 了 这麽 多 台商 ， 人气 这麽 旺 ， 你 的 心 里 是 怎麽 想 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="at (the very time), when, that very same (time)" group="1">
+<commentary>vv, prep, jj
+</commentary>
+<examples>
+明明 觉得 自己 犹 当 盛年 ， 人生 尚 未 登顶
+当 记者 在 这里 专访 欧盟 欧洲 委员会 驻华 代表团 团长 魏根深 大使 ， 请 他 评价 这 一 年 来 双方 的 合作 成果 时
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="ought, should" group="1">
+<commentary>
+</commentary>
+<examples>
+台 澳 关系 的 发展 当 不 仅 于 此
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="fraud" group="1">
+<commentary>
+</commentary>
+<examples>
+上 一 次 当 学 一 次 乖
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="this, that, the particular" group="1">
+<commentary>
+</commentary>
+<examples>
+台湾 去年 有 十二万 人 报考 研究所 （ 包括 重复 报名 者 ） ， 而 当 届 的 大学 毕业生 人数 不过 八万多 人
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="157" ann_1_2_agreement="0.96178343949" />
+</inventory>

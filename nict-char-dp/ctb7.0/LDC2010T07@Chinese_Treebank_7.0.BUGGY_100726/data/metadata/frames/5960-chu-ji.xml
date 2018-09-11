@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 出击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="attacker"/>
+        <role argnum="1" argrole="entity being attacked by arg0"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 兄弟们))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 要)
+                    (VP (ADVP (AD 一同))
+                    (VP (VV 出击)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    兄弟们 	
+                </arg>
+                <arg n="m" f="adv">
+                    一同 	
+                </arg>
+                <arg n="m" f="adv">
+                    还 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 土耳其))
+                    (NP (NN 军警)))
+                    (VP (NP-TMP (NT 昨天))
+                    (VP (VP (VV 出击)
+                    (NP-OBJ (NP (DP (DT 全))
+                    (NP (NN 国)))
+                    (DNP (QP (CD ２０)
+                    (CLP (M 所)))
+                    (DEG 的))
+                    (NP (NN 监狱)))) 
+                    
+                </parse>
+                <arg n="0">
+                    土耳其 军警	
+                </arg>
+                <arg n="1">
+                    全 国 ２０ 所 的 监狱	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

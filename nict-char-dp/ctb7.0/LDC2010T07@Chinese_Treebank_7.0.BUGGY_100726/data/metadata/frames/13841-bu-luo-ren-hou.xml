@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不落人后 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (NN 演艺圈))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 不落人后)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    演艺圈          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

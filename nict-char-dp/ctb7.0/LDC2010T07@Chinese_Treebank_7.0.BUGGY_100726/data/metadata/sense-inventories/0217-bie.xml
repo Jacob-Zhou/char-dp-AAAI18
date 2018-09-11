@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="别-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to depart, to leave, to seperate" group="1">
+<commentary>
+</commentary>
+<examples>
+百 年 的 岁月 ， 抬头 挥手 别
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="do not, must not" group="1">
+<commentary>
+</commentary>
+<examples>
+更 别 忘 了 ， 挤 点 男性 腿部 按摩 乳液 ， 努力 将 小腿 搓揉 一 番
+更 别 提 不时 得 补充 鱼 、 饲料 等 费用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="distinction, difference" group="1">
+<commentary>
+</commentary>
+<examples>
+但 其中 却 有 冷 热 之 别
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="other, another, different" group="1">
+<commentary>
+</commentary>
+<examples>
+难怪 别 的 县 市 愤愤 不平
+犯 别 国 的 主权 来 推行 自己 的 全球 战略
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to pin, to clip, to fasten" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to tuck in, to stick into" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="16" ann_1_2_agreement="0.9375" />
+</inventory>

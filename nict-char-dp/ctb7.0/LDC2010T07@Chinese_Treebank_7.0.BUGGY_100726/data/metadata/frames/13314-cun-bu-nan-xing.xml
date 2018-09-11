@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 寸步难行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 施工)
+                    (NN 队伍))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (ADVP (AD 就))
+                    (VP (VV 要)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 开进)
+                    (NP-OBJ (NN 沙漠)))))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (PU ，)
+                    (NP-SBJ (NP-APP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (NN 年))
+                    (VP (VV 近)
+                    (NP-OBJ (NN 花甲))))
+                    (DEC 的)))
+                    (ADJP (JJ 总))
+                    (NP (NN 工程师)))
+                    (NP-PN (NR 葭宏秋)))
+                    (VP (ADVP (AD 却))
+                    (PP-PRP (P 因)
+                    (IP (NP-SBJ (NN 椎肩盘))
+                    (VP (VV 突出))))
+                    (PU ，)
+                    (VP (VV 寸步难行)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    施工 队伍 就 要 开进 沙漠 的 时候          
+                </arg>
+                <arg n="0">
+                    年 近 花甲 的 总 工程师 葭宏秋          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="prp">
+                    因 椎肩盘 突出          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

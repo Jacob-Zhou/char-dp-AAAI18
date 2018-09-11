@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 附徵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 collects"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 垃圾费))
+                    (VP (PP-ADV (P 随)
+                    (NP (NN 袋)))
+                    (VP (VV 附徵)))) 
+                </parse>
+                <arg n="1">
+                    垃圾费 
+                </arg>
+                <arg n="m" f="mnr">
+                    随 袋 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

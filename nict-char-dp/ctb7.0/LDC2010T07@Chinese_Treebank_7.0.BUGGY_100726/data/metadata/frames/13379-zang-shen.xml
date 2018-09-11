@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 葬身 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity descried"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 屋主))
+                    (VP (VP (VV 逃生)
+                    (ADVP (AD 不及)))
+                    (VP (VV 葬身)
+                    (NP-OBJ (NN 火窟))))) 
+                    
+                </parse>
+                <arg n="0">
+                    屋主          
+                </arg>
+                <arg n="1">
+                    火窟          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

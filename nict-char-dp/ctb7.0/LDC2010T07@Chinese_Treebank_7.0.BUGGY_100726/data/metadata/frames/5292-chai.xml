@@ -1,0 +1,116 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拆 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 tears down"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TMP (NT 今年)
+                    (NT 六月))
+                    (PU ，)
+                    (NP-SBJ (PN 他))
+                    (VP (VP (VV 流)
+                    (AS 著)
+                    (NP-OBJ (NN 眼泪)))
+                    (VP (VV 拆)
+                    (AS 了)
+                    (NP-OBJ (NN 房子)))
+                    (PU ，)
+                    (VP (ADVP (AD 随即))
+                    (PP-LOC (P 在)
+                    (NP (NN 原地)))
+                    (VP (VV 弄)
+                    (NP-OBJ (QP (CLP (M 个)))
+                    (NP (NN 货柜屋))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他 	
+                </arg>
+                <arg n="1">
+                    房子 	
+                </arg>
+                <arg n="m" f="tmp">
+                    今年 六月 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TMP (NT 如今))
+                    (NP-SBJ (NN 骑楼))
+                    (VP (VP (VV 拆)
+                    (AS 了))
+                    (PU 、)
+                    (VP (VV 变成)
+                    (NP-OBJ (NN 停车场))))) 
+                    
+                </parse>
+                <arg n="1">
+                    骑楼 	
+                </arg>
+                <arg n="m" f="tmp">
+                    如今 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 tears down"/>
+        <role argnum="2" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 件)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 原本))
+                    (VP (VA 单纯))))
+                    (DEC 的)))
+                    (IP-APP (NP-TPC-2 (NN 违建))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 拆除)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (NP (NN 案件)))
+                    (PU ，)
+                    (VP (ADVP (AD 竟然))
+                    (VP (VRD (VV 拆)
+                    (VV 出))
+                    (AS 了)
+                    (NP-OBJ (NN 人命)))) 
+                    
+                </parse>
+                <arg n="m" f="tpc">
+                    一 件 原本 单纯 的 违建 拆除 案件	
+                </arg>
+                <arg n="m" f="adv">
+                    竟然	
+                </arg>
+                <arg n="1">
+                    人命	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

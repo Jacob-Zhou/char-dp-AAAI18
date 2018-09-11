@@ -1,0 +1,67 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赶至 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-TPC (NP-APP (NN 嫌犯)
+                    (ETC 等))
+                    (NP (NN 人)))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 先))
+                    (VP (VV 拿到)
+                    (QP-OBJ (CD １５万)
+                    (CLP (M 元))))))
+                    (LC 之后)))
+                    (PU ，)
+                    (PP-TMP (P 在)
+                    (NP (QP (OD 第二)
+                    (CLP (M 次)))
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 约定)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 交款))))))
+                    (DEC 的)))
+                    (NP (NN 时候))))
+                    (PU ，)
+                    (NP-SBJ (NN 警方))
+                    (VP (VC 是)
+                    (VP (VP (ADVP (AD 据告))
+                    (VP (VV 赶至)
+                    (NP-OBJ (NN 现场)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 先 拿到 １５万 元 之后          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 第二 次 约定 交款 的 时候          
+                </arg>
+                <arg n="0">
+                    警方           
+                </arg>
+                <arg n="m" f="mnr">
+                    据告          
+                </arg>
+                <arg n="1">
+                    现场          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

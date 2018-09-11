@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 涌动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="domain, location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (PN 他们)
+                    (NN 身))
+                    (LC 上)))
+                    (VP (VP (VV 流淌)
+                    (AS 着)
+                    (NP-OBJ (DNP (NP-PN (NR 中华)
+                    (NN 民族))
+                    (DEG 的))
+                    (NP (NN 血液))))
+                    (PU ，)
+                    (VP (VV 涌动)
+                    (AS 着)
+                    (NP-OBJ (NP (DNP (PP (P 对)
+                    (NP (NN 祖国)))
+                    (DEG 的))
+                    (NP (NN 忠诚)))
+                    (CC 和)
+                    (NP (DNP (PP (P 对)
+                    (NP (NN 人民)))
+                    (DEG 的))
+                    (NP (NN 热爱)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="0">
+                    对 祖国 的 忠诚 和 对人民 的 热爱          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="故-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to die" group="1">
+<commentary>
+</commentary>
+<examples>
+已 故 传播 前辈 张继高
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="therefore" group="1">
+<commentary>
+</commentary>
+<examples>
+而 多 年 来 因为 没有 特别 需要 ， 故 去年 六月 时 已 将 一亿四千多万 元 归还
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="anecdote" group="1">
+<commentary>
+</commentary>
+<examples>
+不少 都 是 有 典 有 故 的 古董级 吉祥物
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="intentionally" group="1">
+<commentary>
+</commentary>
+<examples>
+经过 五十 岁 时期 「 故 作异 」 的 创新 求变 实验
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="reason, cause" group="1">
+<commentary>
+</commentary>
+<examples>
+然而 卢秀琴 看过 其 作品 后 ， 认为 虽然 外型 酷似 ， 但 材质 之 故 ， 质感 就 是 表现 不 出来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

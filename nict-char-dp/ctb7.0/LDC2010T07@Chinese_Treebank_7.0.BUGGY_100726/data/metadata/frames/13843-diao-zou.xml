@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 调走 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing transfered"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TPC (P 至于)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 打人)))
+                    (DEC 的)))
+                    (NP (NN 日籍)
+                    (NN 管工))))
+                    (NP-SBJ-2 (PN 他))
+                    (VP (ADVP (AD 已经))
+                    (VP (SB 被)
+                    (VP (VV 调走)
+                    (NP-OBJ (-NONE- *-2)))) 
+                    
+                </parse>
+                <arg n="1">
+                    至于 打人 的 日籍 管工 -> *-2 -> 他          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

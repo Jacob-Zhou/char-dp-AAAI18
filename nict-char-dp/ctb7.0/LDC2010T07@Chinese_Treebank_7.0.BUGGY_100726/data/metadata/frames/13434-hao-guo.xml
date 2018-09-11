@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 好过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 好过)
+                    (ADVP (AD 一些))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="ext">
+                    一些           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

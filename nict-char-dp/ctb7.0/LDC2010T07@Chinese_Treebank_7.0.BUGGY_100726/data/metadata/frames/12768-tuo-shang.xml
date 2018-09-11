@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拖上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+         
+        <role argnum="1" argrole="thing delayed"/>
+        <role argnum="2" argrole="time delayed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (ADVP (AD 最))
+                    (ADVP (AD 慢)))
+                    (VP (VV 可能)
+                    (VP (VV 会)
+                    (VP (VV 拖上)
+                    (QP-EXT (CLP (M 个))
+                    (QP (CD 十)
+                    (CLP (M 天))))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    最 慢          
+                </arg>
+                <arg n="2">
+                    个 十 天           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

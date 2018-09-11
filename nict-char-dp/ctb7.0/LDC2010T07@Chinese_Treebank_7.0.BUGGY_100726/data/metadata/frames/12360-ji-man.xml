@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 挤满 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 高雄市)
+                    (NR 西子湾))
+                    (VP (VV 挤满)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 看)
+                    (NP-OBJ (NN 海))))
+                    (DEC 的)))
+                    (NP (NN 人潮))))) 
+                    
+                </parse>
+                <arg n="1">
+                    高雄市 西子湾          
+                </arg>
+                <arg n="0">
+                    看 海 的 人潮          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

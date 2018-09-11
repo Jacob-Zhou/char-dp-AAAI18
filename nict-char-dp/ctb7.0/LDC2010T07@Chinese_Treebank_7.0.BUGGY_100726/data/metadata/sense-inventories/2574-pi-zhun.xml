@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="批准-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to approve" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 批准 一 项 大 规模 微型 轿车 项目
+中国 人民 银行 批准
+国务院 于 一九九二年 先后 批准 了 黑河 、 凭祥 、 珲春 、 伊宁 、 瑞丽 等 十四 个 边境 城市 为 对 外 开放 城市
+国务院 批准 同意 将 雅鲁藏布江 大 拐弯处 命名 为 雅鲁藏布 大 峡谷 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="approval" group="1">
+<commentary>
+</commentary>
+<examples>
+国家 药品 监督局 责成 当地 药品 监督 管理局 分别 依法 撤销 这些 品种 的 生产 批准 文号 或 制剂 批准 文号 。
+约卡诺维奇 是 应 中国 最高 检察官 的 邀请 前往 北京 的 ， 得到 了 科什图尼察 总统 的 批准 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="144" ann_1_2_agreement="0.916666666667" />
+</inventory>

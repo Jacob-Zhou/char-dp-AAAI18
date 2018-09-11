@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喊话 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="audience"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-PN-SBJ (NN 教育部))
+                    (VP (ADVP (AD 则))
+                    (VP (VP (VP (VV 透过)
+                    (AS 了)
+                    (NP (NN 学者)
+                    (PU 、)
+                    (NN 专家)))
+                    (VP (VV 喊话))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过           
+                </arg>
+                <arg n="0">
+                    教育部          
+                </arg>
+                <arg n="m" f="dis">
+                    则          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

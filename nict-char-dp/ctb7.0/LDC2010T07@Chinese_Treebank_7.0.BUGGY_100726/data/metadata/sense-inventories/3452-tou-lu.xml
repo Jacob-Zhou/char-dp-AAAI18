@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="透露-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to disclose" group="1">
+<commentary>
+</commentary>
+<examples>
+广东省 省长 卢瑞华 日前 在 一 次 会议 上 透露 ， 今后 几 年 内 广东 将 着力 发展 电子 信息 产业 ， 而 汽车 产业 将 不 再 列入 支柱 产业
+日前 透露 这 一 信息
+据 中国 银行 有关 负责人 透露
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to transmit, to sread" group="1">
+<commentary>
+</commentary>
+<examples>
+其实 ， 不仅仅 在 水口村 ， 整 个 珠江 三角洲 地区 的 农村 都 已 透露 出 “ 都市 ” 的 气息
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="disclosure (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+据 透露 ， 这 家 公司 将 视 市场 情况 ， 把 投资额 逐渐 增加 到 八千万 美元 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="121" ann_1_2_agreement="0.96694214876" />
+</inventory>

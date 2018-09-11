@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 面带微笑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP (P 在)
+                    (LCP (NP (DNP (NP (NN 电视)
+                    (NN 转播))
+                    (DEC 的))
+                    (NP (NN 画面)))
+                    (LC 上)))
+                    (PU ，)
+                    (NP-PN-TPC (NR 高行健))
+                    (NP-SBJ (NN 态度))
+                    (VP (VCD (VA 从容)
+                    (VV 面带微笑)))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    在 电视 转播 的 画面 上          
+                </arg>
+                <arg n="0">
+                    高行健          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

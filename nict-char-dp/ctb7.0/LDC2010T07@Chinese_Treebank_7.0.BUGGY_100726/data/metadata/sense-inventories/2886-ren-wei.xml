@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="认为-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to think, to consider, to believe" group="1">
+<commentary>
+</commentary>
+<examples>
+世界 第一 大 峡谷 比 原先 认为 的 更 窄
+「 如果 等 情势 完全 明朗 ， 人家 就 不 卖给 你 了 ！ 」 高清愿 认为
+被 一些 专家 认为 是 第三 次 信息 革命 的 突破口 的 人工 智能 技术
+他 认为 ， 友好 城市 现 已 成为 民间 外交 的 主要 渠道
+据 认为 ， 此 次 访问 的 目的 是 为了 改善 和 发展 两 国 关系 ， 加强 双边 经贸 合作 ， 扩大 泰国 在 缅甸 的 投资
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="973" ann_1_2_agreement="0.349434737924" />
+</inventory>

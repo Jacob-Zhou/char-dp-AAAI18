@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 丢掷 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 throws"/>
+        <role argnum="2" argrole="target, place that arg1 is thrown to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 大批))
+                    (NP-PN (NR 巴勒斯坦))
+                    (NP (NN 示威)
+                    (NN 群众)))
+                    (VP (PP-DIR (P 向)
+                    (NP (NP-PN (NR 以色列))
+                    (NP (NN 军方))))
+                    (VP (VP (VV 丢掷)
+                    (NP-PN (NN 石块)))
+                    (VP (VV 挑衅))))) 
+                    
+                </parse>
+                <arg n="0">
+                    大批 巴勒斯坦 示威 群众          
+                </arg>
+                <arg n="2">
+                    向 以色列 军方          
+                </arg>
+                <arg n="1">
+                    石块          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

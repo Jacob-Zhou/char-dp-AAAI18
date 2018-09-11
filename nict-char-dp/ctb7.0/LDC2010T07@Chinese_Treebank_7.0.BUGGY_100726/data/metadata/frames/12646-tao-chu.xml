@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逃出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location arg0 escapes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ８)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (DVP (VP (VA 幸运))
+                    (DEV 的))
+                    (VP (VV 逃出)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    ８ 个 人          
+                </arg>
+                <arg n="m" f="adv">
+                    幸运 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

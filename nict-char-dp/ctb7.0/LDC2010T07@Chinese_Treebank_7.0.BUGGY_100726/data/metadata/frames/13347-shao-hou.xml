@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 稍候 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 我们))
+                    (VP (VP (VV 稍候))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 会)
+                    (VP (VE 有)
+                    (NP-OBJ (DNP (ADJP (JJ 最新))
+                    (DEG 的))
+                    (NP (NN 报道)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我们          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

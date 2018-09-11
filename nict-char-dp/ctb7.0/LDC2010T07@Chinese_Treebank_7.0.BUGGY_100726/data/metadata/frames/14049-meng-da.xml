@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 猛打 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 拿起)
+                    (NP-OBJ (NP (DNP (NP (QP (CD 两)
+                    (CLP (M 公升)))
+                    (NP (NN 装)))
+                    (DEG 的))
+                    (NP (NN 啤酒罐)))
+                    (CC 和)
+                    (NP (NN 椅子))))
+                    (PU ，)
+                    (VP (PP-DIR (P 朝着)
+                    (NP (NN 被害人)))
+                    (ADVP (AD 就))
+                    (VP (VC 是)
+                    (VP (QP-ADV (CD 一)
+                    (CLP (M 顿)))
+                    (VP (VV 猛打))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    朝着 被害人          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    一 顿          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

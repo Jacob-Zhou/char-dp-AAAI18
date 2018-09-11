@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 宏扬 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing promoted"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 金庸))
+                    (DEG 的))
+                    (NP (NN 武侠)
+                    (NN 小说)))
+                    (VP (VP (VV 改变)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (ADJP (JJ 旧))
+                    (NP (NN 武侠)
+                    (NN 小说)))
+                    (DEG 的))
+                    (ADJP (JJ 暴力))
+                    (NP (NN 仇杀))
+                    (NP (NN 套路))))
+                    (PU ，)
+                    (VP (VV 宏扬)
+                    (AS 了)
+                    (NP-OBJ (NN 人间)
+                    (NN 正气))) 
+                    
+                </parse>
+                <arg n="0">
+                    金庸 的 武侠 小说          
+                </arg>
+                <arg n="1">
+                    人间 正气          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

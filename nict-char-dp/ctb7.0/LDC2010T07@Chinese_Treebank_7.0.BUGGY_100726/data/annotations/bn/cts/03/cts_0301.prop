@@ -1,0 +1,22 @@
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 0 8 gold 接受-v 接受.01 ----- 8:0-rel 2:1-ARGM-TMP 5:1-ARGM-LOC 9:1-ARG1 0:0*0:1*13:1*1:0*1:1-ARG0
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 0 19 gold 出现-v 出现.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 21:3-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 0 29 gold 病逝-v 病逝.01 ----- 29:0-rel 0:4-ARG0 16:1-ARGM-PRP 26:1-ARGM-TMP 28:1-ARGM-ADV
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 0 32 gold 给-v 给.01 ----- 32:0-rel 31:1-ARG0 33:1-ARG2 34:3-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 0 37 gold 大-v 大.01 ----- 37:0-rel 36:1-ARGM-ADV 34:0*34:1*35:0*35:1*39:1-ARG0
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 13 gold 抢救-v 抢救.01 ----- 13:0-rel 0:3-ARG1 4:1-ARGM-PRP 8:1-ARGM-ADV 9:1-ARGM-DIR
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 14 gold 回来-v 回来.01 ----- 14:0-rel
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 18 gold 等待-v 等待.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 25 gold 等-v 等.01 ----- 25:0-rel 16:1-ARGM-DIS 17:2-ARG1 22:1-ARG0 23:1-ARGM-ADV 24:1-ARGM-PRP 27:2-ARGM-EXT
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 35 gold 获得-v 获得.01 ----- 35:0-rel 16:1-ARGM-DIS 17:2-ARGM-PRP 22:1-ARG0 31:1-ARGM-ADV 32:1-ARGM-TMP 38:3-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 36 gold 到-v 到.01 ----- 36:0-rel
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 45 gold 捐赠-v 捐赠.01 ----- 45:0-rel 39:3-ARG0 38:0*38:1*46:0*46:1*48:1-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 1 55 gold 进行-v 进行.01 ----- 55:0-rel 16:1-ARGM-DIS 17:2-ARGM-PRP 22:1-ARG1 50:1-ARGM-DIS 51:1-ARGM-TMP 54:1-ARGM-ADV 57:1-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 5 gold 恢复-v 恢复.02 ----- 5:0-rel 4:1-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 10 gold 不错-v 不错.01 ----- 10:0-rel 0:1-ARGM-TMP 4:4-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 14 gold 到-v 到.01 ----- 14:0-rel 13:1-ARG0 16:1-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 21 gold 出现-v 出现.01 ----- 21:0-rel 12:1-ARGM-DIS 13:2-ARGM-TMP 18:1-ARG0 19:1-ARGM-DIS 20:1-ARGM-ADV 23:1-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 39 gold 希望-v 希望.02 ----- 39:0-rel 38:1-ARG0 40:2-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 41 gold 能够-v 能够.01 ----- 41:0-rel
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 42 gold 回家-v 回家.01 ----- 42:0-rel
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 43 gold 主持-v 主持.01 ----- 43:0-rel 40:1-ARG0 44:1-ARG1
+bn/cts/03/cts_0301@0301@cts@bn@ch@on 2 50 gold 破灭-v 破灭.01 ----- 50:0-rel 49:1-ARG0

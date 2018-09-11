@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 弃尸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party whose corpse is abandoned by arg0"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 詹明志))
+                    (VP (VV 遭)
+                    (IP-OBJ (NP-SBJ (NN 人))
+                    (VP (VP (VV 勒索))
+                    (VP (VV 弃尸)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <arg n="1">
+                    詹明志          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

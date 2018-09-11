@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 为时过早 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 目前))
+                    (IP-SBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 宣布)
+                    (NP-OBJ (NN 军事)
+                    (NN 管制))))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 为时过早)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <arg n="0">
+                    宣布 军事 管制          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="靠-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to depend on, to rely on, to trust" group="1">
+<commentary>
+</commentary>
+<examples>
+随着 改革 开放 的 深入 ， 过去 只 靠 国家 投入 或 银行 贷款 的 一汽 开始 着手 拓宽 融资 渠道 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="near, close to" group="1">
+<commentary>
+</commentary>
+<examples>
+因 地理 位置 与 大陆 临近 ， 且 靠 出海口 ， 故 虽 不 是 天然 良港 ， 也 在 乾隆 二十三 年 （ 一七五七 ） 被 指定 为 少数 与 大陆 对渡 的 港口 之一
+靠 山 吃 山 ， 靠 海 吃 海
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to lean on" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="17" ann_1_2_agreement="1.0" />
+</inventory>

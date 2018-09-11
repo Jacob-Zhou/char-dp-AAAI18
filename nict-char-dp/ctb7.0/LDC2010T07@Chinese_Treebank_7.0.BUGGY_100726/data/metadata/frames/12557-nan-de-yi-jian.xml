@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 难得一见 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="seer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 难得一见)))
+                    (DEC 的)))
+                    (NP (NN 战地)
+                    (NN 操演))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 战地 操演          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 难得一见)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-2))
+                    (NP-SBJ (QP (CD 三))
+                    (NP (NN 审)))
+                    (VP (VV 并列)))
+                    (DEC 的)))
+                    (NP (NN 死刑犯)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*	  
+                </arg>
+                <arg n="0">
+                    *T*-1 -> 死刑犯	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

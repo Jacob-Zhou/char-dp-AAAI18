@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起义 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 星期四))
+                    (NP-SBJ (NN 人民))
+                    (VP (VV 起义))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    星期四          
+                </arg>
+                <arg n="0">
+                    人民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 患 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="illness"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 伊拉克))
+                    (NP (NN 新生儿童)))
+                    (VP (VV 患)
+                    (NP-OBJ (NP (NN 白血病))
+                    (PU 、)
+                    (NP (NN 癌症))
+                    (CC 和)
+                    (NP (ADJP (JJ 先天性))
+                    (NP (NN 畸型)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    伊拉克 新生儿童           
+                </arg>
+                <arg n="1">
+                    白血病 、 癌症 和 先天性 畸型           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

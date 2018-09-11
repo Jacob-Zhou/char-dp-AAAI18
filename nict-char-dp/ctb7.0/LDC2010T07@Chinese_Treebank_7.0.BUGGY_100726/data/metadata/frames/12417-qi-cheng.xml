@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起程 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (NP-SBJ (NN 会晤)
+                    (NN 气氛))
+                    (VP (VA 良好))))
+                    (PU ，)
+                    (NP-SBJ (NP-APP (NP (NP-PN (NR 中东))
+                    (NP (NN 问题)))
+                    (ADJP (JJ 特别))
+                    (NP (NN 协调)
+                    (NN 委员)))
+                    (NP-PN (NR 罗兹)))
+                    (VP (ADVP (AD 将))
+                    (VP (VP (PP-TMP (P 于)
+                    (NP (NT 星期日)))
+                    (VP (VV 起程)
+                    (NP-PN-OBJ (NR 以色列)))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 会晤 气氛 良好           
+                </arg>
+                <arg n="1">
+                    中东 问题 特别 协调 委员 罗兹           
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="1">
+                    以色列          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

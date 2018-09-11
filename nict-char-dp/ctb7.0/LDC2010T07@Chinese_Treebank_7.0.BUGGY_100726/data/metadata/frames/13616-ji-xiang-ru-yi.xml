@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吉祥如意 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADJP (JJ 新))
+                    (NP (NN 年)))
+                    (VP (VV 吉祥如意))))) 
+                    
+                </parse>
+                <arg n="0">
+                    新年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

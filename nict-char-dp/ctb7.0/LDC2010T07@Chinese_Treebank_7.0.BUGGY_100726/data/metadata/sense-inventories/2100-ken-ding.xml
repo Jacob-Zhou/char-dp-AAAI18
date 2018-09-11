@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="肯定-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to affirm, to confirm, to approve (v), confirmation, approaval" group="1">
+<commentary>
+</commentary>
+<examples>
+李鹏 肯定 了 一 年 来 国家 公务员 制度 推行 工作 取得 的 成效
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="certain, sure" group="1">
+<commentary>
+</commentary>
+<examples>
+你 肯定 吗 ?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="61" ann_1_2_agreement="0.983606557377" />
+</inventory>

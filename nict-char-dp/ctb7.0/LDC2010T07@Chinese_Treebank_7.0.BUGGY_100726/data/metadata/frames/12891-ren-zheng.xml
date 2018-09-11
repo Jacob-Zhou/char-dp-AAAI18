@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 认证 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing verified"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 选务)
+                    (NN 单位))
+                    (VP (VV 认证)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 计票)
+                    (NN 结果)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    选务 单位          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 计票 结果          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

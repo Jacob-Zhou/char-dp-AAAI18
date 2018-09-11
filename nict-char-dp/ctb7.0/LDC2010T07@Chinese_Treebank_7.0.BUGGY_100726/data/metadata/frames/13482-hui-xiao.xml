@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 回校 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 那))
+                    (NP-SBJ (NN 校友))
+                    (VP (VP-FOC (VV 回校)) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    那            
+                </arg>
+                <arg n="0">
+                    校友          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

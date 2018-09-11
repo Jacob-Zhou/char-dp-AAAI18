@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 陷于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location or state that arg0 was trapped into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP (QP (CD 两))
+                    (NP (NN 岸)))
+                    (QP (CD 两))
+                    (NP (NN 会)))
+                    (DNP (NP (NT 目前))
+                    (DEG 的))
+                    (ADJP (JJ 制度化))
+                    (NP (NN 沟通)
+                    (NN 协商)))
+                    (VP (VV 陷于)
+                    (NP-OBJ (NN 停摆)))) 
+                    
+                </parse>
+                <arg n="0">
+                    两 岸 两 会 目前 的 制度化 沟通 协商          
+                </arg>
+                <arg n="1">
+                    停摆          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

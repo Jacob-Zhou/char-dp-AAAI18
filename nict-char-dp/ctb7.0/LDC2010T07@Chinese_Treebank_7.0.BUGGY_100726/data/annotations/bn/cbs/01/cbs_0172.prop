@@ -1,0 +1,37 @@
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 6 gold 访问-v 访问.01 ----- 6:0-rel 2:1-ARGM-TMP 3:1-ARGM-ADV 4:1-ARG1 0:0*0:1*10:1*1:0*1:1-ARG0
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 20 gold 表示-v 表示.01 ----- 20:0-rel 0:3-ARG0 11:3-ARGM-TMP 22:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 23 gold 相信-v 相信.01 ----- 23:0-rel 22:1-ARG0 24:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 26 gold 愿意-v 愿意.01 ----- 26:0-rel 24:2-ARG0 27:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 28 gold 接受-v 接受.01 ----- 28:0-rel 27:1-ARG0 30:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 29 gold 接受-v 接受.01 ----- 29:0-rel 27:1-ARG0 30:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 36 gold 参与-v 参与.01 ----- 36:0-rel 27:1-ARG0 34:1-ARGM-ADV 37:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 47 gold 作出-v 作出.01 ----- 47:0-rel 27:1-ARG0 48:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 0 51 gold 大-v 大.01 ----- 51:0-rel 50:1-ARGM-ADV 48:0*48:1*49:0*49:1*53:1-ARG0
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 6 gold 讨论-v 讨论.01 ----- 6:0-rel 3:2-ARG0 8:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 7 gold 到-v 到.01 ----- 7:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 11 gold 可以-v 可以.01 ----- 11:0-rel 9:1-ARG0 10:1*8:1-ARGM-LOC 12:1-ARGM-ADV
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 12 gold 提供-v 提供.01 ----- 12:0-rel 9:1-ARG0 13:1-ARG1 10:0*15:1*8:0-ARGM-LOC
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 18 gold 相信-v 相信.01 ----- 18:0-rel 17:1-ARG0 19:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 23 gold 可能-v 可能.01 ----- 23:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 25 gold 会-v 会.01 ----- 25:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 1 29 gold 发表-v 发表.01 ----- 29:0-rel 19:2-ARG0 21:1-ARGM-TMP 24:1-ARGM-ADV 26:1-ARG3 30:1-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 3 gold 谈到-v 谈到.01 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 6 gold 详细-v 详细.01 ----- 6:0-rel 4:0*4:1*5:0*5:1*8:1-ARG0
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 20 gold 提到-v 提到.01 ----- 20:0-rel 10:1-ARGM-DIS 11:1-ARGM-LOC 18:1-ARG0 19:1-ARGM-ADV 21:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 24 gold 加强-v 加强.01 ----- 24:0-rel 21:1-ARG0 22:1-ARGM-TMP 23:1-ARGM-ADV 25:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 26 gold 参与-v 参与.01 ----- 26:0-rel 25:1-ARG0 27:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 33 gold 简单-v 简单.01 ----- 33:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 35 gold 说-v 说.01 ----- 35:0-rel 31:1-ARG0 32:1-ARGM-ADV 33:2-ARGM-ADV 37:1-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 40 gold 应该-v 应该.01 ----- 40:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 2 44 gold 发挥-v 发挥.01 ----- 44:0-rel 38:1-ARG0 41:1-ARGM-LOC 45:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 3 5 gold 派-v 派.01 ----- 5:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-LOC 7:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 3 6 gold 有-v 有.01 ----- 6:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 3 11 gold 协助-v 协助.02 ----- 11:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-LOC 12:3-ARG1 17:2-ARG2
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 3 18 gold 维持-v 维持.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 4 7 gold 讨论-v 讨论.01 ----- 7:0-rel 0:2-ARG0 5:1-ARGM-ADV 6:1-ARGM-DIS 9:3-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 4 8 gold 到-v 到.01 ----- 8:0-rel
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 4 20 gold 说-v 说.01 ----- 20:0-rel 19:1-ARG0 22:1-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 4 26 gold 支持-v 支持.01 ----- 26:0-rel 23:1-ARG0 24:2-ARGM-LOC 27:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 4 39 gold 希望-v 希望.02 ----- 39:0-rel 23:1-ARG0 37:1-ARGM-DIS 38:1-ARGM-ADV 40:2-ARG1
+bn/cbs/01/cbs_0172@0172@cbs@bn@ch@on 4 41 gold 加深-v 加深.01 ----- 41:0-rel 40:1-ARG0 42:3-ARG1

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="05046-chong-tu-n 冲突-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="冲突, 争斗; conflict," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+武装冲突
+
+an armed conflict
+
+
+
+劳资双方存在旷日持久的激烈冲突.
+
+There is a long and bitter conflict between employers and workers.
+
+
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="分歧, 不和, discord, disagreement" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+最近的冲突显示双方有分歧.
+
+The recent disagreement points up the differences between the two sides.
+
+
+
+制造不和。
+
+to sew discord
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

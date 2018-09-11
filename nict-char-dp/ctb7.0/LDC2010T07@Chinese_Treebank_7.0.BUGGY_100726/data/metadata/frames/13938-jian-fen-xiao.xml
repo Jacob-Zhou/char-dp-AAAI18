@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 见分晓 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT 今年))
+                    (VP (VV 入选)
+                    (NP-OBJ (NP-PN (NR 加拿大))
+                    (NP (NN 国会))))))
+                    (DEC 的)))
+                    (NP (NN 华裔)
+                    (NN 人士)))
+                    (VP (ADVP (AD 究竟))
+                    (VP (VV 会)
+                    (VP (VE 有)
+                    (QP-EXT (CD 几)
+                    (CLP (M 位)))))))
+                    (PU ，)
+                    (VP (IP-TMP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 在))
+                    (VP (VE 有)
+                    (QP-EXT (CD １０)
+                    (CLP (M 天))))))
+                    (ADVP (AD 便))
+                    (VP (VV 见分晓))) 
+                    
+                </parse>
+                <arg n="0">
+                    今年 入选 加拿大 国会 的 华裔 人士 究竟 会 有 几 位          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 有 １０ 天          
+                </arg>
+                <arg n="m" f="dis">
+                    便          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

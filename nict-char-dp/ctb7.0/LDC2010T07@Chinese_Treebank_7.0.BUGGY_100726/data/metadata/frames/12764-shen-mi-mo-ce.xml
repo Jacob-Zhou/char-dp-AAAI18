@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 神秘莫测 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-APP (NP-PN (NR 北韩))
+                    (NP (NN 领导人)))
+                    (NP-PN (NR 金正日)))
+                    (DEG 的))
+                    (NP (NN 行踪)))
+                    (VP (ADVP (AD 一向))
+                    (VP (VC 是)
+                    (VP (VV 神秘莫测))))) 
+                    
+                </parse>
+                <arg n="0">
+                    北韩 领导人 金正日 的 行踪          
+                </arg>
+                <arg n="m" f="adv">
+                    一向          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

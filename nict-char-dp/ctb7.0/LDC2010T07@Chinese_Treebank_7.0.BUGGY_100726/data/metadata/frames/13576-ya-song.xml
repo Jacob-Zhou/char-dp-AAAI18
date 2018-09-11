@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 押送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="desination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 柯四海))
+                    (VP (VP (NP-TMP (NT 上午))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 刑事局)
+                    (NN 干员))
+                    (VP (VRD (VV 押送)
+                    (VV 到))
+                    (NP-OBJ (NN 警局)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    柯四海          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <arg n="1">
+                    刑事局 干员          
+                </arg>
+                <arg n="2">
+                    警局          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

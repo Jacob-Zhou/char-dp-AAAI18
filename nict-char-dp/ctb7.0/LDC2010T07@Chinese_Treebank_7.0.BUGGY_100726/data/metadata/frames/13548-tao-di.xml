@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逃抵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 翻越)
+                    (NP-PN-OBJ (NR 喜玛拉亚山)))
+                    (VP (VV 逃抵)
+                    (NP-OBJ (NP-PN (NR 尼泊尔))
+                    (NP (NN 边界)
+                    (NN 地区))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    尼泊尔 边界 地区          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="为-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be, to mean, to make" group="1">
+<commentary>VC</commentary>
+<examples>
+一公里为一千公尺。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="as" group="1">
+<commentary>VV</commentary>
+<examples>
+大家同意选他为厂长。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to turn into, to become" group="1">
+<commentary>VV</commentary>
+<examples>
+农耕队变沙漠为良田。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="preposition, indicating the beneficiary of one's actions (e.g., for somebody)" group="1">
+<commentary>P</commentary>
+<examples>
+我为你感到高兴。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="preposition, indicating purpose or reason " group="1">
+<commentary>P</commentary>
+<examples>
+我们应为伟大祖国而奋斗。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="the bei-construction" group="1">
+<commentary>LB</commentary>
+<examples>
+光碟市场为大公司所垄断。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to do, to act" group="1">
+<commentary>VV</commentary>
+<examples>
+我会尽力而为。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="152" ann_1_2_agreement="0.690789473684" />
+</inventory>

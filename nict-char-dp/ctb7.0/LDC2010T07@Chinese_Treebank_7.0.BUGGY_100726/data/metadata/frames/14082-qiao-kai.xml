@@ -1,0 +1,82 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撬开 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme opened"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NP (NT 今天)
+                    (NT 凌晨)
+                    (NT ３点))
+                    (ADVP (AD 多)))
+                    (PU ，)
+                    (NP-SBJ (QP (CD ３)
+                    (CLP (M 名)))
+                    (DNP (ADJP (JJ 蒙面))
+                    (DEG 的))
+                    (NP (NN 歹徒)))
+                    (VP (ADVP (AD 就))
+                    (VP (VC 是)
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 破坏)
+                    (NP-OBJ (NP-PN (NR 富新乡)
+                    (NN 农会))
+                    (DNP (NP (NN 后面))
+                    (DEG 的))
+                    (NP (NN 铁窗))))
+                    (PU ，)
+                    (VP (VV 进入))))
+                    (LC 后))
+                    (VP (VP (VV 制服)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 留守)))
+                    (DEC 的)))
+                    (NP (NP-PN (NR 黄))
+                    (NP (NN 姓)))
+                    (ADJP (JJ 女))
+                    (NP (NN 职员))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (VP (VV 加以)
+                    (NP-OBJ (NN 捆绑))))
+                    (PU ，)
+                    (VP (ADVP (AD 然后))
+                    (DVP (VP (VV 从容不迫))
+                    (DEV 的))
+                    (VP (VV 撬开)
+                    (NP-OBJ (DNP (NP (NN 后面))
+                    (DEG 的))
+                    (NP (NN 金柜))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    今天 凌晨 ３点 多          
+                </arg>
+                <arg n="0">
+                    ３ 名 蒙面 的 歹徒          
+                </arg>
+                <arg n="m" f="tmp">
+                    破坏 富新乡 农会 后面 的 铁窗 ， 进入 后          
+                </arg>
+                <arg n="m" f="tmp">
+                    然后          
+                </arg>
+                <arg n="m" f="adv">
+                    从容不迫 的          
+                </arg>
+                <arg n="1">
+                    后面 的金柜          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

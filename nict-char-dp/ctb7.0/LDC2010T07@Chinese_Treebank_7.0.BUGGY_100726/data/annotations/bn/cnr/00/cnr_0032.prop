@@ -1,0 +1,4 @@
+bn/cnr/00/cnr_0032@0032@cnr@bn@ch@on 0 19 gold 献上-v 献上.01 ----- 19:0-rel 0:2-ARG0 5:1-ARGM-TMP 6:1-ARGM-LOC 16:1-ARG2 21:3-ARG1
+bn/cnr/00/cnr_0032@0032@cnr@bn@ch@on 0 23 gold 富有-v 富有.01 ----- 23:0-rel 24:2-ARG1 21:0*21:1*22:0*22:1*27:1-ARG0
+bn/cnr/00/cnr_0032@0032@cnr@bn@ch@on 1 1 gold 表达-v 表达.01 ----- 1:0-rel 0:1-ARG0 3:6-ARG1
+bn/cnr/00/cnr_0032@0032@cnr@bn@ch@on 1 4 gold 富裕-v 富裕.01 ----- 4:0-rel 3:1-ARG0

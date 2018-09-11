@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="少-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to lack, to be short of" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 是 一 个 少 林 国家， 森林 面积 仅 占 世界 森林 总 面积 的 百分之三点三 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="become fewer, less " group="1">
+<commentary>
+</commentary>
+<examples>
+投资 少
+希望 在 我 的 有生之年 ，让 这些 遗憾 少 些 、 再 少 些
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="small (as contrasted to big da-)" group="1">
+<commentary>
+</commentary>
+<examples>
+有 学术界 人士 认为 戈尔 在 学术界 缺乏 经验 ， 当选 的 机会 很 少
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="at least" group="1">
+<commentary>
+</commentary>
+<examples>
+一 年 最 少 以 ２５万 人 来 算 的话 ， ２５万 人 就 应该 有 ２５万万
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="seldom" group="1">
+<commentary>
+</commentary>
+<examples>
+长久来 ， 农业 、 工业 社会 男人 多 靠 劳力 、 黑手 赚 钱 ， 少 去 讲究 外观
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to lose, to be missing" group="1">
+<commentary>
+</commentary>
+<examples>
+少 了 点 「 人 不 亲 土 亲 」 的 亲切感
+一 提到 新竹 ， 少 不 得 要 「 多嘴 」 ―― 多 带 一 张 嘴 去 尝尝 当地 的 小吃 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="young" group="1">
+<commentary>
+</commentary>
+<examples>
+李志仁 先生 在 台湾 有 “ 笔 墨 大王 ” 之 称 ， 近 几 年 先后 出资 一千万 元 新台币 ， 在 中国 大陆 老 、 少 、 边 、 穷 地区 建立 了 百 所 小学 ， 受到 海内外 人士 的 称赞
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="183" ann_1_2_agreement="0.628415300546" />
+</inventory>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="花-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to spend (money, time, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+儿童 福利院 十六 年 如 一 日 地 关心 、 爱护 他 ， 去年 以来 ， 仅 为 他 交纳 学费 、 买 资料 、 买 营养品 ， 就 花 了 三千多 元 人民币 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="flower, blossom" group="1">
+<commentary>
+</commentary>
+<examples>
+锦 上 才 能 添 花
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="decroative pattern or design, colorful, variegated" group="1">
+<commentary>
+</commentary>
+<examples>
+花 猫 三人组 殷勤 招财 ， 为 主人 装 个 荷包 满满
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="something resembing a flower (e.g. snowflakes)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="15" ann_1_2_agreement="1.0" />
+</inventory>

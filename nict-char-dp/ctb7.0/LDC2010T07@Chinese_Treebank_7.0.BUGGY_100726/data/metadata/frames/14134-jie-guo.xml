@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken over"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 王森))
+                    (VP (VP (VV 接过)
+                    (NP-OBJ (NN 孩子))) 
+                    
+                </parse>
+                <arg n="0">
+                    王森          
+                </arg>
+                <arg n="1">
+                    孩子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

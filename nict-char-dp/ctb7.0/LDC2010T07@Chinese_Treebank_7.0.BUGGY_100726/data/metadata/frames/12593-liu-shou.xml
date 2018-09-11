@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 留守 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location that arg0 watches"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 留守)))
+                    (DEC 的)))
+                    (NP (NN 行员)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 行员          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="跟-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to follow, to follow close behind" group="1">
+<commentary>
+</commentary>
+<examples>
+韩国 就 跟 不 上 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="together with, with, to accompany" group="1">
+<commentary>
+</commentary>
+<examples>
+平时 中心 跟 他们 打打 电话 、 提供 资料 、 聚餐 联谊 等 都 不 是 问题
+跟 着 夏阳 简单 清静 的 过 日子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="as, like" group="1">
+<commentary>
+</commentary>
+<examples>
+跟 葡式 建筑 不 大 一样
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="and" group="1">
+<commentary>
+</commentary>
+<examples>
+再 打字 来 让 姊妹 背 生字 跟 解释
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="the heel (of a foot, a shoe, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="316" ann_1_2_agreement="0.806962025316" />
+</inventory>

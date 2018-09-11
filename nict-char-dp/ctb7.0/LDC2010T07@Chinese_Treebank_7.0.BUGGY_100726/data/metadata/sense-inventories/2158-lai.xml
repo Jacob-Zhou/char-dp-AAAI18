@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="来-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to come, to come hither" group="1">
+<commentary>VV</commentary>
+<examples>
+老赵已经来了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to arrive (of seasons, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+开春以后,农忙季节来了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to arise, to crop up (of problems, etc.) " group="1">
+<commentary>VV</commentary>
+<examples>
+问题一来就设法解决吧。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to do (as a pro-verb)" group="1">
+<commentary>VV</commentary>
+<examples>
+你歇歇,让我来吧。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to order (food)" group="1">
+<commentary>VV</commentary>
+<examples>
+老板,来碗阳春面。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to cause to arrive or to take place" group="1">
+<commentary>VV</commentary>
+<examples>
+他来过两封信。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="helping verb indicating that the following verb represents the action of the main verb " group="1">
+<commentary>VV</commentary>
+<examples>
+大家来想办法。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="helping verb when preceding a verb or verb phrase indicating that the preceding verb or verb phrase is the purpose of coming hither (e.g., [探亲来] 'came here to visit one's parents')" group="1">
+<commentary>VV</commentary>
+<examples>
+我们道喜来了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="used with 得 or 不, indicating possibility or impossibility, capability or incapability (used in potential construction)" group="1">
+<commentary>VV</commentary>
+<examples>
+上海话我说不来。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="used after a verb, indicating motion towards the speaker (used in directional construction) " group="1">
+<commentary>VV</commentary>
+<examples>
+弟弟蹑手蹑脚地上楼来。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="used after a verb, indicating completeness or finality (used in resultitve construction) " group="1">
+<commentary>VV</commentary>
+<examples>
+一觉醒来,竞然已经日落西山。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="12" type="" name="used in certain stock phrases which serve as sentence openings or parenthetical remarks, having the force of 'when one comes to' " group="1">
+<commentary>VV</commentary>
+<examples>
+他的话听来很有道理。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="13" type="" name="till now, up to the present (used after a time expression, indicating a period of time that extends from the past up to the present) " group="1">
+<commentary>LC</commentary>
+<examples>
+这三年来,他过着丰衣足食的生活。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="14" type="" name="approximately; about; around (used after a round number of after a numeral plus a measure) " group="1">
+<commentary>AD</commentary>
+<examples>
+这件衣服花了我十来块钱。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="15" type="" name="used after the numerals (one, two, three...etc.) indicating points in an explanation or argument " group="1">
+<commentary>NN</commentary>
+<examples>
+他这次进城,一来是探访朋友,二来是
+出公差。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="16" type="" name="the place where to come from" group="1">
+<commentary>NN</commentary>
+<examples>
+来有所宗。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="17" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="471" ann_1_2_agreement="0.806794055202" />
+</inventory>

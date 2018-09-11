@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 残杀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="killer"/>
+        <role argnum="1" argrole="victim"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 自杀))
+                    (PU 、)
+                    (VP (VV 自焚))
+                    (VP (ADVP (AD 甚至))
+                    (VP (VV 残杀)
+                    (NP-OBJ (PN 他人))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    甚至          
+                </arg>
+                <arg n="1">
+                    他人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

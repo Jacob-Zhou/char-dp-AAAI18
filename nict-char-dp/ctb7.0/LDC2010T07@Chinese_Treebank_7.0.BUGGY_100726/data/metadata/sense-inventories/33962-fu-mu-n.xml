@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="33962-fu-mu-n-n 父母-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="父母, father and mother," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+他们的父母是外国人。
+
+Their father and mother are foreigners.
+
+
+
+
+
+
+
+我父亲是老师，我母亲是护士。
+
+My father is a teacher and my mother is a nurse.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="父母, parents," group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+这对年轻父母宠坏了他们的独子。
+
+The young parents spoiled their only son.
+
+
+
+
+
+
+
+他们从不依照他们父母的意旨做事。
+
+They never followed what their parents said.
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>
+

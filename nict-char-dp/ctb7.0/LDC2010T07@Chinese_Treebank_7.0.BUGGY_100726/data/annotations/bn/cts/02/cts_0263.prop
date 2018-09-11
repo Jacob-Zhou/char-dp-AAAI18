@@ -1,0 +1,35 @@
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 5 gold 引起-v 引起.01 ----- 5:0-rel 1:2-ARG0 0:0*0:1*6:0*6:1*8:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 10 gold 在-v 在.01 ----- 10:0-rel 0:3-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 18 gold 要-v 要.05 ----- 18:0-rel 14:3-ARG0 19:2-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 20 gold 北上-v 北上.01 ----- 20:0-rel 19:1-ARG0 22:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 21 gold 到-v 到.01 ----- 21:0-rel
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 23 gold 抗议-v 抗议.01 ----- 23:0-rel 19:1-ARG0
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 26 gold 批评-v 批评.02 ----- 26:0-rel 25:1-ARG0 27:3-ARG1 30:2-ARG2
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 31 gold 缺乏-v 缺乏.01 ----- 31:0-rel 30:1-ARG0 32:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 36 gold 要-v 要.05 ----- 36:0-rel 25:1-ARG0 34:1-ARGM-LOC 35:1-ARGM-ADV 37:2-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 38 gold 请-v 请.01 ----- 38:0-rel 37:1-ARG0 39:1-ARG1 40:2-ARG2
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 41 gold 吃-v 吃.01 ----- 41:0-rel 40:1-ARG0 42:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 48 gold 有-v 有.03 ----- 48:0-rel 47:1-ARGM-ADV 49:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 53 gold 出面-v 出面.01 ----- 53:0-rel 45:2-ARG0 52:1-ARGM-ADV
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 54 gold 帮-v 帮.01 ----- 54:0-rel 45:2-ARG0 52:1-ARGM-ADV 55:1-ARG1 56:2-ARG2
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 0 57 gold 促销-v 促销.01 ----- 57:0-rel 56:1-ARG0
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 1 10 gold 丢-v 丢.01 ----- 10:0-rel 0:3-ARG1 9:1-ARG0 13:1-ARG2
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 1 11 gold 进-v 进.01 ----- 11:0-rel
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 1 20 gold 抗议-v 抗议.01 ----- 20:0-rel 15:2-ARG0 21:2-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 1 23 gold 搬来-v 搬来.01 ----- 23:0-rel 15:2-ARG0 24:2-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 1 30 gold 吃-v 吃.01 ----- 30:0-rel 15:2-ARG1 27:1-ARGM-LOC 29:1-ARGM-ADV 33:1-ARG2
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 1 31 gold 起-v 起.01 ----- 31:0-rel
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 2 3 gold 拨-v 拨.01 ----- 3:0-rel 0:2-ARG0 2:1-ARGM-LOC 4:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 2 15 gold 跌-v 跌.01 ----- 15:0-rel 6:1-ARG0 9:1-ARG2 17:2-ARG3
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 2 16 gold 到-v 到.01 ----- 16:0-rel
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 2 18 gold 到-v 到.01 ----- 18:0-rel 17:1-ARGM-ADV 19:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 2 24 gold 想-v 想.01 ----- 24:0-rel 22:1-ARG0 23:1-ARGM-ADV
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 2 26 gold 心酸-v 心酸.01 ----- 26:0-rel 22:1-ARG0 25:1-ARGM-ADV
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 3 2 gold 澄清-v 澄清.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 3 13 gold 到-v 到.01 ----- 13:0-rel 0:1-ARGM-PRP 7:3-ARG0 12:1-ARGM-ADV 14:1-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 3 15 gold 帮-v 帮.01 ----- 15:0-rel 0:1-ARGM-PRP 7:3-ARG0 12:1-ARGM-ADV 16:1-ARG1 17:2-ARG2
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 3 18 gold 讲话-v 讲话.01 ----- 18:0-rel 17:1-ARG0
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 4 1 gold 强调-v 强调.01 ----- 1:0-rel 0:1-ARG0 2:5-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 4 13 gold 在-v 在.01 ----- 13:0-rel 2:3-ARGM-TPC 9:3-ARG0 12:1-ARGM-ADV 14:3-ARG1
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 4 21 gold 可以-v 可以.01 ----- 21:0-rel
+bn/cts/02/cts_0263@0263@cts@bn@ch@on 4 23 gold 食用-v 食用.01 ----- 23:0-rel 20:1-ARG0 22:1-ARGM-ADV

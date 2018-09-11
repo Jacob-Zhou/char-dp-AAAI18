@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="属-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be" group="1">
+<commentary>
+</commentary>
+<examples>
+西峡 盆地 中 大量 珍贵 恐龙蛋 化石 的 发现 ， 已 属 世界 罕见
+今年 最 大 的 赛事 当 属 在 法国 进行 的 世界杯赛
+最 尴尬 的 就 属 新党
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to belong to" group="1">
+<commentary>
+</commentary>
+<examples>
+为 唐家河 分 属 六 个 系 的 三十七 只 大 熊猫 建立 的 户籍 管理 档案
+其中 一般 贸易 的 一半 、 来料 加工 的 百分之百 和 外商 投资 企业 的 百分之八十 以上 属 加工 贸易 出口
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be subordinate to, to be within the jurisdiction of" group="1">
+<commentary>
+</commentary>
+<examples>
+不论 塌下 的 斜坡 业权 谁 属 ， 他们 均 向 紧急 救援 队伍 即场 提供 土力 工程 的 专业 意见 和 指导
+国内 贸易部 所 属 中国 糖业 酒类 集团 公司
+国务院 侨办 所 属 中国 海外 交流 协会
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to be born in the year of the (followed by one of the animals in Chinese zodiac signs" group="1">
+<commentary>
+</commentary>
+<examples>
+他 属 马.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="dependent, relative" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="class, category" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="76" ann_1_2_agreement="0.684210526316" />
+</inventory>

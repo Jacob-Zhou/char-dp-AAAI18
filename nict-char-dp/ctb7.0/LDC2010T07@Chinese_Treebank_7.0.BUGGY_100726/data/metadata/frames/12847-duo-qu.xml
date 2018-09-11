@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 夺去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing arg0 takes away by force"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 场)))
+                    (NP (NN 冲突)))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 夺去)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (QP (CD ３４０多))
+                    (NP (NN 人)))
+                    (DEG 的))
+                    (NP (NN 生命)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 场 冲突          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="1">
+                    ３４０多 人 的 生命          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

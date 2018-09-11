@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 冲淡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity diluted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (LCP (NP (NN 朝野))
+                    (LC 间))
+                    (DNP (PP (P 因为)
+                    (NP (NN 总统)
+                    (NN 罢免案)))
+                    (DEG 的))
+                    (NP (NN 对峙)
+                    (NN 状况)))
+                    (VP (ADVP (AD 并没有))
+                    (VP (VV 冲淡)
+                    (ADVP (ADVP (AD 太))
+                    (ADVP (AD 多)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="1">
+                    朝野 间 因为 总统 罢免案 的 对峙 状况          
+                </arg>
+                <arg n="m" f="adv">
+                    并没有          
+                </arg>
+                <arg n="m" f="ext">
+                    太 多          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

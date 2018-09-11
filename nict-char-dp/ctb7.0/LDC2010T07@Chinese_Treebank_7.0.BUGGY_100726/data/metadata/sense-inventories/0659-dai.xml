@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="带-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to have, to bear, to exist" group="1">
+<commentary>
+</commentary>
+<examples>
+带 画中画 功能 的 数字 彩色 电视机
+每 一 滴 眼泪 中 都 带 着 嘴 角 的 微笑
+语气 中 带 着 兴奋
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to lead, to accompany" group="1">
+<commentary>
+</commentary>
+<examples>
+处长 谭惠珠 带 着 访客 参观 公职 司
+写 的 就 是 一 位 带 着 外孙 进 城 里 去 找 女儿 、 新 女婿 的 阿婆
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to carry, to take, to bring" group="1">
+<commentary>
+</commentary>
+<examples>
+每 一 个 家庭 各 带 一 道 菜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="vague about, described briefly" group="1">
+<commentary>
+</commentary>
+<examples>
+不 像 许信良 明确 说 要 保障 到 国民 生产 毛额 的 百分之六 ， 而 是 模糊 带 过
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to bring up, to raise, to rear, to care for" group="1">
+<commentary>
+</commentary>
+<examples>
+一 家 五 口 ， 夫妻 带 三 个 小孩
+法籍 褓母 马汀娜 和 老婆 一样 ， 把 她 当 心肝宝贝 来 疼 ， 而且 带 小孩 还 真
+有一套
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to wear" group="1">
+<commentary>
+</commentary>
+<examples>
+她 应该 是 个 盛装 打扮 的 贵妇 ， 梳 着 发髻 ， 带 着 项圈
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to teach (class)" group="1">
+<commentary>
+</commentary>
+<examples>
+第二 年 带 高雄 成功 启智 学校 戏剧 课 的 卓明 说
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="area, zone" group="1">
+<commentary>
+</commentary>
+<examples>
+所谓 的 “ 无 人 区 ” 就 在 这 一 带 的 千 里 荒原 上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="belt, girdle, band, ribbon" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="as well as" group="1">
+<commentary>
+</commentary>
+<examples>
+连 人 带 船
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="11" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="34" ann_1_2_agreement="0.676470588235" />
+</inventory>

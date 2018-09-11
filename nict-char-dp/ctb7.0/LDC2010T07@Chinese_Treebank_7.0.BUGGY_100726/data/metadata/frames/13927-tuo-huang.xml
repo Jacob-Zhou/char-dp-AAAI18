@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拓荒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VSB (VV 俯首)
+                    (VV 急进))))
+                    (DEC 的)))
+                    (NP (NN 孺子牛)))
+                    (VP (ADVP (AD 奋力))
+                    (VP (VV 拓荒)))) 
+                    
+                </parse>
+                <arg n="0">
+                    俯首急进 的 孺子牛          
+                </arg>
+                <arg n="m" f="adv">
+                    奋力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

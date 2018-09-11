@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闲静 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-HLN (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VA 闲静)))
+                    (VP (VC 亦)
+                    (NP-PRD (ADJP (JJ 好))
+                    (NP (NN 年))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

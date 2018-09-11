@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 仅次于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing that arg0 is only second to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 震级))
+                    (VP (VV 仅次于)
+                    (NP-OBJ (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (NP-TMP (NT １９５０年))
+                    (VP (VV 发生)
+                    (PP-LOC (P 在)
+                    (NP (NP-PN (NR 印度))
+                    (NP (NN 东北部))
+                    (NP-PN (NR 阿萨姆邦)))))))
+                    (DEC 的)))
+                    (NP (QP (CD ８))
+                    (NP (NN 级)))
+                    (ADJP (JJ 大))
+                    (NP (NN 地震))))) 
+                    
+                </parse>
+                <arg n="0">
+                    震级          
+                </arg>
+                <arg n="1">
+                    １９５０年 发生 在 印度 东北部 阿萨姆邦 的 ８ 级 大 地震	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

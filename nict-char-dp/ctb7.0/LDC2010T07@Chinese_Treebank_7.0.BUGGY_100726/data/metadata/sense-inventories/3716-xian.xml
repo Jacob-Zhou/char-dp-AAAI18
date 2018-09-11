@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="现-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to appear, to show, to manifest" group="1">
+<commentary>
+</commentary>
+<examples>
+在 即将 到来 的 一九九九年 ， 让 这 个 严重 污染 的 第三 大 淡水湖 重 现 碧波荡漾 的 美景 ， 进而 在 新 世纪 彻底 告别 污浊
+举行 「 花 开 佛 现 」 和 放 和平鸽 的 仪式
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="current, present, now" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 现 有 保险 公司 二十六 家 ， 境外 保险 公司 在 中国 设立 办事 机构 的 有一百多 家
+中国 电信 （ 香港 ） 现 已 成为 严格 按照 国际 规范 组建 的 境外 上市 公司
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="0.777777777778" />
+</inventory>

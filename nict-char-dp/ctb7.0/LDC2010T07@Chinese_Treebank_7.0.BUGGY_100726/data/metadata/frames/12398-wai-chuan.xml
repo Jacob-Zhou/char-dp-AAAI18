@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 外传 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="news"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 外传)
+                    (IP-OBJ (NP-PN-SBJ (NR 远传))
+                    (VP (ADVP (AD 将))
+                    (PP-MNR (P 以)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 总额))
+                    (VP (ADVP (AD 高))
+                    (VP (VV 达)
+                    (QP-OBJ (CD ２１０亿)
+                    (CLP (M 元))))))
+                    (DEC 的)))
+                    (NP (NN 代价))))
+                    (VP (VV 购并)
+                    (NP-PN-OBJ (NR 泛亚)
+                    (NN 电信))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          	  
+                </arg>
+                <arg n="1">
+                    远传 将 以 总额 高 达 ２１０亿 元 的 代价 购并 泛亚 电信      	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

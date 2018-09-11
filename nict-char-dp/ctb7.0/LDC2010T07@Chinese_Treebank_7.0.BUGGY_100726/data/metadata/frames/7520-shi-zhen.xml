@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 失真 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DNP (NP-PN (NR 琼瑶))
+                    (DEG 的))
+                    (NP (NN 戏)))
+                    (VP (PU 『)
+                    (VV 失真)
+                    (PU 』))) 
+                </parse>
+                <arg n="0">
+                    琼瑶 的 戏 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

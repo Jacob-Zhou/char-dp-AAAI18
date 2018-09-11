@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 急转直下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 紧接着))
+                    (NP-SBJ (NN 形式))
+                    (VP (VV 急转直下))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    紧接着          
+                </arg>
+                <arg n="0">
+                    形式          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

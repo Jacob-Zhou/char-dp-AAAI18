@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 有机可趁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="opportunity"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人口)
+                    (NN 普查))
+                    (VP (VV 有机可趁))) 
+                    
+                </parse>
+                <arg n="1">
+                    人口 普查          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

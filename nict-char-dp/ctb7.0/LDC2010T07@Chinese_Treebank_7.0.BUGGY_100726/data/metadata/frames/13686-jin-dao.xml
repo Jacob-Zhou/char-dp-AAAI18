@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 进到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place entered"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 听到)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 唱名)))))
+                    (NP-SBJ (NN 家属))
+                    (VP (ADVP (AD 一个个))
+                    (VP (VV 进到)
+                    (LCP-OBJ (NP (NN 房间))
+                    (LC 里))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    听到 唱名          
+                </arg>
+                <arg n="0">
+                    家属          
+                </arg>
+                <arg n="m" f="adv">
+                    一个个          
+                </arg>
+                <arg n="1">
+                    房间 里          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

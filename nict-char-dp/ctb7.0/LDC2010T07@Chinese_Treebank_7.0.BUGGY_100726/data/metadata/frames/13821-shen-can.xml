@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 身残 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VP (VCD (VV 身残)
+                    (VV 志坚)))
+                    (PU ，)
+                    (VP (VV 创办)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 在校)
+                    (NN 生))
+                    (VP (QP-PRD (CD １万)
+                    (CLP (M 名))))))
+                    (ADJP (JJ 民办))
+                    (NP (NN 大学))))))
+                    (DEC 的)))
+                    (NP-PN (NR 江西省))
+                    (NP-PN (NR 蓝天)
+                    (NN 职业)
+                    (NN 技术)
+                    (NN 学院))
+                    (NP (NN 院长))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 院长          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

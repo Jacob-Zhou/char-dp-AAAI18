@@ -1,0 +1,13 @@
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 0 5 gold 开幕-v 开幕.01 ----- 5:0-rel 0:2-ARG0
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 1 8 gold 开幕-v 开幕.01 ----- 8:0-rel 0:2-ARG0 5:1-ARGM-TMP 6:1-ARGM-LOC
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 2 3 gold 主持-v 主持.01 ----- 3:0-rel 0:3-ARG0 5:1-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 3 10 gold 努力-v 努力.01 ----- 10:0-rel 8:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 3 12 gold 实现-v 实现.01 ----- 12:0-rel 11:1-ARG0 13:1-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 3 14 gold 一体化-n 一体化.01 ----- 14:0-rel 13:0-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 3 17 gold 摆脱-v 摆脱.01 ----- 17:0-rel 8:1-ARG0 18:4-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 3 20 gold 发达-v 发达.01 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-ADV
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 4 6 gold 一致-v 一致.01 ----- 6:0-rel 3:2-ARG0
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 4 7 gold 对付-v 对付.01 ----- 7:0-rel 3:2-ARG0 8:1-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 4 8 gold 对付-v 对付.01 ----- 8:0-rel 5:1-ARG0 9:1-ARG1
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 4 14 gold 活动-n 活动.01 ----- 14:0-rel 13:0-ARGM-MNR
+nw/xinhua/01/chtb_0171@0171@xinhua@nw@ch@on 4 22 gold 延续-v 延续.01 ----- 22:0-rel 16:2-ARG0 21:1-ARGM-ADV 23:1-ARGM-TMP

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="征-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+欧盟 决定 根据 洛美 协定 从 明年 １月 １日 起 对 不 属于 非洲 、 加勒比 和 太平洋 地区 的 阿富汗 等 九 个 最 不 发达 国家 的 商品 免 征 关税
+清理 欠税 与 税收 返还 、 出口 退税 、 期 初 存货 已 征 税款 的 抵扣 等 工作
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

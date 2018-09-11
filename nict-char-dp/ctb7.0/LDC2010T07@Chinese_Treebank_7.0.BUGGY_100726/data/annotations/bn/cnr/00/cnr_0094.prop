@@ -1,0 +1,15 @@
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 0 5 gold 来临-v 来临.01 ----- 5:0-rel 3:2-ARG0
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 0 10 gold 受到-v 受到.01 ----- 10:0-rel 11:2-ARG1 16:1*8:0*8:1*9:0*9:1-ARG0
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 0 27 gold 亮相-v 亮相.01 ----- 27:0-rel 0:2-ARGM-TPC 3:4-ARGM-TMP 8:3-ARG0 18:1-ARGM-TMP 19:1-ARGM-ADV 20:1-ARGM-LOC 24:1-ARGM-ADV
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 1 4 gold 献上-v 献上.01 ----- 4:0-rel 0:1-ARG0 1:1-ARG2 5:2-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 1 9 gold 融-v 融.02 ----- 9:0-rel 10:1-ARG1 14:1-ARGM-LOC 18:1*7:0*7:1*8:0*8:1-ARG0
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 2 13 gold 直播-v 直播.01 ----- 13:0-rel 0:2-ARG0 8:1-ARGM-ADV 9:1-ARGM-TMP 12:1-ARGM-ADV 14:2-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 3 3 gold 是-v 是.01 ----- 3:0-rel 0:2-ARG0 4:3-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 3 14 gold 组建-v 组建.01 ----- 14:0-rel 5:1-ARG0 6:1-ARGM-LOC 15:0*15:1*27:1*4:0*4:1-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 4 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 4 11 gold 命名-v 命名.01 ----- 11:0-rel 8:1-ARG1 9:1-ARG2 12:0*12:1*15:1*7:0*7:1-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 5 6 gold 宣布-v 宣布.01 ----- 6:0-rel 2:1-ARGM-TMP 5:1-ARG0 7:2-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 5 8 gold 成立-v 成立.01 ----- 8:0-rel 7:1-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 5 23 gold 严格-v 严格.01 ----- 23:0-rel 21:0*21:1*22:0*22:1*25:1-ARG0
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 5 26 gold 完成-v 完成.01 ----- 26:0-rel 0:1-ARG0 1:1-ARGM-TMP 11:1-ARGM-TMP 20:1-ARGM-MNR 28:3-ARG1
+bn/cnr/00/cnr_0094@0094@cnr@bn@ch@on 5 34 gold 投入-v 投入.02 ----- 34:0-rel 0:1-ARG1 1:1-ARGM-TMP 11:1-ARGM-TMP 20:1-ARGM-ADV 33:1-ARGM-ADV 35:2-ARG2

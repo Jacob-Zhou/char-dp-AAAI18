@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 瘦小 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (DP (DT 这)
+                    (CLP (M 名)))
+                    (ADJP (JJ 女))
+                    (NP (NN 学生)))
+                    (NP (NN 体型)))
+                    (VP (ADVP (AD 有些))
+                    (VP (VA 瘦小)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 名 女 学生 体型          
+                </arg>
+                <arg n="m" f="adv">
+                    有些          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 四射 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (IP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 流光异彩)))
+                    (PU 、)
+                    (IP (NP-SBJ (NN 芳香))
+                    (VP (VV 四射)))))
+                    (DEC 的)))
+                    (NP (NN 鲜花))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    *T*-1 -> 鲜花          
+                </arg>
+                <arg n="0" f="pse">
+                    芳香          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

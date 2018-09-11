@@ -1,0 +1,174 @@
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 0 2 gold 来-v 来.05 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 0 3 gold 看看-v 看看.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 5 gold 流血-v 流血.01 ----- 5:0-rel 3:1-ARGM-ADV 4:1-ARGM-ADV 1:0*1:1*2:0*2:1*7:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 9 gold 结束-v 结束.01 ----- 9:0-rel 0:2-ARG0 11:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 16 gold 达-v 达.01 ----- 16:0-rel 15:1-ARGM-ADV 17:1-ARG1 13:0*13:1*14:0*14:1*20:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 29 gold 面临-v 面临.01 ----- 29:0-rel 22:1-ARGM-DIS 25:3-ARG0 28:1-ARGM-ADV 30:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 32 gold 决定-v 决定.01 ----- 32:0-rel 30:1-ARG0 31:1-ARGM-ADV 33:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 46 gold 表示-v 表示.01 ----- 46:0-rel 39:1-ARGM-DIS 40:3-ARG0 45:1-ARGM-ADV 47:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 48 gold 希望-v 希望.02 ----- 48:0-rel 47:1-ARG0 49:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 50 gold 看到-v 看到.01 ----- 50:0-rel 49:1-ARG0 51:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 54 gold 送上-v 送上.02 ----- 54:0-rel 51:1-ARG0 53:1-ARG1 55:1-ARG2
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 61 gold 犯下-v 犯下.01 ----- 61:0-rel 60:1-ARG0 59:0*59:1*62:0*62:1*64:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 66 gold 接受-v 接受.01 ----- 66:0-rel 53:1-ARG0 58:1-ARG1 67:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 85 gold 表示-v 表示.01 ----- 85:0-rel 69:1-ARGM-DIS 70:4-ARG0 84:1-ARGM-DIS 87:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 90 gold 重要-v 重要.01 ----- 90:0-rel 87:1*88:1-ARG0 89:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 92 gold 是-v 是.01 ----- 92:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 94 gold 是-v 是.01 ----- 94:0-rel 87:3-ARG0 95:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 96 gold 要-v 要.05 ----- 96:0-rel 95:1-ARG0 97:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 1 101 gold 下台-v 下台.01 ----- 101:0-rel 100:0*100:1*104:1*99:0*99:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 2 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 2 10 gold 发来-v 发来.01 ----- 10:0-rel 3:5-ARG0 8:1-ARGM-DIR 11:0*11:1*13:1*2:0*2:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 2 gold 下台-v 下台.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 10 gold 带来-v 带来.01 ----- 10:0-rel 0:2-ARGM-ADV 5:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV 8:1-ARG2 11:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 19 gold 建立-v 建立.01 ----- 19:0-rel 14:2-ARG0 18:1-ARGM-ADV 13:0*13:1*21:0*21:1*23:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 20 gold 起来-v 起来.01 ----- 20:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 26 gold 受到-v 受到.01 ----- 26:0-rel 13:3-ARG0 25:1-ARGM-TMP 27:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 35 gold 是-v 是.01 ----- 35:0-rel 34:1-ARG0 36:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 3 39 gold 抨击-v 抨击.01 ----- 39:0-rel 37:1-ARG0 36:0*36:1*40:0*40:1*42:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 7 gold 希望-v 希望.02 ----- 7:0-rel 0:2-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 12 gold 到-v 到.01 ----- 12:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 22 gold 犯下-v 犯下.01 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-LOC 16:0*16:1*23:0*23:1*25:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 27 gold 进行-v 进行.01 ----- 27:0-rel 8:1-ARG0 28:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 33 gold 影响-v 影响.01 ----- 33:0-rel 31:1*32:1*43:1-ARG0 34:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 41 gold 重要-v 重要.01 ----- 41:0-rel 39:1*40:1*43:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 46 gold 可能-v 可能.01 ----- 46:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 47 gold 会-v 会.01 ----- 47:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 48 gold 继续-v 继续.01 ----- 48:0-rel 30:1-ARGM-DIS 31:3-ARG1 49:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 4 49 gold 执行-v 执行.01 ----- 49:0-rel 30:1-ARGM-DIS 31:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 3 gold 认为-v 认为.01 ----- 3:0-rel 0:2-ARG0 5:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 6 gold 希望-v 希望.02 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 8 gold 看到-v 看到.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 12 gold 是-v 是.01 ----- 12:0-rel 5:2-ARG0 13:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 18 gold 犯下-v 犯下.01 ----- 18:0-rel 15:1-ARG0 14:0*14:1*19:0*19:1*21:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 25 gold 是-v 是.01 ----- 25:0-rel 5:2-ARG0 23:1-ARGM-DIS 24:1-ARGM-ADV 26:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 5 32 gold 犯下-v 犯下.01 ----- 32:0-rel 28:1-ARG0 27:0*27:1*33:0*33:1*35:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 7 gold 持有-v 持有.01 ----- 7:0-rel 5:1-ARG0 13:1*4:1*6:1-ARGM-PRP 8:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 14 gold 是-v 是.01 ----- 14:0-rel 4:3-ARG0 16:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 20 gold 控制-v 控制.01 ----- 20:0-rel 16:1-ARGM-ADV 17:2-ARG0 19:1-ARGM-TMP 22:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 33 gold 了解-v 了解.01 ----- 33:0-rel 28:1-ARGM-DIS 29:3-ARG0 32:1-ARGM-ADV 34:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 42 gold 犯下-v 犯下.01 ----- 42:0-rel 35:1-ARG0 36:1-ARGM-LOC 34:0*34:1*43:0*43:1*45:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 47 gold 有-v 有.04 ----- 47:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 6 49 gold 严重-v 严重.01 ----- 49:0-rel 34:3-ARG0 46:1-ARGM-ADV 48:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 6 gold 认为-v 认为.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 14 gold 犯下-v 犯下.01 ----- 14:0-rel 7:1-ARG0 8:1-ARGM-LOC 15:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 18 gold 大-v 大.01 ----- 18:0-rel 17:1-ARGM-ADV 15:0*15:1*16:0*16:1*20:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 24 gold 认为-v 认为.01 ----- 24:0-rel 22:1-ARGM-DIS 23:1-ARG0 26:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 35 gold 让-v 让.02 ----- 35:0-rel 26:1-ARG0 34:1-ARGM-ADV 36:1-ARG1 37:2-ARG2
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 38 gold 卷入-v 卷入.01 ----- 38:0-rel 37:1-ARG1 40:2-ARG2
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 7 53 gold 输掉-v 输掉.01 ----- 53:0-rel 44:1-ARGM-DIS 45:1-ARG0 46:1-ARGM-LOC 52:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 8 8 gold 毁掉-v 毁掉.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 8 20 gold 感到-v 感到.01 ----- 20:0-rel 0:1-ARG0 19:1-ARGM-ADV 21:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 9 3 gold 应该-v 应该.01 ----- 3:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 9 6 gold 下令-v 下令.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 9 8 gold 执行-v 执行.01 ----- 8:0-rel 7:1-ARG0 10:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 9 14 gold 接受-v 接受.01 ----- 14:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-DIS 4:1-ARGM-PRP 15:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 10 9 gold 有-v 有.01 ----- 9:0-rel 0:1-ARGM-DIS 2:1-ARGM-TMP 8:1-ARG0 11:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 10 17 gold 应该-v 应该.01 ----- 17:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 10 19 gold 接受-v 接受.01 ----- 19:0-rel 15:1-ARG0 16:1-ARGM-DIS 18:1-ARGM-ADV 20:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 6 gold 看-v 看.03 ----- 6:0-rel 0:1-ARGM-LOC 5:1-ARG0 9:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 8 gold 到-v 到.01 ----- 8:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 10 gold 要求-v 要求.03 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 24 gold 表示-v 表示.01 ----- 24:0-rel 19:1-ARGM-ADV 20:3-ARG0 23:1-ARGM-DIS 26:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 29 gold 处理-v 处理.02 ----- 29:0-rel 28:1-ARG0 30:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 31 gold 指控-v 指控.01 ----- 31:0-rel 30:1-ARG0 32:1-ARG1 33:2-ARG2
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 34 gold 犯有-v 犯有.01 ----- 34:0-rel 33:1-ARG0 35:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 40 gold 比较-v 比较.01 ----- 40:0-rel 26:1-ARG1 27:1-ARG1 39:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 44 gold 有-v 有.05 ----- 44:0-rel 26:2-ARGM-ADV 42:1-ARG0 45:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 48 gold 大-v 大.01 ----- 48:0-rel 47:1-ARGM-ADV 45:0*45:1*46:0*46:1*50:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 51 gold 要-v 要.07 ----- 51:0-rel 45:3-ARG0 52:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 11 52 gold 解决-v 解决.01 ----- 52:0-rel 45:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:5-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 6 gold 说-v 说.01 ----- 6:0-rel 4:1-ARG0 7:2-ARG1 11:1*3:0*3:1*5:0*5:1-ARGM-PRP
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 12 gold 可能-v 可能.01 ----- 12:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 13 gold 是-v 是.01 ----- 13:0-rel 3:3-ARG0 14:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 16 gold 安慰-v 安慰.01 ----- 16:0-rel 15:1-ARG0 17:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 23 gold 得到-v 得到.01 ----- 23:0-rel 19:1-ARGM-DIS 20:2-ARG0 24:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 36 gold 暗示-v 暗示.01 ----- 36:0-rel 26:1-ARGM-DIS 27:1-ARGM-ADV 32:3-ARG0 38:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 39 gold 可能-v 可能.01 ----- 39:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 40 gold 会-v 会.01 ----- 40:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 12 41 gold 面临-v 面临.01 ----- 41:0-rel 38:1-ARG0 42:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 4 gold 认为-v 认为.01 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-ADV 6:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 10 gold 应该-v 应该.01 ----- 10:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 11 gold 受到-v 受到.01 ----- 11:0-rel 6:3-ARG0 12:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 17 gold 包括-v 包括.01 ----- 17:0-rel 15:1*16:1*25:1-ARG0 18:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 26 gold 认为-v 认为.01 ----- 26:0-rel 14:1-ARGM-DIS 15:3-ARG0 28:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 30 gold 没有-v 没有.02 ----- 30:0-rel 28:1-ARG0 31:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 13 32 gold 干涉-v 干涉.01 ----- 32:0-rel 28:1-ARG0 33:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 14 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 14 6 gold 行-v 行.04 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 14 10 gold 要-v 要.06 ----- 10:0-rel 8:1-ARGM-ADV 9:1-ARG0 11:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 14 11 gold 去-v 去.01 ----- 11:0-rel 8:1-ARGM-ADV 9:1-ARG0 12:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 14 16 gold 去-v 去.01 ----- 16:0-rel 8:1-ARGM-ADV 9:1-ARG0 15:1-ARGM-DIS 17:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 14 18 gold 接受-v 接受.01 ----- 18:0-rel 8:1-ARGM-ADV 9:1-ARG0 15:1-ARGM-ADV 19:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 15 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 15 14 gold 进行-v 进行.01 ----- 14:0-rel 9:1-ARG0 15:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 15 17 gold 适当-v 适当.01 ----- 17:0-rel 15:0*15:1*16:0*16:1*19:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 15 24 gold 应该-v 应该.01 ----- 24:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 15 29 gold 接受-v 接受.01 ----- 29:0-rel 8:1-ARGM-TMP 22:1-ARG0 23:1-ARGM-DIS 25:1-ARGM-LOC 30:5-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 8 gold 就读-v 就读.01 ----- 8:0-rel 7:1-ARG0 11:1*6:0*6:1*9:0*9:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 19 gold 喝-v 喝.01 ----- 19:0-rel 0:3-ARG0 4:1-ARGM-ADV 5:1-ARGM-LOC 21:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 24 gold 说-v 说.01 ----- 24:0-rel 23:1-ARG0 26:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 29 gold 犯下-v 犯下.01 ----- 29:0-rel 28:1-ARG0 27:0*27:1*30:0*30:1*32:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 34 gold 是-v 是.01 ----- 34:0-rel 27:3-ARG0 33:1-ARGM-ADV 35:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 44 gold 是-v 是.01 ----- 44:0-rel 42:1-ARG0 43:1-ARGM-DIS 45:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 51 gold 审判-v 审判.01 ----- 51:0-rel 49:1*50:1-ARG0 52:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 54 gold 应该-v 应该.01 ----- 54:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 16 55 gold 是-v 是.01 ----- 55:0-rel 48:1-ARGM-DIS 49:3-ARG0 56:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 17 1 gold 相信-v 相信.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 17 5 gold 会-v 会.01 ----- 5:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 17 6 gold 理解-v 理解.01 ----- 6:0-rel 2:1-ARG0 4:1-ARGM-ADV 7:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 17 13 gold 犯下-v 犯下.01 ----- 13:0-rel 8:1-ARG0 14:0*14:1*16:1*7:0*7:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 8 gold 能够-v 能够.01 ----- 8:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 9 gold 给-v 给.01 ----- 9:0-rel 4:1-ARGM-DIS 5:3-ARG0 10:1-ARG2 11:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 13 gold 应-v 应.02 ----- 13:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 14 gold 有-v 有.01 ----- 14:0-rel 12:1-ARG0 11:0*11:1*15:0*15:1*17:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 23 gold 应该-v 应该.01 ----- 23:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 26 gold 接受-v 接受.01 ----- 26:0-rel 22:1-ARG0 24:1-ARGM-LOC 27:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 32 gold 拿-v 拿.01 ----- 32:0-rel 29:1-ARGM-DIS 31:1-ARG0 35:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 34 gold 准-v 准.01 ----- 34:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 38 gold 会-v 会.01 ----- 38:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 40 gold 做-v 做.01 ----- 40:0-rel 35:2-ARG0 39:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 48 gold 了解-v 了解.01 ----- 48:0-rel 42:1-ARG0 43:1-ARG1 46:1-ARGM-ADV 47:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 18 54 gold 信任-v 信任.01 ----- 54:0-rel 50:1-ARG0 51:1-ARGM-ADV 52:2-ARGM-ADV 55:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 19 9 gold 宣布-v 宣布.01 ----- 9:0-rel 0:4-ARG0 8:1-ARGM-TMP 11:5-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 19 18 gold 在-v 在.01 ----- 18:0-rel 11:3-ARG0 17:1-ARGM-ADV 19:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 19 24 gold 指责-v 指责.02 ----- 24:0-rel 22:1*25:1-ARG1 26:2-ARG2
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 19 27 gold 企图-v 企图.01 ----- 27:0-rel 26:1-ARG0 28:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 19 29 gold 推翻-v 推翻.01 ----- 29:0-rel 28:1-ARG0 30:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 19 31 gold 取得-v 取得.01 ----- 31:0-rel 30:1-ARG0 32:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 5 gold 有-v 有.05 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 20 gold 签-v 签.01 ----- 20:0-rel 6:2-ARG0 8:1-ARG2 22:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 25 gold 是-v 是.01 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 31 gold 严肃-v 严肃.01 ----- 31:0-rel 28:1*29:1*33:1-ARG0 30:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 36 gold 是-v 是.01 ----- 36:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 41 gold 好-v 好.01 ----- 41:0-rel 40:1-ARGM-ADV 38:0*38:1*39:0*39:1*43:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 44 gold 起草-v 起草.01 ----- 44:0-rel 35:0*35:1*45:0*45:1-ARG1 37:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 50 gold 希望-v 希望.02 ----- 50:0-rel 48:1-ARGM-DIS 49:1-ARG0 51:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 53 gold 能够-v 能够.01 ----- 53:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 20 55 gold 办事-v 办事.01 ----- 55:0-rel 51:1-ARG0 54:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 3 gold 给-v 给.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG2 1:1*5:1*9:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 7 gold 思考-v 思考.01 ----- 7:0-rel 6:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 11 gold 多-v 多.01 ----- 11:0-rel 0:1-ARGM-DIS 1:3-ARG0 10:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 18 gold 有-v 有.01 ----- 18:0-rel 14:1-ARG0 15:1-ARGM-ADV 17:1-ARGM-ADV 19:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 24 gold 是-v 是.01 ----- 24:0-rel 23:1-ARG0 25:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 27 gold 出国-v 出国.01 ----- 27:0-rel 25:1-ARG0 26:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 30 gold 是-v 是.01 ----- 30:0-rel 29:1-ARG0 31:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 21 32 gold 面临-v 面临.01 ----- 32:0-rel 31:1-ARG0 33:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 22 3 gold 驻-v 驻.01 ----- 3:0-rel 4:1-ARG1 1:0*1:1*2:0*2:1*5:1-ARG0
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 22 11 gold 表示-v 表示.01 ----- 11:0-rel 0:3-ARG0 7:1-ARG3 13:4-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 22 18 gold 敦促-v 敦促.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1 20:2-ARG2
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 22 27 gold 保持-v 保持.01 ----- 27:0-rel 13:2-ARG0 15:1-ARGM-ADV 16:1-ARGM-LOC 26:1-ARGM-ADV 28:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 22 43 gold 退让-v 退让.01 ----- 43:0-rel 31:1-ARGM-DIS 32:1-ARG0 35:1-ARGM-LOC 41:1-ARGM-DIS 42:1-ARGM-ADV
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 22 44 gold 下来-v 下来.01 ----- 44:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 3 gold 审判-v 审判.01 ----- 3:0-rel 1:1*2:1*7:1-ARG0 4:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 11 gold 说-v 说.01 ----- 11:0-rel 0:6-ARG0 13:1-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 18 gold 是-v 是.01 ----- 18:0-rel 14:4-ARG0 19:2-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 26 gold 扩大-v 扩大.01 ----- 26:0-rel 19:1-ARG0 21:3-ARG1 28:2-ARG4
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 27 gold 到-v 到.01 ----- 27:0-rel
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 29 gold 包括-v 包括.01 ----- 29:0-rel 28:1-ARG0 30:3-ARG1
+bn/vom/00/vom_0091@0091@vom@bn@ch@on 23 42 gold 犯下-v 犯下.01 ----- 42:0-rel 31:1-ARG0 32:1-ARGM-TMP 37:1-ARGM-LOC 30:0*30:1*43:0*43:1*45:1-ARG1

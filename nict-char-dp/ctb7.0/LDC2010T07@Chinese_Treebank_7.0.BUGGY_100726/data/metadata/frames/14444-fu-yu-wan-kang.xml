@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 负隅顽抗 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 然而))
+                    (NP-SBJ (QP (CD 极少数))
+                    (PU “)
+                    (NP-PN (NR 法轮功))
+                    (PU ”)
+                    (ADJP (JJ 顽固))
+                    (NP (NN 分子)))
+                    (VP (ADVP (AD 仍))
+                    (VP (VP (VV 变本加厉))
+                    (VP (VV 负隅顽抗)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    然而          
+                </arg>
+                <arg n="0">
+                    极少数 “ 法轮功 ” 顽固 分子          
+                </arg>
+                <arg n="m" f="adv">
+                    仍          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 罢工 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (QP (DT 全))
+                    (NP (NN 厂)))
+                    (NP (NN 工人)))
+                    (VP (VV 罢工))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    全 厂 工人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 涂掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing erased/smeared"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 用)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 滴)))
+                    (NP (NN 口水))))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 能)
+                    (VP (BA 把)
+                    (CP-OBJ (IP (NP-SBJ-4 (DNP (NP-PN (NR 中华)
+                    (NN 民国))
+                    (DEG 的))
+                    (NP (NN 国)
+                    (NN 字)))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 涂掉)
+                    (NP-OBJ (-NONE- *-4)))))
+                    (SP 的))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <arg n="1">
+                    中华 民国 的 国 字 -> *-4          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

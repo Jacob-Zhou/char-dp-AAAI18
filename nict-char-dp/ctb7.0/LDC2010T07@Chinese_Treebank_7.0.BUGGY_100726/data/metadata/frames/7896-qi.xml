@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 泣 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity weeping"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (ADJP (JJ 孤))
+                    (NP (NN 岛)))
+                    (VP (VP (VE 有)
+                    (NP-OBJ (NN 情)))
+                    (VP (NP-TMP (ADJP (JJ 长))
+                    (NP (NN 夜)))
+                    (VP (VV 泣))))) 
+                </parse>
+                <arg n="0">
+                    孤 岛 
+                </arg>
+                <arg n="m" f="adv">
+                    长 夜 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

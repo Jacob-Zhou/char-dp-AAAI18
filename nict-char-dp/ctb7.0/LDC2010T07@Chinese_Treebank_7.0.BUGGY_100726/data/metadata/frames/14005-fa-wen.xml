@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 发问 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="inquirer"/>
+        <role argnum="1" argrole="question"/>
+        <role argnum="2" argrole="people asked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 最))
+                    (VP (VA 资浅))))
+                    (DEC 的)))
+                    (NP (NN 参议员)))
+                    (NP-PN (NR 希拉里)))
+                    (VP (VV 发问))) 
+                    
+                </parse>
+                <arg n="0">
+                    最 资浅 的 参议员希拉里          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

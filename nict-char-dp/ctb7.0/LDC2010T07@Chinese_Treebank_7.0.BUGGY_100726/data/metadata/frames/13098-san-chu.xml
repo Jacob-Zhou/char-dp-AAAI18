@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 散出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing spreaded"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TMP (NP-SBJ (-NONE- *pro*))
+                    (VP (VRD (VV 丢)
+                    (VV 完))
+                    (NP-OBJ (NN 鸭蛋))))
+                    (NP-SBJ (NN 民众))
+                    (VP (ADVP (AD 还))
+                    (ADVP (AD 接着))
+                    (VP (VP (VV 散出)
+                    (NP-OBJ (DNP (QP (QP (CD 一)
+                    (CLP (M 叠)))
+                    (QP (CD 一)
+                    (CLP (M 叠))))
+                    (DEG 的))
+                    (NP (NN 冥纸)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    丢 完 鸭蛋          
+                </arg>
+                <arg n="0">
+                    民众          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="m" f="adv">
+                    接着          
+                </arg>
+                <arg n="1">
+                    一 叠 一 叠 的 冥纸          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

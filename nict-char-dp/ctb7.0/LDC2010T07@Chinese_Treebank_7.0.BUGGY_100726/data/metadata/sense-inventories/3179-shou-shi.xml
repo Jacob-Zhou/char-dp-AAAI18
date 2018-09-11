@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="收拾-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to punish, to fix, to torture" group="1">
+<commentary>
+</commentary>
+<examples>
+以前 ， 被 他 收拾 的 拳手 舍尔顿 和 布鲁诺 都 吃 了 这 个 亏
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to tidy up, to clean up, to put in order" group="1">
+<commentary>
+</commentary>
+<examples>
+推土机 和 怪手 已经 进驻 科林纳斯 清理 收拾 罹难者 遗体
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to pack, to get things ready" group="1">
+<commentary>
+</commentary>
+<examples>
+被 叫到 的 便 收拾 行李 ， 然后 被 带到 广场
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

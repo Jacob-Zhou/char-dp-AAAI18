@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 嫁祸 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="victim"/>
+        <role argnum="2" argrole="misdoing/misfortune"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="other" trg="arg2"/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TPC (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VA 小)
+                    (PP (P 至)
+                    (NP (NN 人情交))))
+                    (VP (VA 大)
+                    (PP (P 到)
+                    (NP (DP (DT 这)
+                    (CLP (M 种)))
+                    (NP (NN 诈骗犯)
+                    (NN 案)))))))
+                    (PU ，)
+                    (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 都))
+                    (PP-MNR (P 用)
+                    (NP (DNP (NP-PN (NR 杨易夫))
+                    (DEG 的))
+                    (NP (NN 名字))))
+                    (VP (VRD (VV 嫁祸)
+                    (VV 给))
+                    (NP-PN-OBJ (NR 杨易夫))))) 
+                    
+                </parse>
+                <arg n="2">
+                    小 至 人情交 大 到 这 种 诈骗犯 案          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 杨易夫 的 名字          
+                </arg>
+                <arg n="1">
+                    杨易夫          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

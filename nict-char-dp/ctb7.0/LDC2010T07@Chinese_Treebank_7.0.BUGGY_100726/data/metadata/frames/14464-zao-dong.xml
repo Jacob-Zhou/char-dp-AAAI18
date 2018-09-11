@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 凿洞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 沉仓)
+                    (NN 外壳))
+                    (LC 上)))
+                    (VP (VV 凿洞)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    在 沉仓 外壳 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

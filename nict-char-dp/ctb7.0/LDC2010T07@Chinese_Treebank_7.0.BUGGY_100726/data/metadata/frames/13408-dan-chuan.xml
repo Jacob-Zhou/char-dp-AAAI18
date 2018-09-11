@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 单传 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (PP-TMP (P 从)
+                    (LCP (NP (NN 日军)
+                    (NN 时代))
+                    (LC 开始)))
+                    (ADVP (AD 已经))
+                    (QP-ADV (CD 三)
+                    (CLP (M 代)))
+                    (VP (VV 单传))))
+                    (DEC 的)))
+                    (NP (NP-PN (NR 正岛))
+                    (NP (NN 番刀)
+                    (NN 师傅)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 正岛 番刀 师傅          
+                </arg>
+                <arg n="m" f="tmp">
+                    从 日军 时代 开始          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="m" f="adv">
+                    三 代          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 枯座 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 为了)
+                    (IP (NP-SBJ (NN 转机)
+                    (NN 时间))
+                    (VP (ADVP (AD 太))
+                    (VP (VA 长)))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 就))
+                    (ADVP (AD 不))
+                    (VP (VV 用)
+                    (VP (ADVP (AD 一直))
+                    (VP (VP (VV 枯座))
+                    (VP (VV 等)
+                    (NP-OBJ (NN 飞机))))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    为了 转机 时间 太 长          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="m" f="adv">
+                    一直          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

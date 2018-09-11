@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 展期 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing arg0 postpones"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 以色列))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ-1 (CP-APP (IP (NP-PN-SBJ (NR 以色列))
+                    (VP (PP-DIR (P 对)
+                    (NP (DNP (NP (NN 巴勒斯坦人))
+                    (DEG 的))
+                    (NP (NN 骚乱))))
+                    (PU ，)
+                    (VP (VV 采取)
+                    (NP-OBJ (ADJP (ADVP (AD 更))
+                    (ADJP (JJ 严厉)))
+                    (NP (NN 反击)
+                    (NN 措施))))))
+                    (DEC 的))
+                    (ADJP (JJ 最后))
+                    (NP (NN 期限)))
+                    (VP (VV 展期)
+                    (NP-OBJ (-NONE- *-1)))) 
+                    
+                </parse>
+                <arg n="0">
+                    以色列          
+                </arg>
+                <arg n="1">
+                    以色列 对巴勒斯坦人 的 骚乱 ， 采取 更 严厉 反击 措施 的 最后 期限          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

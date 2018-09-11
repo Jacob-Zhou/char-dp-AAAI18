@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="01317-guan-li-n 管理-n">
+
+
+<commentary>
+
+
+</commentary>
+
+
+
+<sense n="1" type="" name="administration 管理" group="1">
+
+
+<commentary>
+
+
+</commentary>
+
+
+<examples>
+
+
+他负责资金管理。
+
+
+He is responsible for the administration of the fund.
+
+
+
+财政管理
+
+
+fiscal administration
+
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="management 管理, 处理, 经营" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+没有好的管理，生意是不可能做好的。
+
+A business can’t do well without good management.
+
+
+
+行政管理
+
+administrative/executive management
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

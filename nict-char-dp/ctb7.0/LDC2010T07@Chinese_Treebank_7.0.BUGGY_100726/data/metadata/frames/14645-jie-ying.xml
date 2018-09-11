@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接应 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="party that receives assitance"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (QP (CD ７)
+                    (CLP (M 名)))
+                    (NP (NN 大陆)
+                    (NN 渔工)))
+                    (VP (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (ADJP (JJ 小))
+                    (NP (NN 船)))
+                    (VP (VV 接应)
+                    (NP-OBJ (-NONE- *-1)))))
+                    (VP (VV 逃逸)))) 
+                    
+                </parse>
+                <arg n="1">
+                    ７ 名 大陆 渔工 -> *-1          
+                </arg>
+                <arg n="0">
+                    小 船          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

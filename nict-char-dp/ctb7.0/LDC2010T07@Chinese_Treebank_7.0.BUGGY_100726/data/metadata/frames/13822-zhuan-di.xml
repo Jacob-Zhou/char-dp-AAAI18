@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 转抵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="destination"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 暴发)
+                    (NP-OBJ (NN 海上)
+                    (NN 谍嫌案))))
+                    (DEC 的)))
+                    (NP-PN (NR 屏东))
+                    (NP (NP-PN (NR 东港))
+                    (NP (NN 籍)))
+                    (NP (NN 渔船)))
+                    (NP-PN (PU “)
+                    (NR 天红玉)
+                    (NN 号)
+                    (PU ”)))
+                    (VP (PP-TMP (P 在)
+                    (NP (NT 昨天)
+                    (NT 晚上)))
+                    (VP (VV 转抵)
+                    (AS 了)
+                    (NP-PN-OBJ (NR 高雄)))) 
+                    
+                </parse>
+                <arg n="0">
+                    暴发 海上 谍嫌案 的 屏东 东港 籍 渔船 “ 天红玉 号 ”          
+                </arg>
+                <arg n="m" f="tmp">
+                    在昨天晚上          
+                </arg>
+                <arg n="1">
+                    高雄          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

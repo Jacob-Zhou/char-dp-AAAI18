@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 驱散 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 disperses"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警方))
+                    (VP (VV 驱散)
+                    (NP-OBJ (NN 示威)
+                    (NN 人群)))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="1">
+                    示威 人群          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

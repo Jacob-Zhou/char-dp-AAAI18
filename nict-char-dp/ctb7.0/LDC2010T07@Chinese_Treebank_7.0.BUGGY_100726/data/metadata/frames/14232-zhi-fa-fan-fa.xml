@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 知法犯法 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 台北市)
+                    (NN 警察局))
+                    (VP (VP (ADVP (AD 居然))
+                    (VP (VV 知法犯法))) 
+                    
+                </parse>
+                <arg n="0">
+                    台北市 警察局          
+                </arg>
+                <arg n="m" f="adv">
+                    居然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

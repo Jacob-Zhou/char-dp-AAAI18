@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 用好 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 为)
+                    (NP (PN 此)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 要)
+                    (VP (VV 继续)
+                    (VP (VV 用好)
+                    (UCP-OBJ (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 核销)
+                    (NP-OBJ (NN 银行)
+                    (NN 呆坏帐)
+                    (NN 准备金))))
+                    (CC 和)
+                    (NP (DP (DT 其它))
+                    (NP (NN 政策))))))))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    为 此          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    核销 银行 呆坏帐 准备金 和 其它政策          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

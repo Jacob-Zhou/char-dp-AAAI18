@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 说不定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (PN 我)
+                    (NN 先生))
+                    (VP (VV 可能)
+                    (VP (ADVP (AD 搞不好))
+                    (ADVP (AD 就))
+                    (VP (VC 是)
+                    (VP (VP (VV 挤)
+                    (PP (P 在)
+                    (NP (PN 那里))))
+                    (VP (VE 没)
+                    (NP-OBJ (NN 呼吸))))))))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 说不定)))) 
+                    
+                </parse>
+                <arg n="0">
+                    我 先生 可能 搞不好 就 是 挤 在 那里 没 呼吸          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

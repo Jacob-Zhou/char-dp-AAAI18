@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 疏解 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing arg0 solves or relieves"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VP (VV 改善)
+                    (NP-OBJ (NN 环境)))
+                    (VP (VV 促进)
+                    (NP-OBJ (NN 经济)
+                    (NN 发展))))
+                    (PU ，)
+                    (VP (VV 疏解)
+                    (NP-OBJ (NN 民困))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    民困          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 错综 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-4 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-4))
+                    (VP (VCD (VA 错综)
+                    (VA 复杂))))
+                    (DEC 的)))
+                    (NP (NN 难关))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-4 -> 难关          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

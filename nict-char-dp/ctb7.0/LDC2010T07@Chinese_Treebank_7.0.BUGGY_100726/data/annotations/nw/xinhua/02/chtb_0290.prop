@@ -1,0 +1,54 @@
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 0 1 gold 强调-v 强调.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 0 3 gold 要-v 要.03 ----- 3:0-rel
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 0 4 gold 做好-v 做好.01 ----- 4:0-rel 2:1-ARG0 5:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 0 7 gold 工作-n 工作.01 ----- 7:0-rel 2:1-ARG0 4:0-rel-Sup 5:0,6:0-ARGM-LOC
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 16 gold 会见-v 会见.01 ----- 16:0-rel 12:1-ARG0 13:1-ARGM-TMP 14:1-ARGM-LOC 17:3-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 19 gold 出席-v 出席.01 ----- 19:0-rel 20:3-ARG1 17:0*18:0*29:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 27 gold 工作-n 工作.01 ----- 27:0-rel 24:1-ARGM-LOC
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 31 gold 强调-v 强调.01 ----- 31:0-rel 0:3-ARG0 12:3-ARGM-TMP 33:3-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 43 gold 要-v 要.03 ----- 43:0-rel
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 44 gold 着眼-v 着眼.01 ----- 44:0-rel 33:2-ARG0 45:4-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 53 gold 长治久安-n 长治久安.01 ----- 53:0-rel 52:0-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 55 gold 重视-v 重视.01 ----- 55:0-rel 33:2-ARG0 56:2-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 57 gold 做好-v 做好.01 ----- 57:0-rel 56:1-ARG0 58:2-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 2 61 gold 工作-n 工作.01 ----- 61:0-rel 56:1-ARG0 57:0-rel-Sup 58:1-ARGM-LOC
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 1 gold 指出-v 指出.01 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 5 gold 是-v 是.01 ----- 5:0-rel 3:1-ARG0 6:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 8 gold 是-v 是.01 ----- 8:0-rel 3:1-ARG0 9:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 12 gold 是-v 是.01 ----- 12:0-rel 3:1-ARG0 13:3-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 15 gold 保卫-v 保卫.01 ----- 15:0-rel 16:1-ARG1 13:0*14:0*26:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 19 gold 维护-v 维护.01 ----- 19:0-rel 20:1-ARG1 13:0*14:0*26:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 21 gold 统一-n 统一.01 ----- 21:0-rel 20:0-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 29 gold 是-v 是.01 ----- 29:0-rel 3:1-ARG0 30:3-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 32 gold 保持-v 保持.01 ----- 32:0-rel 33:1-ARG1 30:0*31:0*45:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 34 gold 稳定-n 稳定.01 ----- 34:0-rel 31:1*45:1-ARG0 32:0-rel-Sup 33:0-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 36 gold 促进-v 促进.01 ----- 36:0-rel 37:2-ARG1 30:0*31:0*45:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 3 40 gold 建设-n 建设.01 ----- 40:0-rel 37:1,39:0-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 10 gold 要-v 要.03 ----- 10:0-rel
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 12 gold 调动-v 调动.01 ----- 12:0-rel 0:2-ARG0 11:1-ARGM-ADV 13:4-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 26 gold 深化-v 深化.01 ----- 26:0-rel 25:1-ARG0 27:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 27 gold 改革-n 改革.01 ----- 27:0-rel 25:1*0:2-ARG0 26:0-rel-Sup
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 29 gold 促进-v 促进.01 ----- 29:0-rel 25:1-ARG0 30:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 30 gold 发展-n 发展.01 ----- 30:0-rel 25:1-ARG0 29:0-rel-Sup
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 32 gold 保持-v 保持.01 ----- 32:0-rel 25:1-ARG0 33:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 33 gold 稳定-n 稳定.01 ----- 33:0-rel 25:1*0:2-ARG0 32:0-rel-Sup
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 34 gold 做出-v 做出.01 ----- 34:0-rel 0:2-ARG0 24:1-ARGM-PRP 35:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 4 35 gold 贡献-n 贡献.01 ----- 35:0-rel 0:2-ARG0 24:1-ARG2 34:0-rel-Sup
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 2 gold 要-v 要.03 ----- 2:0-rel
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 9 gold 提供-v 提供.01 ----- 9:0-rel 0:2-ARG0 3:1-ARG2 10:3-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 12 gold 可靠-v 可靠.01 ----- 12:0-rel 10:0*11:0*14:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 15 gold 保障-n 保障.01 ----- 15:0-rel 0:2-ARG0 3:1-ARG1 9:0-rel-Sup 11:3-ARGM-MNR 14:0-ARGM-LOC
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 18 gold 参加-v 参加.01 ----- 18:0-rel 0:2-ARG0 17:1-ARGM-ADV 19:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 21 gold 建设-n 建设.01 ----- 21:0-rel 0:2-ARG0 17:1-ARGM-MNR 18:0-rel-Sup 19:0,20:0-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 25 gold 促进-v 促进.01 ----- 25:0-rel 24:1-ARG0 26:4-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 30 gold 繁荣-n 繁荣.01 ----- 30:0-rel 24:1*0:2-ARG0 25:0-rel-Sup 26:2-ARG1 29:1-ARGM-MNR
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 5 33 gold 工作-v 工作.01 ----- 33:0-rel 0:2-ARG0 23:1-ARGM-BNF 32:1-ARGM-ADV
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 1 gold 要-v 要.03 ----- 1:0-rel
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 2 gold 加强-v 加强.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 6 gold 团结-n 团结.01 ----- 6:0-rel 0:1-ARG0 2:0-rel-Sup 3:1-ARG1 5:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 9 gold 做到-v 做到.01 ----- 9:0-rel 0:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 16 gold 呼吸-v 呼吸.01 ----- 16:0-rel 10:1-ARG0 11:1-ARG0 15:1-ARGM-ADV
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 18 gold 共-v 共.01 ----- 18:0-rel 10:1-ARG0 11:1-ARG0 19:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 6 21 gold 心连心-v 心连心.01 ----- 21:0-rel 10:1-ARG0 11:1-ARG0
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 7 20 gold 参加-v 参加.01 ----- 20:0-rel 0:3-ARG0 22:1-ARG1
+nw/xinhua/02/chtb_0290@0290@xinhua@nw@ch@on 8 1 gold 完-v 完.01 ----- 1:0-rel

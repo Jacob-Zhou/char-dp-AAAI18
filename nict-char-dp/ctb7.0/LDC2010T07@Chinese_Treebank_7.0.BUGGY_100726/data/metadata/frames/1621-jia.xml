@@ -1,0 +1,98 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="adder"/>
+        <role argnum="1" argrole="thing added"/>
+        <role argnum="2" argrole="adding to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 未))
+                    (VP (VV 加)
+                    (NP-OBJ (NN 附加值)))))
+                    (DEC 的)))
+                    (NP (NN 药材))) 
+                    
+                </parse>
+                <arg n="2">
+                    *T*-1 	  
+                </arg>
+                <arg n="1">
+                    附加值 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2" edef="add mathematically">
+        <role argnum="0" argrole="adder"/>
+        <role argnum="1" argrole="parts"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (QP-SBJ (CD 两)
+                    (CLP (M 项)))
+                    (VP (ADVP (AD 相))
+                    (VP (VV 加)))) 
+                    
+                </parse>
+                <arg n="1">
+                    两 项 	  
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="activity"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-CND (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 要)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VE 有)
+                    (NP-OBJ (DNP (NP (PN 这样))
+                    (DEG 的))
+                    (NP (NN 战力)))))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 平常))
+                    (VP (VV 要)
+                    (VP (ADVP (AD 多))
+                    (VP (VV 加)
+                    (NP-OBJ (NN 训练)))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    要 有 这样 的 战力	  
+                </arg>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <arg n="m" f="adv">
+                    多	  
+                </arg>
+                <arg n="1">
+                    训练	  
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,91 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 成行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="destination, event"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-Q-OBJ (NP-TPC (CP-APP (IP (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 先前))
+                    (ADVP (AD 无法))
+                    (VP (VV 成行))))
+                    (DEC 的))
+                    (NP (PU 「)
+                    (NP-PN (NR 厦门))
+                    (NP (NN 行))
+                    (PU 」)))
+                    (PU ，)
+                    (NP-SBJ (NN 媒体))
+                    (VP (ADVP-WH (AD 为什麽))
+                    (VP (VV 会)
+                    (VP (VV 知道)
+                    (NP-OBJ (NP (ADJP (JJ 相关))
+                    (NP (NN 机密)))
+                    (NP (NN 内容))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他 	  
+                </arg>
+                <arg n="m" f="adv">
+                    无法 	  
+                </arg>
+                <arg n="m" f="tmp">
+                    先前 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 虽然))
+                    (IP (NP-SBJ (DP (DT 这)
+                    (CLP (M 项)))
+                    (ADJP (JJ 重要))
+                    (NP (NN 会议)
+                    (NN 行程)))
+                    (VP (ADVP (AD 无法))
+                    (PP-MNR (P 按照)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 原定)))
+                    (DEC 的)))
+                    (NP (NN 计划))))
+                    (PP-TMP (P 在)
+                    (NP (NT ２０００年)
+                    (NT 年底)))
+                    (VP (VV 成行))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    虽然	  
+                </arg>
+                <arg n="1">
+                    这 项 重要 会议 行程	  
+                </arg>
+                <arg n="m" f="adv">
+                    无法	  
+                </arg>
+                <arg n="m" f="mnr">
+                    按照 原定 的 计划	  
+                </arg>
+                <arg n="m" f="tmp">
+                    在 ２０００年 年底	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

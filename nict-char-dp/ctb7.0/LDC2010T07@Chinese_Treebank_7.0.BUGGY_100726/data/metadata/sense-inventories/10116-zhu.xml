@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="主-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be in charge of" group="1">
+<commentary>
+</commentary>
+<examples>
+水 主 财
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="primary, main, principal" group="1">
+<commentary>
+</commentary>
+<examples>
+承保 范围 包括 财产 、 责任 、 信用 、 人身 四 大 类 主 、 副 六十多 个 险种
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="the owner, the master, the host" group="1">
+<commentary>
+</commentary>
+<examples>
+养 一 缸 鱼 ， 也 就 成为 许多 业主 的 习惯
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="10" ann_1_2_agreement="0.8" />
+</inventory>

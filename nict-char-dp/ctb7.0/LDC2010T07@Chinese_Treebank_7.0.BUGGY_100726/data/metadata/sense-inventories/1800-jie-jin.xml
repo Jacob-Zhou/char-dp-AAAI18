@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="接近-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="close to" group="1">
+<commentary>
+</commentary>
+<examples>
+据 专家 预测 ， 中国 国民 生产 总值 与 进出口 总额 的 依存度 已 接近 百分之五十
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="similar" group="1">
+<commentary>
+</commentary>
+<examples>
+颜色,气质 接近 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="adjacent" group="1">
+<commentary>
+</commentary>
+<examples>
+天津 外经贸委 官员 说 ， 天津 与 俄罗斯 地缘 接近 ， 贸易 的 互补性 很 强 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="67" ann_1_2_agreement="0.955223880597" />
+</inventory>

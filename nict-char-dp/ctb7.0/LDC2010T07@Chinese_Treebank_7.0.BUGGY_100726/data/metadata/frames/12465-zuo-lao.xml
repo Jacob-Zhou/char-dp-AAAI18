@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 坐牢 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-LOC (NN 白水案))
+                    (VP (VV 包庇)
+                    (NP-PN-OBJ (NR 克林顿))))))
+                    (VP (MSP 而)
+                    (VP (VV 坐牢)))))
+                    (DEC 的)))
+                    (NP (NN 好友))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 ->  好友          
+                </arg>
+                <arg n="m" f="prp">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

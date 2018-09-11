@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 为敌 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party that arg0 treats as an enemy"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 梵蒂冈))
+                    (VP (ADVP (AD 一直))
+                    (PP-ADV (P 与)
+                    (NP (NP-PN (NR 中国))
+                    (NP (NN 人民))))
+                    (VP (VV 为敌))) 
+                    
+                </parse>
+                <arg n="0">
+                    梵蒂冈          	  
+                </arg>
+                <arg n="m" f="adv">
+                    一直          	  
+                </arg>
+                <arg n="1">
+                    与 中国 人民          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

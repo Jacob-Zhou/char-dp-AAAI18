@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 射击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="target"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 陈永顺))
+                    (VP (ADVP (AD 也))
+                    (VP (VP (VSB (VV 开枪)
+                    (VV 射击))) 
+                    
+                </parse>
+                <arg n="0">
+                    陈永顺          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 招摇 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VCP (VV 自称)
+                    (VC 是))
+                    (NP-OBJ (NN 大学生)))
+                    (VP (ADVP (AD 在外))
+                    (VP (VCD (VV 招摇)
+                    (VV 撞骗)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    在外          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

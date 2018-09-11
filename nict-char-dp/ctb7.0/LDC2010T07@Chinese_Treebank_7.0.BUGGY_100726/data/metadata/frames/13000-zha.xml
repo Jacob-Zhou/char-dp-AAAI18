@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扎 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme pricked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VP (ADVP (AD 就))
+                    (PP-DIR (P 从)
+                    (NP (NN 后面)))
+                    (PP-MNR (P 拿)
+                    (NP (NN 刀)))
+                    (VP (VV 刺)
+                    (NP-OBJ (PN 我)
+                    (NN 脖子))))
+                    (PU ，)
+                    (VP (ADVP (AD 然后))
+                    (ADVP (AD 又))
+                    (VP (VP (VV 刺)
+                    (NP-OBJ (PN 我)
+                    (NN 眼睛)))
+                    (PU 、)
+                    (VP (VV 扎)
+                    (NP-OBJ (PN 我) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="tmp">
+                    然后          
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="1">
+                    我 眼睛          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

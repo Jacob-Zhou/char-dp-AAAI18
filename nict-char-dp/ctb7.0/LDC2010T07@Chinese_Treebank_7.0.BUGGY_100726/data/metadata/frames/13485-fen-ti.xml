@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 奋蹄 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (ADVP (AD 不))
+                    (VP (VV 须)
+                    (VP (VV 扬鞭))))
+                    (VP (ADVP (AD 自))
+                    (VP (VV 奋蹄)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="adv">
+                    自          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

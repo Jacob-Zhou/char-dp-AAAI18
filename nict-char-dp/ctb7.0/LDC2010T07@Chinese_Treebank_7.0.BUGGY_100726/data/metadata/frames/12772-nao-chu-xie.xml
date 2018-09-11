@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 脑出血 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 同学)))
+                    (VP (VP (VV 脑出血)) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 同学          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

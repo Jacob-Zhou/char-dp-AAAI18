@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="变-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="(verb) to change into" group="1">
+<commentary>
+</commentary>
+<examples>
+经过 １３ 年 的 开发 建设 ， 文部 １２万 平方公里 的 草原 ， 旧 貌 变 新 颜 。
+的确 ， 在 今天 的 珠江 三角洲 ， 大部分 城市 之间 的 距离 在 时间 概念 上 正 变 得 越来越 短 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="(noun) a change" group="1">
+<commentary>
+</commentary>
+<examples>
+人 心 思 变 之 际
+求 新 求 变
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name=" (noun) an unexpected turn, a major turn of events" group="1">
+<commentary>
+</commentary>
+<examples>
+唐 初 「 玄武门 之 变 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="1.0" />
+</inventory>

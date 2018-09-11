@@ -1,0 +1,16 @@
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 0 7 gold 说-v 说.01 ----- 7:0-rel 1:0-ARGM-ADV 3:3-ARG2 9:3-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 0 10 gold 帮助-v 帮助.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 0 15 gold 是-v 是.01 ----- 15:0-rel 9:2-ARG0 16:3-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 1 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 3:2-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 1 8 gold 是-v 是.01 ----- 8:0-rel
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 1 17 gold 会晤-v 会晤.01 ----- 17:0-rel 11:1-ARG0 12:1-ARG0
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 1 19 gold 发表-v 发表.01 ----- 19:0-rel 7:1-ARG0 9:1-ARGM-LOC 11:3-ARGM-TMP 20:1-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 2 2 gold 表示-v 表示.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-TMP 4:2-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 2 5 gold 欢迎-v 欢迎.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1 7:2-ARG2
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 2 8 gold 决定-v 决定.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 2 10 gold 取消-v 取消.01 ----- 10:0-rel 9:1-ARG0 11:3-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 3 7 gold 说-v 说.01 ----- 7:0-rel 0:1-ARGM-ADV 1:4-ARG0 9:1-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 3 15 gold 参加-v 参加.01 ----- 15:0-rel 10:3-ARG0 13:1-ARGM-ADV 14:1-ARGM-ADV 16:3-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 3 18 gold 成立-v 成立.01 ----- 18:0-rel 17:1-ARG0 19:2-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 4 3 gold 是-v 是.01 ----- 3:0-rel 0:3-ARG0 4:2-ARG1
+bn/vom/00/vom_0038@0038@vom@bn@ch@on 4 5 gold 确保-v 确保.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1

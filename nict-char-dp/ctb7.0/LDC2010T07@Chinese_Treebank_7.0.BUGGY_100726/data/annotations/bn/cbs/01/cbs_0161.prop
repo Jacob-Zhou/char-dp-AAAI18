@@ -1,0 +1,12 @@
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 2 gold 展开-v 展开.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 29 gold 取代-v 取代.01 ----- 29:0-rel 0:1-ARG0 9:1-ARGM-ADV 10:1-ARGM-TMP 14:1-ARGM-MNR 28:1-ARGM-ADV 30:2-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 35 gold 成为-v 成为.01 ----- 35:0-rel 0:1-ARG0 36:2-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 42 gold 用-v 用.01 ----- 42:0-rel 39:1*40:1*45:1-ARG0 41:1-ARGM-ADV 43:1-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 52 gold 非-v 非.01 ----- 52:0-rel 47:1-ARGM-DIS 48:2-ARG0 51:1-ARGM-ADV 53:2-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 54 gold 规定-v 规定.01 ----- 54:0-rel 47:1-ARGM-DIS 48:2-ARG0 51:1-ARGM-ADV 53:1-ARGM-ADV
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 58 gold 要-v 要.06 ----- 58:0-rel 56:1-ARG0 57:1-ARGM-ADV 59:2-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 0 60 gold 看-v 看.01 ----- 60:0-rel 59:1-ARG0 61:3-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 1 8 gold 发行-v 发行.01 ----- 8:0-rel 7:1-ARG0 11:1*6:0*6:1*9:0*9:1-ARG1
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 1 19 gold 上路-v 上路.01 ----- 19:0-rel 17:1-ARG0
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 1 28 gold 可以-v 可以.01 ----- 28:0-rel 15:1-ARGM-ADV 16:1-ARGM-TMP 21:2-ARG0 27:1-ARGM-ADV 29:1-ARGM-ADV
+bn/cbs/01/cbs_0161@0161@cbs@bn@ch@on 1 29 gold 继续-v 继续.01 ----- 29:0-rel 15:1-ARGM-DIS 16:1-ARGM-TMP 21:2-ARG1 27:1-ARGM-ADV 30:1-ARG1

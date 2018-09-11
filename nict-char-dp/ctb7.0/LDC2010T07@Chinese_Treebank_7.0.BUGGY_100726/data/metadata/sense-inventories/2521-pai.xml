@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="派-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to send, to assign" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 政府 予以 高度 重视 ， 将 派 代表团 出席 会议
+派 五 个 人 都 不 够
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="a school, a sect, a fraction, a clique" group="1">
+<commentary>
+</commentary>
+<examples>
+自 各 派 人马 宣布 参选 以来 ， 连 、 扁 、 宋 三 组 候选人 便 在 各 项 民调 中 旗鼓相当
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

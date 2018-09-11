@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 救灾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 国内)
+                    (NN 同胞))
+                    (VP (ADVP (AD 纷纷))
+                    (VP (VV 捐款)
+                    (PU ，)
+                    (VP (VV 投入)
+                    (NP-OBJ (NN 救灾)
+                    (CC 与)
+                    (NN 赈灾)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    国内 同胞          
+                </arg>
+                <arg n="m" f="adv">
+                    纷纷          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

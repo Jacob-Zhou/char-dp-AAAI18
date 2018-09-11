@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 跨年 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-2))
+                    (VP (VV 跨年))))
+                    (DEC 的)))
+                    (DP (DT 那)
+                    (QP (CD 一)))
+                    (NP (NN 刻)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-2 -> 那 一 刻          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

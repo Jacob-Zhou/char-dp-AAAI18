@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 互助 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="parties"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VCD (VV 互助)
+                    (VV 互济)))
+                    (PU 、)
+                    (VP (VCD (VV 扶贫)
+                    (VV 帮困)))))
+                    (DEC 的))
+                    (NP (NN 宗旨))) 
+                </parse>
+                <arg n="0">
+                    *pro* 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

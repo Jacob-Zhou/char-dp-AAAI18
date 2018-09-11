@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 巡查 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity patroled"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-2 (-NONE- *pro*))
+                    (VP (PP-LGS (P 由)
+                    (NP (QP (CD 四)
+                    (CLP (M 名)))
+                    (NP (NN 交警))))
+                    (VP (VP (VP (VV 骑)
+                    (NP-OBJ (NN 摩托车)))
+                    (VP (VV 巡查)
+                    (NP-OBJ (-NONE- *-2)))) 
+                    
+                </parse>
+                <arg n="0">
+                    由 四 名 交警          	  
+                </arg>
+                <arg n="1">
+                    *-2          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

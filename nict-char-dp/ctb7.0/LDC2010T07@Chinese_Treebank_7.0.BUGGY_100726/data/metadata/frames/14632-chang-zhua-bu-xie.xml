@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 长抓不泄 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (NP (NN 长期))
+                    (LC 以来))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NN 党)
+                    (NN 中央))
+                    (NP-PN (NN 国务院)))
+                    (VP (PP-DIR (P 对)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 打击)
+                    (NP-OBJ (NN 假冒)
+                    (NN 伪劣)))))
+                    (VP (VP (ADVP (AD 高度))
+                    (VP (VV 重视)))
+                    (PU ，)
+                    (VP (VV 长抓不泄)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    长期 以来          
+                </arg>
+                <arg n="0">
+                    党 中央 国务院          
+                </arg>
+                <arg n="1">
+                    对 打击 假冒 伪劣          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

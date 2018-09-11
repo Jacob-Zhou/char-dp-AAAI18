@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 珍藏荟翠 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 珍藏荟翠)))
+                    (DEC 的)))
+                    (NP-PN (NR 琉璃厂)
+                    (NN 文化街)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 琉璃厂 文化街          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

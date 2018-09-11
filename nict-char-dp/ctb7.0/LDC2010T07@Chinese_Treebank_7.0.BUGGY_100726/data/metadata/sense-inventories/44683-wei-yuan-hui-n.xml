@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="委员会	44683-wei-yuan-hui-n">
+<commentary>This word has only one sense.</commentary>
+<sense n="1" name="committee, commission, council" group="" type="">
+<commentary></commentary><examples>调查委员会
+committee of enquirey
+
+国家计划委员会
+State Planning Commission.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

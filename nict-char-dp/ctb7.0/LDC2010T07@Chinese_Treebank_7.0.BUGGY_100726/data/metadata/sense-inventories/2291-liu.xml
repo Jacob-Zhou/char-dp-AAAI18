@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="留-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stay, to remain behind" group="1">
+<commentary>
+</commentary>
+<examples>
+几百 名 俄 军队 专家 留 在 拉脱维亚 的 预警 雷达站 和 爱沙尼亚 的 俄 海军 教学 中心
+条例 草案 生效 前 非法 秘密 入境 或 非法 留 港 的 人士
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to keep, to retain, to reserve" group="1">
+<commentary>
+</commentary>
+<examples>
+新型 电脑 病毒 的 研制者 似乎 “ 留 了 一手 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to study overseas" group="1">
+<commentary>
+</commentary>
+<examples>
+谭惠珠 仅 是 澳门 政府 留 台 大专 校友 的 例子 之一
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to leave (e.g. message, impression, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+中年 ， 如 逆流 行舟 ， 勇敢 迎接 挑战 ， 才 能 让 人生 不 留 遗憾
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="16" ann_1_2_agreement="1.0" />
+</inventory>

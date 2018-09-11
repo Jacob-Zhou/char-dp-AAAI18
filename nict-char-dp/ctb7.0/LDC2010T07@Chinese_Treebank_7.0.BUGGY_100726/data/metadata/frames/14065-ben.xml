@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 笨 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 这么))
+                    (VP (VA 笨))))
+                    (DEC 的)))
+                    (NP (NN 歹徒))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 歹徒          
+                </arg>
+                <arg n="m" f="adv">
+                    这么          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

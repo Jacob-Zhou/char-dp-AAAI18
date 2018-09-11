@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 盗用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing embezzled" />
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 嫌犯))
+                    (VP (ADVP (AD 并且))
+                    (VP (VV 盗用)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NN 死者))
+                    (DEG 的))
+                    (NP (NN 信用卡)
+                    (CC 和)
+                    (NN 提款卡)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    嫌犯          
+                </arg>
+                <arg n="m" f="dis">
+                    并且          
+                </arg>
+                <arg n="1">
+                    死者 的 信用卡 和 提款卡          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="摆脱-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to get rid of something or somebody" group="1">
+<commentary>
+</commentary>
+<examples>
+民国 七○年代 ， 三 脚 蟾蜍 摆脱 了 刘海 ， 只身 上市 。
+自从 １９４７年 摆脱 英国 独立 以来 ， 印度 和 巴基斯坦 之间 爆发 的 三 次 战争 有 两 次 是 因为 克什米尔 争端 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to get out of a situation" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 也 需要 反省 如何 将 自己 的 生命 摆脱 开 这些 陷阱 与 困境 。
+纺织 工业 摆脱 困境 的 条件
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="34" ann_1_2_agreement="0.794117647059" />
+</inventory>

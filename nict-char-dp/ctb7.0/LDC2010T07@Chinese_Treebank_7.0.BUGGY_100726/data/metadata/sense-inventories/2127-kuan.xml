@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="宽-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="width" group="1">
+<commentary>
+</commentary>
+<examples>
+桥面 宽 三十三点五 米
+唐朝 的 马球 比赛 ， 竞技者 跨马 奔驰 在 约 七百五十 公尺 长 、 六百 公尺 宽 的 球场 上 ， 互相 举杖 击球 ， 球戏 激烈 异常
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="wide, broad" group="1">
+<commentary>
+</commentary>
+<examples>
+两 岸 文化 交流 的 大门 越来越 宽
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="permissive" group="1">
+<commentary>
+</commentary>
+<examples>
+宽 与 严
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

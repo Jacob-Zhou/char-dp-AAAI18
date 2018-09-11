@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="顶-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to substitute, to replace" group="1">
+<commentary>
+</commentary>
+<examples>
+用 新疆棉 顶 进口棉 出口 的 产品 实行 零税率
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to carry on the top of the head" group="1">
+<commentary>
+</commentary>
+<examples>
+现在 我 的 子女 再 也 不用 顶 着 出身 不 好 这 顶 沉重 的 帽子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="the top (of the head, a thing)" group="1">
+<commentary>
+</commentary>
+<examples>
+六点钟 到达 山 顶 后
+水库 耸立 头 顶
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="classifier for hats, tents, etc" group="1">
+<commentary>
+</commentary>
+<examples>
+也 捐赠 一万 条 毛毯 及 四百 顶 帐棚
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to face, to go against" group="1">
+<commentary>
+</commentary>
+<examples>
+顶 风 违法 违纪 ， 继续 干预 企事业 单位 开立 存款 账户
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="密切-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="close" group="1">
+<commentary>
+</commentary>
+<examples>
+乡下 人际 关系 比较 密切
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="frequent" group="1">
+<commentary>
+</commentary>
+<examples>
+据 透露 ， 今年 辽宁省 同 香港 的 金融 合作 也 将 更加 密切
+由于 邓相扬 与 原住民 族群 往来 密切
+随后 两 国 官员 来往 密切
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="carefully, intently" group="1">
+<commentary>
+</commentary>
+<examples>
+我 国 对于 所国 发生 的 事情 都 密切 注意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="66" ann_1_2_agreement="0.621212121212" />
+</inventory>

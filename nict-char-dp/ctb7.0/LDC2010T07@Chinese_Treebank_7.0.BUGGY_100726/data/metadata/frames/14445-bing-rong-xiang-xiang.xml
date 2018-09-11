@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 兵戎相向 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-ADV (P 和)
+                    (NP (NN 敌军)))
+                    (VP (VV 兵戎相向))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="0" f="crd">
+                    和敌军          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

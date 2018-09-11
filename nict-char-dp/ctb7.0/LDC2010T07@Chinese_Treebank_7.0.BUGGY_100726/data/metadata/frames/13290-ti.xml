@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 踢 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="kicker"/>
+        <role argnum="1" argrole="entity kicked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 用)
+                    (NP (NN 脚)))
+                    (VP (VV 踢)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 脚          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 正本清源 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 打假)))
+                    (VP (VV 必须)
+                    (VP (VP (VV 正本清源)) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    打假          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

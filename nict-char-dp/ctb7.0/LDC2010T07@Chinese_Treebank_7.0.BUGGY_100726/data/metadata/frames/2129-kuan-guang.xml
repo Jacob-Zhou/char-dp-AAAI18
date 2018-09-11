@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 宽广 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TPC (NN 编钟))
+                    (NP-SBJ (NN 音域))
+                    (VP (VP (VA 宽广))
+                    (PU ，)
+                    (VP (VV 跨)
+                    (NP-OBJ (QP (CD 六)
+                    (CLP (M 个)))
+                    (QP (CD 八)
+                    (CLP (M 度)))
+                    (NP (NN 音程)))))) 
+                </parse>
+                <arg n="0" f="pse">
+                    音域 
+                </arg>
+                <arg n="0" f="psr">
+                    编钟 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 凶 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (PP-DIR (P 对于)
+                    (NP-PN (NR 唐飞)))
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 本来))
+                    (VP (VP-FOC (VV 批评))
+                    (VP (ADVP (AD 最))
+                    (VP (VA 凶))))))
+                    (DEC 的)))
+                    (NP-PN (NR 民进党))
+                    (NP (NN 秘书长))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    对于 唐飞          
+                </arg>
+                <arg n="0">
+                    *T*-1 -> 秘书长          
+                </arg>
+                <arg n="0" f="prd">
+                    批评          
+                </arg>
+                <arg n="m" f="adv">
+                    本来          
+                </arg>
+                <arg n="m" f="adv">
+                    最          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

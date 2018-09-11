@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="具-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to have, to possess" group="1">
+<commentary>
+</commentary>
+<examples>
+这 一 公约 将 使 意大利 在 未来 的 欧元区 中 更 具 竞争力
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="classifier for an instrument, machine, corpse, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+年 政府 也 预定 将 昔时 审讯 处决 白色 恐怖 犯人 的 马场町 （ 位于 台北 青年 公园 附近 ） ， 以及 曾 挖出 二百多 具 罹难者 尸首 的 台北 六张犁 附近 的 公墓 ， 设计 为 纪念 公园 和 纪念 公墓 ， 以 志 亡魂 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="tool, implement, instrument, utensil" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

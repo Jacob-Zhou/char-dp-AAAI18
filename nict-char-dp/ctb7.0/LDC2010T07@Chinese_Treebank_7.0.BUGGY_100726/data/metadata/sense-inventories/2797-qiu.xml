@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="求-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to try for, to work for, to strive for" group="1">
+<commentary>
+</commentary>
+<examples>
+符合 各 国 人民 要 和平 、 求 发展 、 谋 稳定 、 促 合作 的 时代 主流
+实现 经济 稳 中 求 进 的 目标
+今年 广州市 国民 经济 社会 发展 的 主要 目标 是 ， 稳 中 求 快 ， 紧 中 搞活 ， 加强 管理 ， 有效 增长
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to look for, to seek, to search, to demand" group="1">
+<commentary>
+</commentary>
+<examples>
+汉代 的 神仙 境界 朝气蓬勃 ， 求 仙 思想 创造 出 许多 想像 丰富 的 神话
+半 年 前 回国 担任 《 英文 中国 日报 》 总编辑 的 阮次山 说 ， 英文报 最 大 问题 正 是 「 一 将 难 求 」
+只要 双方 在 相互 尊重 、 平等 相 待 、 求 同 存 异 的 基础 上 ， 通过 对话 而不是 对抗 解决 分歧
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to beg (someone to do something), to beg for, to beseech" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

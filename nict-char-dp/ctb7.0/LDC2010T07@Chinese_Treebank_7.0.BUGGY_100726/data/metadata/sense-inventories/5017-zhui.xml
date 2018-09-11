@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="追-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to pursue, to chase after" group="1">
+<commentary>
+</commentary>
+<examples>
+保持 追 梦 的 行动力
+甚至 有 人 因 没有 行动 电话 ， 被 嫌 不 上道 而 追 不 到 女 朋友
+只是 台湾 业者 以往 可能 要 费时 多 年 才 能 摸索 清楚 ， 而 现在 台湾 和 欧 美 纺织业 的 距离 越 追 越 小 ， 国外 新 产品 问世 不过 两 、 三 年 ， 国内 紧跟 着 就 做 出来 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to follow" group="1">
+<commentary>
+</commentary>
+<examples>
+像 他 追 了 十 年 的 一 位 日本 医生 ―― 井上一 的 故事 ， 就 是 其中 之一
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

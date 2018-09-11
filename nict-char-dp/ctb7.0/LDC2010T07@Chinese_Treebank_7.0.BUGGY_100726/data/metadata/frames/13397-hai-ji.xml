@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 害己 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (PP-PRP (P 为了)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VCD (VV 抢快)
+                    (VV 抢过)))))
+                    (PU ，)
+                    (VP (VCD (VV 害人)
+                    (VV 害己))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <arg n="m" f="prp">
+                    为了 抢快 抢过          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

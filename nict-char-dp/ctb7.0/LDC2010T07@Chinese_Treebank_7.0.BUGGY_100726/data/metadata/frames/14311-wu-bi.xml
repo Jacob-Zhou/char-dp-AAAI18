@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 无比 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-4 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-4))
+                    (VP (VA 无比)))
+                    (DEC 的)))
+                    (NP (NN 语文)
+                    (NN 才华))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-4 -> 语文 才华          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

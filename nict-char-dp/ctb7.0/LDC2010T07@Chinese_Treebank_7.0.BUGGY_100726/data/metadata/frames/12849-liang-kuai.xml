@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 凉快 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 天气))
+                    (VP (ADVP (AD 比较))
+                    (VP (VA 凉快)))) 
+                    
+                </parse>
+                <arg n="0">
+                    天气          
+                </arg>
+                <arg n="m" f="adv">
+                    比较          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="experiencer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 而))
+                    (VP (VC 是)
+                    (VP (VP (VV 到)
+                    (NP-OBJ (PN 这里)))
+                    (VP (VV 来)
+                    (VP (VV 凉快))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+     
+</verb>

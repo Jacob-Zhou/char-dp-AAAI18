@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="加入-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to join, to take part in" group="1">
+<commentary>
+</commentary>
+<examples>
+在 中国 加入 世界 贸易 组织 的 问题 上
+加入 的 传销商 算是 「 独立 经营者 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to add, to put in" group="1">
+<commentary>
+</commentary>
+<examples>
+在 原先 的 有氧 舞蹈 中 加入 武术 、 踏板 、 拉丁舞 、 哑铃 等 道具 ， 增加 不同 肌肉 的 运动量
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="186" ann_1_2_agreement="0.978494623656" />
+</inventory>

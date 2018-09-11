@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="提-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to mention, to bring up" group="1">
+<commentary>
+</commentary>
+<examples>
+慢慢 的 老人家 才 愿意 重 提 禁忌 的 往事
+值得 一 提 的 是 ， 顺益 博物馆 的 财源 支助 顺益 企业 与 博物馆 的 形象 已 有 相当 程度 的 结合
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to put forward, to propose (e.g. suggestions, questions, proposal, motion, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 千岛湖 事件 ” 发生 以来 ， 海协 依据 协议 向 海基会 通报 了 情况 ， 解释 并回答 海基会 所 提 的 若干 问题 与 要求
+立法院 对 行政 院长 提 不信任案 或 解散 立法院 、 及 立法院 通过 兴建 电厂 相关 法案 等 三 种 解套 方案
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to lift, to raise" group="1">
+<commentary>
+</commentary>
+<examples>
+将 演讲费 提 得 很 高 ， 希望 能 多 赚 点 钱 挹注 学校
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to carry" group="1">
+<commentary>
+</commentary>
+<examples>
+连 上街 买 块 猪肉 都 得 提 一 麻袋 钞票
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="34" ann_1_2_agreement="0.794117647059" />
+</inventory>

@@ -1,0 +1,22 @@
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 0 6 gold 通车-v 通车.01 ----- 6:0-rel 0:3-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 0 11 gold 是-v 是.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-DIS 12:2-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 1 4 gold 开通-v 开通.01 ----- 4:0-rel 2:1-ARGM-ADV 0:0*0:1*12:1*1:0*1:1-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 1 15 gold 起-v 起.02 ----- 15:0-rel 0:3-ARG0 14:1-ARG0 16:2-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 1 22 gold 至-v 至.01 ----- 22:0-rel 0:3-ARG0 21:1-ARG0 23:1-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 1 25 gold 贯穿-v 贯穿.01 ----- 25:0-rel 0:3-ARG0 26:2-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 3 1 gold 利用-v 利用.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1 10:1-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 4 2 gold 设有-v 设有.01 ----- 2:0-rel 0:1-ARG2 1:1-ARGM-ADV 3:2-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 4 11 gold 为-v 为.01 ----- 11:0-rel 7:1-ARGM-LOC 8:2-ARG0 12:2-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 4 gold 经过-v 经过.01 ----- 4:0-rel 1:2-ARG0 0:0*0:1*5:0*5:1*7:1-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 9 gold 是-v 是.01 ----- 9:0-rel 0:3-ARG0 8:1-ARGM-ADV 10:2-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 14 gold 集中-v 集中.02 ----- 14:0-rel 13:1-ARG0 11:0*11:1*12:0*12:1*21:1-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 19 gold 便利-v 便利.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-ADV 18:1-ARGM-ADV 11:0*11:1*12:0*12:1*21:1-ARG0
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 24 gold 通车-v 通车.01 ----- 24:0-rel 23:1-ARG0
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 32 gold 可以-v 可以.01 ----- 32:0-rel
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 37 gold 来到-v 来到.01 ----- 37:0-rel 23:3-ARGM-TMP 26:1-ARG0 27:1-ARGM-TMP 31:1-ARGM-ADV 33:1-ARG2 38:1-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 5 41 gold 成为-v 成为.01 ----- 41:0-rel 40:1-ARG0 42:5-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 6 3 gold 投入-v 投入.02 ----- 3:0-rel 4:1-ARG2
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 6 12 gold 增加-v 增加.02 ----- 12:0-rel 0:1-ARGM-TMP 6:3-ARG1 11:1-ARGM-ADV 14:2-ARG2
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 6 13 gold 到-v 到.01 ----- 13:0-rel
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 6 18 gold 位居-v 位居.01 ----- 18:0-rel 0:1-ARGM-ADV 6:3-ARG0 19:4-ARG1
+bn/ctv/01/ctv_0151@0151@ctv@bn@ch@on 7 4 gold 报道-v 报道.01 ----- 4:0-rel 0:2-ARG0

@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 排到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="ranking"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 排到)
+                    (NP-OBJ (DNP (NP (DP (DT 这)
+                    (CLP (M 项)))
+                    (NP (NN 评比)))
+                    (DEG 的))
+                    (QP (OD 第七))
+                    (NP (NN 名))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *PRO*          
+                </arg>
+                <arg n="2">
+                    这 项评比 的 第七 名          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

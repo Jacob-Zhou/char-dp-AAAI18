@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逃生无门 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 由于)
+                    (IP (NP-SBJ (QP (CD ４)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (VV 住)
+                    (PP (P 在)
+                    (NP (NP (QP (OD ３))
+                    (NP (NN 楼)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-MNR (NN 铁皮))
+                    (VP (VV 加盖)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (NP (NN 房间)))))))
+                    (PU ，)
+                    (IP-ADV (NP-SBJ (NN 火苗))
+                    (VP (ADVP (AD 向上))
+                    (VP (VV 窜烧))))
+                    (NP-SBJ-4 (QP (CD ４)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (VP (VV 逃生无门)) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    由于 ４ 个 人 住 在 ３ 楼 铁皮 加盖 的 房间          
+                </arg>
+                <arg n="m" f="adv">
+                    火苗 向上 窜烧          
+                </arg>
+                <arg n="0">
+                    ４ 个 人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

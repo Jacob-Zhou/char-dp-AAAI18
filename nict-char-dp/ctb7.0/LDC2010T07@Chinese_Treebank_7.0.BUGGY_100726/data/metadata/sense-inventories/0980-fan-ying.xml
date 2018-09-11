@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="反应-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to reflect" group="1">
+<commentary>
+</commentary>
+<examples>
+它 反应 了 香港 足球 衰落 的 现实
+台湾 民众 的 消费 行为 ， 反应 出 什么样 的 社会 变迁
+这些 省下 的 成本 都 反应 在 商品 售价
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to respond, to answer, response" group="1">
+<commentary>
+</commentary>
+<examples>
+近年 来 ， 由於 许多 已婚 女性 反应 ， 传统 的 年夜饭 都 要 在 夫家 吃
+选民 对 候选人 乱 说话 都 直接 反应
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="(noun, in chemistry, physiology) reaction, behavior" group="1">
+<commentary>
+</commentary>
+<examples>
+在 微阵列 晶片 上 做 杂交 反应
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="(noun) response" group="1">
+<commentary>
+</commentary>
+<examples>
+引起 巨大 反应
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="26" ann_1_2_agreement="0.615384615385" />
+</inventory>

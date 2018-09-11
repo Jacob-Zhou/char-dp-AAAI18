@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="净-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+原 是 国中 老师 、 尔後 转战 省 议员 、 国大 代表 ， 现 任 民进党 立法 委员 的 曹启鸿 ， 带 著 林边乡 民主 促进会 一 群 支持者 ， 开始 扫 街 、 净 滩 、 净 溪 的 活动
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

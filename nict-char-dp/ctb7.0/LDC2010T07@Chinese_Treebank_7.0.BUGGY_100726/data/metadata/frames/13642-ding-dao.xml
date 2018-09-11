@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 顶到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-PN (NR 台北))
+                    (NP (NN 市中心)))
+                    (DEG 的))
+                    (NP-PN (NR 元集街)))
+                    (VP (NP-TMP (NT 过去))
+                    (VP (VV 顶到)))) 
+                    
+                </parse>
+                <arg n="0">
+                    台北 市中心 的 元集街          
+                </arg>
+                <arg n="m" f="tmp">
+                    过去          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

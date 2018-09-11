@@ -1,0 +1,33 @@
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 0 4 gold 召开-v 召开.01 ----- 4:0-rel 0:1*13:1*1:1-ARG1 2:1-ARGM-LOC
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 0 15 gold 落下-v 落下.01 ----- 15:0-rel 0:3-ARG0 14:1-ARGM-TMP 16:1-ARG0
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 0 20 gold 达成-v 达成.01 ----- 20:0-rel 18:1-ARGM-LOC 19:1-ARGM-ADV 21:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 0 28 gold 与会-v 与会.01 ----- 28:0-rel 26:0*26:1*27:0*27:1*30:1-ARG0
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 0 31 gold 同意-v 同意.02 ----- 31:0-rel 25:1-ARGM-DIS 26:3-ARG0 32:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 0 34 gold 进行-v 进行.01 ----- 34:0-rel 32:1-ARG0 33:1-ARGM-ADV 35:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 2 gold 与会-v 与会.01 ----- 2:0-rel 0:0*0:1*10:1*1:0*1:1-ARG0
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 12 gold 认为-v 认为.01 ----- 12:0-rel 0:3-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 14 gold 应-v 应.02 ----- 14:0-rel
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 15 gold 重开-v 重开.01 ----- 15:0-rel 13:1-ARG0 16:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 24 gold 表示-v 表示.01 ----- 24:0-rel 21:3-ARG0 26:4-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 31 gold 存在-v 存在.01 ----- 31:0-rel 28:1*29:1*33:1-ARG1 30:1-ARGM-TMP
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 35 gold 大-v 大.01 ----- 35:0-rel 26:2-ARG0 34:1-ARGM-ADV
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 39 gold 希望-v 希望.02 ----- 39:0-rel 37:1-ARGM-DIS 38:1-ARG0 40:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 48 gold 达成-v 达成.01 ----- 48:0-rel 40:1-ARG0 42:1-ARGM-TMP 49:1-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 57 gold 暗示-v 暗示.01 ----- 57:0-rel 51:1-ARGM-ADV 53:3-ARG0 58:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 60 gold 准备-v 准备.02 ----- 60:0-rel 58:2-ARG0 61:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 62 gold 放弃-v 放弃.01 ----- 62:0-rel 61:1-ARG0 63:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 66 gold 位于-v 位于.01 ----- 66:0-rel 67:2-ARG1 64:0*64:1*65:0*65:1*69:1-ARG0
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 1 77 gold 达成-v 达成.01 ----- 77:0-rel 58:2-ARG0 73:1-ARGM-DIS 74:1-ARG0 78:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 2 8 gold 召开-v 召开.01 ----- 8:0-rel 3:1-ARG0 4:1-ARG0 11:1*2:1*9:1-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 2 14 gold 说-v 说.01 ----- 14:0-rel 0:1-ARG0 1:1-ARGM-LOC 15:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 2 20 gold 控制-v 控制.01 ----- 20:0-rel 15:1-ARG0 16:1-ARGM-ADV 17:1-ARGM-ADV 18:1-ARGM-ADV 19:1-ARGM-ADV 22:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 2 28 gold 主张-v 主张.01 ----- 28:0-rel 27:1-ARG0 29:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 2 32 gold 承认-v 承认.01 ----- 32:0-rel 29:1-ARG0 30:1-ARGM-MNR 33:1-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 2 37 gold 保留-v 保留.01 ----- 37:0-rel 29:1-ARG0 36:1-ARGM-ADV 38:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 3 4 gold 让步-v 让步.01 ----- 4:0-rel 2:1-ARG0 1:1*3:1*6:1-ARGM-MNR
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 3 11 gold 坚持-v 坚持.01 ----- 11:0-rel 0:1-ARGM-ADV 8:3-ARG0 12:2-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 3 13 gold 要-v 要.04 ----- 13:0-rel 12:1-ARG0 14:1-ARG1 15:2-ARG2
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 3 16 gold 放弃-v 放弃.01 ----- 16:0-rel 15:1-ARG0 17:3-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 3 19 gold 包括-v 包括.01 ----- 19:0-rel 17:1*18:1*30:1-ARG0 20:6-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 3 22 gold 返回-v 返回.01 ----- 22:0-rel 20:2-ARG0 23:1-ARG1
+bn/ctv/01/ctv_0149@0149@ctv@bn@ch@on 4 2 gold 报道-v 报道.01 ----- 2:0-rel 0:1-ARG0

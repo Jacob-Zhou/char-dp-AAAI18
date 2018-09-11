@@ -1,0 +1,41 @@
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 0 7 gold 面世-v 面世.01 ----- 7:0-rel 0:2-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 2 8 gold 轰动-v 轰动.01 ----- 8:0-rel 2:1-ARGM-MNR 9:1-ARG1 0:0*1:0*12:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 2 21 gold 发现-v 发现.01 ----- 21:0-rel 20:1-ARG0 19:0*22:0*27:1-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 2 34 gold 公之于世-v 公之于世.01 ----- 34:0-rel 0:3-ARG0 15:1-ARGM-TMP 16:1-ARGM-LOC 19:4-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 3 6 gold 酷似-v 酷似.01 ----- 6:0-rel 0:2-ARG0 3:1-ARG0 7:2-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 4 2 gold 是-v 是.01 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 4 8 gold 清晰-v 清晰.01 ----- 8:0-rel 7:1-ARGM-ADV 5:0*6:0*15:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 3 gold 高耸-v 高耸.01 ----- 3:0-rel 0:1-ARG0 1:2-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 6 gold 凹陷-v 凹陷.01 ----- 6:0-rel 0:1-ARG0 5:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 10 gold 突出-v 突出.01 ----- 10:0-rel 0:1-ARG1 8:1-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 13 gold 犹如-v 犹如.01 ----- 13:0-rel 12:1-ARG0 14:2-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 18 gold 挺-v 挺.01 ----- 18:0-rel 19:1-ARG1 16:0*17:0*26:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 20 gold 鼓-v 鼓.01 ----- 20:0-rel 21:1-ARG0 16:0*17:0*26:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 23 gold 引颈-v 引颈.01 ----- 23:0-rel 16:0*17:0*26:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 24 gold 长鸣-v 长鸣.01 ----- 24:0-rel 16:0*17:0*26:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 41 gold 是-v 是.01 ----- 41:0-rel 28:2-ARG0 34:1-ARGM-LOC 42:2-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 46 gold 狭长-v 狭长.01 ----- 46:0-rel 44:0*45:0*48:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 58 gold 是-v 是.01 ----- 58:0-rel 52:3-ARG0 59:3-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 5 61 gold 圆圆-v 圆圆.01 ----- 61:0-rel 59:0*60:0*63:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 6 12 gold 一致-v 一致.01 ----- 12:0-rel 0:4-ARG0 7:1-ARG0 11:1-ARGM-ADV
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 7 6 gold 酷似-v 酷似.01 ----- 6:0-rel 0:2-ARG0 3:1-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 8 2 gold 说-v 说.01 ----- 2:0-rel 0:1-ARG0 4:4-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 8 7 gold 是-v 是.01 ----- 7:0-rel 4:2-ARG0 8:3-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 8 23 gold 拣到-v 拣到.01 ----- 23:0-rel 9:1-ARG0 10:2-ARGM-TMP 13:1-ARGM-LOC 8:0*24:0-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 8 29 gold 回家-v 回家.01 ----- 29:0-rel 28:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 8 32 gold 端祥-v 端祥.01 ----- 32:0-rel 27:1-ARG0 28:3-ARGM-TMP 31:1-ARGM-ADV
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 8 34 gold 发现-v 发现.01 ----- 34:0-rel 27:1-ARG0 36:4-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 6 gold 发现-v 发现.01 ----- 6:0-rel 0:2-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV 8:3-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 22 gold 盘踞-v 盘踞.01 ----- 22:0-rel 9:1-ARG1 14:1-ARG1 24:2-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 29 gold 衔-v 衔.01 ----- 29:0-rel 28:1-ARG0 30:1-ARG1 26:0*27:0*33:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 41 gold 有-v 有.03 ----- 41:0-rel 35:1-ARG0 36:1-ARGM-LOC 42:2-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 46 gold 形似-v 形似.01 ----- 46:0-rel 47:1-ARG1 44:0*45:0*50:1-ARG0
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 57 gold 有-v 有.05 ----- 57:0-rel 52:1-ARG0 53:1-ARGM-LOC 58:3-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 64 gold 象征-v 象征.01 ----- 64:0-rel 58:2-ARG0 66:3-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 70 gold 熄灭-v 熄灭.01 ----- 70:0-rel 68:1-ARGM-ADV 69:1-ARGM-ADV 66:0*67:0*77:1-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 81 gold 加上-v 加上.01 ----- 81:0-rel 79:1-ARG0 80:1-ARGM-ADV 82:3-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 84 gold 形似-v 形似.01 ----- 84:0-rel 82:2-ARG0 85:1-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 9 89 gold 计-v 计.01 ----- 89:0-rel 87:1-ARG0 88:1-ARGM-ADV 90:2-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 10 3 gold 命名-v 命名.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-MNR 4:2-ARG1 6:2-ARG2
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 10 7 gold 为-v 为.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+nw/xinhua/02/chtb_0262@0262@xinhua@nw@ch@on 11 1 gold 完-v 完.01 ----- 1:0-rel

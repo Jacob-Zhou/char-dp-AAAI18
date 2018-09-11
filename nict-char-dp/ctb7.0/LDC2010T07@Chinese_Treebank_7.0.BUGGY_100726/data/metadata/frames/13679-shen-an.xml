@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 审案 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="judge"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 有案在身)))
+                    (DEC 的)))
+                    (NP (NN 法官)))
+                    (VP (VV 继续)
+                    (VP (VV 审案)))) 
+                    
+                </parse>
+                <arg n="0">
+                    有案在身 的 法官          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

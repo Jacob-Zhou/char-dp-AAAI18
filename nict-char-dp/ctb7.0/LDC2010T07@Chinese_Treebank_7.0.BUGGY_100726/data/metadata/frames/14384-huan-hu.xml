@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 欢呼 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (PP-PRP (P 为)
+                    (NP (NP-PN (NR 塞尔维亚))
+                    (DNP (NP (NN 自由))
+                    (DEG 的))
+                    (NP (NN 胜利))))
+                    (VP (MSP 而)
+                    (VP (VV 欢呼))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="prp">
+                    为 塞尔维亚 自由 的 胜利          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

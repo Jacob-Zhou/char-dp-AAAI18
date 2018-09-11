@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 刺死 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity killed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 少年)))
+                    (VP (ADVP (AD 当场))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 水果刀))
+                    (VP (VV 刺死)
+                    (NP-OBJ (-NONE- *-1))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    一 名 少年 -> *-1          
+                </arg>
+                <arg n="m" f="adv">
+                    当场          
+                </arg>
+                <arg n="0">
+                    水果刀          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

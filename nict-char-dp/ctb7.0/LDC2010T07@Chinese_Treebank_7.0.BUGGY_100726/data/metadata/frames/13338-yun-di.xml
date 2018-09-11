@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 运抵 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity transported"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NP (NP-PN (NR 美国))
+                    (NP-PN (PU “)
+                    (NR 库勒号)
+                    (PU ”)
+                    (NN 军舰)))
+                    (NP (NN 爆炸)
+                    (NN 事件)))
+                    (LC 中)))
+                    (VP (VV 丧生))))
+                    (DEC 的)))
+                    (QP (CD ５)
+                    (CLP (M 名)))
+                    (NP (NN 船员)))
+                    (DEG 的))
+                    (NP (NN 遗体)))
+                    (VP (NP-TMP (NT １４号))
+                    (PP-DIR (P 从)
+                    (NP-PN (NR 德国)))
+                    (VP (VV 运抵)
+                    (NP-OBJ (DNP (NP-PN (NR 美国)
+                    (NR 德拉维尔))
+                    (DEG 的))
+                    (NP-PN (NR 丹佛)
+                    (NN 空军)
+                    (NN 基地))))) 
+                    
+                </parse>
+                <arg n="1">
+                    在 美国 “ 库勒号 ” 军舰 爆炸 事件 中 丧生 的 ５ 名 船员 的 遗体          
+                </arg>
+                <arg n="m" f="tmp">
+                    １４号          
+                </arg>
+                <arg n="m" f="dir">
+                    从 德国          
+                </arg>
+                <arg n="2">
+                    美国 德拉维尔 的 丹佛 空军 基地          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 邀集 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="inviter"/>
+        <role argnum="1" argrole="invitee"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 台湾)
+                    (NN 证券)
+                    (NN 交易所))
+                    (VP (PP-TMP (P 于)
+                    (NP (NT 明天)
+                    (NT 上午)))
+                    (ADVP (AD 将))
+                    (VP (VV 邀集)
+                    (NP-OBJ (QP (CD ２５)
+                    (CLP (M 家)))
+                    (ADJP (JJ 重量级))
+                    (NP (NN 上市)
+                    (NN 上柜))
+                    (NP (NN 公司)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 交换)
+                    (NP-OBJ (NN 意见))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    台湾证券 交易所          
+                </arg>
+                <arg n="m" f="tmp">
+                    于 明天 上午          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="1">
+                    ２５ 家 重量级 上市 上柜公司          
+                </arg>
+                <arg n="2">
+                    交换 意见          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

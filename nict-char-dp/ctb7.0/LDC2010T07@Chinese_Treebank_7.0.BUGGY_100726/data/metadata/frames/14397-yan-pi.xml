@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 严批 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing criticized"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-ADV (P 除了)
+                    (LCP (NP (DNP (NP-PN (NR 陈)
+                    (NN 总统))
+                    (DEG 的))
+                    (NP (NN 谈话)))
+                    (LC 之外)))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 陈胜))
+                    (VP (ADVP (AD 也))
+                    (VP (VP (VV 发表)
+                    (AS 了)
+                    (NP-OBJ (NN 声明)))
+                    (PU ：)
+                    (VP (VV 严批)
+                    (IP-OBJ (IP-SBJ (NP-SBJ (NN 在野党))
+                    (VP (VV 发动)
+                    (NP-OBJ (NN 罢免))))
+                    (VP (VC 是)
+                    (NP-PRD (NN 权谋)
+                    (NN 政争))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    除了 陈 总统 的 谈话 之外           
+                </arg>
+                <arg n="0">
+                    陈胜          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    在野党 发动罢免 是 权谋 政争          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

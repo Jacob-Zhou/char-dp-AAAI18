@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 立杆见影 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 剂)))
+                    (NP (NN 猛药)))
+                    (VP (VP (VV 立杆见影)) 
+                    
+                </parse>
+                <arg n="0">
+                    一 剂 猛药          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,23 @@
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 0 3 gold 报道-v 报道.01 ----- 3:0-rel 0:3-ARG0 5:2-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 0 8 gold 新-v 新.01 ----- 8:0-rel 6:0*6:1*7:0*7:1-ARG0
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 0 13 gold 到来-v 到来.01 ----- 13:0-rel 6:3-ARG0 12:1-ARGM-ADV
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 0 34 gold 欣赏-v 欣赏.01 ----- 34:0-rel 5:1-ARGM-TMP 16:4-ARG0 23:1-ARGM-TMP 25:1-ARGM-LOC 28:1-ARG0 33:1-ARGM-ADV 36:2-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 1 gold 演出-v 演出.01 ----- 1:0-rel 0:1-ARG0
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 5 gold 会见-v 会见.01 ----- 5:0-rel 0:3-ARGM-TMP 3:1-ARG0 4:1-ARGM-ADV 7:3-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 9 gold 参加-v 参加.01 ----- 9:0-rel 10:1-ARG1 13:1*7:0*7:1*8:0*8:1-ARG0
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 15 gold 勉励-v 勉励.01 ----- 15:0-rel 0:3-ARGM-TMP 3:1-ARG0 16:1-ARG1 17:2-ARG2
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 18 gold 吸取-v 吸取.01 ----- 18:0-rel 17:1-ARG0 19:3-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 26 gold 探索-v 探索.01 ----- 26:0-rel 17:1-ARG0 25:1-ARGM-ADV
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 28 gold 创新-v 创新.01 ----- 28:0-rel 17:1-ARG0 25:1-ARGM-ADV
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 1 31 gold 繁荣-v 繁荣.01 ----- 31:0-rel 17:1-ARG0 30:1-ARGM-ADV 32:2-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 2 20 gold 欣赏-v 欣赏.01 ----- 20:0-rel 0:5-ARG0 19:1-ARGM-ADV 21:1-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 2 23 gold 参加-v 参加.01 ----- 23:0-rel 0:5-ARG0 25:1-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 3 21 gold 演出-v 演出.01 ----- 21:0-rel 0:2*22:1-ARG1 5:1-ARG0 20:1-ARGM-ADV
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 4 2 gold 强大-v 强大.01 ----- 2:0-rel 0:1-ARG0 1:1-ARG0
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 4 6 gold 荟萃-v 荟萃.01 ----- 6:0-rel 4:1-ARG0 5:1-ARG0
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 4 9 gold 是-v 是.01 ----- 9:0-rel 8:1-ARG0 10:4-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 5 2 gold 达-v 达.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 5 13 gold 表演-v 表演.01 ----- 13:0-rel 7:2-ARG0 11:1-ARG2 15:5-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 5 28 gold 映-v 映.01 ----- 28:0-rel 26:2-ARG0 29:1-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 5 58 gold 带来-v 带来.01 ----- 58:0-rel 7:2-ARG0 56:1-ARG2 59:3-ARG1
+bn/cnr/01/cnr_0111@0111@cnr@bn@ch@on 5 63 gold 赢得-v 赢得.01 ----- 63:0-rel 7:2-ARG0 64:3-ARG1

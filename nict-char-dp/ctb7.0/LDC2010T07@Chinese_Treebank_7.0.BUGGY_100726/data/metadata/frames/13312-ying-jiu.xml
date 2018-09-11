@@ -1,0 +1,86 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 迎救 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="rescuer"/>
+        <role argnum="1" argrole="entity rescued"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 泰国))
+                    (NP (NN 警察)))
+                    (VP (NP-TMP (NT ２３号))
+                    (PP-LOC (P 在)
+                    (NP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 缅)
+                    (NR 泰))
+                    (QP (CD 两))
+                    (NP (NN 国)))
+                    (VP (PP-LOC (-NONE- *T*-1))
+                    (VP (VV 交界))))
+                    (DEC 的)))
+                    (NP-PN (NR 北必佛省))))
+                    (VP (VP (DVP (VP (VA 顺利))
+                    (DEV 的))
+                    (VP (VV 解决)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 起)))
+                    (NP (NN 人质)
+                    (NN 危机)))))
+                    (PU ，)
+                    (VP (VV 击毙)
+                    (AS 了)
+                    (NP-OBJ (QP (CD ９)
+                    (CLP (M 名)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 越狱)))
+                    (DEC 的)))
+                    (NP (NN 逃犯))))
+                    (PU ，)
+                    (VP (PP-DIR (P 从)
+                    (LCP (NP (DNP (NP (PN 他们))
+                    (DEG 的))
+                    (NP (NN 手)))
+                    (LC 中)))
+                    (VP (VRD (VV 迎救)
+                    (VV 出))
+                    (AS 了)
+                    (NP-OBJ (QP (CD ３)
+                    (CLP (M 名)))
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-4 (-NONE- *T*-3))
+                    (VP (SB 被)
+                    (VP (VV 劫持)
+                    (NP-OBJ (-NONE- *-4)))))
+                    (DEC 的)))
+                    (NP (NN 人质))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    泰国 警察          
+                </arg>
+                <arg n="m" f="tmp">
+                    ２３号          
+                </arg>
+                <arg n="m" f="loc">
+                    在 缅 泰 两 国 交界 的 北必佛省          
+                </arg>
+                <arg n="m" f="dir">
+                    从 他们 的 手 中          
+                </arg>
+                <arg n="1">
+                    ３ 名 被 劫持 的 人质           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

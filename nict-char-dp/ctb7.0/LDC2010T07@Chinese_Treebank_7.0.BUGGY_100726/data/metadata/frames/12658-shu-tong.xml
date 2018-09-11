@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 疏通 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 unblocks"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 建立)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 种)))
+                    (ADJP (JJ 新))
+                    (NP (NN 机制))))
+                    (PU ，)
+                    (VP (VV 疏通)
+                    (AS 了)
+                    (NP-OBJ (DNP (LCP (NP (NP (PN 我们))
+                    (NP (NN 政府)
+                    (CC 同)
+                    (NN 群众)))
+                    (LC 之间))
+                    (DEG 的))
+                    (DP (DT 这)
+                    (CLP (M 种)))
+                    (NP (NN 渠道)
+                    (CC 和)
+                    (NN 桥梁))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    我们 政府 同 群众 之间 的 这 种 渠道 和 桥梁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

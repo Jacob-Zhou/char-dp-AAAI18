@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 割腕 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 年青)))
+                    (DEC 的)))
+                    (NP (NN 大陆)
+                    (NN 新娘)))
+                    (VP (PP-PRP (P 因为)
+                    (NP (DNP (NP (NN 感情))
+                    (DEG 的))
+                    (NP (NN 因素))))
+                    (VP (VP (VV 割腕)) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 年青 的 大陆 新娘          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 感情 的 因素          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 刺破 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 即使))
+                    (IP (NP-SBJ-2 (NN 轮胎))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 尖利)))
+                    (DEC 的)))
+                    (NP (NN 刀钉)))
+                    (VP (VV 刺破)
+                    (NP-OBJ (-NONE- *-2))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    即使           
+                </arg>
+                <arg n="1">
+                    轮胎 => *-2          
+                </arg>
+                <arg n="0">
+                    尖利 的刀钉          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="出口-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to export, export" group="1">
+<commentary>
+</commentary>
+<examples>
+据 了解 ， 自 一九九二年 底 武汉 长飞 光纤 光缆 公司 与 美国 签订 中国 第一 份 光纤 产品 外销 合同 以来 ， 中国 已 累计 向 国外 出口 光纤 四十多万 公里
+并 向 世界 五十多 个 国家 和 地区 出口 技术
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to speak" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="an exit, an outlet" group="1">
+<commentary>
+</commentary>
+<examples>
+西宁市 东 出口 道路 经营权 实行 有偿 转让 的 决定 出台 后 ， 立即 有 十多 家 外商 前来 洽谈 ， 最后 以 五千万 元 的 标价 敲定 。
+城市 北 出口 道路 建设 工程 已 与 香港 泰华 公司 达成 建设 协议 ， 投资 约 需 一点八亿 元 ， 南 绕城 快速路 工程 也 有 数 家 外商 前来 洽谈 投资 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

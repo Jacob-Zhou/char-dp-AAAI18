@@ -1,0 +1,42 @@
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 0 3 gold 好-v 好.01 ----- 3:0-rel 0:2,2:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 0 9 gold 做-v 做.01 ----- 9:0-rel 5:1-ARGM-TMP 6:1-ARG0 7:1-ARGM-BNF 10:2-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 1 20 gold 召开-v 召开.01 ----- 20:0-rel 0:1-ARGM-PRP 13:1-ARG0 19:1-ARGM-TMP 21:1-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 1 25 gold 要求-v 要求.02 ----- 25:0-rel 0:1-ARGM-PRP 13:1-ARG0 19:1-ARGM-TMP 24:1-ARGM-ADV 26:3-ARG1 32:2-ARG2
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 1 28 gold 存在-v 存在.01 ----- 28:0-rel 26:1*27:1*31:1-ARG0 29:1-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 1 35 gold 关闭-v 关闭.01 ----- 35:0-rel 32:1-ARG1 33:1-ARGM-ADV 34:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 10 gold 强调-v 强调.01 ----- 10:0-rel 0:3-ARG0 8:1-ARGM-LOC 12:4-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 16 gold 具备-v 具备.01 ----- 16:0-rel 15:1-ARGM-ADV 17:3-ARG1 13:0*14:0*24:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 19 gold 生产-v 生产.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 36 gold 应当-v 应当.01 ----- 36:0-rel
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 38 gold 关闭-v 关闭.01 ----- 38:0-rel 12:2-ARG1 37:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 45 gold 关闭-v 关闭.01 ----- 45:0-rel 43:1-ARG1 44:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 48 gold 死灰复燃-v 死灰复燃.01 ----- 48:0-rel 43:3-ARGM-TMP 47:1-ARGM-ADV 41:0*41:1*42:0*42:1*51:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 53 gold 要-v 要.06 ----- 53:0-rel 52:1-ARG0 54:1-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 54 gold 继续-v 继续.01 ----- 54:0-rel 40:1-ARGM-DIR 52:1-ARG1 55:2-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 55 gold 关闭-v 关闭.01 ----- 55:0-rel 40:1-ARG1 52:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 57 gold 追查-v 追查.01 ----- 57:0-rel 52:1-ARG0 58:1-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 66 gold 频发-v 频发.01 ----- 66:0-rel 62:3-ARG1 61:0*61:1*65:0*65:1*68:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 76 gold 要-v 要.06 ----- 76:0-rel 60:2-ARG0 71:1-ARG0 77:2-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 82 gold 进行-v 进行.01 ----- 82:0-rel 60:2-ARG0 71:1-ARG0 83:1-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 89 gold 整顿-v 整顿.01 ----- 89:0-rel 88:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 93 gold 具备-v 具备.01 ----- 93:0-rel 86:0*87:0-ARG0 88:3-ARGM-TMP 91:1-ARGM-ADV 92:1-ARGM-ADV 94:3-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 96 gold 生产-v 生产.01 ----- 96:0-rel 94:1-ARG0 95:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 101 gold 应该-v 应该.01 ----- 101:0-rel
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 2 103 gold 关闭-v 关闭.01 ----- 103:0-rel 100:1-ARG0 102:1-ARGM-ADV 104:0*104:1*86:3-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 9 gold 生产-v 生产.01 ----- 9:0-rel 5:3-ARG0 8:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 11 gold 严峻-v 严峻.01 ----- 11:0-rel 3:1-ARGM-TMP 5:5-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 21 gold 死亡-v 死亡.01 ----- 21:0-rel 0:0-ARG1 13:1-ARGM-TMP 16:3-ARG2 20:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 27 gold 进入-v 进入.01 ----- 27:0-rel 26:1-ARG0 29:1-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 33 gold 发生-v 发生.01 ----- 33:0-rel 25:1-ARGM-DIS 26:3-ARGM-TMP 31:1-ARG1 32:1-ARGM-ADV 35:4-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 39 gold 爆炸-v 爆炸.01 ----- 39:0-rel 38:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 3 46 gold 受到-v 受到.01 ----- 46:0-rel 42:3-ARG0 47:2-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 7 gold 是-v 是.01 ----- 7:0-rel
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 10 gold 忽视-v 忽视.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 13 gold 生产-v 生产.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 17 gold 落实-v 落实.01 ----- 17:0-rel 15:1-ARG1 16:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 21 gold 混乱-v 混乱.01 ----- 21:0-rel 19:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 25 gold 作业-v 作业.01 ----- 25:0-rel 23:1-ARG0 24:1-ARGM-ADV
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 4 26 gold 造成-v 造成.01 ----- 26:0-rel 3:3-ARG1 6:1-ARGM-ADV 8:1-ARG0
+bn/ctv/01/ctv_0113@0113@ctv@bn@ch@on 5 2 gold 报道-v 报道.01 ----- 2:0-rel 0:2-ARG0

@@ -1,0 +1,23 @@
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 0 8 gold 查获-v 查获.01 ----- 8:0-rel 0:1-ARGM-TMP 2:2-ARG0 4:1-ARGM-DIS 5:1-ARGM-LOC 10:1-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 0 20 gold 是-v 是.01 ----- 20:0-rel 17:2-ARG0 19:1-ARGM-ADV 21:3-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 0 33 gold 带回-v 带回.01 ----- 33:0-rel 0:1-ARGM-TMP 2:2-ARG0 24:1-ARGM-DIS 25:1-ARGM-ADV 27:3-ARG1 32:1-ARGM-ADV 34:1-ARG2
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 1 10 gold 带回-v 带回.01 ----- 10:0-rel 0:2-ARG1 5:2-ARGM-TMP 8:1-ARGM-ADV 11:1-ARG2
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 2 2 gold 众多-v 众多.01 ----- 2:0-rel 1:1-ARG0
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 2 6 gold 安排-v 安排.02 ----- 6:0-rel 0:1-ARGM-PRP 4:1-ARG0 5:1-ARGM-ADV 7:2-ARG2
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 2 11 gold 做-v 做.01 ----- 11:0-rel 7:1-ARG0 8:1-ARGM-LOC 12:1-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 3 3 gold 出动-v 出动.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 4:2-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 3 9 gold 到-v 到.01 ----- 9:0-rel 8:1-ARG0 11:2-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 3 15 gold 剩下-v 剩下.01 ----- 15:0-rel 7:1-ARGM-DIS 8:2-ARGM-TMP 13:1-ARG0 14:1-ARGM-ADV 16:3-ARG1 22:2-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 3 19 gold 到-v 到.01 ----- 19:0-rel 16:0*16:1*17:0*17:1-ARG0 18:1-ARGM-ADV 20:2-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 3 24 gold 在-v 在.01 ----- 24:0-rel 22:1-ARG0 23:1-ARGM-ADV 25:1-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 4 1 gold 选-v 选.02 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 4 15 gold 发现-v 发现.01 ----- 15:0-rel 0:1-ARG0 14:1-ARGM-ADV 16:3-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 4 19 gold 丢-v 丢.01 ----- 19:0-rel 21:1-ARG2 16:0*16:1*17:0*17:1*20:0*20:1*24:3-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 5 15 gold 带回-v 带回.01 ----- 15:0-rel 0:1-ARGM-PRP 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1 14:1-ARGM-ADV 16:1-ARG2
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 5 20 gold 做-v 做.01 ----- 20:0-rel 0:1-ARGM-PRP 6:1-ARG0 7:1-ARGM-ADV 9:2-ARG1 19:1-ARGM-ADV 21:1-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 6 2 gold 引起-v 引起.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 4:4-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 6 11 gold 表示-v 表示.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 6 20 gold 带到-v 带到.01 ----- 20:0-rel 12:1-ARG1 17:1-ARGM-ADV 18:1-ARGM-DIS 21:1-ARG2
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 7 5 gold 遭到-v 遭到.01 ----- 5:0-rel 3:1-ARGM-ADV 6:2-ARG1 12:1*1:0*1:1*2:0*2:1-ARG0
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 7 7 gold 查获-v 查获.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1
+bn/cnr/01/cnr_0134@0134@cnr@bn@ch@on 7 18 gold 停止-v 停止.01 ----- 18:0-rel 0:1-ARGM-ADV 1:3-ARG0 15:1-ARGM-ADV 16:1-ARGM-DIS 17:1-ARGM-ADV 19:1-ARG1

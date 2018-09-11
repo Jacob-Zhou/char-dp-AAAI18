@@ -1,0 +1,54 @@
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 5 gold 造成-v 造成.01 ----- 5:0-rel 1:3-ARG0 0:1*12:1*4:1-ARGM-LOC 6:2-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 17 gold 稳定-v 稳定.01 ----- 17:0-rel 0:3-ARGM-LOC 13:3-ARG1 16:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 24 gold 是-v 是.01 ----- 24:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 29 gold 担心-v 担心.01 ----- 29:0-rel 20:1-ARGM-DIS 21:1-ARGM-PRP 26:1-ARG0 27:2-ARGM-ADV 31:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 33 gold 加大-v 加大.01 ----- 33:0-rel 31:1-ARGM-DIS 32:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 42 gold 会-v 会.01 ----- 42:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 0 43 gold 继续-v 继续.01 ----- 43:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 14 gold 丧生-v 丧生.01 ----- 14:0-rel 16:1*6:1*7:1-ARG0 8:1-ARGM-LOC 13:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 17 gold 举行-v 举行.01 ----- 17:0-rel 0:2-ARGM-DIS 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-BNF 19:2-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 23 gold 指责-v 指责.01 ----- 23:0-rel 22:1-ARG0 24:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 25 gold 通知-v 通知.01 ----- 25:0-rel 24:1-ARG0 26:2-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 27 gold 晚-v 晚.01 ----- 27:0-rel 26:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 31 gold 会-v 会.01 ----- 31:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 32 gold 发生-v 发生.01 ----- 32:0-rel 29:1-ARG1 30:1-ARGM-DIS 33:3-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 1 36 gold 大-v 大.01 ----- 36:0-rel 35:1-ARGM-ADV 33:0*33:1*34:0*34:1*38:1-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 2 1 gold 充满-v 充满.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 2 14 gold 逃-v 逃.01 ----- 14:0-rel 0:2-ARGM-ADV 5:3-ARG0 12:1-ARGM-ADV 13:1-ARGM-ADV 15:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 3 5 gold 达-v 达.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 3 8 gold 下滑-v 下滑.01 ----- 8:0-rel 2:1-ARGM-DIR 0:0*0:1*11:1*1:0*1:1-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 3 13 gold 让-v 让.02 ----- 13:0-rel 0:3-ARG0 14:3-ARG1 17:2-ARG2
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 3 18 gold 是-v 是.01 ----- 18:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 3 20 gold 害怕-v 害怕.01 ----- 20:0-rel 17:1-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 4 3 gold 是-v 是.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 4 11 gold 是-v 是.01 ----- 11:0-rel 9:1-ARG0 10:1-ARGM-ADV 12:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 4 14 gold 象征-v 象征.01 ----- 14:0-rel 12:1*13:1*20:1-ARG0 16:2-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 4 28 gold 中断-v 中断.01 ----- 28:0-rel 23:3-ARG0 26:1-ARGM-DIS 27:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 5 20 gold 要-v 要.01 ----- 20:0-rel 17:1-ARGM-ADV 18:1-ARG0 19:1-ARGM-ADV 21:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 5 21 gold 撤离-v 撤离.01 ----- 21:0-rel 17:1-ARGM-ADV 18:1-ARG0 19:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 8 gold 中断-v 中断.01 ----- 8:0-rel 0:4-ARG1 7:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 15 gold 有-v 有.03 ----- 15:0-rel 10:1-ARGM-ADV 11:3-ARG0 16:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 20 gold 深-v 深.01 ----- 20:0-rel 16:1*17:1*22:1-ARG0 18:1-ARGM-EXT
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 25 gold 说-v 说.01 ----- 25:0-rel 24:1-ARG0 27:5-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 30 gold 应该-v 应该.01 ----- 30:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 31 gold 是-v 是.01 ----- 31:0-rel 27:3-ARG0 32:3-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 34 gold 造成-v 造成.01 ----- 34:0-rel 32:2-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 43 gold 覆盖-v 覆盖.01 ----- 43:0-rel 36:1-ARG2 37:1-ARGM-DIS 38:1-ARG1 42:1-ARGM-ADV 45:2-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 50 gold 看来-v 看来.01 ----- 50:0-rel 48:1-ARG0 49:1-ARGM-TMP
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 55 gold 停止-v 停止.01 ----- 55:0-rel 48:2-ARGM-ADV 51:3-ARG0 54:1-ARGM-ADV 56:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 62 gold 继续-v 继续.01 ----- 62:0-rel 59:1-ARG1 60:1-ARGM-ADV 61:1-ARGM-ADV 63:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 63 gold 下-v 下.01 ----- 63:0-rel 59:1-ARG0 60:1-ARGM-DIS 61:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 67 gold 担心-v 担心.01 ----- 67:0-rel 66:1-ARG0 65:0*65:1*68:0*68:1*70:1-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 72 gold 可能-v 可能.01 ----- 72:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 6 73 gold 会-v 会.01 ----- 73:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 7 4 gold 害怕-v 害怕.01 ----- 4:0-rel 0:3-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 7 13 gold 丧命-v 丧命.01 ----- 13:0-rel 9:1-ARGM-PRP 20:1*7:0*7:1*8:0*8:1-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 7 28 gold 到场-v 到场.01 ----- 28:0-rel 6:1-ARGM-DIS 7:5-ARGM-PRP 24:3-ARG0 27:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 7 29 gold 上香-v 上香.01 ----- 29:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 7 30 gold 致敬-v 致敬.01 ----- 30:0-rel 6:1-ARGM-DIS 7:5-ARGM-ADV 24:3-ARG0 27:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 8 3 gold 震撼-v 震撼.01 ----- 3:0-rel 0:2-ARG0 5:2-ARG1
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 9 8 gold 抱怨-v 抱怨.01 ----- 8:0-rel 5:1-ARGM-LOC 7:1-ARG0
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 9 13 gold 到-v 到.01 ----- 13:0-rel 10:2-ARG0 12:1-ARGM-ADV 15:2-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 9 16 gold 晚-v 晚.01 ----- 16:0-rel 15:1-ARGM-ADV
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 9 22 gold 该-v 该.01 ----- 22:0-rel
+bn/cts/01/cts_0134@0134@cts@bn@ch@on 9 26 gold 牺牲-v 牺牲.01 ----- 26:0-rel 18:1-ARGM-DIS 19:3-ARG0 25:1-ARGM-ADV 28:1-ARG1

@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 指向 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 points to"/>
+        <role argnum="2" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DNP (NP (NN 问卷))
+                    (DEG 的))
+                    (NP (NN 结果)))
+                    (VP (ADVP (AD 清楚))
+                    (VP (VV 指向)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 事实)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    问卷 的 结果 	
+                </arg>
+                <arg n="1">
+                    一 个 事实 	
+                </arg>
+                <arg n="m" f="adv">
+                    清楚 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADJP (JJ 反核))
+                    (NP (NN 团体)))
+                    (VP (ADVP (AD 同时))
+                    (ADVP (AD 也))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 矛头))
+                    (VP (ADVP (AD 直接))
+                    (VP (VV 指向)
+                    (NP-OBJ (NP-APP (NN 立法院长))
+                    (NP-PN (NR 王新平))))))))) 
+                    
+                </parse>
+                <arg n="2">
+                    反核 团体	
+                </arg>
+                <arg n="m" f="adv">
+                    同时	
+                </arg>
+                <arg n="m" f="dis">
+                    也	
+                </arg>
+                <arg n="0">
+                    矛头	
+                </arg>
+                <arg n="m" f="adv">
+                    直接	
+                </arg>
+                <arg n="1">
+                    立法院长 王新平	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

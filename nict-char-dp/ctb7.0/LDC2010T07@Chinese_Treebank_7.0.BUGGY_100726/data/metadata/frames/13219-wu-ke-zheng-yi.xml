@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 无可争议 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-7 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-7))
+                    (VP (VV 无可争议)))
+                    (DEC 的)))
+                    (NP (NN 成绩)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-7 -> 成绩          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

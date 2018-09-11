@@ -1,0 +1,34 @@
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 0 2 gold 成为-v 成为.01 ----- 2:0-rel 0:1-ARG0 3:3-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 2 5 gold 提高-n 提高.01 ----- 5:0-rel 1:1-ARG1 4:1-ARGM-MNR
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 2 8 gold 投资-n 投资.01 ----- 8:0-rel 7:0-ARG0 9:0-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 2 11 gold 成为-v 成为.01 ----- 11:0-rel 0:1-ARGM-ADV 7:1-ARG0 10:1-ARGM-ADV 12:4-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 3 6 gold 开业-v 开业.01 ----- 6:0-rel 4:1-ARG1 2:0*3:0*8:1-ARG0
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 3 11 gold 有-v 有.03 ----- 11:0-rel 0:1-ARGM-TMP 2:3-ARG1 10:1-ARGM-ADV 12:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 3 17 gold 完成-v 完成.01 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-TMP 18:1-ARG1 19:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 3 22 gold 实现-v 实现.01 ----- 22:0-rel 15:1-ARG0 16:1-ARGM-TMP 23:1-ARG1 24:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 3 gold 来自-v 来自.01 ----- 3:0-rel 4:1-ARG1 1:0*2:0*7:1-ARG0
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 14 gold 出口-v 出口.01 ----- 14:0-rel 0:1-ARGM-MNR 9:1-ARGM-TMP 11:2-ARG0
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 15 gold 创汇-v 创汇.01 ----- 15:0-rel 0:1-ARGM-MNR 9:1-ARGM-TMP 11:2-ARG0 16:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 20 gold 占-v 占.01 ----- 20:0-rel 0:1-ARGM-MNR 9:1-ARGM-TMP 19:1-ARG0 21:5-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 32 gold 利用-v 利用.01 ----- 32:0-rel 29:2-ARG0 31:1-ARGM-ADV 28:0*33:0*34:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 35 gold 占-v 占.01 ----- 35:0-rel 0:1-ARGM-MNR 9:1-ARGM-TMP 28:3-ARG0 36:5-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 40 gold 投资-n 投资.01 ----- 40:0-rel 36:2-ARG0 38:2-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 45 gold 投资-n 投资.01 ----- 45:0-rel 44:0-ARG0 46:0-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 50 gold 达-v 达.01 ----- 50:0-rel 0:1-ARGM-MNR 9:1-ARGM-TMP 44:2-ARG0 49:1-ARGM-ADV 51:2-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 4 55 gold 占-v 占.01 ----- 55:0-rel 0:1-ARGM-MNR 9:1-ARGM-TMP 54:1-ARG0 56:6-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 5 4 gold 改善-v 改善.01 ----- 4:0-rel 1:1-ARG1 3:1-ARGM-ADV
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 5 9 gold 良好-v 良好.01 ----- 9:0-rel 6:1-ARG0 8:1-ARG0
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 5 18 gold 投资-n 投资.01 ----- 18:0-rel 11:2-ARG0 17:1-ARGM-MNR
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 5 20 gold 进入-v 进入.01 ----- 20:0-rel 0:1-ARGM-PRP 11:2-ARG0 13:1-ARGM-LOC 15:1-ARGM-ADV 16:1-ARGM-DIR 21:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 5 22 gold 投资-n 投资.01 ----- 22:0-rel 21:0-ARGM-MNR
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 6 3 gold 通信-n 通信.01 ----- 3:0-rel 2:0-ARGM-MNR
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 6 8 gold 追加-v 追加.01 ----- 8:0-rel 0:2-ARG0 6:1-ARGM-FRQ 9:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 6 9 gold 投资-n 投资.01 ----- 9:0-rel 0:2-ARG0 6:1-ARGM-FRQ 8:0-rel-Sup
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 6 11 gold 成为-v 成为.01 ----- 11:0-rel 0:2-ARG0 12:2-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 6 20 gold 生产-n 生产.01 ----- 20:0-rel 21:0-ARG0
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 7 3 gold 出口-n 出口.01 ----- 3:0-rel 1:1*7:1-ARG0 2:1-ARGM-LOC
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 7 5 gold 多-v 多.03 ----- 5:0-rel 2:1-ARGM-LOC 3:1-ARG0 4:1-ARGM-ADV 0:0*1:0*9:1-ARG0
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 7 18 gold 追加-v 追加.01 ----- 18:0-rel 0:3-ARG0 15:2-ARGM-FRQ 19:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 7 19 gold 投资-n 投资.01 ----- 19:0-rel 0:3-ARG0 15:2-ARGM-FRQ 18:0-rel-Sup
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 7 24 gold 达-v 达.01 ----- 24:0-rel 21:1-ARGM-ADV 22:1-ARG0 23:1-ARGM-ADV 25:1-ARG1
+nw/xinhua/01/chtb_0158@0158@xinhua@nw@ch@on 8 1 gold 完-v 完.01 ----- 1:0-rel

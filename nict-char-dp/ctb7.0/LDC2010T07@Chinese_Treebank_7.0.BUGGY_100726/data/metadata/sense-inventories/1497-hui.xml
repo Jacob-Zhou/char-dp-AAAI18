@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="回-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to return to, to come back" group="1">
+<commentary>
+</commentary>
+<examples>
+六十五 岁 的 香港 居民 卢光辉 五 年 前 回 广东 探亲 时 ， 从 深圳 坐 汽车 到 广州 花费 了 四 个 小时
+(More abstract and metaphorical)今年 八月 ， 台湾 外汇 存底 重 回 千亿 美元 高峰 ， 亚洲 金融 风暴 、 中共 文攻武吓 都 不 能 撼动 台湾 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to answer, to reply, to return a phone call" group="1">
+<commentary>
+</commentary>
+<examples>
+舍 不 得 花 钱 打 电话 ， 总是 匆匆忙忙 打来 ， 要 人 回 电话 给 他
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="back (verb particle)" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 买 回 自家 公司 股票 护盘 的 库藏股 制度 已经 上路
+将 日前 被 中共 公安 逮捕 的 四海帮 帮主 杨光南 等 人 遣返 回 台湾
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="classifier for time, occasion, etc" group="1">
+<commentary>
+</commentary>
+<examples>
+吃饭 聚餐 是 一 回 事
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="a round (of an activity)" group="1">
+<commentary>
+</commentary>
+<examples>
+在 最后 一 回 第六 洞 时 ， 不 能 忍受 观众 干扰 的 伍兹 甚至 要求 裁判 「 叫 这些 人 离开 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to wind (of a road, etc.), to circle" group="1">
+<commentary>
+</commentary>
+<examples>
+峰 回 路 转
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to refuse, to decline (e.g., an invitation)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="34" ann_1_2_agreement="0.941176470588" />
+</inventory>

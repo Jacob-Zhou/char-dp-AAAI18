@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 了结 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing finished"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 了结)
+                    (NP-OBJ (DNP (LCP (QP (CD 多)
+                    (CLP (M 日)))
+                    (LC 来))
+                    (DEG 的))
+                    (NP (NN 暴力)
+                    (NN 冲突)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    多 日 来 的 暴力 冲突          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

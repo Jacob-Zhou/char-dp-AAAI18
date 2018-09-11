@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="生-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to give birth to, to bear, " group="1">
+<commentary>
+</commentary>
+<examples>
+（ 丁 ） 如果 藉 以 取得 居留权 的 来源 是 父亲 ， 则 该 儿童 必 是 《 基本法 》 第二十四 条 第二 款 第一 项 或 第二 项 所 列 居民 所 生 的 婚生 子女 或 获 确立 婚生 地位 子女
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be born" group="1">
+<commentary>
+</commentary>
+<examples>
+王冶坪 一九二六年 生 于 上海市
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="life" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 有 位 天机神算 的 算命仙 ， 可以 确切 告诉 你 往后 一 生 的 经历
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to have, to become (effect, illness, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+何况 云林 没有 大 医院 ， 生 了 病 还 要 送去 彰化 、 嘉义
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to live, life (as contrasted to death)" group="1">
+<commentary>
+</commentary>
+<examples>
+事 死 如 事 生
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to grow (literally or figuratively, of a living
+thing or life form)" group="1">
+<commentary>
+</commentary>
+<examples>
+箱 中 生 出 许多 蚯蚓 来
+地面 草丛 匍匐 、 灌木 密 生 、 落叶 盖 地
+他 的 毛毛人 就 是 这样 自然 生 出来 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to come into existence, to produce (a nonliving matter)" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 台币 大幅 升值 ， 使 台湾 向来 凭藉 的 劳力 密集 产业 型态 骤 生 巨变
+应 都市 计划 而 生 的 街道
+像 新 生 事物 一样
+黄金 打底 生 信心
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="unprocessed, unrefined" group="1">
+<commentary>
+</commentary>
+<examples>
+特意 开始 在 书法 中 ， 融入 刚健 有力 的 碑学 风格 ， 刻意 追求 「 生 、 狠 、 辣 」 的 笔意
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="abbreviation of biology, biological" group="1">
+<commentary>
+</commentary>
+<examples>
+足以 造成 重大 伤亡 的 核 、 生 、 化 弹头
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="pupil, student" group="1">
+<commentary>
+</commentary>
+<examples>
+由 教育署 及 两 间 传播 机构 合办 以 「 敬 师 爱 生 」 为 主题 的 剧本 创作 比赛 中 ， 他们 获得 两 个 奖项
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="11" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="8" ann_1_2_agreement="0.625" />
+</inventory>

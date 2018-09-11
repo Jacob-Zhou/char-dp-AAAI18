@@ -1,0 +1,10 @@
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 0 25 gold 投降-v 投降.01 ----- 25:0-rel 0:6-ARG0 22:1-ARGM-ADV 23:1-ARGM-LOC
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 1 16 gold 包围-v 包围.01 ----- 16:0-rel 4:1-ARGM-TMP 7:1-ARGM-LOC 15:1-ARG0 0:2*17:0*17:1-ARG1
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 2 9 gold 允许-v 允许.01 ----- 9:0-rel 10:1*7:1-ARG1 11:2-ARG2
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 2 17 gold 谈话-v 谈话.01 ----- 17:0-rel 11:1-ARG0 12:1-ARG0
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 2 23 gold 投降-v 投降.01 ----- 23:0-rel 0:1-ARGM-TMP 2:2-ARG0 6:1-ARGM-TMP 20:1-ARG1
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 2 27 gold 发生-v 发生.01 ----- 27:0-rel 25:1-ARG1 26:1-ARGM-ADV 28:1-ARG0
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 3 24 gold 逮捕-v 逮捕.01 ----- 24:0-rel 0:1-ARGM-TMP 15:1-ARGM-LOC 1:2*25:0*25:1-ARG1
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 3 28 gold 等待-v 等待.01 ----- 28:0-rel 0:1-ARGM-TMP 1:2*25:1-ARG0 27:1-ARGM-ADV 29:1-ARG1
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 4 13 gold 自杀-v 自杀.01 ----- 13:0-rel 0:2-ARG0 12:1-ARGM-ADV
+bn/vom/03/vom_0304@0304@vom@bn@ch@on 5 23 gold 进行-v 进行.01 ----- 23:0-rel 0:1-ARGM-TMP 13:2-ARG0 25:4-ARG1

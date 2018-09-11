@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 印上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing printed"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (LCP (NP (DNP (ADJP (JJ 新))
+                    (DEG 的))
+                    (NP (NN 选民证)))
+                    (LC 上)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 也))
+                    (QP-ADV (OD 首)
+                    (CLP (M 次)))
+                    (VP (VV 印上)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NP-PN (NP (NR 澳门))
+                    (ADJP (JJ 特别))
+                    (NP (NN 行政区)))
+                    (NP (NN 区徽)))
+                    (DEG 的))
+                    (NP (NN 图案))))) 
+                    
+                </parse>
+                <arg n="2">
+                    在 新 的 选民证上          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="m" f="adv">
+                    首 次          
+                </arg>
+                <arg n="1">
+                    澳门 特别 行政区区徽 的 图案          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

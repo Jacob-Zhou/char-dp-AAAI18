@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="培育-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to culture, to rear, to nurture, to breed, to culture" group="1">
+<commentary>
+</commentary>
+<examples>
+他们 还 培育 无毒 果树 苗木 二十万 株
+利用 基因 技术 培育 的 转基因 食品 已经 摆上 了 普通 百姓 的 餐桌
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to develop, to expend" group="1">
+<commentary>
+</commentary>
+<examples>
+发挥 平日 培育 起来 的 力量 和 技巧
+培育 高新 技术 企业 技术 创新 机制
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to educate" group="1">
+<commentary>
+</commentary>
+<examples>
+香港 从 一九七○ 年代 中期 就 开始 培育 本地 人才
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

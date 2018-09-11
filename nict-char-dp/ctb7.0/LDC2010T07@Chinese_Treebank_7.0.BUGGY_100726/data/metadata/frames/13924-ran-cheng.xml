@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 染成 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme dyed"/>
+        <role argnum="2" argrole="result"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (DNP (QP (CD ２０)
+                    (CLP (M 岁)))
+                    (DEG 的))
+                    (NP-PN (NR 简义龙)))
+                    (NP-SBJ (NN 头发))
+                    (VP (VV 染成)
+                    (NP-OBJ (NN 金色))) 
+                    
+                </parse>
+                <arg n="1" f="psr">
+                    ２０ 岁 的 简义龙          
+                </arg>
+                <arg n="1" f="pse">
+                    头发          
+                </arg>
+                <arg n="2">
+                    金色          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

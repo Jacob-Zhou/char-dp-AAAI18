@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 高喊 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 shouts"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 民众))
+                    (VP (DVP (IP (NP (NN 群情))
+                    (VP (VA 激昂)))
+                    (DEV 的))
+                    (VP (VP (VV 鼓掌))
+                    (VP (VV 高喊)
+                    (NP-OBJ (PU “)
+                    (NN 总统)
+                    (PU 、)
+                    (NN 总统)
+                    (PU ”)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    民众          
+                </arg>
+                <arg n="m" f="adv">
+                    群情 激昂 的          
+                </arg>
+                <arg n="1">
+                    “ 总统、 总统 ”          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

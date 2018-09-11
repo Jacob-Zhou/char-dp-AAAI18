@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 救回 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing arg0 saves"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (PP-MNR (P 冒着)
+                    (NP (NN 生命)
+                    (NN 危险)))
+                    (DVP (VP (VA 英勇))
+                    (DEV 的))
+                    (VP (VV 救回)
+                    (NP-OBJ (QP (CD ７)
+                    (CLP (M 个)))
+                    (NP (NN 人))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <arg n="m" f="adv">
+                    冒着 生命 危险          
+                </arg>
+                <arg n="m" f="adv">
+                    英勇 的          
+                </arg>
+                <arg n="1">
+                    ７ 个 人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

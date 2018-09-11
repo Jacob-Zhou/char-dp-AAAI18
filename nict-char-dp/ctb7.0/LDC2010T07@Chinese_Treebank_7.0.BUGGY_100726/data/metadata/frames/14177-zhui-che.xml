@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 追车 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不料))
+                    (NP-SBJ (NN 机车)
+                    (NN 车主))
+                    (VP (ADVP (AD 一气之下))
+                    (VP (VSB (VV 飞奔)
+                    (VV 追车))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    不料          
+                </arg>
+                <arg n="0">
+                    机车 车主          
+                </arg>
+                <arg n="m" f="adv">
+                    一气之下          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

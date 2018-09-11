@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一命呜呼 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ６)
+                    (CLP (M 只)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 原本))
+                    (VP (VC 是)
+                    (VP (VV 活跃)
+                    (PP (P 在)
+                    (NP (NP (ADJP (JJ 低))
+                    (NP (NN 海拨)))
+                    (NP (NN 平原))))))))
+                    (DEC 的)))
+                    (NP (ADJP (JJ 保育))
+                    (NP (NN 鸟类)))
+                    (NP (NN 环颈雉)))
+                    (VP (NP-TMP (NT 现在))
+                    (ADVP (AD 都))
+                    (ADVP (AD 已经))
+                    (VP (VP (VV 一命呜呼)) 
+                    
+                </parse>
+                <arg n="0">
+                    ６ 只 原本 是 活跃 在 低 海拨 平原 的 保育 鸟类 环颈雉          
+                </arg>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

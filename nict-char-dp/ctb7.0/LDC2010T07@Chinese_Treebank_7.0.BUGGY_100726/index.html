@@ -1,0 +1,157 @@
+<html>
+
+<head>
+  <title>Chinese Treebank 7.0</title>
+  <meta name="description" content="Documentation for Chinese Treebank 7.0">
+  <meta name="keywords" content="Linguistic Data Consortium LDC Documentation for Chinese Treebank 7.0">
+</head>
+
+<body bgcolor="#ffffff" LINK="#990000" ALINK="#990000" VLINK="#990000" TEXT="#000000" >
+
+    
+<h1 align="center"><font color="#990000"> Chinese Treebank 7.0</font></h1>
+
+    <br>
+
+    <h3>Introduction</h3> 
+
+    
+<p>Chinese Treebank 7.0, Linguistic Data Consortium (LDC) catalog
+  number LDC2010T07 and isbn 1-58563-542-1, consists of 840,000 words
+  of annotated and parsed text from Chinese newswire, magazine news,
+  and various broadcast news and broadcast conversation programs.</p>
+<p>The Chinese Treebank project began at the University of
+  Pennsylvania in 1998, continued at the University of Colorado, and
+  is in the process of moving
+  to <a href="http://www.cs.brandeis.edu/%7Ellc/page2/page2.html">Brandeis
+  University</a>. The project provides a large, part-of-speech tagged
+  and fully bracketed Chinese language corpus. The first delivery,
+  Chinese Treebank 1.0, provided 100,000 syntactically annotated words
+  from Xinhua News Agency (Xinhua) newswire. It was later corrected
+  and released in 2001
+  as <a href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2001T11">Chinese
+  Treebank 2.0 (LDC2001T11)</a> and consisted of approximately 100,000
+  words.  The LDC
+  released <a href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2004T05">Chinese
+  Treebank 4.0 (LDC2004T05)</a>, an updated version containing roughly
+  400,000 words, in 2004. A year later, the LDC published the 500,000
+  word <a href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2005T01">Chinese
+  Treebank 5.0
+  (LDC2005T01)</a>. <a href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2007T36">Chinese
+  Treebank 6.0 (LDC2007T36)</a>, released in 2007, consisted of
+  780,000 words.  The annotation of broadcast news and broadcast
+  conversation data began and continues under the DARPA GALE (Global
+  Autonomous Language Exploitation) program; Chinese Treebank 7.0
+  represents the results of that effort.</p>
+
+<h3>Data</h3>
+<p>Chinese Treebank 7.0 includes text from the following genres and
+  sources.</p>
+<table width="80%" border="1">
+  <tr> 
+    <td width="39%"><strong>Genre</strong></td>
+    <td width="61%"><strong># words</strong></td>
+  </tr>
+  <tr> 
+    <td><a href="./data/annotations/nw">Newswire</a> (Xinhua)</td>
+    <td >250,000</td>
+  </tr>
+  <tr>
+    <td><a href="./data/annotations/mz">News Magazine</a>(Sinorama)</td>
+    <td>150,000</td>
+  </tr>
+  <tr> 
+    <td><a href="./data/annotations/bn">Broadcast News</a>(CBS, CNR, CTS, CCTV, VOM)</td>
+    <td>270,000</td>
+  </tr>
+  <tr> 
+    <td><a href="./data/annotations/bc">Broadcast Conversation</a>(CCTV, CNN, MSNBC, Phoenix)</td>
+    <td>170,000</td>
+  </tr>
+  <tr>
+  	<td>Total</td>
+    <td>840,000</td>
+  </tr>
+</table>
+<p>The annotation of syntactic structure trees for the Chinese newswire data was 
+  taken from Chinese Treebank 5.0 and updated with some corrections. Known problems, 
+  like multiple tree nodes at the top level, were fixed. Inconsistent annotations 
+  for object control verbs were also corrected. The residual Traditional Chinese 
+  characters in the Sinorama portion of the data, the result of incomplete automatic 
+  conversion, have been manually normalized to Simplified Chinese characters. 
+<p>This release contains the frame files for each annotated verb or noun, which specify 
+  the argument structure (semantic roles) for each predicate. The frame files 
+  are effectively lexical guidelines for the propbank annotation. The semantic 
+  roles annotated in this data can only be interpreted with respect to these frame 
+  files. 
+<p>The annotation of the verbs in the Xinhua news portion of the data
+  is taken
+  from <a href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2005T23">Chinese
+  Proposition Bank 1.0(LDC2005T23)</a>. The annotation of the
+  predicate-argument structure of the included nouns, which are
+  primarily nominalizations, has not been previously released. The
+  Sinorama portion of the data, both for verbs and nouns, has not been
+  previously released.
+
+<p>See <a href="./docs/file_table.csv">file_table.csv</a> for a table
+listing all files in this corpus along with their respective byte
+counts and md5 checksums.
+    
+<p>Data files are contained in the <a href="./data/"
+    style="text-decoration:none">data</a> directory.</p>
+    
+<p>Other documentation files are:
+<ul>
+  <li><a href="./docs/chinese-coref.pdf" STYLE="text-decoration:none">Co-reference 
+    Guidelines for Chinese OntoNotes</a></li>
+  <li><a href="./docs/chinese-propbank.pdf" STYLE="text-decoration:none">Annotation 
+    Guidelines for the Chinese Proposition Bank</a></li>
+  <li><a href="./docs/chinese-treebank-parses.pdf" STYLE="text-decoration:none">The 
+    Bracketing Guidelines for the Penn Chinese Treebank (3.0)</a></li>
+  <li><a href="./docs/chinese-treebank-parses-bn-addendum.pdf" STYLE="text-decoration:none">Addendum 
+    to the Bracketing Guidelines for the ACE Chinese Broadcast News Data</a></li>
+  <li><a href="./docs/chinese-treebank-postags.pdf" STYLE="text-decoration:none">The 
+    Part-Of-Speech Tagging Guidelines for the Penn Chinese Treebank (3.0)</a></li>
+</ul>
+
+    
+<h3>&nbsp;</h3>
+
+<h3>Sponsorship</h3>
+<p>This work was supported in part by the Defense Advanced Research Projects Agency, 
+  GALE Program Grant No. HR0011-06-1-0003. The content of this publication does 
+  not necessarily reflect the position or the policy of the Government, and no 
+  official endorsement should be inferred.</p>
+
+<h3>Corpus Authors</h3>
+<p>Martha Palmer, Mitch Marcus, Tony Kroch, Nianwen Xue, Fu-Dong Chiou</p>
+
+<h3>Updates</h3>   
+    
+<p>Additional information, updates, bug fixes may be available in the LDC catalog 
+  entry for this corpus at <a
+    href="http://www.ldc.upenn.edu/Catalog/CatalogEntry.jsp?catalogId=LDC2010T07"
+    style="text-decoration:none">LDC2010T07</a>. 
+<h3>Content Copyright</h3>   
+    
+<p>Portions &copy; 2005 Cable News Network, LP, LLLP, &copy; 2000-2001 China Broadcasting 
+  System, &copy; 2000-2001, 2005 China Central TV, &copy; 2000-2001 China National 
+  Radio, &copy; 2000-2001 China Television System, &copy; 1997 The Government 
+  of the Hong Kong Special Administrative Region, &copy; 2006 National Broadcasting 
+  Company, Inc., &copy; 2005 Phoenix TV, &copy; 1996-2001 Sinorama Magazine, &copy; 
+  1994-1998 Xinhua News Agency, &copy; 2001, 2004, 2005, 2007, 2009, 2010 Trustees 
+  of the University of Pennsylvania
+<hr>
+
+    <font size="-1">
+    Contact: <a href="mailto:ldc@ldc.upenn.edu" style="text-decoration:none">
+
+    <b>ldc@ldc.upenn.edu</b></a><br>
+&copy; 2010 <A
+    HREF="http://www.ldc.upenn.edu" STYLE="text-decoration:none"> <b>Linguistic 
+Data Consortium</b></a>, <a href="http://www.upenn.edu" style="text-decoration:none"> 
+<b>Trustees of the University of Pennsylvania</b></a>. All Rights Reserved. </font> 
+</body>
+
+</html>
+

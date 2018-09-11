@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 理诉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity sued"/>
+        <role argnum="2" argrole="crime"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD ３)
+                    (CLP (M 名))))
+                    (NP (NN 机师)))
+                    (VP (ADVP (AD 以后))
+                    (VP (VNV (VV 会)
+                    (AD 不)
+                    (VV 会))
+                    (VP (VV 遭到)
+                    (IP-OBJ (NP-SBJ (NP (PN 我)
+                    (NN 国))
+                    (NP (NN 法律)))
+                    (VP (VV 理诉)))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    这 ３ 名 机师          
+                </arg>
+                <arg n="0">
+                    我 国 法律          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 杀戮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="killer"/>
+        <role argnum="1" argrole="killed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-OBJ (NP-APP (NN 纪录片))
+                    (NP-TTL (PU 《)
+                    (DNP (NP (NN 杀戮)
+                    (NN 战场))
+                    (DEG 的))
+                    (NP (NN 边缘))
+                    (PU 》))) 
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

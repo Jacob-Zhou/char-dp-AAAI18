@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 向内 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 眼睛))
+                    (VP (VV 向内))) 
+                    
+                </parse>
+                <arg n="0">
+                    眼睛          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

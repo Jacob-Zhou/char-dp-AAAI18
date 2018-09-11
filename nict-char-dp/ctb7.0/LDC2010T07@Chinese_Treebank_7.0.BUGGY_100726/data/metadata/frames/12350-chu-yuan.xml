@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 出院 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (ADJP (JJ 唯一))
+                    (NP (NN 生还者)))
+                    (NP-PN (NR 恒川)))
+                    (VP (ADVP (AD 后来))
+                    (VP (VCD (VV 出院)
+                    (VV 回家))))) 
+                    
+                </parse>
+                <arg n="0">
+                    唯一 生还者 恒川          
+                </arg>
+                <arg n="m" f="tmp">
+                    后来          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

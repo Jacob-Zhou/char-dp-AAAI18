@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 姗姗来迟 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 无锡市))
+                    (NP-APP (NP (NN 质量)
+                    (NN 技术)
+                    (NN 监督局))
+                    (PU 、)
+                    (NP (NN 医药)
+                    (NN 管理局))
+                    (ETC 等))
+                    (NP (NN 部门)))
+                    (VP (VV 组成)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (ADJP (JJ 联合))
+                    (NP (NN 执法)
+                    (NN 小组)))
+                    (VP (VV 姗姗来迟)))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    无锡市 质量 技术 监督局 、 医药 管理局 等 部门 组成 的 联合 执法 小组          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

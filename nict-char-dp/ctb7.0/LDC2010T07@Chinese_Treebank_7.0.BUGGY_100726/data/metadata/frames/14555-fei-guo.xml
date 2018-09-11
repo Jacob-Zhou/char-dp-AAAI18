@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 飞过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="distance arg0 flies"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-TMP (P 在)
+                    (LCP (NP (QP (CD ３１)
+                    (CLP (M 个)))
+                    (NP (NN 小时)))
+                    (LC 内)))
+                    (VP (VP (VV 飞过)
+                    (QP-EXT (CD １亿４千万)
+                    (CLP (M 公里)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 ３１ 个 小时 内          
+                </arg>
+                <arg n="1">
+                    １亿４千万 公里          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

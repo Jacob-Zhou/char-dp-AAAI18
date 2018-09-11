@@ -1,0 +1,36 @@
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 6 gold 出国-v 出国.01 ----- 6:0-rel
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 7 gold 作战-v 作战.01 ----- 7:0-rel 2:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 23 gold 举行-v 举行.01 ----- 23:0-rel 12:3-ARG0 25:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 28 gold 多样-v 多样.01 ----- 28:0-rel 25:1*26:1-ARG0 27:1*30:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 33 gold 缅怀-v 缅怀.01 ----- 33:0-rel 12:3-ARG0 34:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 40 gold 维护-v 维护.01 ----- 40:0-rel 37:1-ARG0 41:1-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 0 45 gold 牺牲-v 牺牲.01 ----- 45:0-rel 34:1*35:1*48:1-ARG1 36:1-ARGM-PRP 44:1-ARGM-ADV
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 1 15 gold 来到-v 来到.01 ----- 15:0-rel 0:1-ARGM-TMP 1:4-ARG0 14:1-ARGM-ADV 16:2-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 1 22 gold 悼念-v 悼念.01 ----- 22:0-rel 0:1-ARGM-ADV 1:4-ARG0 14:1-ARGM-ADV
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 1 24 gold 缅怀-v 缅怀.01 ----- 24:0-rel 0:1-ARGM-ADV 1:4-ARG0 14:1-ARGM-ADV 25:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 1 31 gold 牺牲-v 牺牲.01 ----- 31:0-rel 25:1*26:1*33:1-ARG1 27:2-ARGM-LOC 30:1-ARGM-ADV
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 2 14 gold 纪念-v 纪念.01 ----- 14:0-rel 15:2-ARG1 12:0*12:1*13:0*13:1*19:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 2 22 gold 开幕-v 开幕.01 ----- 22:0-rel 0:1-ARGM-LOC 12:3-ARG0 20:1-ARGM-DIS 21:1-ARGM-ADV
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 2 24 gold 吸引-v 吸引.02 ----- 24:0-rel 0:1-ARGM-LOC 12:3-ARG0 26:3-ARG1 31:2-ARG2
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 2 28 gold 络绎不绝-v 络绎不绝.01 ----- 28:0-rel 26:0*26:1*27:0*27:1*30:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 2 32 gold 来-v 来.05 ----- 32:0-rel 31:1-ARG0 33:1-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 2 33 gold 参观-v 参观.01 ----- 33:0-rel 31:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 3 4 gold 参加-v 参加.01 ----- 4:0-rel 6:1-ARG1 10:1*2:0*2:1*3:0*3:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 3 15 gold 举办-v 举办.01 ----- 15:0-rel 0:3-ARG0 17:2-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 3 21 gold 特殊-v 特殊.01 ----- 21:0-rel 19:0*19:1*20:0*20:1*29:1-ARG0
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 3 24 gold 纪念-v 纪念.01 ----- 24:0-rel 23:1-ARG0 25:2-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 3 32 gold 展示-v 展示.01 ----- 32:0-rel 31:1-ARG0 33:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 3 51 gold 提供-v 提供.01 ----- 51:0-rel 31:1-ARG0 49:1-ARG2 53:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 4 9 gold 到-v 到.01 ----- 9:0-rel 0:1-ARGM-TMP 2:3-ARG0 8:1-ARGM-ADV 10:4-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 4 16 gold 牺牲-v 牺牲.01 ----- 16:0-rel 10:1*11:1*18:1-ARG1 12:1-ARGM-LOC 15:1-ARGM-ADV
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 4 23 gold 凭吊-v 凭吊.01 ----- 23:0-rel 0:1-ARGM-ADV 2:3-ARG0 8:1-ARGM-ADV 24:1-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 1 gold 学习-v 学习.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 14 gold 召开-v 召开.01 ----- 14:0-rel 0:2-ARGM-ADV 11:2-ARG0 13:1-ARGM-ADV 15:2-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 25 gold 回顾-v 回顾.01 ----- 25:0-rel 0:2-ARGM-ADV 11:2-ARG0 13:1-ARGM-ADV 26:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 36 gold 战胜-v 战胜.01 ----- 36:0-rel 32:1-ARG0 37:1-ARG1 31:0*31:1*35:0*35:1*41:1-ARGM-LOC
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 43 gold 激励-v 激励.01 ----- 43:0-rel 0:2-ARGM-ADV 11:2-ARG0 13:1-ARGM-DIS 44:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 47 gold 热爱-v 热爱.01 ----- 47:0-rel 45:1-ARG0 48:1-ARG1 44:0*44:1*46:0*46:1*58:1-ARGM-MNR
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 5 50 gold 保卫-v 保卫.01 ----- 50:0-rel 45:1-ARG0 44:1*46:1*58:1-ARGM-MNR 51:1-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 6 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/ctv/00/ctv_0030@0030@ctv@bn@ch@on 6 4 gold 报道-v 报道.01 ----- 4:0-rel 2:0*2:1*5:0*5:1-ARG1 3:1-ARG0

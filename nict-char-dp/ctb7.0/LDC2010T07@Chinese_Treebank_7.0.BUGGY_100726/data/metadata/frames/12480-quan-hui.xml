@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 全毁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (ADJP (JJ 大))
+                    (NP (NN 货车)))
+                    (DEG 的))
+                    (NP (NN 车头)))
+                    (VP (VV 全毁))) 
+                    
+                </parse>
+                <arg n="0">
+                    大 货车 的 车头           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

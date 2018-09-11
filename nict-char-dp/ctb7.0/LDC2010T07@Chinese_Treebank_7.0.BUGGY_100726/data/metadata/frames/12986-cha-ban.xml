@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查办 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="case"/>
+        <role argnum="2" argrole="suspect"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (DVP (VP (VA 严肃))
+                    (DEV 的))
+                    (VP (VV 查办)
+                    (NP-OBJ (DNP (NP (NN 海关))
+                    (DEG 的))
+                    (NP (NN 执法)
+                    (NN 腐败)
+                    (NN 案件))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    严肃 的          
+                </arg>
+                <arg n="1">
+                    海关 的 执法 腐败 案件          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

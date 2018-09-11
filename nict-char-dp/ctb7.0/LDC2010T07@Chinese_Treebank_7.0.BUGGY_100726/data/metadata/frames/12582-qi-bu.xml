@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 缉捕 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="criminal"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 要)
+                    (VP (VP (VV 不惜)
+                    (NP-OBJ (DP (DT 一切))
+                    (NP (NN 代价))))
+                    (VP (VV 缉捕)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 在逃)))
+                    (DEC 的)))
+                    (NP (NN 经济)
+                    (NN 罪犯)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    在逃 的 经济 罪犯          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发出-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to issue, to send out" group="1">
+<commentary>
+</commentary>
+<examples>
+在 ＮＢＡ 资方 向 劳方 发出 “ 最后 ” 让步 通牒 后
+海关 总署 日前 发出 公告
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to emit, to disperse, to voice" group="1">
+<commentary>
+</commentary>
+<examples>
+它 又 可 带动 锅炉 产生 蒸汽 ， 继而 带动 汽轮机 再 发出 电能
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to set out, to start off" group="1">
+<commentary>
+</commentary>
+<examples>
+从 武汉 发出 的 供应 香港 鲜活 商品 的 运输 专列
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="1.0" />
+</inventory>

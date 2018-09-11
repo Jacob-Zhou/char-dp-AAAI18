@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 松口 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="topic"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TPC (P 关于)
+                    (IP (NP-TPC (NN 中文)
+                    (NN 译音)
+                    (NN 版本))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 要)
+                    (VP (VV 选用)
+                    (NP-OBJ (NN 汉语)
+                    (CC 还是)
+                    (NN 通用))))))
+                    (PU ，)
+                    (PP-MNR (P 面对)
+                    (NP (DNP (NP (NN 外界))
+                    (DEG 的))
+                    (ADJP (JJ 一再))
+                    (NP (NN 询问))))
+                    (PU ，)
+                    (NP-SBJ (NN 部长))
+                    (VP (VP (ADVP (AD 还))
+                    (VP (VC 是)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 肯)
+                    (VP (VV 松口)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    关于 中文 译音 版本 要 选用 汉语 还是 通用          
+                </arg>
+                <arg n="m" f="adv">
+                    面对 外界 的 一再 询问          
+                </arg>
+                <arg n="0">
+                    部长          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

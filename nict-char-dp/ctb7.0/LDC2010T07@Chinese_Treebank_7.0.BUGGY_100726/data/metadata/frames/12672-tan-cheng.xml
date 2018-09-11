@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 坦称 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 admits"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (VV 坦称)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 的确))
+                    (VP (VE 有)
+                    (NP-OBJ (NN 赌博)
+                    (NN 行为))))
+                    (PU ，)
+                    (VP (ADVP (AD 也))
+                    (VP (VE 有)
+                    (NP-OBJ (NN 游戏)
+                    (NN 规则)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人          
+                </arg>
+                <arg n="1">
+                    的确 有 赌博 行为 ， 也 有 游戏 规则          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

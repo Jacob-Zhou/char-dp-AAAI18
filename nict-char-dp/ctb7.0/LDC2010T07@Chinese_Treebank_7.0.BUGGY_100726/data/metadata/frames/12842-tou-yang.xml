@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷养 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme arg0 keeps secretly"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 偷养)
+                    (NP-OBJ (NN 私生子))))
+                    (DEC 的)))
+                    (NP (NN 男子))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 男子          
+                </arg>
+                <arg n="1">
+                    私生子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

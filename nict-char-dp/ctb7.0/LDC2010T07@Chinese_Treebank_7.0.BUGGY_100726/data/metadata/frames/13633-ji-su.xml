@@ -1,0 +1,62 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 寄宿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ４)
+                    (CLP (M 名)))
+                    (DNP (NP-PN (NR 中山)
+                    (NN 医学院))
+                    (DEG 的))
+                    (ADJP (JJ 毕业))
+                    (NP (NN 学生)))
+                    (VP (VP (ADVP (AD 原本))
+                    (VP (VV 准备)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (NP-TMP (NT 今天))
+                    (VP (VV 要)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 参加)
+                    (NP-OBJ (DNP (NP (NN 同学))
+                    (DEG 的))
+                    (NP (NN 婚礼))))))))))
+                    (PU ，)
+                    (VP (NP-TMP (NT 昨天)
+                    (NT 晚上))
+                    (ADVP (AD 一块))
+                    (VP (VV 寄宿)
+                    (PP (P 在)
+                    (NP (DNP (NP-PN (NR 南投)
+                    (NN 中心)
+                    (NN 新村))
+                    (DEG 的))
+                    (NP (NN 同学)
+                    (NN 家)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    ４ 名 中山 医学院 的 毕业 学生          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天 晚上          
+                </arg>
+                <arg n="m" f="adv">
+                    一块          
+                </arg>
+                <arg n="1">
+                    在 南投 中心 新村 的 同学 家          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

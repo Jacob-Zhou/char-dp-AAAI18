@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="借-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to utilize, to use, to take advantage of" group="1">
+<commentary>
+</commentary>
+<examples>
+当 他 借 此 机会 向 大家 道别 时 ， 全 场 报以 热烈 的 掌声
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to lend" group="1">
+<commentary>
+</commentary>
+<examples>
+既然 看重 安南 ， 为什麽 不 借 钱 给 他
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to borrow" group="1">
+<commentary>
+</commentary>
+<examples>
+可是 一 甲 地 的 税租 高 达 一百五十 元 ， 逼得 许多 乡人 得 借 钱 缴 税
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="24" ann_1_2_agreement="1.0" />
+</inventory>

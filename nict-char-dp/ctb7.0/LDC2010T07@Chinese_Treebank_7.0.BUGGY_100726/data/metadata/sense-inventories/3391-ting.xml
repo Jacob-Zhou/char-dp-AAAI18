@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="停-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stop, to halt, to discontinue" group="1">
+<commentary>
+</commentary>
+<examples>
+激战 中 无法 置 侵入 白 棋 阵地 的 一 队 黑 子 于 死地 ， 在 实空 明显 不 够 的 情况 下 ， 只 得 停 钟 认输
+在 整改 完成 前 国家 有关 部门 暂 停 拨付 由 国家 财政 债券 安排 的 公路 建设 资金
+大量 外企 职工 是 在 加工车 间 忙 个 不 停 的 蓝领 工人
+传销 停 、 看 、 听
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="10" ann_1_2_agreement="1.0" />
+</inventory>

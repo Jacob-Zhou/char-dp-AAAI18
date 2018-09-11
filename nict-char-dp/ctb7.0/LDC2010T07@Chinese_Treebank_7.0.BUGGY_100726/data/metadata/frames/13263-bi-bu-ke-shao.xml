@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 必不可少 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="domain"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (LCP-LOC (NP (NP (DP (DT 每)
+                    (CLP (M 个)))
+                    (NP (NN 家庭)))
+                    (NP (NN 生活)))
+                    (LC 中))
+                    (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 必不可少)))
+                    (DEC 的)))
+                    (QP (CD 一)
+                    (CLP (M 种)))
+                    (NP (NN 调味品)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 调味品          
+                </arg>
+                <arg n="1">
+                    每 个 家庭 生活 中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

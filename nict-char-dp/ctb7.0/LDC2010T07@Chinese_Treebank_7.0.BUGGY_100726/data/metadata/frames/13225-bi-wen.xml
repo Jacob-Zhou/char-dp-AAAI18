@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逼问 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="asker"/>
+        <role argnum="1" argrole="party asked"/>
+        <role argnum="2" argrole="thing asked"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 一再))
+                    (VP (VV 逼问)
+                    (NP-OBJ (NP (NP-PN (NR 核四))
+                    (NP (NN 决议)))
+                    (NP (NN 时间表)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    一再          
+                </arg>
+                <arg n="1">
+                    核四 决议 时间表          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

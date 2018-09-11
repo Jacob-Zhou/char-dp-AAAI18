@@ -1,0 +1,184 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 打捞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 gets out from water"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 打捞)
+                    (NP-OBJ (NP-PN (NR 库尔斯克号)
+                    (NN 核潜艇))
+                    (NP (NN 遇难者)
+                    (NN 遗体))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          	  
+                </arg>
+                <arg n="1">
+                    库尔斯克号 核潜艇 遇难者 遗体          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (QP (CD ８)
+                    (CLP (M 名)))
+                    (NP (NN 遇难者)))
+                    (DEG 的))
+                    (NP (NN 遗体)))
+                    (VP (SB 被)
+                    (VP (VRD (VV 打捞)
+                    (VV 出))
+                    (NP-OBJ (NN 水面))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    ８ 名 遇难者 的 遗体          	  
+                </arg>
+                <arg n="2">
+                    水面          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 到)
+                    (LCP (NP (NT ２６号))
+                    (LC 为止)))
+                    (PU ，)
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 负责)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 巴伦之海)))
+                    (VP (VV 打捞)
+                    (NP-OBJ (NP (NP-PN (NR 库尔斯克号)
+                    (NN 核潜艇))
+                    (ADJP (JJ 遇难))
+                    (NP (NN 官兵)))
+                    (NP (NN 遗体))))))))
+                    (DEC 的)))
+                    (NP (NN 潜水员)))
+                    (VP (ADVP (AD 已经))
+                    (VP (VP (VV 发现)
+                    (NP-OBJ (-NONE- *RNR*-2)))
+                    (CC 并)
+                    (VP (VRD (VV 打捞)
+                    (VV 出))
+                    (NP-OBJ-2 (QP (CD ４)
+                    (CLP (M 具)))
+                    (NP (NN 尸体)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    到 ２６号 为止           	  
+                </arg>
+                <arg n="0">
+                    负责 在 巴伦之海 打捞 库尔斯克号 核潜艇 遇难 官兵 遗体 的 潜水员          	  
+                </arg>
+                <arg n="m" f="adv">
+                    已经          	  
+                </arg>
+                <arg n="1">
+                    ４ 具 尸体          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (QP (CD 四)
+                    (CLP (M 具)))
+                    (NP (NN 尸体)))
+                    (VP (SB 被)
+                    (VP (VRD (VV 打捞)
+                    (VV 起来))
+                    (NP-OBJ (-NONE- *-1))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    四 具 尸体 -> *-1          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f5">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-2 (-NONE- *T*-1))
+                    (VP (SB 被)
+                    (VP (VP (VV 发现)
+                    (NP-OBJ (-NONE- *RNR*-3)))
+                    (CC 和)
+                    (VP (VRD (VV 打捞)
+                    (VV 上来))
+                    (NP-OBJ-3 (-NONE- *-2))))))
+                    (DEC 的)))
+                    (QP (OD 第一)
+                    (CLP (M 批)))
+                    (NP (NN 遇难者)
+                    (NN 尸体))))) 
+                    
+                </parse>
+                <arg n="1">
+                    第一 批 遇难者 尸体  -> *T*-1                  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

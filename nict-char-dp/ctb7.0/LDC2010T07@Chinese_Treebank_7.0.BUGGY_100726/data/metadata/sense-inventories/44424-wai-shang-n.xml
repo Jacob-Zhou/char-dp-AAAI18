@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="外商	44424-wai-shang-n">
+<commentary>This word has only one sense.</commentary>
+<sense n="1" name="外商, foreign tradesman, foreigh merchant, foreign businessman, foreign(er)" group="" type="">
+<commentary></commentary><examples>外商投资企业.
+foreign-investment enterprise.
+
+外商独资经济。
+solely foreign-owned economy.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

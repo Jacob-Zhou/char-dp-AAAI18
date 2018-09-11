@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 出行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 上海))
+                    (NP (NN 市民)))
+                    (VP (VV 出行))) 
+                    
+                </parse>
+                <arg n="0">
+                    上海 市民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 断流 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (NP (NT ９０年代))
+                    (LC 以来))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 黄河))
+                    (VP (ADVP (AD 不仅))
+                    (ADVP (AD 年年))
+                    (VP (VV 断流)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    ９０年代 以来          
+                </arg>
+                <arg n="0">
+                    黄河          
+                </arg>
+                <arg n="m" f="dis">
+                    不仅          
+                </arg>
+                <arg n="m" f="adv">
+                    年年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,102 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 变更 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="causer"/>
+        <role argnum="1" argrole="entity undergoing change"/>
+        <role argnum="2" argrole="result of change"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP-CND (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (CS 若))
+                    (VP (VV 变更)
+                    (NP-OBJ (NN 国籍)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <V/>
+                <arg n="1">
+                    国籍 
+                </arg>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 立委))
+                    (VP (VV 提出)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 变更)
+                    (NP-OBJ (DNP (NP (NN 议程))
+                    (DEG 的))
+                    (NP (NN 方式)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 改成)
+                    (NP-OBJ (DNP (NP (LCP (NP (NT ９・２１)
+                    (NN 灾))
+                    (LC 后))
+                    (NP (NN 重建)))
+                    (DEC 的))
+                    (NP (NN 条例))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*        
+                </arg>
+                <V/>
+                <arg n="1">
+                    议程 的 方式        
+                </arg>
+                <arg n="2">
+                    改成 ９・２１ 灾 后 重建 的 条例        
+                </arg>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP-FOC (ADVP (AD 擅自))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 停车场))
+                    (VP (VCP (VV 变更)
+                    (VC 为))
+                    (NP-OBJ (NN 靶场)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*        
+                </arg>
+                <V/>
+                <arg n="1">
+                    停车场        
+                </arg>
+                <arg n="2">
+                    靶场        
+                </arg>
+                <arg n="m" f="adv">
+                    擅自        
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

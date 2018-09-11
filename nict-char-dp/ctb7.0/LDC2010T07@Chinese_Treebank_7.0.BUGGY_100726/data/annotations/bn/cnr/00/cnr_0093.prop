@@ -1,0 +1,8 @@
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 0 4 gold 要求-v 要求.02 ----- 4:0-rel 0:2-ARG0 3:1-ARGM-TMP 5:3-ARG1 10:2-ARG2
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 0 27 gold 积压-v 积压.01 ----- 27:0-rel 25:1-ARG1 26:1-ARGM-ADV
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 0 30 gold 要-v 要.06 ----- 30:0-rel 10:1-ARG0 31:2-ARG1
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 0 33 gold 提出-v 提出.01 ----- 33:0-rel 10:1-ARG0 31:1-ARGM-ADV 32:1-ARGM-ADV 34:1-ARG1
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 1 6 gold 积压-v 积压.01 ----- 6:0-rel 4:1-ARG1 5:1-ARGM-ADV
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 1 7 gold 造成-v 造成.01 ----- 7:0-rel 3:1-ARG0 8:3-ARG1
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 1 14 gold 死亡-v 死亡.01 ----- 14:0-rel 8:1-ARG1
+bn/cnr/00/cnr_0093@0093@cnr@bn@ch@on 1 22 gold 要-v 要.06 ----- 22:0-rel 21:1-ARG0 23:2-ARG1

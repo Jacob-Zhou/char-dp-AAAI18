@@ -1,0 +1,84 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 熟 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="people described"/>
+        <role argnum="1" argrole="entity arg0 knows very well"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (PN 这个))
+                    (NP-SBJ (PN 你))
+                    (VP (VV 应该)
+                    (VP (ADVP (AD 太))
+                    (VP (VA 熟))))) 
+                    
+                </parse>
+                <arg n="1">
+                    这个	  
+                </arg>
+                <arg n="0">
+                    你	  
+                </arg>
+                <arg n="m" f="adv">
+                    太	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (PP-ADV (P 跟)
+                    (NP (NN 嫌疑犯)))
+                    (ADVP (AD 很))
+                    (VP (VA 熟))))
+                    (DEC 的)))
+                    (NP-PN (NR 伊桑・里格斯))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 伊桑・里格斯	  
+                </arg>
+                <arg n="0" f="crd">
+                    跟 嫌疑犯	  
+                </arg>
+                <arg n="m" f="adv">
+                    很	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

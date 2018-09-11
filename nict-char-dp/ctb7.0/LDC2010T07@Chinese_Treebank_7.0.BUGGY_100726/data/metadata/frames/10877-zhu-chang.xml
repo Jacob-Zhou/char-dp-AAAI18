@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 驻唱 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="place arg0 is stationed and sings"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VE 有)
+                    (IP-OBJ (NP-SBJ (NN 歌星))
+                    (VP (VV 驻唱)))))
+                    (DEC 的)))
+                    (NP (NN 西餐厅))) 
+                </parse>
+                <arg n="0">
+                    歌星 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

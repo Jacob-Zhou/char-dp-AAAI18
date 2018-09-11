@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 看视 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity looked at/checked out"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (QP (OD 第一)
+                    (CLP (M 批)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 抵达)
+                    (NP-PN-OBJ (NR 温哥华))))
+                    (DEC 的)))
+                    (NP (NN 家属)))
+                    (VP (VP (ADVP (AD 也))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 历经)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 番)))
+                    (NP (NN 波折)))))
+                    (LC 之后)))
+                    (PU ，)
+                    (VP (VV 到达)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 距离)
+                    (NP-PN-OBJ (NR 温哥华))
+                    (NP-EXT (NP (QP (CD １)
+                    (CLP (M 个)))
+                    (NP (NN 小时)))
+                    (NP (NN 车程)))))
+                    (DEC 的)))
+                    (NP-PN (NR 齐勒纳市)))))
+                    (PU ，)
+                    (VP (ADVP (AD 以便))
+                    (ADVP (AD 分批))
+                    (VP (VP (VV 前往)
+                    (NP-OBJ (DNP (NP (NN 周围)
+                    (NN 地区))
+                    (DEG 的))
+                    (NP (NN 医院))))
+                    (VP (VV 看视)
+                    (NP-OBJ (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 受伤)))
+                    (DEC 的)))
+                    (NP (NN 家人))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    第一 批 抵达 温哥华 的 家属          
+                </arg>
+                <arg n="m" f="dis">
+                    以便          
+                </arg>
+                <arg n="m" f="adv">
+                    分批          
+                </arg>
+                <arg n="1">
+                    受伤 的 家人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

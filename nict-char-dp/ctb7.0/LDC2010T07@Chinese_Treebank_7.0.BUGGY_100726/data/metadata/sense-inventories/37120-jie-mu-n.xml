@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="jie-mu-n-n 节目-n">
+<commentary></commentary>
+<sense n="1" name="节目, program, show, a theatrical performance, a movie, or a television or radio program," group="" type="">
+<commentary>Aprogram, a show, a theatrical performance, a movie, or a television or radio program,</commentary><examples>安排节目。
+Arrange a programme.
+
+广播节目。
+broadcasting programme.
+
+你喜欢的节目是什么？
+What't your favorite program?
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="节目, 戏，show, an event at which the public can view a particular colletion of things" group="" type="">
+<commentary>Ashow, an event at which the public can view a particular colletion of things</commentary><examples>你最近看过什么好戏么？
+Have you seen any good shows lately?
+
+他们演了一场好戏。
+They put up a good show.
+
+那里有一个时装节目。
+There was a fashion show there.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

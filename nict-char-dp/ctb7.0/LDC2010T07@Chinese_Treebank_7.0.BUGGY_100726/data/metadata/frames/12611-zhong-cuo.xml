@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 重挫 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="extent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 事实上))
+                    (IP-MNR (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (P 从)
+                    (IP (NP-SBJ (ADJP (JJ 新))
+                    (NP (NN 政府)))
+                    (VP (VV 上台))))
+                    (LCP-TMP (NP (NT ５２０))
+                    (LC 开始))
+                    (VP (VV 算起))))
+                    (PU ，)
+                    (PP-TMP (P 到)
+                    (NP (NT 现在)))
+                    (NP-SBJ (DNP (NP (NN 大盘))
+                    (DEG 的))
+                    (NP (NN 指数)))
+                    (VP (VP (ADVP (AD 一路))
+                    (VP (VV 下滑)))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 重挫)
+                    (AS 了)
+                    (QP-EXT (CD ２８２２)))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    事实上          
+                </arg>
+                <arg n="m" f="adv">
+                    从 新 政府 上台 ５２０ 开始 算起          
+                </arg>
+                <arg n="m" f="tmp">
+                    到 现在          
+                </arg>
+                <arg n="0">
+                    大盘 的 指数          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="1">
+                    ２８２２          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

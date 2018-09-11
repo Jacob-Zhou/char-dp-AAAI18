@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="论-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to discuss, to discourse, to talk about" group="1">
+<commentary>
+</commentary>
+<examples>
+人民 日报 今天 发表 题 为 《 在 确保 稳定 中 深化 改革 促进 发展 》 的 评论员 文章 ， 四 论 明年 经济 工作 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to determine, to judge" group="1">
+<commentary>
+</commentary>
+<examples>
+按 质 论 价
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="theory" group="1">
+<commentary>
+</commentary>
+<examples>
+宋楚瑜 的 「 准 国际 关系 论 」 ， 本来 想 在 国际 社会 、 台湾 与 大陆 之间 讨好
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

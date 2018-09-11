@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 带着 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing arg0 brings"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-TMP (QP (CD 一))
+                    (ADJP (JJ 大))
+                    (NP (NN 清早)))
+                    (NP-APP (DNP (NP-PN (NR 彭白显))
+                    (DEG 的))
+                    (NP (NN 夫人)))
+                    (NP-PN (NR 吴恩婉)))
+                    (VP (VP (VV 带着)
+                    (NP-OBJ (NP (QP (CD ３００多)
+                    (CLP (M 名)))
+                    (NP (NN 支持)
+                    (NN 群众))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    一 大 清早          
+                </arg>
+                <arg n="0">
+                    彭白显 的 夫人 吴恩婉          
+                </arg>
+                <arg n="1">
+                    ３００多 名 支持 群众          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

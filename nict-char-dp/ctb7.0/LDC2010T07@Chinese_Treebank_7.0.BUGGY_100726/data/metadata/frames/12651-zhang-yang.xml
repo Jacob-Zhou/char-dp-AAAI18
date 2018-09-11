@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 张扬 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 要)
+                    (VP (VV 封口)))
+                    (PU ，)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 准)
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (DNP (PP (P 有关)
+                    (NP (DP (DT 这)
+                    (CLP (M 张)))
+                    (NP (NN 字条))))
+                    (DEG 的))
+                    (NP (NN 细节)))
+                    (VP (VRD (VV 张扬)
+                    (VV 开来)))))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="1">
+                    有关 这 张 字条 的 细节          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (ADVP (AD 不))
+                    (VP (VV 张扬)))
+                    (CC 以及)
+                    (VP (VV 负)
+                    (NP-OBJ (NN 责任)))))
+                    (DEC 的)))
+                    (NP (NN 态度))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 态度          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

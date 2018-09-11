@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 陶冶 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing developed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NN 家里))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 浓厚)))
+                    (DEC 的)))
+                    (NP (NN 文化)
+                    (NN 气息)))
+                    (VP (VV 陶冶)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP-PN (NR 高行健))
+                    (DEG 的))
+                    (NP (NN 文人)
+                    (NN 素质)
+                    (CC 和)
+                    (NN 文化)
+                    (NN 修养))))) 
+                    
+                </parse>
+                <arg n="0">
+                    家里 浓厚 的 文化 气息          
+                </arg>
+                <arg n="1">
+                    高行健 的 文人 素质 和 文化 修养          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

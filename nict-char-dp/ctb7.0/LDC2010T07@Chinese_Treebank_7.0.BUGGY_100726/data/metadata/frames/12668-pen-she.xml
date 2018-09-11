@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喷射 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing arg0 discharges"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADJP (JJ 新型))
+                    (NP (NN 防暴)
+                    (NN 水炮车)))
+                    (VP (VP (VV 配备)
+                    (AS 了)
+                    (NP-OBJ (NP (QP (CD 一)
+                    (CLP (M 只)))
+                    (ADJP (JJ 高压))
+                    (NP (NN 水炮)))
+                    (CC 和)
+                    (NP (DNP (QP (CD 好几)
+                    (CLP (M 支)))
+                    (DEG 的))
+                    (NP (NN 水枪)))))
+                    (PU ，)
+                    (VP (VV 喷射)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 强大)))
+                    (DEC 的)))
+                    (ADJP (JJ 高压))
+                    (NP (NN 泡沫液)))) 
+                    
+                </parse>
+                <arg n="0">
+                    新型 防暴 水炮车          
+                </arg>
+                <arg n="1">
+                    强大 的 高压 泡沫液          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

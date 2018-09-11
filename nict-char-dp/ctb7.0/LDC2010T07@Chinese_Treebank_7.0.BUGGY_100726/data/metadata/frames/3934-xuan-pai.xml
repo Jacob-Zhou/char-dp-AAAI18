@@ -1,0 +1,94 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 选派 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="people selected and dispatched"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-PN-SBJ (NR 中国))
+                    (VP (PP-MNR (P 按照)
+                    (NP (CP-APP (IP (NP-SBJ (NN 东道主))
+                    (VP (VA 优先)))
+                    (DEC 的))
+                    (NP (NN 惯例))))
+                    (PU ，)
+                    (VP (VV 选派)
+                    (AS 了)
+                    (NP-OBJ (QP (CD ９)
+                    (CLP (M 名)))
+                    (NP (NN 棋手)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    中国 	  
+                </arg>
+                <arg n="1">
+                    ９ 名 棋手 	  
+                </arg>
+                <arg n="m" f="mnr">
+                    按照 东道主 优先 的 惯例 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 另外))
+                    (FLR (SP 呢))
+                    (PU ，)
+                    (NP-SBJ (PN 我们))
+                    (VP (ADVP (AD 一开始))
+                    (PP-DIR (P 从)
+                    (NP-PN (NR 加拿大)))
+                    (VP (VV 选派)
+                    (NP-OBJ (QP (CD 一些))
+                    (NP (NN 英语)
+                    (NN 老师)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (DNP (NP-PN (NR 中国))
+                    (DEG 的))
+                    (NP (NN 学校))))
+                    (VP (VV 来)
+                    (VP (VV 教书)))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    另外	  
+                </arg>
+                <arg n="0">
+                    我们 	  
+                </arg>
+                <arg n="m" f="tmp">
+                    一开始	  
+                </arg>
+                <arg n="m" f="dir">
+                    从 加拿大	  
+                </arg>
+                <arg n="1">
+                    一些 英语 老师	  
+                </arg>
+                <arg n="2">
+                    到 中国 的 学校 来 教书	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

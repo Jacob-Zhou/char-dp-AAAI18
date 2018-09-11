@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 坠地 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VP (NP-TMP (NT 当年))
+                    (VP (VV 驾驶)
+                    (NP-OBJ (NN ｆ１０５)
+                    (NN 雷霆式)
+                    (NN 战机))))
+                    (VP (ADVP (AD 不幸))
+                    (VP (VV 遭到)
+                    (IP (NP-SBJ (NN 防空)
+                    (NN 炮火))
+                    (VP (VV 击中)))))
+                    (VP (VV 坠地)))))
+                    (NP-APP (NP-PN (NR 美国))
+                    (NP (NN 空军)
+                    (NN 上尉)))
+                    (NP-PN (NR 埃佛特))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 埃佛特          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

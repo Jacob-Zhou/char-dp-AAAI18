@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 倒霉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 自己))
+                    (VP (VP (ADVP (AD 因此))
+                    (VP (VV 得要)
+                    (VP (VP (VV 到)
+                    (NP-OBJ (DP (DT 各))
+                    (NP (NN 地))))
+                    (VP (VV 去)
+                    (VP (VV 应询))))))
+                    (VP (ADVP (AD 十分))
+                    (VP (VA 倒霉)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    自己          
+                </arg>
+                <arg n="m" f="adv">
+                    十分          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

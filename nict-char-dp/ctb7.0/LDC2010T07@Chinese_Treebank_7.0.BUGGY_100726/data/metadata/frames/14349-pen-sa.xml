@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喷洒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity sprayed"/>
+        <role argnum="2" argrole="target"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 喷洒)
+                    (NP-OBJ (NN 水帘门))))
+                    (DEC 的))
+                    (ADJP (JJ 传统))
+                    (NP (NN 仪式)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    水帘门          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

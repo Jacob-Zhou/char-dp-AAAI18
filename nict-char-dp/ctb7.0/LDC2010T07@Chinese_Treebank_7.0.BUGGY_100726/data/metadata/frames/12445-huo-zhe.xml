@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 活着 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一些))
+                    (NP (NN 船员)))
+                    (VP (ADVP (AD 仍然))
+                    (VP (VV 活着))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一些 船员          
+                </arg>
+                <arg n="m" f="adv">
+                    仍然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

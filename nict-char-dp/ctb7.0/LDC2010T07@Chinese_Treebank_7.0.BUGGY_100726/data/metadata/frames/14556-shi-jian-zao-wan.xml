@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 时间早晚 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (DP (DT 这)
+                    (CLP (M 场)))
+                    (NP (NN 政党)
+                    (NN 风暴)))
+                    (DEG 的))
+                    (NP (NN 发生)))
+                    (PU ，)
+                    (VP (ADVP (AD 只是))
+                    (VP (VV 时间早晚)) 
+                    
+                </parse>
+                <arg n="0">
+                    这 场 政党 风暴 的 发生           
+                </arg>
+                <arg n="m" f="adv">
+                    只是          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

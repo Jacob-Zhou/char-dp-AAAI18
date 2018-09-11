@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 同流合污 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-PRP (P 为了)
+                    (NP (DP (DT 某)
+                    (CLP (M 种)))
+                    (NP (NN 政治)
+                    (NN 利益))))
+                    (PP-ADV (P 与)
+                    (NP (NN 邪教)
+                    (NN 组织)))
+                    (VP (VP (VV 同流合污))
+                    (PU ，)
+                    (VP (VV 沆瀣一气))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="prp">
+                    为了 某 种 政治 利益          
+                </arg>
+                <arg n="0" f="crd">
+                    与 邪教 组织          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

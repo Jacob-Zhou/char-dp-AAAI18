@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="制止-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stop" group="1">
+<commentary>
+</commentary>
+<examples>
+人民 银行 各 级 分支 机构 要 及时 制止 地方 人民 政府 和 企业 主管 部门 通过 行政 手段 干预 金融 工作 的 做法
+对 违规 高 息 揽 存 的 金融 机构 ， 一 经 发现 ， 必须 立即 制止 和 严厉 惩处
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

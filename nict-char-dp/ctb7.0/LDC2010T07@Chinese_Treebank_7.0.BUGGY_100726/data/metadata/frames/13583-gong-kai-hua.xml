@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 公开化 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-ADV (ADVP (CS 虽然))
+                    (IP (NP-PN-SBJ (NR 米洛舍维奇))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 下台)))))
+                    (PU ，)
+                    (NP-SBJ (CP-APP (IP (LCP-SBJ (NP (NP-PN (NR 贝尔格莱德))
+                    (ADJP (JJ 新))
+                    (ADJP (JJ 旧))
+                    (NP (NN 势力)))
+                    (LC 之间))
+                    (VP (VV 争夺)
+                    (NP-OBJ (NN 权利))))
+                    (DEC 的))
+                    (NP (NN 斗争)))
+                    (VP (ADVP (AD 正在))
+                    (ADVP (AD 日益))
+                    (VP (VV 公开化))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    虽然 米洛舍维奇 已经 下台          
+                </arg>
+                <arg n="0">
+                    贝尔格莱德 新 旧 势力 之间 争夺 权利 的 斗争          
+                </arg>
+                <arg n="m" f="adv">
+                    正在          
+                </arg>
+                <arg n="m" f="adv">
+                    日益          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

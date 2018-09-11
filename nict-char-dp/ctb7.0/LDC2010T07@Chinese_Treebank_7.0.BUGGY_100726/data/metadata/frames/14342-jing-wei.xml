@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 敬畏 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 pays respect to and fears"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (IP-TMP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 每))
+                    (VP (VV 逢)
+                    (NP-OBJ (DNP (NP (NN 祭典))
+                    (DEG 的))
+                    (NP (NN 祭刀)
+                    (NN 仪式))))))
+                    (PU ，)
+                    (NP-SBJ (NN 勇士们))
+                    (VP (VP (ADVP (AD 都))
+                    (ADVP (AD 十分))
+                    (VP (VV 敬畏))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="m" f="tmp">
+                    每 逢 祭典 的 祭刀仪式          
+                </arg>
+                <arg n="0">
+                    勇士们          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    十分          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

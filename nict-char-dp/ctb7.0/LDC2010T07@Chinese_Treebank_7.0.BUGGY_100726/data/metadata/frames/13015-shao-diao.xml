@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 烧到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="fire"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 继续)
+                    (VP (VV 北犯)))
+                    (PU ，)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 战火))
+                    (VP (VV 烧到)
+                    (AS 了)
+                    (LCP-OBJ (LCP (NP (DNP (NP (NP-PN (NR 中)
+                    (NR 朝))
+                    (NP (NN 边境)))
+                    (DEG 的))
+                    (NP-PN (NR 鸭绿江)))
+                    (LC 边)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    战火          
+                </arg>
+                <arg n="2">
+                    中 朝 边境 的 鸭绿江           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

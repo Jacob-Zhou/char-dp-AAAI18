@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偏低 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (NP-PN-APP (NR 台机电)
+                    (PU 、)
+                    (NR 联电)
+                    (PU 、)
+                    (NR 华硕)
+                    (PU 、)
+                    (NR 台塑)
+                    (CC 以及)
+                    (NR 国泰人寿)
+                    (ETC 等))
+                    (NP (QP (CD ２０)
+                    (CLP (M 家)))
+                    (NP (NN 公司))))
+                    (IP (IP (NP-SBJ (NN 营运))
+                    (VP (VA 良好)))
+                    (CC 但是)
+                    (IP (NP-SBJ (NN 估价))
+                    (VP (VV 偏低))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    台机电 、 联电 、 华硕 、 台塑 以及 国泰人寿 等 ２０ 家 公司          
+                </arg>
+                <arg n="0" f="pse">
+                    估价          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

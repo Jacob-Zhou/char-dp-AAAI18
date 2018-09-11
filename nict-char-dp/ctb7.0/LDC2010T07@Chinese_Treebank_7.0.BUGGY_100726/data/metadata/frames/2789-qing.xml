@@ -1,0 +1,110 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 请 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="inviter, asker"/>
+        <role argnum="1" argrole="invitee, person asked to do something"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-PN-SBJ (NR 王翔))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 得知)))
+                    (LC 后))
+                    (ADVP (AD 立即))
+                    (VP (VV 请)
+                    (NP-OBJ (NN 专家))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 论证)))))
+                    (PU 。)) 
+                    
+                </parse>
+                <arg n="0">
+                    王翔 	  	  
+                </arg>
+                <arg n="M" f="TMP">
+                    *pro* 得知 后 	  	  
+                </arg>
+                <arg n="M" f="ADV">
+                    立即 	  	  
+                </arg>
+                <V/>
+                <arg n="1">
+                    专家 	  	  
+                </arg>
+                <arg n="2">
+                    *PRO* 论证 	  	  
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="asker"/>
+        <role argnum="1" argrole="askee"/>
+        <role argnum="2" argrole="place arg1 is asked to go"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 柯四海))
+                    (VP (ADVP (AD 最后))
+                    (VP (SB 被)
+                    (VP (VRD (VV 请)
+                    (VV 到))
+                    (NP-OBJ (NN 路边)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    柯四海	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    最后	  	  
+                </arg>
+                <arg n="2">
+                    路边	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3" edef="indicate politeness">
+        <role argnum="0" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NN 下面))
+                    (NP (-NONE- *pro*))
+                    (VP (VV 请)
+                    (VP (VV 听)
+                    (NP-OBJ (DNP (NP (NP-APP (NP-PN (DNP (NP-PN (NR 美国))
+                    (DEG 之))
+                    (NP (NN 音)))
+                    (NP (NN 记者)))
+                    (NP-PN (NR 江河)))
+                    (DEG 的))
+                    (ADJP (JJ 综合))
+                    (NP (NN 报道)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

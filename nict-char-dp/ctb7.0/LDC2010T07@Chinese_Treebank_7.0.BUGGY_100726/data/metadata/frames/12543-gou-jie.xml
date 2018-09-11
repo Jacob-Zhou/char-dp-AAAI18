@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 勾结 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party that arg0 collude with"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 酒店)
+                    (NN 员工))
+                    (VP (VP (VV 勾结)
+                    (NP-OBJ (NN 黑道)
+                    (NN 分子))) 
+                    
+                </parse>
+                <arg n="0">
+                    酒店 员工          
+                </arg>
+                <arg n="1">
+                    黑道 分子          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

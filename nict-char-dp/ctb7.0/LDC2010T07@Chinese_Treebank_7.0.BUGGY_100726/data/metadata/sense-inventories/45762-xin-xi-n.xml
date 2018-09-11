@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="xin-xi,信息-n">
+<commentary></commentary>
+<sense n="1" name="信息, information" group="" type="">
+<commentary>An information is something about news, facts, or knowledge.</commentary><examples>我们得到了很多有用的信息.
+We gained much useful information.
+
+劳动力市场信息.
+labour market information
+
+这本书有很多新信息。
+The book contains much new information.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="信息, message" group="" type="">
+<commentary>Amessage is a main idea that an artist, writer, speaker, or group is trying to communicate.</commentary><examples>信息处理。
+message processing.
+
+这本书传递一种信息。
+A book with a message .
+
+这个电影的信息是只有最凶狠的人才能在政治斗争中获胜.
+The message of the movie seems tobe that only the most ruthless peoploe can get ahead in politics.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="信息, data" group="" type="">
+<commentary>Adata is an information collected for use.</commentary><examples>信息传输。
+data transmission.
+
+信息存储。
+data storage.
+
+他们有医疗,教育,和 经济发展的信息.
+They had data on health, education, and econommic development.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

@@ -1,0 +1,131 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 激励 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="promoter"/>
+        <role argnum="1" argrole="thing promoted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-OBJ (NP-SBJ (PN 我们))
+                    (VP (VV 要)
+                    (VP (VP (ADVP (AD 认真))
+                    (VP (VP (VV 总结)
+                    (NP-OBJ (-NONE- *RNR*-3)))
+                    (CC 和)
+                    (VP (VV 推广)
+                    (NP-OBJ-3 (DP (DT 这些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 好)))
+                    (DEC 的)))
+                    (NP (NN 经验))))))
+                    (PU ，)
+                    (VP (VRD (VV 建立)
+                    (VV 起))
+                    (NP-OBJ (IP-APP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 激励)
+                    (NP-OBJ (NN 竞争)))
+                    (CC 和)
+                    (VP (VCD (VV 勤政)
+                    (VV 廉政)))))
+                    (NP (NN 机制))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="1">
+                    竞争 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent or cause"/>
+        <role argnum="1" argrole="party arg0 encourages"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 铭记)
+                    (PU ，)
+                    (NP-OBJ (IP-APP (NP-SBJ (NP (QP (CD 两))
+                    (NP (NN 岸)))
+                    (PU ，)
+                    (NP (NN 人民)))
+                    (VP (ADVP (AD 共同))
+                    (VP (VV 抗击)
+                    (NP-OBJ (NP-PN (NR 日本))
+                    (NP (NN 侵略者))))))
+                    (FLR (DT 这个))
+                    (NP (NP (NN 英雄)
+                    (NN 事迹))
+                    (PU ，)
+                    (NP (ADJP (JJ 不朽))
+                    (NP (NN 功勋))))))
+                    (DFL (PN 这)
+                    (VV 讲))
+                    (VP (VV 弘扬)
+                    (NP-OBJ (NP (ADJP (JJ 伟大))
+                    (NP (NN 精神)))
+                    (ADJP (JJ 关键))
+                    (NP (NN 点))))
+                    (PU ，)
+                    (VP (VV 激励)
+                    (NP-OBJ (NP (QP (CD 两))
+                    (NP (NN 岸)))
+                    (NP (NN 同胞)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 共同))
+                    (VP (VV 携手)
+                    (PU ，)
+                    (VP (MSP 来)
+                    (VP (VP (VV 抵抗)
+                    (NP-OBJ (-NONE- *RNR*-1)))
+                    (CC 和)
+                    (VP (VCD (VV 抵制)
+                    (VV 排除))
+                    (PU ，)
+                    (NP-OBJ-1 (NP (DNP (NP (NN 台独)
+                    (NN 分裂)
+                    (NN 事件))
+                    (DEG 的))
+                    (NP (NN 破坏)))
+                    (PU ，)
+                    (PRN (NP (ADVP (AD 特别是))
+                    (NP (DNP (NP (DNP (NP (NN 台独))
+                    (DEG 的))
+                    (NP (NN 文化)
+                    (NN 台独)))
+                    (DEG 的))
+                    (NP (NN 进程)))))))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  
+                </arg>
+                <arg n="1">
+                    两 岸 同胞	  
+                </arg>
+                <arg n="2">
+                    共同 携手 ， 来 抵抗 和 抵制 排除  台独 分裂 事件 的 破坏 ， 特别是 台独 的 文化 台独 的 进程	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

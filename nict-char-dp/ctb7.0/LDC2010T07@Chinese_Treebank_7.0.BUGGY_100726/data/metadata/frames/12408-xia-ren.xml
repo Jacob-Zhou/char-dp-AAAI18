@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吓人 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 场面))
+                    (VP (ADVP (AD 相当))
+                    (VP (VP (VA 壮观))
+                    (CC 并)
+                    (VP (VA 吓人))))) 
+                    
+                </parse>
+                <arg n="0">
+                    场面          
+                </arg>
+                <arg n="m" f="adv">
+                    相当          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 用尽 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing used up"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (PP-LOC (P 在)
+                    (NP (NN 空中)))
+                    (VP (VV 盘旋)
+                    (ADVP (AD 过久))))
+                    (PU ，)
+                    (VP (NP-FOC-1 (NN 油料))
+                    (VP (VV 用尽)
+                    (NP-OBJ (-NONE- *-1))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          	  
+                </arg>
+                <arg n="1">
+                    油料 -> *-1          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

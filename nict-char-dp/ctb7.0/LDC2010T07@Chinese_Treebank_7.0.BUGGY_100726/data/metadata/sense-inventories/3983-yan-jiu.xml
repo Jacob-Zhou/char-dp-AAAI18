@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="研究-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to consider, to look into" group="1">
+<commentary>
+</commentary>
+<examples>
+法 正 研究 从 波黑 撤军 计划
+有的 跨国 公司 已经 或 正在 研究 将 其 地区 总部 移 至 中国
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+
+<sense n="2" type="" name="to discuss, to revise" group="1">
+<commentary>
+</commentary>
+<examples>
+於是 ， 吴 医生 初步 构思 了 曲调 ， 再 与 董太 研究 後 谱成 《 回归颂 》
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to study, to investigate" group="1">
+<commentary>
+</commentary>
+<examples>
+由 浙江 医科院 院长 、 中国 科学 院士 毛江森 主持 在 世界 上 率先 研究 成功 ， 并 具有 国际 先进 水平 的 甲肝 减毒 活 疫苗
+他们 计划 在 ２０００年 前 研究 出 ０．１５ 微米 加工 技术 ， 然后 再 进一步 研究 ０．１３ 微米 的 加工 技术
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="a reseach (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+在野党 的 中国 国民党 智库 ―― 国家 政策 研究 基金会 今天 １７号 召开 当前 财经 政策 座谈
+中共 社会 科学院 研究员 周精英 的 一 个 最新 研究 报告
+加拿大 的 研究 人士 发现 愉快 的 婚姻 可以 延年益寿
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="388" ann_1_2_agreement="0.863402061856" />
+</inventory>

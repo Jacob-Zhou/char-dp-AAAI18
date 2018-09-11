@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="紧张-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="tense, strained" group="1">
+<commentary>
+</commentary>
+<examples>
+那里 的 形势 日趋 紧张
+例如 说 隔代 关系 不 像 亲代 关系 那样 紧张 、 那么 直接 而 仓促
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="anxious, nervous" group="1">
+<commentary>
+</commentary>
+<examples>
+于是 我 紧张 起来 了
+佳欣 佳慧 对 之後 美国 研究所 的 任何 讨论 辩论 都 不 再 紧张
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="urgent, intense" group="1">
+<commentary>
+</commentary>
+<examples>
+第一 个 连接 东西 海岸 铁路 系统 的 计划 正 在 紧张 策划 之中 … …
+记者 近日 驱车 到 广西 防城港 、 钦州 、 北海 、 湛江 等 市 采访 ， 看到 随着 南昆 铁路 的 开通 运营 ， 北部湾 畔 这 四 座 港口 城市 ， 码头 上 货物 装卸 紧张 繁忙 ， 海岸 边 一 批 新 码头 加紧 兴建 ， 到处 千 帆 竞 发 ， 一片生机 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="scarce, in short supply" group="1">
+<commentary>
+</commentary>
+<examples>
+安徽 电台 披露 说 ， 造成 这 一 状况 的 直接 原因 并不 是 经费 紧张 ， 而 是 副业 太 多 。
+第六 水源 新建 工程 利用 外资 近 两千万 元 ， 供水 能力 可 达 十五万 吨 日 ， 将 极 大 地 缓解 西宁市 的 供水 紧张 状况 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="102" ann_1_2_agreement="0.901960784314" />
+</inventory>

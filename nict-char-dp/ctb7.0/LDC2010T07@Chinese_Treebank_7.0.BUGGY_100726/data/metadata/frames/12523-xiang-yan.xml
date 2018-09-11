@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 相验 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 examines"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 检察官))
+                    (VP (VV 相验))) 
+                    
+                </parse>
+                <arg n="0">
+                    检察官          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

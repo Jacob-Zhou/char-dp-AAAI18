@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加盖 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="appendage"/>
+        <role argnum="2" argrole="building that arg1 is appended to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 层)))
+                    (NP (NN 平房)
+                    (NN 商铺)))
+                    (VP (VP (VV 加盖)
+                    (QP-OBJ (CD 三)
+                    (CLP (M 层)))) 
+                    
+                </parse>
+                <arg n="2">
+                    一 层 平房 商铺          
+                </arg>
+                <arg n="1">
+                    三 层          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="seal"/>
+        <role argnum="2" argrole="place that arg0 affixes arg1 on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 邮政)
+                    (NN 总局))
+                    (VP (ADVP (AD 已经))
+                    (VP (VV 授权)
+                    (NP-OBJ (NN 邮屋市))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 诈骗)
+                    (NN 信函))
+                    (LC 上)))
+                    (VP (VV 加盖)
+                    (NP-OBJ (NN 警语)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="2">
+                    在 诈骗 信函 上          
+                </arg>
+                <arg n="1">
+                    警语          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

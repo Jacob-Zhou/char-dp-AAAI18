@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 藏匿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity hidden"/>
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 米洛舍维奇))
+                    (VP (VP (NP-TMP (NT 现在))
+                    (VP (VV 藏匿)
+                    (PP (P 在)
+                    (NP (DNP (NP (NP-PN (NR 塞尔维亚))
+                    (NP (NN 东南部)))
+                    (DEG 的))
+                    (NP (NN 边界)
+                    (NN 地带))) 
+                    
+                </parse>
+                <arg n="1">
+                    米洛舍维奇          
+                </arg>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="2">
+                    在 塞尔维亚 东南部 的 边界 地带          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

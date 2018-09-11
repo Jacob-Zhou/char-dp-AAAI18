@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 乘座 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="vehicle"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 乘客))
+                    (VP (VP (VV 乘座)
+                    (NP-OBJ (ADJP (JJ 小))
+                    (NP (NN 火车)))) 
+                    
+                </parse>
+                <arg n="0">
+                    乘客          
+                </arg>
+                <arg n="1">
+                    小 火车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

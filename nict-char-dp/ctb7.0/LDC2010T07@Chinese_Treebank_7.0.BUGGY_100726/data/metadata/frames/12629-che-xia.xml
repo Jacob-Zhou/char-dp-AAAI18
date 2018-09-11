@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扯下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 tears down"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (VP (VV 扯下)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP-PN (NR 巴勒斯坦))
+                    (DEG 的))
+                    (NP (NN 旗帜)))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="1">
+                    巴勒斯坦 的 旗帜          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

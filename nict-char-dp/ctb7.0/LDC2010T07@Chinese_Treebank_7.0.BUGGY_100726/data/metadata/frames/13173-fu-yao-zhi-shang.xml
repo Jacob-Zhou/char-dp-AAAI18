@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扶摇直上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-TPC (NR 米洛舍维奇))
+                    (ADVP (AD 后来))
+                    (NP-SBJ (DNP (PP (P 在)
+                    (LCP (NP (NN 党))
+                    (LC 内)))
+                    (DEG 的))
+                    (NP (NN 势力)))
+                    (IP-ADV (NP (-NONE- *pro*))
+                    (VP (VV 可以)
+                    (VP (VV 说))))
+                    (VP (VC 是)
+                    (VP (VV 扶摇直上)))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    米洛舍维奇          
+                </arg>
+                <arg n="m" f="tmp">
+                    后来          
+                </arg>
+                <arg n="0" f="pse">
+                    在 党 内 的 势力          
+                </arg>
+                <arg n="m" f="adv">
+                    可以 说          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

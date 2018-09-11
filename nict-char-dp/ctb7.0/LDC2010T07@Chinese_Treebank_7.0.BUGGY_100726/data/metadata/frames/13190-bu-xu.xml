@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不许 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party not allowed"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (LCP (QP (CD ４５)
+                    (CLP (M 岁)))
+                    (LC 以下))
+                    (DEG 的))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 一律))
+                    (VP (VV 不许)
+                    (VP (VV 入内)))) 
+                    
+                </parse>
+                <arg n="1">
+                    ４５ 岁 以下 的 人          
+                </arg>
+                <arg n="m" f="adv">
+                    一律          
+                </arg>
+                <arg n="2">
+                    入内          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

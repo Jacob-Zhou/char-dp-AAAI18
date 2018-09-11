@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 难过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 失去)
+                    (NP-OBJ (NN 妈妈))))
+                    (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 很))
+                    (VP (VA 难过)))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    失去 妈妈          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    很          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

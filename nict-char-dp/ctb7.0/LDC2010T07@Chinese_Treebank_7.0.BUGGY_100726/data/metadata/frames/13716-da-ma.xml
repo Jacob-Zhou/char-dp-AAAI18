@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 大骂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="criticizer"/>
+        <role argnum="1" argrole="thing criticized"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (ADVP (AD 将近))
+                    (QP (CD １００多)
+                    (CLP (M 个))))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 失业)))
+                    (DEC 的)))
+                    (NP (NN 员工)))
+                    (VP (NP-TMP (NT 今天))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 工厂)))
+                    (VP (VV 抗议))
+                    (PU ，)
+                    (VP (VV 大骂)
+                    (IP-OBJ (NP-SBJ (NN 老板))
+                    (VP (ADVP (AD 真))
+                    (VP (VE 没)
+                    (NP-OBJ (NN 良心))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    将近 １００多个 失业 的 员工          
+                </arg>
+                <arg n="m" f="tmp">
+                    今天          
+                </arg>
+                <arg n="1">
+                    老板 真 没 良心          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

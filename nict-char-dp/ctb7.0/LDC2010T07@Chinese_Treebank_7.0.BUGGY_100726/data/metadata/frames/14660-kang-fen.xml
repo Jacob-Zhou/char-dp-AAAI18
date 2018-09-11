@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 亢奋 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 到是))
+                    (NP-TPC (NN 媒体)
+                    (NN 记者))
+                    (NP-SBJ (NN 情绪))
+                    (VP (ADVP (AD 相当))
+                    (VP (VA 亢奋)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    到是          
+                </arg>
+                <arg n="0" f="psr">
+                    媒体 记者          
+                </arg>
+                <arg n="0" f="pse">
+                    情绪          
+                </arg>
+                <arg n="m" f="adv">
+                    相当          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

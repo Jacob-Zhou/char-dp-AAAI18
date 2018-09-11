@@ -1,0 +1,23 @@
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 4 gold 涉嫌-v 涉嫌.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 6 gold 可能-v 可能.01 ----- 6:0-rel
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 7 gold 遭到-v 遭到.01 ----- 7:0-rel 2:1-ARGM-PRP 8:1-ARG1 0:0*0:1*12:1*1:0*1:1-ARG0
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 14 gold 表示-v 表示.01 ----- 14:0-rel 0:3-ARG0 13:1-ARGM-TMP 16:2-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 18 gold 婉拒-v 婉拒.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV 19:5-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 21 gold 要求-v 要求.02 ----- 21:0-rel 19:2-ARG0 22:1-ARG1 23:2-ARG2
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 25 gold 辞职-v 辞职.01 ----- 25:0-rel 23:1-ARG0 24:1-ARGM-ADV
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 0 28 gold 换取-v 换取.01 ----- 28:0-rel 23:1-ARG0 29:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 1 7 gold 通过-v 通过.01 ----- 7:0-rel 0:2-ARG0 4:1-ARGM-ADV 5:1-ARGM-TMP 8:4-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 1 12 gold 送交-v 送交.01 ----- 12:0-rel 8:1-ARG0 10:1-ARG1 13:2-ARG2
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 2 6 gold 要求-v 要求.02 ----- 6:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-TMP 7:1-ARG1 8:2-ARG2
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 2 11 gold 涉嫌-v 涉嫌.01 ----- 11:0-rel 10:1-ARG0 12:3-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 2 21 gold 出卖-v 出卖.01 ----- 21:0-rel 14:1-ARG0 22:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 2 25 gold 展开-v 展开.01 ----- 25:0-rel 8:1-ARG0 26:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 3 2 gold 足以-v 足以.01 ----- 2:0-rel 0:2-ARG0 3:2-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 3 4 gold 让-v 让.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1 6:2-ARG2
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 3 7 gold 入狱-v 入狱.01 ----- 7:0-rel 6:1-ARG0
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 4 5 gold 表决-v 表决.01 ----- 5:0-rel
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 4 6 gold 通过-v 通过.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-MNR 7:2-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 4 8 gold 罢免-v 罢免.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 4 14 gold 搜集-v 搜集.01 ----- 14:0-rel 12:1-ARG0 11:0*11:1*15:0*15:1*17:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 4 22 gold 用来-v 用来.01 ----- 22:0-rel 23:2-ARG2 20:0*20:1*21:0*21:1*27:1-ARG1
+bn/cbs/00/cbs_0075@0075@cbs@bn@ch@on 4 24 gold 起诉-v 起诉.01 ----- 24:0-rel 23:1-ARG0 25:1-ARG1

@@ -1,0 +1,85 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 办成 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 已))
+                    (VP (VV 办成))))
+                    (DEC 的)))
+                    (NP (NN 项目)))) 
+                    
+                </parse>
+                <arg n="0">
+                    (*T*-2)->(项目) 	  
+                </arg>
+                <arg n="M" f="ADV">
+                    已 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="result"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VP (VV 利用)
+                    (NP-OBJ (DNP (NP-PN (NR 厦门)
+                    (PU 、)
+                    (NR 深圳)
+                    (CC 和)
+                    (NR 珠海))
+                    (DEG 的))
+                    (NP (NN 区位)
+                    (NN 优势))))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 特区))
+                    (VP (VV 办成)
+                    (NP-OBJ (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 内地))
+                    (VP (PP-LOC (-NONE- *T*-1))
+                    (PP-ADV (P 与)
+                    (NP (NP-PN (NR 台)
+                    (NR 港)
+                    (NR 澳))
+                    (NP (NN 地区))))
+                    (VP (VV 交往))))
+                    (DEC 的)))
+                    (NP (NN 桥头堡))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro 	  
+                </arg>
+                <arg n="1">
+                    特区 	  
+                </arg>
+                <arg n="2">
+                    内地 与 台 港 澳 地区 交往 的 桥头堡 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

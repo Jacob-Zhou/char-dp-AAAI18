@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 半毁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 两)
+                    (CLP (M 辆)))
+                    (NP (NN 轿车)))
+                    (VP (ADVP (AD 几乎))
+                    (VP (VV 半毁)))) 
+                    
+                </parse>
+                <arg n="0">
+                    两 辆 轿车          
+                </arg>
+                <arg n="m" f="adv">
+                    几乎          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

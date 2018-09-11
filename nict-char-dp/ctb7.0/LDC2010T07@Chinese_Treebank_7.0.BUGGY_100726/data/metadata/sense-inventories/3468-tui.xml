@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="推-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to push, to push forward" group="1">
+<commentary>
+</commentary>
+<examples>
+只要 双方 在 相互 尊重 、 平等 相 待 、 求 同 存 异 的 基础 上 ， 通过 对话 而不是 对抗 解决 分歧 ， 正确 把握 大局 ， 不断 排除 各 种 干扰 ， 中 美 关系 就能 推 向前 进
+长江 后浪 推 前浪
+推 着 轮椅 ， 照护 着 年迈 双亲
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to promote" group="1">
+<commentary>
+</commentary>
+<examples>
+调高 团费 ， 乏人问津 ， 维持 原价 ， 利润 又 太 低 ， 许多 旅行社 干脆 不 再主 推 这 条 线
+去年 明基 企业 转投资 的 「 酷才网 」 也 同时 发行 「 酷才 周报 」 ， 但 推 了 三 个 月 ， 钱 就 烧完 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to deduce, to infer" group="1">
+<commentary>
+</commentary>
+<examples>
+西元 一千年 ， 倒 推 回去 ， 可 说 是 历史 上 的 第二 个 千禧年
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to choose, to nominate, to elect" group="1">
+<commentary>
+</commentary>
+<examples>
+而 两 岸 政治 僵局 中 可 被 双方 接受 的 契合点 ， 也 首 推 两 岸 经贸 的 交流
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搭载 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="vehicle described"/>
+        <role argnum="0" argrole="entity arg0 carries"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (DP (DT 另)
+                    (QP (CD 一)
+                    (CLP (M 艘))))
+                    (NP (NN 船只)))
+                    (VP (PP-MNR (P 根据)
+                    (NP (NN 了解)))
+                    (NP-LOC (NN 上面))
+                    (VP (VRD (VV 搭载)
+                    (AS 着)
+                    (VE 有))
+                    (NP-OBJ (QP (CD ８０)
+                    (CLP (M 名)))
+                    (NP (NN 船客))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    另 一 艘 船只          
+                </arg>
+                <arg n="m" f="mnr">
+                    根据了解          
+                </arg>
+                <arg n="m" f="loc">
+                    上面          
+                </arg>
+                <arg n="1">
+                    ８０ 名 船客          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

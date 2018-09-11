@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 减缓 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <role argnum="1" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NN 效益))
+                    (VP (PP-MNR (-NONE- *T*-1))
+                    (VP (VV 下滑))))
+                    (DEC 的)))
+                    (NP (NN 速度)))
+                    (VP (ADVP (AD 已经))
+                    (ADVP (AD 在))
+                    (VP (VV 减缓)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *OP* 效益 *T*-1 下滑 的 速度 	  
+                </arg>
+                <arg n="m" f="adv">
+                    已经 	  
+                </arg>
+                <arg n="m" f="adv">
+                    在 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="npobj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 减缓)
+                    (NP-OBJ (DNP (LCP (NP (PN 双方))
+                    (LC 之间))
+                    (DEG 的))
+                    (NP (NN 会谈)
+                    (CC 和)
+                    (NN 合作)
+                    (NN 活动)))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    双方之间 的 会谈 和 合作 活动	  
+                </arg>
+                <arg n="1">
+                    *PRO*	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

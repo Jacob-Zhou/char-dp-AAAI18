@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="要求-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to ask for, to demand, tor request" group="1">
+<commentary>
+</commentary>
+<examples>
+每 表演 完 一 个 动作 ， 警犬们 就 撒娇 的 摇 着 尾巴 ， 向 战士 要求 抚摸 和赞许 。
+对 此 ， 天津市 外经贸委 要求 各 有关 部门 坚持 依法 协调 企业 纠纷 ， 提高 服务 质量 。
+５６％ 的 法国人 要求 立即 停战
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to pursue" group="1">
+<commentary>
+</commentary>
+<examples>
+对 艺术 要求 完美
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="requirement, request(used as a noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+报社 、 电视 记者 的 训练 、 要求 不同
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="462" ann_1_2_agreement="0.952380952381" />
+</inventory>

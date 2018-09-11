@@ -1,0 +1,61 @@
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 3 gold 跌-v 跌.01 ----- 3:0-rel 0:1-ARGM-TMP 1:1-ARG0 2:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 6 gold 是-v 是.01 ----- 6:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 7 gold 借-v 借.02 ----- 7:0-rel 0:2-ARGM-ADV 4:2-ARG2 8:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 9 gold 玩-v 玩.01 ----- 9:0-rel 0:2-ARGM-ADV 4:2-ARG0 10:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 11 gold 可以-v 可以.01 ----- 11:0-rel 0:2-ARGM-ADV 4:2-ARG0 12:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 12 gold 说-v 说.01 ----- 12:0-rel 0:2-ARGM-ADV 4:2-ARG0 13:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 14 gold 是-v 是.01 ----- 14:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 15 gold 赔-v 赔.01 ----- 15:0-rel 13:1-ARG0 17:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 20 gold 有-v 有.05 ----- 20:0-rel 19:1-ARG0 21:3-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 29 gold 工作-v 工作.01 ----- 29:0-rel 25:1-ARGM-LOC 23:0*23:1*24:0*24:1*31:1-ARG0
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 34 gold 解决-v 解决.01 ----- 34:0-rel 33:1-ARG0 35:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 38 gold 异想天开-v 异想天开.01 ----- 38:0-rel 21:2-ARGM-TPC 32:1-ARGM-PRP 37:1-ARG0
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 0 45 gold 卖-v 卖.01 ----- 45:0-rel 21:2,37:1-ARG0 32:1-ARGM-PRP 40:1-ARGM-ADV 41:1-ARGM-LOC 44:1-ARGM-ADV 46:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 8 gold 出现-v 出现.01 ----- 8:0-rel 0:4-ARG0 6:1-ARGM-TMP 7:1-ARGM-ADV 10:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 13 gold 卖-v 卖.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 23 gold 发现-v 发现.01 ----- 23:0-rel 19:1-ARG0 20:1-ARGM-TMP 24:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 26 gold 是-v 是.01 ----- 26:0-rel 24:1-ARG0 25:1-ARGM-ADV 27:4-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 43 gold 染-v 染.01 ----- 43:0-rel 40:1*41:1-ARG1 42:1-ARGM-LOC 45:1-ARG2
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 58 gold 是-v 是.01 ----- 58:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 59 gold 担任-v 担任.01 ----- 59:0-rel 54:1-ARG0 55:1-ARGM-LOC 60:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 64 gold 分配-v 分配.01 ----- 64:0-rel 54:1-ARG2 63:1-ARGM-ADV 66:3-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 65 gold 到-v 到.01 ----- 65:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 73 gold 借-v 借.02 ----- 73:0-rel 54:1-ARG2 71:1-ARGM-DIS 72:1-ARGM-DIS 74:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 75 gold 买-v 买.01 ----- 75:0-rel 54:1-ARG0 71:1-ARGM-DIS 72:1-ARGM-DIS 76:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 81 gold 跌-v 跌.01 ----- 81:0-rel 79:1-ARG0 80:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 86 gold 逼得-v 逼得.01 ----- 86:0-rel 85:1-ARG0 87:2-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 88 gold 紧-v 紧.01 ----- 88:0-rel 87:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 94 gold 生病-v 生病.01 ----- 94:0-rel 93:1-ARG0
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 96 gold 工作-v 工作.01 ----- 96:0-rel 89:1-ARGM-DIS 90:2-ARG0 91:1-ARGM-DIS 92:1-ARGM-PRP 95:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 102 gold 陷入-v 陷入.01 ----- 102:0-rel 36:3-ARG0 53:1-ARGM-PRP 78:1-ARGM-TMP 84:1-ARGM-PRP 89:2-ARGM-PRP 98:4-ARG0 104:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 114 gold 决定-v 决定.01 ----- 114:0-rel 106:1-ARGM-LOC 112:1-ARGM-ADV 113:1-ARG0 115:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 116 gold 要-v 要.05 ----- 116:0-rel 115:1-ARG0 117:2-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 117 gold 卖-v 卖.01 ----- 117:0-rel 115:1-ARG0 118:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 1 120 gold 解决-v 解决.01 ----- 120:0-rel 115:1-ARG0 121:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 3 gold 是-v 是.01 ----- 3:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 6 gold 逼-v 逼.02 ----- 6:0-rel 1:1-ARG1 2:1-ARGM-TMP 5:1-ARG0
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 7 gold 急-v 急.01 ----- 7:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 13 gold 能够-v 能够.01 ----- 13:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 14 gold 想到-v 想到.01 ----- 14:0-rel 12:1-ARG0 11:0*11:1*15:0*15:1*17:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 19 gold 是-v 是.01 ----- 19:0-rel 10:1-ARGM-DIS 11:3-ARG0 18:1-ARGM-ADV 20:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 21 gold 卖-v 卖.01 ----- 21:0-rel 20:1-ARG0 22:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 25 gold 希望-v 希望.02 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 27 gold 能够-v 能够.01 ----- 27:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 29 gold 解决-v 解决.01 ----- 29:0-rel 26:1-ARG0 30:3-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 2 35 gold 卖-v 卖.01 ----- 35:0-rel 26:1-ARG0 36:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 3 gold 突发奇想-v 突发奇想.01 ----- 3:0-rel 1:1-ARG0
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 7 gold 认为-v 认为.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-DIS 8:3-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 9 gold 是-v 是.01 ----- 9:0-rel 8:1-ARG0 10:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 18 gold 可以-v 可以.01 ----- 18:0-rel 14:2-ARG0 17:1-ARGM-ADV 19:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 19 gold 卖-v 卖.01 ----- 19:0-rel 14:2-ARG0 17:1-ARGM-ADV 20:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 25 gold 说-v 说.01 ----- 25:0-rel 23:1-ARG0 24:1-ARGM-ADV 26:3-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 28 gold 能-v 能.01 ----- 28:0-rel 27:1-ARG0 29:1-ARGM-ADV
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 35 gold 卖给-v 卖给.01 ----- 35:0-rel 26:1-ARGM-DIS 27:1-ARG0 36:1-ARG2 30:2*37:0*37:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 43 gold 帮助-v 帮助.01 ----- 43:0-rel 42:1-ARG0 44:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 49 gold 卖-v 卖.01 ----- 49:0-rel 47:1-ARG0 48:1-ARGM-ADV 50:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 51 gold 可能-v 可能.01 ----- 51:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 52 gold 触犯-v 触犯.01 ----- 52:0-rel 46:1-ARGM-ADV 47:2-ARG0 53:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 57 gold 说-v 说.01 ----- 57:0-rel 55:1-ARG0 59:2-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 61 gold 需要-v 需要.01 ----- 61:0-rel
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 62 gold 用-v 用.01 ----- 62:0-rel 59:1-ARG0 60:1-ARGM-ADV 63:1-ARG1
+bn/cts/00/cts_0059@0059@cts@bn@ch@on 3 66 gold 想到-v 想到.01 ----- 66:0-rel 59:1-ARG0 64:1-ARGM-ADV 65:1-ARGM-ADV 67:2-ARG1

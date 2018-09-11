@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="恢复-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="resume, renew" group="1">
+<commentary>VV</commentary>
+<examples>
+工厂恢复运作。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="recover one's health, etc." group="1">
+<commentary>VV</commentary>
+<examples>
+他的身体正慢慢地恢复。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="restore, reinstate,rehabilitate " group="1">
+<commentary>VV,NN</commentary>
+<examples>
+公司的主管正在想办法恢复公司的名誉。
+中法两国贸易关系得到了恢复和发展。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="14" ann_1_2_agreement="0.785714285714" />
+</inventory>

@@ -1,0 +1,70 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 栓在 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 农场主))
+                    (VP (VP (ADVP (AD 曾经))
+                    (PP-LOC (P 在)
+                    (LCP (NP (NP-PN (NR 堪培拉))
+                    (NP-PN (NR 美国))
+                    (NP (NN 大使馆)))
+                    (LC 前)))
+                    (VP (VV 举行)
+                    (AS 过)
+                    (NP-OBJ (NN 示威)
+                    (NN 抗议)
+                    (NN 活动))))
+                    (PU ，)
+                    (VP (ADVP (AD 并))
+                    (PP-LOC (P 在)
+                    (NP (NP-APP (NP-PN (NR 美国))
+                    (NP (NN 首都)))
+                    (NP-PN (NR 华盛顿))))
+                    (PU ，)
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (QP (CD 一)
+                    (CLP (M 头)))
+                    (NP (NN 羊)))
+                    (VP (VP (VV 栓在)
+                    (AS 了)
+                    (LCP-OBJ (NP (DNP (NP-PN (NR 白宫))
+                    (DEG 的))
+                    (NP (NN 栅栏)))
+                    (LC 上)))
+                    (VP (VV 以示)
+                    (NP-OBJ (NN 抗议)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    农场主          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="m" f="loc">
+                    在 美国 首都 华盛顿          
+                </arg>
+                <arg n="1">
+                    一 头 羊          
+                </arg>
+                <arg n="2">
+                    白宫 的 栅栏 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

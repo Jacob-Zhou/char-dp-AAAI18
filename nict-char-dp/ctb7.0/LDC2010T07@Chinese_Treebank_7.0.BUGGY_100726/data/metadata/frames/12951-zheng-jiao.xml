@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 征缴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing collected"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 到)
+                    (LCP (NP (NT 去年))
+                    (LC 底)))
+                    (PU ，)
+                    (NP-SBJ (DP (DT 全))
+                    (NP (NN 市)))
+                    (VP (ADVP (AD 共))
+                    (VP (VV 征缴)
+                    (NP-OBJ (NP (NN 企业))
+                    (ADJP (JJ 基本))
+                    (NP (NN 养老)
+                    (NN 保险金)))
+                    (QP-EXT (CD ５．３亿)
+                    (CLP (M 元))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    到 去年 底          
+                </arg>
+                <arg n="0">
+                    全 市          
+                </arg>
+                <arg n="m" f="adv">
+                    共          
+                </arg>
+                <arg n="1">
+                    企业 基本 养老 保险金          
+                </arg>
+                <arg n="1" f="qty">
+                    ５．３亿 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

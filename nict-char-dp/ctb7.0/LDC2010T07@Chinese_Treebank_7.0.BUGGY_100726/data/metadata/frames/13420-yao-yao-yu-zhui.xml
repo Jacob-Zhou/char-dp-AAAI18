@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 摇摇欲堕 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (NP-3 (-NONE- *pro*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 摇摇欲堕)))
+                    (DEC 的)))
+                    (NP (NN 木头)
+                    (NN 桥))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 木头 桥          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

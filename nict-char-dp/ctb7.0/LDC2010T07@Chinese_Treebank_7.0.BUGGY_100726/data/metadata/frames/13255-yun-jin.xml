@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 运进 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing moved"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 卡里诺斯))
+                    (NP (NN 一伙)))
+                    (VP (ADVP (AD 还))
+                    (ADVP (AD 为此))
+                    (ADVP (AD 暗地里))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 武器)
+                    (CC 和)
+                    (NN 炸药))
+                    (VP (VV 运进)
+                    (AS 了)
+                    (NP-PN-OBJ (NR 巴拿马)))) 
+                    
+                </parse>
+                <arg n="0">
+                    卡里诺斯 一伙          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="m" f="prp">
+                    为此          
+                </arg>
+                <arg n="m" f="adv">
+                    暗地里          
+                </arg>
+                <arg n="1">
+                    武器 和 炸药          
+                </arg>
+                <arg n="2">
+                    巴拿马          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="犯-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to commit (crime), to make (mistake)" group="1">
+<commentary>
+</commentary>
+<examples>
+郭辉 犯 故意 杀 人 罪 、 抢劫罪
+未来 犯 最 轻 本刑 为 五 年 以上 有期 徒刑 之 重罪 者
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to attack" group="1">
+<commentary>
+</commentary>
+<examples>
+在 文 中 ， 林中斌 说明 中共 犯 台 的 七 种 可能 步骤
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to violate (law), to offend (somebody)" group="1">
+<commentary>
+</commentary>
+<examples>
+打 「 恐惧 牌 」 ， 犯 了 大忌
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to happen, to reoccur (an old disease or bad habit)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

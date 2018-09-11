@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 照耀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing shining"/>
+        <role argnum="1" argrole="entity illuminated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (DNP (NP (DNP (NP (NN 党))
+                    (DEG 的))
+                    (ADJP (JJ 民主))
+                    (NP (NN 政策)))
+                    (DEG 的))
+                    (NP (NN 光辉)))
+                    (VP (VV 照耀))) 
+                    
+                </parse>
+                <arg n="0">
+                    党 的 民主 政策 的 光辉          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

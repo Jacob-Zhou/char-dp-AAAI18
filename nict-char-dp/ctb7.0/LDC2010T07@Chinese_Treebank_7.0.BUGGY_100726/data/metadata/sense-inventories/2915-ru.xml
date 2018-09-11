@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="入-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to enter" group="1">
+<commentary>
+</commentary>
+<examples>
+同时 ， 新加坡 华侨 银行 、 澳大利亚 国卫 人寿 保险 公司 等 九 家 外资 金融 机构 相继 入 川 落户
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to join, to become a member of (a group,
+organization, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+十 年 前 我们 一 家 四 口 来 此 ， 女儿 刚 满 十 岁 ， 儿子 初 入 小学
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="1.0" />
+</inventory>

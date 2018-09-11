@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搬家 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity moving"/>
+        <role argnum="1" argrole="place arg0 moves to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-HLN (NP-SBJ (ADJP (JJ 穷))
+                    (NP (NN 人)))
+                    (VP (VV 怕)
+                    (NP-OBJ (NN 搬家)))) 
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

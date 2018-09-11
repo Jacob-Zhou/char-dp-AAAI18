@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 接头 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="business that arg0 engages in"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-ADV (P 和)
+                    (NP (DP (DT 其他))
+                    (NP (NN 毒虫))))
+                    (VP (VV 接头))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="0" f="crd">
+                    和 其他 毒虫          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

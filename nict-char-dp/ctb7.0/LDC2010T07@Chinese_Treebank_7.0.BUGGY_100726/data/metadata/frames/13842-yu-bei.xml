@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 预备 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="preparer"/>
+        <role argnum="1" argrole="thing prepared"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 预备)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 打捞)
+                    (NP-OBJ (DNP (NP (LCP (NP (NN 潜艇))
+                    (LC 上))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 罹难))))
+                    (NP (NN 船员)))
+                    (DEG 的))
+                    (NP (NN 尸体))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    打捞 潜艇 上 罹难 船员 的 尸体           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

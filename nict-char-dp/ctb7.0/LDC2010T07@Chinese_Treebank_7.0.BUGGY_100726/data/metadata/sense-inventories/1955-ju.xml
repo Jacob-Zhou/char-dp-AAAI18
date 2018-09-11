@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="举-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to bring up, to point out, to cite" group="1">
+<commentary>
+</commentary>
+<examples>
+他 举 例 说 ， 过去 台资 企业 的 高级 雇员 到 国外 经商 需要 回 台湾 办理 手续
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to lift up, to raise" group="1">
+<commentary>
+</commentary>
+<examples>
+近 几 天 来 ， 长春市 九冬会 各 赛场 周围 ， 到处 可以 看到 举 着 队旗 的 大学生 志愿们
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to use up" group="1">
+<commentary>
+</commentary>
+<examples>
+王翔 举 全力 投资 一点二亿 元 人民币 兴建 防洪 工程
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to hold, to promote, to conduct, to push forward" group="1">
+<commentary>
+</commentary>
+<examples>
+制定 出 “ 稳定 东部 、 发展 西部 、 油 气 并 举 ” 的 陆上 石油 工业 发展 战略
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="action, movement, behavior" group="1">
+<commentary>
+</commentary>
+<examples>
+此 举 将 对 兴建 中 的 高铁 、 中正 机场 捷运 等 进度 受阻 的 BOT案 ， 带来 利多
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="12" ann_1_2_agreement="0.916666666667" />
+</inventory>

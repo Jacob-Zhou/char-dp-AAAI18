@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加派 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party arg0 sends"/>
+        <role argnum="2" argrole="thing arg0 sends arg1 to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    ((VP (ADVP (AD 立刻))
+                    (VP (VV 加派)
+                    (NP-OBJ (NN 警力))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 前往)
+                    (NP-OBJ (NN 边境)))
+                    (VP (VV 加强)
+                    (NP-OBJ (NN 保护))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    警力          
+                </arg>
+                <arg n="2">
+                    前往 边境 加强 保护          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

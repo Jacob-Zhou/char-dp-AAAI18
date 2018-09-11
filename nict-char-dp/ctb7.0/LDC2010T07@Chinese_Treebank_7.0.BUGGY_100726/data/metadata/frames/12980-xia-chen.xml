@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 下沉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="end point"/>
+        <role argnum="2" argrole="starting point"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (DP (DT 上))
+                    (NP (NN 星期)))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 也门)))
+                    (VP (VV 发生)
+                    (NP-OBJ (ADJP (JJ 致命))
+                    (NP (NN 爆炸)
+                    (NN 事件))))))
+                    (DEC 的)))
+                    (NP-PN (NR 美国))
+                    (NP (NN 驱逐舰)))
+                    (VP (PP-TMP (P 在)
+                    (LCP (NP (IP-APP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 遭到)
+                    (NP-OBJ (NN 恐怖主义)
+                    (NN 袭击))))
+                    (QP (CD 几)
+                    (CLP (M 个)))
+                    (NP (NN 小时)))
+                    (LC 以后)))
+                    (ADVP (AD 差一点))
+                    (VP (VV 下沉))) 
+                    
+                </parse>
+                <arg n="0">
+                    上 星期 在 也门 发生 致命 爆炸 事件 的 美国 驱逐舰          	  
+                </arg>
+                <arg n="m" f="tmp">
+                    在 遭到 恐怖主义 袭击 几 个 小时 以后          	  
+                </arg>
+                <arg n="m" f="adv">
+                    差一点           	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 潜艇))
+                    (VP (VRD (VV 下沉)
+                    (VV 到))
+                    (NP-OBJ (NN 海底)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    潜艇          	  
+                </arg>
+                <arg n="1">
+                    海底          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="法律	33403-fa-lv-n">
+<commentary></commentary>
+<sense n="1" name="法律, law," group="" type="">
+<commentary>Arule made by a government that states how people may and may not behave in society and in business, and that oftern orders particular punishments if they do not obey, or a system of such rules.</commentary><examples>律师事务所
+law office
+
+法律冲突
+conflict of law
+
+法律范围
+scope of law
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="法律, legal," group="" type="">
+<commentary>The fact or state of being allowed by law or connected with law.</commentary><examples>法律代理人
+legal agent
+
+法律服务
+legal services
+
+法律关系
+legal relation
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

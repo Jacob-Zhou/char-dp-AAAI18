@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 围殴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient that arg0 beats up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 嫌犯))
+                    (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (NN 被害人))
+                    (VP (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (PP-LOC (P 在)
+                    (NP (NN ｋｔｖ)))
+                    (VP (VV 唱歌))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (VP (VV 瞄)
+                    (AS 了)
+                    (NP-OBJ (PN 对方))
+                    (ADVP (AD 一眼))))))
+                    (ADVP (AD 就))
+                    (VP (VV 围殴)
+                    (NP-OBJ (NN 被害人))))) 
+                    
+                </parse>
+                <arg n="0">
+                    嫌犯          
+                </arg>
+                <arg n="m" f="prp">
+                    被害人 在 ｋｔｖ 唱歌 的 时候 瞄 了 对方 一眼          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <arg n="1">
+                    被害人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

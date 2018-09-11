@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 忏悔 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="sin"/>
+        <role argnum="2" argrole="party that arg0 confesses arg1 to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 位)))
+                    (DNP (QP (CD ３０多)
+                    (CLP (M 岁)))
+                    (DEG 的))
+                    (NP (NN 女子)))
+                    (VP (ADVP (AD 常))
+                    (VP (VP (VV 来到)
+                    (NP-OBJ (NN 庙)
+                    (NN 里头)))
+                    (VP (VV 去)
+                    (VP (VCD (VV 忏悔)
+                    (VV 哭泣))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一  ３０多 岁 的 女子           
+                </arg>
+                <arg n="m" f="adv">
+                    常          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

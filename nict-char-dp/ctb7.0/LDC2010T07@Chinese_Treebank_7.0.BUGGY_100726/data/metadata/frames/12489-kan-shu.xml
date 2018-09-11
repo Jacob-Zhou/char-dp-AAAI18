@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 看书 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 大家))
+                    (VP (DVP (ADVP (AD 多多))
+                    (DEV 地))
+                    (VP (VV 看书))))) 
+                    
+                </parse>
+                <arg n="0">
+                    大家          
+                </arg>
+                <arg n="m" f="adv">
+                    多多 地          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

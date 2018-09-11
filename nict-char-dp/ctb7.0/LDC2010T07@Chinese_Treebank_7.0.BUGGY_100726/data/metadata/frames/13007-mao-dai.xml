@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 冒贷 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="money borrowed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (-NONE- *PRO*))
+                    (VP (VP (VP (VV 利用)
+                    (NP-OBJ (NN 客户)))
+                    (VP (VV 当)
+                    (NP-OBJ (NN 人头))))
+                    (PU ，)
+                    (VP (VV 冒贷)
+                    (QP-OBJ (CD １９００多万))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    １９００多万          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

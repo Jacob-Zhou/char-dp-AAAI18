@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 迁出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity moved out"/>
+        <role argnum="2" argrole="moved out from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 澳门)
+                    (NN 特区))
+                    (NP (NP (NP (NN 行政)
+                    (NN 长官))
+                    (NP (NN 办公室)))
+                    (PU 、)
+                    (NP (NP (DP (DT 各))
+                    (NP (NN 司长)))
+                    (NP (NN 办公室)))
+                    (PU 、)
+                    (NP (NN 行政会))
+                    (CC 以及)
+                    (NP (NN 政府)
+                    (NN 总部))
+                    (PU 、)
+                    (NP (ADJP (JJ 辅助))
+                    (NP (NN 部门)))))
+                    (VP (ADVP (AD 将))
+                    (PP-TMP (P 从)
+                    (LCP (NP (NT ３０号))
+                    (LC 起)))
+                    (VP (VP (PP-DIR (P 从)
+                    (NP (DNP (ADJP (JJ 原来))
+                    (DEG 的))
+                    (ADJP (JJ 临时))
+                    (NP (NN 办公处))))
+                    (VP (VV 迁出))) 
+                    
+                </parse>
+                <arg n="1">
+                    澳门 特区 行政 长官 办公室 、 各 司长 办公室 、 行政会 以及 政府 总部 、 辅助 部门          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="tmp">
+                    从 ３０号 起          
+                </arg>
+                <arg n="2">
+                    从 原来 的 临时 办公处          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

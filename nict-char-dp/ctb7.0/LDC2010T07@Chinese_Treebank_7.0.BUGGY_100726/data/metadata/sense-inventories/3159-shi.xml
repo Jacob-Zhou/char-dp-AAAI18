@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="试-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to test, to experiment" group="1">
+<commentary>
+</commentary>
+<examples>
+好奇 的 姑娘们 更 把 纤手 伸入 温泉 中 去 试 温 ， 却 被 烫 得 尖声 怪叫
+果然 有 过去 战场 老手 国民党 政府 未 曾 试 过 的 高招 吗
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to make an effort to do something" group="1">
+<commentary>
+</commentary>
+<examples>
+澳门人 也 在 试 着 找 认同
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="test, examination" group="1">
+<commentary>
+</commentary>
+<examples>
+刚好 赶上 第一 届 免 试 升 国中 的 张 小姐 回忆
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="1.0" />
+</inventory>

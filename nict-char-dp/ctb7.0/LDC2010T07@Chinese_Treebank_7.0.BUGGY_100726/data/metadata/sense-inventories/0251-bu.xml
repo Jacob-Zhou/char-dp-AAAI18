@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="补-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to supplement, to supply, to complement, to make up for" group="1">
+<commentary>
+</commentary>
+<examples>
+自 一九九九年 一月 一日 起 ， 香港 、 澳门 中旅社 开始 接受 通行证 的 申请 ， 十五日 将 签发 出 第一 批 证件 ， 在 此 期间 如 有 急 需 换 、 补 证件 的 ， 将 签发 入出境 通行证 。
+一 枚 「 多 读 补 多 忘 」 的 闲章
+但 气度 可以 补 其 不足
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to mend, to patch, to repair" group="1">
+<commentary>
+</commentary>
+<examples>
+补 屋顶 、 做 水电 、 修 家具 样样 都 要 做
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to nourish, to take a restorative to improve one's
+health" group="1">
+<commentary>
+</commentary>
+<examples>
+瓶 边 立 著 『 壮 阳 补 肾 』 的 字牌
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to take lessons after school or work" group="1">
+<commentary>
+</commentary>
+<examples>
+敦化南路 巷 内 一 间 英文 补习 班 ， 下午 四点 过 後 ， 就 有 穿 著 仁爱 、 敦化 、 建安 国小 校服 的 学生 陆续 到 此 补 英文
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to replace a position, to appoint to office" group="1">
+<commentary>
+</commentary>
+<examples>
+东南亚 歌手 刚好 适时 补 了 这 个 缺
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="10" ann_1_2_agreement="0.9" />
+</inventory>

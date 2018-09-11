@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="低-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="low" group="1">
+<commentary>
+</commentary>
+<examples>
+办事 效率 低 的 整顿 问题
+郑永国 低 我 三 届
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to hang down, to incline" group="1">
+<commentary>
+</commentary>
+<examples>
+人类 像 低 头 忙碌 的 工蚁 源源 进入 山区 ， 进行 著 变本加厉 的 掠夺
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="17" ann_1_2_agreement="1.0" />
+</inventory>

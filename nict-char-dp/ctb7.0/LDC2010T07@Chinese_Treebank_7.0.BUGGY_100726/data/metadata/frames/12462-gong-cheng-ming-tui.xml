@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 供称 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 testifies or confesses"/>
+        <role argnum="2" argrole="authority that arg0 confesses arg1 to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 开)
+                    (NP-OBJ (NN 记计车))))
+                    (DEC 的)))
+                    (NP (NP-PN (NR 叶))
+                    (NP (NN 姓)))
+                    (NP (NN 嫌犯)))
+                    (VP (PP-DIR (P 向)
+                    (NP (NN 警方)))
+                    (VP (VV 供称)
+                    (PU ，)
+                    (IP-OBJ (IP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-ADV (P 和)
+                    (NP (NN 太太)))
+                    (VP (VV 吵架)))))
+                    (NP-SBJ (NN 心情))
+                    (VP (ADVP (AD 不))
+                    (VP (VA 好))))
+                    (PU ，)
+                    (IP (NP-TMP (NT 凌晨))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 随便))
+                    (VP (VV 找)
+                    (NP-OBJ (NN 目标))))
+                    (VP (ADVP (AD 才))
+                    (VP (VSB (VV 放火)
+                    (VV 烧))
+                    (NP-OBJ (NN 车))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    开 记计车 的 叶 姓 嫌犯          
+                </arg>
+                <arg n="2">
+                    向 警方          
+                </arg>
+                <arg n="1">
+                    因为 和 太太 吵架 心情 不 好 ， 凌晨 随便 找 目标 才 放火 烧 车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

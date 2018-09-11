@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 征得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 asks for and receives"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (NP-PN (NR 美国))
+                    (DP (DT 下)
+                    (CLP (M 届)))
+                    (NP (NN 总统)))
+                    (VP (VV 上任)))
+                    (LC 前)))
+                    (VP (VV 征得)
+                    (NP-OBJ (QP (CD １００万)
+                    (CLP (M 个)))
+                    (NP (NN 签名))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 美国 下 届 总统 上任 前          
+                </arg>
+                <arg n="1">
+                    １００万 个 签名          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

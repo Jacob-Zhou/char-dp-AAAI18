@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 眯眯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 厚厚)))
+                    (DEC 的)))
+                    (NP (NN 眼镜)))
+                    (NP (NN 後面)))
+                    (PU ，)
+                    (VP (VV 藏)
+                    (AS 著)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 眯眯)))
+                    (DEC 的)))
+                    (NP (NN 笑眼))))) 
+                </parse>
+                <arg n="0">
+                    *T*-2 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

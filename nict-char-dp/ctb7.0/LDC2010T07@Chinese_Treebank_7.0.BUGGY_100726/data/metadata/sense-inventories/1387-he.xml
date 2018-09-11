@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="合-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to add up to, to be equivalent to" group="1">
+<commentary>
+</commentary>
+<examples>
+一 埃居 约 合 一点二 美元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to suit, to agree with, to conform to" group="1">
+<commentary>
+</commentary>
+<examples>
+合 资格 儿童 的 居留权 资格
+基础 知识 不 够 ， 结构 不 合 ， 层次 较 低
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to join, to unite, to combine" group="1">
+<commentary>
+</commentary>
+<examples>
+与 最近 更名 为 「 Taiwan News 」 重新 出发 的 台湾 老 字号 英文 报 合 办 一 场 「 新 总统 与 两 岸 关系 」 座谈会
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="abbreviation of He-fei" group="1">
+<commentary>
+</commentary>
+<examples>
+合 （ 肥 ） 九 （ 江 ） 、 武黄 高速路 连通
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to close, to shut" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="5" ann_1_2_agreement="0.6" />
+</inventory>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="通-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to go to, to lead to (e.g. a road, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+位于 “ 世界 屋脊 ” 的 西藏 是 中国 唯一 不 通 铁路 ， 没有 水运 的 省区
+并 建成 了 直 通 北京 的 绿色 通道
+两 港 （ 日照港 和 岚山港 ） 通 四海
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="through, unobstructed" group="1">
+<commentary>
+</commentary>
+<examples>
+交通 运输 通 而 不 畅
+别 说 那 平生 志气 运 不 通 的 人
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to communicate, to inform, to transmit" group="1">
+<commentary>
+</commentary>
+<examples>
+同 美国 总统 克林顿 通 电话
+俄 美 总统 通 电话 讨论 伊拉克 问题
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to understand, to know (a language)" group="1">
+<commentary>
+</commentary>
+<examples>
+马来西亚 的 人口 比 大陆 少 得 多 ， 工资 是 大陆 的 两 倍 ， 语言 不 通 ， 生活 习惯 不同 ， 交通 道路 条件 也 未 必 好
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="classifier for documnets, telegrams, phone calls, etc." group="1">
+<commentary>
+</commentary>
+<examples>
+而 台商 谈 生意 不 必 冗长 的 契约 过程 ， 一 通 电话 就 OK
+原 属 台湾省 政府 管辖 的 二十一 县 市 ， 如今 都 直 通 中央
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to pass, to get across" group="1">
+<commentary>
+</commentary>
+<examples>
+考 不 上 是 自己 学识 不 够 ， 通 不 过 甄试 当然 是 自己 『 抬头 』 不 够 高
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to be an expert in" group="1">
+<commentary>
+</commentary>
+<examples>
+生活 中 书 画 棋奕 、 管 笛 拳术 样样 通
+晚年 的 王壮为 不仅 在 艺术 上 深 悟 「 渐 老 渐 通 」 的 佛家 哲理
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="logical, coherent, smooth (of speech or writing)" group="1">
+<commentary>
+</commentary>
+<examples>
+帝王 体力 不 佳 ， 对 运动 没 兴趣 ， 可能 还 比较 说 得 通
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="classfier for frequency, indicates the
+thoroughness of the act" group="1">
+<commentary>
+</commentary>
+<examples>
+然后 她 在 身 上 又 摸 了 一 通 ， 好不容易 又 掏出 五 毛 钱
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="20" ann_1_2_agreement="0.9" />
+</inventory>

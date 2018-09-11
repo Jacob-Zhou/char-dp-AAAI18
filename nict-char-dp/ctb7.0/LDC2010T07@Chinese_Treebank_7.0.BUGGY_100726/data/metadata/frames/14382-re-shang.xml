@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 惹上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity arg0 provokes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 不))
+                    (VP (VV 要)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-ADV (P 和)
+                    (NP (DP (DT 任何))
+                    (NP (NN 人))))
+                    (VP (VV 讨论)
+                    (NP-OBJ (NN 信仰)))))))
+                    (VP (ADVP (AD 以免))
+                    (VP (VV 惹上)
+                    (NP-OBJ (NN 麻烦)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    以免          
+                </arg>
+                <arg n="1">
+                    麻烦          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

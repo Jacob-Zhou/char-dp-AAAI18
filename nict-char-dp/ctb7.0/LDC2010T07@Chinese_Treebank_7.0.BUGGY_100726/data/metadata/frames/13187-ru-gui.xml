@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 入轨 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (PU “)
+                    (NP (NR 神州))
+                    (QP (OD ２))
+                    (NP (NN 号))
+                    (PU ”))
+                    (NP (NN 飞船)))
+                    (VP (VV 入轨))) 
+                    
+                </parse>
+                <arg n="0">
+                    “ 神州 ２号 ”          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

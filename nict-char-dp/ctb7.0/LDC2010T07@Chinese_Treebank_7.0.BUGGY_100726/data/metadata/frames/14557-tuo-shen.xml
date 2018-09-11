@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 脱身 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 克林顿)
+                    (NN 总统))
+                    (VP (PP-PRP (P 因)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 中东)))
+                    (VP (VV 进行)
+                    (NP-OBJ (NN 外交)
+                    (NN 斡旋))))))
+                    (ADVP (AD 暂时))
+                    (ADVP (AD 不))
+                    (VP (VV 能)
+                    (VP (VV 脱身))))) 
+                    
+                </parse>
+                <arg n="0">
+                    克林顿 总统          
+                </arg>
+                <arg n="m" f="prp">
+                    因 在 中东 进行 外交 斡旋          
+                </arg>
+                <arg n="m" f="adv">
+                    暂时          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

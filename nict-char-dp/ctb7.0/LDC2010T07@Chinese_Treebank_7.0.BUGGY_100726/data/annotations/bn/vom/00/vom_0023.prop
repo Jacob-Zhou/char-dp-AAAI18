@@ -1,0 +1,19 @@
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 2 gold 恢复-v 恢复.02 ----- 2:0-rel 0:2-ARG0 4:3-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 7 gold 位于-v 位于.01 ----- 7:0-rel 5:1*6:1-ARG1 12:1*5:0*5:1*6:0*6:1-ARG0
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 9 gold 引起-v 引起.01 ----- 9:0-rel 10:1-ARG1 12:1*5:0*6:0-ARG0
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 24 gold 逮捕-v 逮捕.01 ----- 24:0-rel 16:1-ARG0 23:1-ARGM-DIS 26:3-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 30 gold 投掷-v 投掷.01 ----- 30:0-rel 28:1-ARGM-DIR 31:1-ARG1 26:0*26:1*27:0*27:1*33:1-ARG0
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 39 gold 称为-v 称为.01 ----- 39:0-rel 36:1*37:1*44:1-ARG1 40:1-ARG2
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 58 gold 发生-v 发生.01 ----- 58:0-rel 35:1-ARGM-TMP 46:2-ARGM-LOC 53:3-ARG1 59:1-ARG0
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 64 gold 有-v 有.05 ----- 64:0-rel 61:1-ARG0 63:1-ARGM-ADV 65:3-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 0 68 gold 丧生-v 丧生.01 ----- 68:0-rel 65:2-ARG0
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 1 5 gold 说-v 说.01 ----- 5:0-rel 0:1-ARGM-ADV 2:3-ARG0 7:1-ARGM-ADV
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 1 13 gold 同意-v 同意.02 ----- 13:0-rel 8:2-ARG0 11:2-ARGM-MNR 14:2-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 1 18 gold 结束-v 结束.01 ----- 18:0-rel 16:1-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 1 21 gold 派遣-v 派遣.01 ----- 21:0-rel 14:1-ARG0 15:1-ARGM-TMP 22:1-ARG1 24:2-ARG2
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 1 25 gold 前往-v 前往.01 ----- 25:0-rel 24:1-ARG0 26:1-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 1 30 gold 开-v 开.01 ----- 30:0-rel 14:1-ARG0 15:1-ARGM-TMP 29:1-ARGM-ADV 31:2-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 2 3 gold 说-v 说.01 ----- 3:0-rel 0:3-ARG0 5:1-ARGM-ADV
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 2 10 gold 会-v 会.01 ----- 10:0-rel
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 2 16 gold 举行-v 举行.01 ----- 16:0-rel 6:3-ARG0 9:1-ARGM-ADV 11:1-ARGM-TMP 17:2-ARG1
+bn/vom/00/vom_0023@0023@vom@bn@ch@on 2 22 gold 讨论-v 讨论.01 ----- 22:0-rel 6:3-ARG0 9:1-ARGM-ADV 11:1-ARGM-TMP 23:2-ARG1

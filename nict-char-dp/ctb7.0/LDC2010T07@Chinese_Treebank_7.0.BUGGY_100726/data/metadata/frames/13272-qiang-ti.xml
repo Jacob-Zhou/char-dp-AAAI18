@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 强提 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing withdrawn"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 在)
+                    (NP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 发生)
+                    (NP-OBJ (NN 危机)))))
+                    (DEC 的)))
+                    (NP (NN 时候))))
+                    (NP-SBJ (DNP (NP (DP (DT 各))
+                    (NP (NN 国)))
+                    (DEG 的))
+                    (NP (NN 民众)))
+                    (VP (VV 强提)
+                    (NP-OBJ (NN 现金)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    在 发生 危机 的 时候          
+                </arg>
+                <arg n="0">
+                    各 国 的 民众          
+                </arg>
+                <arg n="1">
+                    现金          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

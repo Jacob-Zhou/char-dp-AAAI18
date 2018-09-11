@@ -1,0 +1,21 @@
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 10 gold 发出-v 发出.01 ----- 10:0-rel 0:2-ARG0 5:1-ARGM-TMP 6:1-ARGM-LOC 11:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 15 gold 派出-v 派出.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 19 gold 救援-v 救援.01 ----- 19:0-rel 14:1-ARG0
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 35 gold 装载-v 装载.01 ----- 35:0-rel 31:1-ARGM-DIS 33:2-ARG2 32:0*32:1*36:0*36:1*38:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 40 gold 可能-v 可能.01 ----- 40:0-rel
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 42 gold 外泄-v 外泄.01 ----- 42:0-rel 31:1-ARGM-DIS 32:3-ARG0 41:1-ARGM-ADV
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 0 43 gold 造成-v 造成.01 ----- 43:0-rel 31:1-ARGM-DIS 32:3-ARG0 41:1-ARGM-ADV 42:1-ARG0 44:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 5 gold 遭遇-v 遭遇.01 ----- 5:0-rel 0:2-ARG0 3:1-ARGM-LOC 7:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 12 gold 侵袭-v 侵袭.01 ----- 12:0-rel 13:2-ARG1 10:0*10:1*11:0*11:1*20:1-ARG0
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 21 gold 是-v 是.01 ----- 21:0-rel 9:1-ARGM-DIS 10:3-ARG0 22:3-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 28 gold 强烈-v 强烈.01 ----- 28:0-rel 22:0*22:1*23:0*23:1-ARG0 24:2-ARGM-TMP 27:1-ARGM-ADV
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 40 gold 进-v 进.01 ----- 40:0-rel 31:4-ARG0 36:1-ARGM-ADV 37:1-ARGM-ADV 41:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 42 gold 避风-v 避风.01 ----- 42:0-rel 31:4-ARG0 36:1-ARGM-ADV 37:1-ARGM-ADV
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 52 gold 损毁-v 损毁.01 ----- 52:0-rel 44:1-ARGM-DIS 45:1-ARG0 46:1-ARGM-LOC 51:1-ARGM-ADV 54:3-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 58 gold 影响-v 影响.01 ----- 58:0-rel 44:1-ARGM-DIS 45:1-ARG0 46:1-ARGM-LOC 51:1-ARGM-ADV 60:1-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 62 gold 造成-v 造成.01 ----- 62:0-rel 44:1-ARGM-DIS 45:1-ARG0 46:1-ARGM-LOC 51:1-ARGM-ADV 63:4-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 65 gold 淹水-v 淹水.01 ----- 65:0-rel 63:2-ARG0
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 67 gold 是-v 是.01 ----- 67:0-rel
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 73 gold 有-v 有.05 ----- 73:0-rel 70:1-ARG0 71:1-ARGM-TMP 72:1-ARGM-ADV 74:3-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 77 gold 死于-v 死于.01 ----- 77:0-rel 74:2-ARG0 78:2-ARG1
+bn/cts/01/cts_0104@0104@cts@bn@ch@on 1 85 gold 有-v 有.03 ----- 85:0-rel 82:1-ARGM-DIS 83:1-ARG0 84:1-ARGM-DIS 86:2-ARG1

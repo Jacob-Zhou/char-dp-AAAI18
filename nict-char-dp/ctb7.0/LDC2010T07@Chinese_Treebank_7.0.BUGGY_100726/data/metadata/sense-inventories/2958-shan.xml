@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="善-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="good, satisfactory" group="1">
+<commentary>
+</commentary>
+<examples>
+贷款人 风险 管理 不 善
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="good, charitable, righteous" group="1">
+<commentary>
+</commentary>
+<examples>
+翠绿 的 观音山 ， 到处 可 见 灵骨塔 、 坟墓 林立 ， 滥葬 之 严重 ， 恐怕 连 慈 眉 善 目 的 观音 都 要 皱 眉头 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be good at, to be skilled in, to be expert in" group="1">
+<commentary>
+</commentary>
+<examples>
+具有 强烈 个人主义 或 无政府 倾向 ， 有 征服 权威 的 表现欲 ， 内向 、 不 善 人际 关系
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

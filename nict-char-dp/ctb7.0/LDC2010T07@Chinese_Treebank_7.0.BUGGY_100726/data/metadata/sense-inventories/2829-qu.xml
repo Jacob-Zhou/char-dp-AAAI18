@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="去-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to go to a physical location" group="1">
+<commentary>
+</commentary>
+<examples>
+我 一定 要 去 现场 看看 这 位 世界 顶级 歌手 的 风采
+假日 闲闲 何处 去
+成帝 却 令 卫士 拉出 斩首 ， 朱云 紧 攀 殿槛 不 去
+可以 用 更 低廉 的 价格 把 货品 卖到 以 美元 计价 的 国际 市场 去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="leave, go away" group="1">
+<commentary>
+</commentary>
+<examples>
+去 国, 去 留 两 便
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="lose" group="1">
+<commentary>
+</commentary>
+<examples>
+大势 已 去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to undertake a certain activity" group="1">
+<commentary>
+</commentary>
+<examples>
+要 寻常人 去 推销 这 类 商品
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="verb particle indicating purpose" group="1">
+<commentary>
+</commentary>
+<examples>
+提 了 水 去 浇 花 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="verb particle indicating elimination" group="1">
+<commentary>
+</commentary>
+<examples>
+若 想 拥有 天使 的 脸孔 ， 必须 每 天 勤 做 去 角质 的 「 护肤 三 步骤 」
+近年 来 水患 问题 已 成为 台湾 民众 挥 不 去 的 梦魇
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="Idiomatic expression guo-qu or guo-bu-qu" group="1">
+<commentary>
+</commentary>
+<examples>
+若 老 要 分 派别 ， 是 跟 自己 过 不 去
+回顾 这 两 项 我 的 最爱 ， 都 可以 算 过 得 去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="verb particle indicating accomplishment" group="1">
+<commentary>
+</commentary>
+<examples>
+五 年 内 再 不 回 家乡 ， 我 大概 就 回 不 去 了
+人类 社会 中 刻意 筑起 的 界线 与 杆格 ， 是 人为 加上 去 的
+不管 有 没有 收成 ， 缴 不 出来 就 抓 去 关
+十六 岁 的 夏阳 决定 从军 去 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="verb particle indicating direction" group="1">
+<commentary>
+</commentary>
+<examples>
+八里 有点儿 不知所措 地 看 着 时代 巨轮 在 它 身上 碾 过 来 去 的 痕迹
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="625" ann_1_2_agreement="0.6976" />
+</inventory>

@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 欢度 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="time, date, event"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 桃园))
+                    (DEG 的))
+                    (NP-PN (NR 中义)
+                    (NN 中学)))
+                    (VP (NP-TMP (NT 今天))
+                    (VP (VV 欢度)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (QP (OD ６０))
+                    (NP (NN 周年)))
+                    (DEG 的))
+                    (NP (NN 校庆)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    桃园 的 中义 中学          
+                </arg>
+                <arg n="m" f="tmp">
+                    今天          
+                </arg>
+                <arg n="1">
+                    ６０ 周年 的 校庆          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

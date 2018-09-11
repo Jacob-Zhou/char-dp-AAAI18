@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 大获全胜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-APP (NP-PN (NR 加拿大)
+                    (NR 自由党))
+                    (NP (NN 总理)))
+                    (NP-PN (NR 克雷蒂安)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 议会)))
+                    (VP (VV 占)
+                    (QP-OBJ (CD 绝大多数)))))
+                    (DEC 的)))
+                    (NP (NN 政府)))
+                    (VP (VP (PP-LOC (P 在)
+                    (LCP (NP (NP (NT 星期一))
+                    (NP (NN 选举)))
+                    (NP (LC 中))))
+                    (PU ，)
+                    (VP (VV 大获全胜))) 
+                    
+                </parse>
+                <arg n="0">
+                    加拿大 自由党 总理 克雷蒂安 在 议会 占 绝大多数 的 政府          
+                </arg>
+                <arg n="m" f="loc">
+                    在 星期一 选举 中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

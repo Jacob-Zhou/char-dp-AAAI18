@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="苦-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+「 为 现代化 所 苦 的 台湾 ， 与 争取 现代化 的 大陆 学者们 ， 对 问题 的 关心 点 与 兴趣 自然 不同 ， 」 中研院 院士 张玉法 在 台湾 五四 研讨会 上 表示
+即使 在 最 苦 的 年代 ， 每 逢 民俗 节日 ， 信仰 虔诚 的 民众 总 要 摆起 满 桌 供品 ， 祭祀 祖先 及 过往 神灵
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

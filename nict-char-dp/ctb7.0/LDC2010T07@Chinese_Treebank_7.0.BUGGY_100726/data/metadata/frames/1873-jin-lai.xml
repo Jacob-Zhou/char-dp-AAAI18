@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 进来 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity entering"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2" edef="aspect usage">
+        <role argnum="0" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (NN 节目))
+                    (VP (ADVP (AD 快))
+                    (VP (VV 结束))))
+                    (LC 时)))
+                    (NP-SBJ (PN 你们))
+                    (VP (VV 可以)
+                    (VP (VP (VV 打)
+                    (NP-OBJ (NN 电话)))
+                    (VP (VV 进来)))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

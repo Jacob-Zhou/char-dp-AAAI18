@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 无疑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (NP-PN-SBJ (NR 巴拉克))
+                    (VP (VPT (VV 做)
+                    (AD 不)
+                    (VV 到))
+                    (DP-OBJ (DT 这)
+                    (QP (CD 一)
+                    (CLP (M 点)))))))
+                    (PU ，)
+                    (IP-SBJ (NP-SBJ (PN 他))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 大选))
+                    (LC 中)))
+                    (ADVP (AD 将))
+                    (VP (VV 惨败))))
+                    (VP (VV 无疑))))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    如果 巴拉克 做 不 到 这 一 点          
+                </arg>
+                <arg n="0">
+                    他 在大选 中 将 惨败          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

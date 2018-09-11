@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="释放-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to release (from prison)" group="1">
+<commentary>
+</commentary>
+<examples>
+释放 政治犯 和 允许 流亡 国外 的 人 回国
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to release (pressure)" group="1">
+<commentary>
+</commentary>
+<examples>
+通胀 压力 进一步 释放
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to diffuse and spread (in Chemistry)" group="1">
+<commentary>
+</commentary>
+<examples>
+这 种 药剂 在 水 中 会 逐渐 释放 出 植物 细胞 霉素
+雌 蛇 释放 的 气味
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to let go (psychologically)" group="1">
+<commentary>
+</commentary>
+<examples>
+把 压抑 经年 的 泪水 倾泻 出来 ， 以 释放 心 中 的 悲痛
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to set off fireworks" group="1">
+<commentary>
+</commentary>
+<examples>
+在 金大忠 领奖 的 同时 ， 南韩 内 也 释放 烟火 一同 庆祝
+而 北约 维和 部队 则 向 抗议者 释放 了 催泪弹
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="58" ann_1_2_agreement="0.844827586207" />
+</inventory>

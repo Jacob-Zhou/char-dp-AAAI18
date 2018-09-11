@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="活动-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to move, to exercise" group="1">
+<commentary>
+</commentary>
+<examples>
+而 在 比耶省 以南 的 宽多－库邦戈省 ， 安盟 武装 在 乡村 和 几乎 所有 的 交通线 上 频繁 活动
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="activities, actions" group="1">
+<commentary>
+</commentary>
+<examples>
+聘请 国内外 有关 专家 学者 ， 积极 、 及时 地 制定 和 推出 法规性 文件 ， 使 这些 经济 活动 一 出现 就 被 纳入 法制 轨道
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="movable, mobile, flexible" group="1">
+<commentary>
+</commentary>
+<examples>
+两 个 孩子 扛 一 面 看板 ， 一 个 广播 、 一 个 敲锣 ，这 是 民国 四十 年代 乡下 的 活动 电影 广告 ， 效果 挺 不错 的 呢
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to intercede, to use one's influence, to bribe, to
+lobby" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="31" ann_1_2_agreement="0.935483870968" />
+</inventory>

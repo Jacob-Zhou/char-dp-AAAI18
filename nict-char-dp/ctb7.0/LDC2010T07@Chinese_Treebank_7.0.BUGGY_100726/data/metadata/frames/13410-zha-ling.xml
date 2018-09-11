@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 诈领 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity obtained"/>
+        <role argnum="2" argrole="party scammed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-3 (PN 她))
+                    (VP (VP (VC 是)
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 网络))
+                    (LC 上)))
+                    (VP (VV 认识)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 冒名)
+                    (NP-PN-OBJ (NR 杨易夫))))
+                    (DEC 的)))
+                    (NP (NN 人))))))
+                    (PU ，)
+                    (VP (ADVP (AD 之后))
+                    (VP (VP (VP (SB 被)
+                    (VP (VV 骗)
+                    (NP-OBJ (-NONE- *-3))))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 证券)
+                    (NN 公司)))
+                    (VP (VV 开户))))
+                    (VP (VV 遭)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 诈领)
+                    (QP-OBJ (CD ２００多万)
+                    (CLP (M 元))))))) 
+                    
+                </parse>
+                <arg n="2">
+                    她          
+                </arg>
+                <arg n="m" f="tmp">
+                    之后          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    ２００ 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

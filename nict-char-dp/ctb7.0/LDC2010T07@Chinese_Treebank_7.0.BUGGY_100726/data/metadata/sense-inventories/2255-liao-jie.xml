@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="了解-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to find out, to learn about (progress, situation, etc.), knowledge(n)" group="1">
+<commentary>
+</commentary>
+<examples>
+介绍 了 在 境外 投资 和 交易 前 如何 了解 合作 伙伴 、 客户 、 竞争 对手 和 市场 等 情况 来 减少 风险 ， 投资 后 如何 避免 和 减少 非 正常 情况 的 发生 ， 以及 出现 危机 后 如何 处理 自救 和 恢复 等 知识
+使 荷兰 的 政府 与 企业 及时 了解 湖北 的 经济 发展 情况
+据 了解 ， 近 几 年 ， 随着 中国 经济 的 不断 发展 和 对 外 开放 的 不断 深入 ， 外商 来 华 投资 热情 很 高
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to understand, to comprehend, to know (knowledge,theory, etc.), comprehension(n)" group="1">
+<commentary>
+</commentary>
+<examples>
+与 这些 科学 术语 相 比 ， 青年人 对 水银 温度计 、 移动 电话 、 照相机 、 冰箱 、 洗衣机 、 微波炉 等 日常 生活 用品 的 工作 原理 更为 了解
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="85" ann_1_2_agreement="0.858823529412" />
+</inventory>

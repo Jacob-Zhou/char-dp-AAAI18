@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搅 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing stirred"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="other" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (PP-TPC (P 对于)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 连续不断)))
+                    (DEC 的)))
+                    (NP (NN 纵火)
+                    (NN 案件))))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 搅)
+                    (DER 的)
+                    (VP-EXT (VC 是)
+                    (IP-PRD (NP-SBJ (NN 民众))
+                    (VP (VV 人心惶惶))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    对于 连续不断 的 纵火 案件          
+                </arg>
+                <arg n="m" f="adv">
+                    是 民众 人心惶惶          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

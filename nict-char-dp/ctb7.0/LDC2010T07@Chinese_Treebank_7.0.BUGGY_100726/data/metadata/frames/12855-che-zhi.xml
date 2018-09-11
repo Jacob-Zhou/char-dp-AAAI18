@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撤职 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person dismissed from office"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-2 (NP-PN (NR 新疆)
+                    (NN 军区))
+                    (NP (NN 司令员)
+                    (CC 和)
+                    (NN 政委)))
+                    (VP (SB 被)
+                    (VP (VV 撤职)
+                    (NP-OBJ (-NONE- *-2))))) 
+                    
+                </parse>
+                <arg n="1">
+                    新疆 军区 司令员 和 政委 -> *-2          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搜刮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 obtains"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 找到)
+                    (AS 了)
+                    (NP-OBJ (NN 保险箱)))
+                    (PU ，)
+                    (VP (VV 搜刮)
+                    (AS 了)
+                    (NP-OBJ (DNP (QP (ADVP (AD 将近))
+                    (QP (CD １万)
+                    (CLP (M 元))))
+                    (DEG 的))
+                    (NP (NN 现金))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    将近 １万 元 的 现金          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

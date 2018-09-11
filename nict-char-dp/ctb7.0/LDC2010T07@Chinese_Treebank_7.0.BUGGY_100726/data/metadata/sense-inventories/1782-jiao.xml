@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="叫-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be called, to give a name" group="1">
+<commentary>
+</commentary>
+<examples>
+本 届 世界 游泳 锦标赛 的 吉祥物 是 一 只 名 叫 “ 卡洛塔 ” 的 小 海龟 。
+大人 叫 这些 小孩 空 囝仔
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to ask for, to order, to hire (e.g. a taxi)" group="1">
+<commentary>
+</commentary>
+<examples>
+在 港式 茶楼 饮茶 之际 叫 点 一 份
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to yell, to shout, to whine" group="1">
+<commentary>
+</commentary>
+<examples>
+前 一阵子 她 就读 高职 的 弟弟 因为 缴 不 出 通话费 而 被 停机 ， 懊恼 了 好久 ， 直 叫 怎麽 出去 见 人
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to order, to ask, to make somebody do something" group="1">
+<commentary>
+</commentary>
+<examples>
+到 了 母亲 年纪 渐 老 时 ， 却 反而 叫 我们 渐 长 的 女孩 在 一 旁 观看 学习 ， 甚至 参加 帮忙
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="82" ann_1_2_agreement="0.939024390244" />
+</inventory>

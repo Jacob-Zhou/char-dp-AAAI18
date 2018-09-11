@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 换防 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 transfers"/>
+        <role argnum="2" argrole="place arg1 is transferred to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (NN 外岛)
+                    (NN 换防)) 
+                </parse>
+                <arg n="2">
+                    外岛 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

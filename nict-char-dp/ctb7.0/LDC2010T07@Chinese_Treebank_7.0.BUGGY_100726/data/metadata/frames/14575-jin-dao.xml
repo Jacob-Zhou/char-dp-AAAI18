@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 尽到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="responsibility arg0 fulfils"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 俄罗斯))
+                    (VP (VP (ADVP (AD 已经))
+                    (VP (VV 作好)
+                    (NP-OBJ (NN 准备))))
+                    (PU ，)
+                    (VP (ADVP (AD 将))
+                    (VP (VV 尽到)
+                    (NP-OBJ (DNP (NP (PN 自己))
+                    (DEG 的))
+                    (QP (CD 一)
+                    (CLP (M 份)))
+                    (NP (NN 责任)))) 
+                    
+                </parse>
+                <arg n="0">
+                    俄罗斯          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="1">
+                    自己 的 一 份 责任          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

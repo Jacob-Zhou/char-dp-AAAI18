@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查阅 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 looks into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 新墨西哥州))
+                    (VP (ADVP (AD 也))
+                    (ADVP (AD 正在))
+                    (ADVP (AD 重新))
+                    (VP (VV 查阅)
+                    (NP-OBJ (QP (CD ６７０００))
+                    (NP (NN 票)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    新墨西哥州          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="m" f="adv">
+                    正在          
+                </arg>
+                <arg n="m" f="adv">
+                    重新          
+                </arg>
+                <arg n="1">
+                    ６７０００ 票          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

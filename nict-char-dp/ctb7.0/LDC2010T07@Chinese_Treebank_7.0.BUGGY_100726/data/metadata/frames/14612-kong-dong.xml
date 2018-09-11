@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 空洞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 当然))
+                    (PP-LOC (P 在)
+                    (LCP (NP-PN (NR 俄罗斯)
+                    (CC 和)
+                    (NR 印度))
+                    (LC 之间)))
+                    (PU ，)
+                    (CP-CND (ADVP (CS 如果))
+                    (IP (NP-SBJ (PN 双方))
+                    (VP (ADVP (AD 不))
+                    (PP-BNF (P 为)
+                    (NP (ADJP (JJ 双边))
+                    (NP (NN 关系))))
+                    (VP (VV 投入)
+                    (NP-OBJ (ADJP (JJ 重要))
+                    (NP (NN 内容)))))))
+                    (PU ，)
+                    (ADVP (AD 那么))
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 种)))
+                    (NP (NN 关系)))
+                    (VP (ADVP (AD 将))
+                    (VP (VC 是)
+                    (VP (VP (VA 空洞))
+                    (CC 而)
+                    (VP (VE 没有)
+                    (NP-OBJ (NN 意义))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    当然          
+                </arg>
+                <arg n="m" f="loc">
+                    在 俄罗斯 和 印度 之间          
+                </arg>
+                <arg n="m" f="cnd">
+                    如果 双方 不 为 双边 关系 投入 重要 内容          
+                </arg>
+                <arg n="m" f="dis">
+                    那么          
+                </arg>
+                <arg n="0">
+                    这 种 关系          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

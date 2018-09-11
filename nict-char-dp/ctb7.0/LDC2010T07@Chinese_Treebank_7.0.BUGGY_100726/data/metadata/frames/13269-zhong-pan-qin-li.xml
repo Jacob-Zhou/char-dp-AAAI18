@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 众叛亲离 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 众叛亲离)))
+                    (DEC 的)))
+                    (NP-PN (NR 米洛舍维奇))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 米洛舍维奇          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,27 @@
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 2 gold 有-v 有.05 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:3-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 8 gold 是-v 是.01 ----- 8:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 14 gold 准备-v 准备.02 ----- 14:0-rel 7:1-ARG0 9:1-ARGM-TMP 10:1-ARGM-LOC 15:2-ARG1 13:0*13:1*18:1*6:0*6:1-ARGM-TMP
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 16 gold 停车-v 停车.01 ----- 16:0-rel 15:1-ARG0
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 21 gold 失控-v 失控.01 ----- 21:0-rel 3:2-ARG0 6:3-ARGM-TMP 19:1-ARG1 20:1-ARGM-ADV
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 31 gold 听到-v 听到.01 ----- 31:0-rel 30:1-ARG0 32:3-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 34 gold 巨大-v 巨大.01 ----- 34:0-rel 32:1*33:1*36:1-ARG0
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 37 gold 出来-v 出来.01 ----- 37:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 38 gold 查看-v 查看.01 ----- 38:0-rel 30:1-ARG0
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 39 gold 发现-v 发现.01 ----- 39:0-rel 30:1-ARG0 40:2-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 42 gold 撞-v 撞.01 ----- 42:0-rel 40:1*45:1-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 43 gold 坏-v 坏.01 ----- 43:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 50 gold 到-v 到.01 ----- 50:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 52 gold 侦讯-v 侦讯.01 ----- 52:0-rel 30:1-ARG0 46:1-ARGM-ADV 48:1*53:1-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 57 gold 发现-v 发现.01 ----- 57:0-rel 55:1-ARGM-ADV 56:1-ARG0 58:2-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 60 gold 是-v 是.01 ----- 60:0-rel 58:1-ARGM-ADV 59:1-ARG0 61:4-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 75 gold 超过-v 超过.01 ----- 75:0-rel 68:1-ARGM-DIS 69:1-ARGM-MNR 73:1-ARG0 74:1-ARGM-ADV 76:1-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 80 gold 认为-v 认为.01 ----- 80:0-rel 68:2-ARGM-ADV 78:1-ARGM-DIS 79:1-ARG0 82:2-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 83 gold 应该-v 应该.01 ----- 83:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 84 gold 要-v 要.06 ----- 84:0-rel 82:1-ARG0 85:1-ARG1
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 85 gold 以身作则-v 以身作则.01 ----- 85:0-rel 82:1-ARG0
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 90 gold 肇事-v 肇事.01 ----- 90:0-rel 88:1*89:1*92:1-ARG0
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 94 gold 解释-v 解释.01 ----- 94:0-rel 87:1-ARGM-DIS 88:3-ARG0 93:1-ARGM-DIS 96:2-ARG3
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 97 gold 是-v 是.01 ----- 97:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 100 gold 昏暗-v 昏暗.01 ----- 100:0-rel 99:1-ARG0
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 102 gold 会-v 会.01 ----- 102:0-rel
+bn/cts/01/cts_0147@0147@cts@bn@ch@on 0 103 gold 出事-v 出事.01 ----- 103:0-rel 96:1-ARG0 98:1-ARGM-PRP 101:1-ARGM-DIS

@@ -1,0 +1,22 @@
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 2 gold 接-v 接.01 ----- 2:0-rel
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 3 gold 下来-v 下来.01 ----- 3:0-rel
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 7 gold 转向-v 转向.01 ----- 7:0-rel 0:3-ARG1 8:1-ARG2
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 19 gold 转往-v 转往.01 ----- 19:0-rel 12:1-ARG0 13:1-ARGM-TMP 18:1-ARGM-ADV 20:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 23 gold 引起-v 引起.01 ----- 23:0-rel 11:1-ARGM-PRP 22:1-ARG0 24:3-ARG1 10:0*10:1*21:0*21:1*28:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 36 gold 来-v 来.01 ----- 36:0-rel 33:2-ARG0 35:1-ARGM-ADV 37:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 42 gold 明朗-v 明朗.01 ----- 42:0-rel 10:3-ARG0 31:1-ARGM-TMP 32:1-ARGM-TMP 39:1-ARG0 40:1-ARGM-ADV 41:1-ARGM-ADV
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 48 gold 搭机-v 搭机.01 ----- 48:0-rel 44:2-ARG0 46:1-ARGM-TMP
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 49 gold 来-v 来.01 ----- 49:0-rel 44:2-ARG0 46:1-ARGM-TMP 50:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 51 gold 准备-v 准备.02 ----- 51:0-rel 44:2-ARG0 46:1-ARGM-TMP 52:2-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 53 gold 参加-v 参加.01 ----- 53:0-rel 52:1-ARG0 54:3-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 58 gold 举行-v 举行.01 ----- 58:0-rel 55:1-ARG0 56:1-ARGM-TMP 54:0*54:1*59:0*59:1*63:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 74 gold 表示-v 表示.01 ----- 74:0-rel 44:2-ARG0 46:1-ARGM-TMP 73:1-ARGM-ADV 75:2-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 79 gold 要-v 要.05 ----- 79:0-rel 75:1-ARGM-ADV 77:1-ARG0 78:1-ARGM-ADV 80:2-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 86 gold 协助-v 协助.02 ----- 86:0-rel 83:1-ARG0 85:1-ARGM-ADV 87:1-ARG1 88:2-ARG2
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 90 gold 重建-v 重建.01 ----- 90:0-rel 88:1-ARG1 89:1-ARGM-ADV
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 91 gold 展开-v 展开.01 ----- 91:0-rel 80:1-ARG0 81:1-ARGM-ADV 92:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 97 gold 预料-v 预料.01 ----- 97:0-rel 94:1-ARGM-DIS 95:1-ARG0 96:1-ARGM-ADV 98:2-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 100 gold 必须-v 必须.01 ----- 100:0-rel
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 114 gold 提出-v 提出.01 ----- 114:0-rel 98:1-ARG0 99:1-ARGM-ADV 109:1-ARGM-DIR 115:1-ARG1
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 121 gold 转换-v 转换.01 ----- 121:0-rel 120:1-ARGM-TMP 122:1-ARG1 118:0*118:1*119:0*119:1*124:1-ARG0
+bn/cts/01/cts_0103@0103@cts@bn@ch@on 0 129 gold 前来-v 前来.01 ----- 129:0-rel 117:1-ARG0 127:1-ARGM-ADV 128:1-ARGM-ADV

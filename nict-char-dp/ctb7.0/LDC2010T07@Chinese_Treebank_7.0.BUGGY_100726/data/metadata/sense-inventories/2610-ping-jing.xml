@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="平静-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="still, quiet" group="1">
+<commentary>
+</commentary>
+<examples>
+因为 环礁 包围 ， 几乎 平静 无 风
+当 水面 平静 后 ，
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="calm (psychologically)" group="1">
+<commentary>
+</commentary>
+<examples>
+谈起 村民 自治 的 实行 ， 年 近 七十 的 尼玛次仁 心情 难以 平静
+意大利人 似乎 正 以 一 种 平静 的 心态 来 迎接 欧洲 统一 货币 的 诞生
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="regular, normal" group="1">
+<commentary>
+</commentary>
+<examples>
+理财热 兴起 ， 打乱 了 许多 人 原本 平静 的 生活 步调 ， 无端 惹出 许多 烦恼 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="calmness, peacefulness" group="1">
+<commentary>
+</commentary>
+<examples>
+然而 平静 只 是 表面 的 ， 在 平静 的 背后 是 对 欧元 诞生 的 悄然 准备 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="27" ann_1_2_agreement="0.518518518519" />
+</inventory>

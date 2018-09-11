@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 化为乌有 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-CND (NP-SBJ (DP (DT 这)
+                    (QP (CD 两)
+                    (LCP (M 年))))
+                    (NP (NN 官司)))
+                    (VP (ADVP (CS 只要))
+                    (VP (VE 有)
+                    (IP-OBJ (QP-SBJ (CD 一)
+                    (CLP (M 件)))
+                    (VP (VV 胜诉))))))
+                    (PU ，)
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (ADJP (JJ 小))
+                    (NP-PN (NR 布什)))
+                    (VP (NP-TMP (NT 目前))
+                    (VP (MSP 所)
+                    (VP (VV 掌握)
+                    (NP-OBJ (-NONE- *T*-1))))))
+                    (DEC 的)))
+                    (QP (CD ５３７)
+                    (CLP (M 票)))
+                    (NP (NN 领先)
+                    (NN 差距)))
+                    (VP (ADVP (AD 确定))
+                    (ADVP (AD 立刻))
+                    (ADVP (AD 就))
+                    (VP (VV 会)
+                    (VP (VV 化为乌有))) 
+                    
+                </parse>
+                <arg n="m" f="cnd">
+                    这 两 年 官司 只要 有 一 件 胜诉          
+                </arg>
+                <arg n="0">
+                    小 布什 目前 所 掌握 的 ５３７ 票 领先 差距          
+                </arg>
+                <arg n="m" f="adv">
+                    确定          
+                </arg>
+                <arg n="m" f="adv">
+                    立刻          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

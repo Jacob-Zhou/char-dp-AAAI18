@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 征集 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity collected"/>
+        <role argnum="2" argrole="source"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC-5 (DP (DT 这些))
+                    (NP (NN 文物)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (PP-DIR (P 从)
+                    (NP (NP-PN (NR 陕西))
+                    (DP (DT 各)
+                    (CLP (M 个)))
+                    (NP (NN 博物馆))))
+                    (VP (VRD (VV 征集)
+                    (VV 来))
+                    (NP-OBJ (-NONE- *T*-5))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    这些 文物 -> *T*-5          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="2">
+                    从 陕西 各 个 博物馆          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

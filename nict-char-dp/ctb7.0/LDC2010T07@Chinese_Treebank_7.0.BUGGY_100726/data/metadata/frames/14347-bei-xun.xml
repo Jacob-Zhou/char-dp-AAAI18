@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 被询 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (NN 总统府))
+                    (VP (VV 传出)
+                    (NP-OBJ (DNP (ADJP (JJ 所谓))
+                    (DEG 的))
+                    (PU “)
+                    (NP (NN 绯闻)
+                    (NN 疑案))
+                    (PU ”))))
+                    (LC 之后))
+                    (PU ，)
+                    (NP-SBJ (NP (DNP (LCP (NP (NN 当事人))
+                    (LC 中))
+                    (DEG 的))
+                    (NP (NP (NP-APP (NN 总统府)
+                    (NN 顾问))
+                    (NP-PN (NR 肖美琴)))
+                    (PU 、)
+                    (NP (NP-APP (NN 秘书))
+                    (NP-PN (NR 马永臣)
+                    (CC 以及)
+                    (NR 林锦昌)))))
+                    (PRN (VP (ADVP (AD 也))
+                    (ADVP (AD 就))
+                    (VP (VC 是)
+                    (NP-PRD (NP (NN 外界)
+                    (NN 口中))
+                    (DNP (ADJP (JJ 所谓))
+                    (DEG 的))
+                    (PU “)
+                    (DNP (NP (NN 总统)
+                    (NN 身边))
+                    (DEG 的))
+                    (NP (NN 童子军)))))))
+                    (PU ”)
+                    (PU ，)
+                    (VP (NP-TMP (NT 上午))
+                    (QP-ADV (OD 第一)
+                    (CLP (M 次)))
+                    (VP (VP (VSB (VV 应邀)
+                    (VV 到))
+                    (NP-OBJ (NN 立法院)))
+                    (VP (VV 被询)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    总统府 传出 所谓 的 “ 绯闻疑案” 之后          
+                </arg>
+                <arg n="0">
+                    当事人 中的 总统府 顾问 肖美琴 、 秘书 马永臣 以及 林锦昌 也 就 是 外界 口中 所谓 的 “ 总统 身边 的 童子军          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <arg n="m" f="adv">
+                    第一 次          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

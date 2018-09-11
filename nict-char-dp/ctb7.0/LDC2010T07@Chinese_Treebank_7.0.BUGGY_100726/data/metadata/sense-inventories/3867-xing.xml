@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="行-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+石广生 临 行 前 在 接受 记者 采访 时 说 ， 希望 在 这 次 访问 期间 ， 两 国 经贸 主管 部门 就 双边 经贸 合作 充分 交换 意见 ， 双方 企业界 广泛 接触 ， 深入 洽谈 ， 共同 努力 ， 掀开 两 国 经贸 合作 新 的 一 页 ， 为 今后 的 长期 发展 打下 基础
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 过去 长期 围 湖 造 田 造成 洞庭湖 湖面 缩小 ， 调蓄 洪水 的 能力 减弱 ， 湖南省 今年 将 大 规模 实行 平 垸 行 洪 、 退 田 还 湖
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+行 仁政
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+做 那 个 也 不 行
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

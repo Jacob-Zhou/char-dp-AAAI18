@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="是-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be, is, am, are, to equate two things" group="1">
+<commentary>
+</commentary>
+<examples>
+藏 羚羊 、 野 牦牛 、 藏 野 驴 、 雪豹 、 宗熊 、 盘羊 等 都 是 珍稀 动物
+狮子会 的 宗旨 是 “ 我们 服务 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to express certainty, emphasis" group="1">
+<commentary>
+</commentary>
+<examples>
+他 家 就 是 这样 处理 的
+据悉 ， 中科院 设立 优秀 博士后 奖励 基金 和 王宽诚 博士后 奖励 基金 是 为了 吸引 更 多 优秀 博士 毕业生 到 中科院 做 博士后 ， 强化 和 激励 博士后 研究 人员的 科学 创新 意识
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="this, that" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="correct, right" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

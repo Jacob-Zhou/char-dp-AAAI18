@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 通电话 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NP (NT 当天))
+                    (NP (NN 晚些时候)))
+                    (NP-SBJ (NP (NP-APP (NP (NP-PN (NR 以色列))
+                    (ADJP (JJ 看守))
+                    (NP (NN 内阁)))
+                    (NP (NN 总理)))
+                    (NP-PN (NR 巴拉克)))
+                    (CC 和)
+                    (NP (NP-APP (NP-PN (NR 埃及))
+                    (NP (NN 总统)))
+                    (NP-PN (NR 穆巴拉克))))
+                    (VP (VV 通电话))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    当天 晚些时候          
+                </arg>
+                <arg n="0">
+                    以色列 看守 内阁 总理 巴拉克 和 埃及 总统 穆巴拉克          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

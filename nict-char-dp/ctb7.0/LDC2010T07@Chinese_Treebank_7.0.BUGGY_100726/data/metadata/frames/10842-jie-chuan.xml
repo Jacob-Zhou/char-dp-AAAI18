@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 揭穿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 discloses/exposes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (IP-CND (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (CS 一旦))
+                    (VP (VV 揭穿)
+                    (NP-OBJ (NN 谜底)))))
+                    (PU ，)
+                    (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 要)
+                    (VP (VV 模仿))))
+                    (VP (ADVP (AD 并))
+                    (ADVP (AD 不))
+                    (VP (VA 困难)))) 
+                </parse>
+                <arg n="0">
+                    *pro* 	
+                </arg>
+                <arg n="1">
+                    谜底 	
+                </arg>
+                <arg n="m" f="adv">
+                    一旦 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

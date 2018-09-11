@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 证婚 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="couple(s)"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg0"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LGS (P 由)
+                    (NP (NP-APP (NN 市长))
+                    (NP-PN (NR 谢长廷))))
+                    (VP (MSP 来)
+                    (NP (VV 证婚)))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          	  
+                </arg>
+                <arg n="0">
+                    由 市长 谢长廷          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

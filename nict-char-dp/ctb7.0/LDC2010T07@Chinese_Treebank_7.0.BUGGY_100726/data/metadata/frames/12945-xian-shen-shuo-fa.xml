@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 现身说法 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 被害人))
+                    (VP (NP-TMP (NT 上午))
+                    (VP (VP (VV 现身说法) 
+                    
+                </parse>
+                <arg n="0">
+                    被害人          
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

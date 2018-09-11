@@ -1,0 +1,375 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 走 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity moving"/>
+        <role argnum="1" argrole="road arg0 takes"/>
+        <role argnum="2" argrole="location arg0 walks to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-PN-SBJ (NR 汕头)
+                    (NN 超声)
+                    (NN 仪器)
+                    (NN 研究所))
+                    (PU ，)
+                    (VP (VP (VV 坚持)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 走)
+                    (NP-OBJ (CP-APP (IP (NP-SBJ (NP (NN 引进))
+                    (CC 和)
+                    (NP (ADJP (JJ 自主))
+                    (NP (NN 研究)
+                    (NN 开发))))
+                    (VP (ADVP (AD 相))
+                    (VP (VV 结合))))
+                    (DEC 的))
+                    (NP (NN 路子))))))
+                    (PU ，)
+                    (VP (ADVP (AD 先后))
+                    (VP (VCD (VV 研究)
+                    (VV 开发))
+                    (NP-OBJ (QP (CD 四十多)
+                    (CLP (M 项)))
+                    (NP (ADJP (JJ 高新))
+                    (NP (NN 技术)))
+                    (NP (NN 产品))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  	  	  	  
+                </arg>
+                <arg n="1">
+                    引进 和 自主 研究 开发 相 结合 的 路子 	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 债))
+                    (VP (PP (P 随)
+                    (NP (NN 资)))
+                    (VP (VV 走)))) 
+                    
+                </parse>
+                <arg n="0">
+                    债 	  	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    随 资 	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (PP-MNR (P 作为)
+                    (NP (NP (NN 祖国)
+                    (NN 大陆))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 最早))
+                    (VP (VV 制定)
+                    (NP-OBJ (ADJP (JJ 涉台))
+                    (NP (NN 法规))))))
+                    (DEC 的)))
+                    (NP (NN 省份))))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NR 福建))
+                    (ADJP (JJ 涉台))
+                    (NP (NN 立法)))
+                    (VP (ADVP (AD 一直))
+                    (VP (VV 走)
+                    (PP-LOC (P 在)
+                    (NP (NN 前列)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    福建 涉台 立法 	  	  	  	  
+                </arg>
+                <arg n="m" f="loc">
+                    在 前列 	  	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    一直 	  	  	  	  
+                </arg>
+                <arg n="m" f="mnr">
+                    作为 祖国 大陆 *OP* *T*-1 最早 制定 涉台 法规 的 省份 	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 人才)
+                    (NN 引进)
+                    (NN 部门))
+                    (VP (ADVP (AD 还))
+                    (ADVP (AD 积极))
+                    (VP (VP (VRD (VV 走)
+                    (VV 出去)))
+                    (VP (VV 延揽)
+                    (NP-OBJ (NN 科技)
+                    (NN 管理)
+                    (NN 人才)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    人才 引进 部门 	  	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    积极 	  	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    还 	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="people visited"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (NN 山下人))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 个)))
+                    (NP (NN 村))))
+                    (VP (VV 走)
+                    (NP-OBJ (NN 亲戚))))) 
+                    
+                </parse>
+                <arg n="0">
+                    山下人 	  	  	  	  
+                </arg>
+                <arg n="1">
+                    亲戚 	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="move"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 走)
+                    (NP-OBJ (NN 台步))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*	  	  	  	  
+                </arg>
+                <arg n="1">
+                    台步	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f5">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place arg0 descended from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VRD (VV 走)
+                    (VV 下))
+                    (NP-OBJ (NN 岗台)))
+                    (VP (VV 管理))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  	  	  	  
+                </arg>
+                <arg n="1">
+                    岗台	  	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f6">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place arg0 step up to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 批)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (VE 有)
+                    (NP-OBJ (NN 专业)
+                    (NN 知识)))
+                    (PU 、)
+                    (VP (VV 懂)
+                    (NP-OBJ (NN 军事)
+                    (NN 指挥)))))
+                    (DEC 的)))
+                    (ADJP (JJ 优秀))
+                    (NP (NN 青年)
+                    (NN 军官)))
+                    (VP (ADVP (AD 破格))
+                    (VP (VRD (VV 走)
+                    (VV 上))
+                    (AS 了)
+                    (NP-OBJ (NN 领导)
+                    (NN 岗位)))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 批 有 专业 知识 、 懂 军事 指挥 的 优秀青年 军官 	  	  	  
+                </arg>
+                <arg n="1">
+                    领导 岗位	  	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    破格	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f7">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place arg0 left"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (NP-TMP (NP (NT 晚上))
+                    (NP (NP (NT １０点))
+                    (ADVP (AD 多))))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (ADVP (AD 已经))
+                    (VP (VV 被困)
+                    (AS 了)
+                    (NP-EXT (QP (CD ２)
+                    (PU 、)
+                    (CD ３)
+                    (CLP (M 个)))
+                    (NP (NN 小时)))))
+                    (PU ，)
+                    (VP (ADVP (AD 终于))
+                    (VP (VPT (VV 受)
+                    (AD 不)
+                    (VV 了))))))
+                    (DEC 的)))
+                    (NP-PN (NR 台铁))
+                    (NP (NN 旅客们)))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 徒步))
+                    (VP (VV 走)
+                    (AS 了)
+                    (QP-EXT (CD ４０多)
+                    (CLP (M 分钟))))))
+                    (LC 后)))
+                    (ADVP (AD 终于))
+                    (VP (VRD (VV 走)
+                    (VV 出))
+                    (AS 了)
+                    (NP-OBJ (NN 隧道))))
+                    (PU 。))) 
+                    
+                </parse>
+                <arg n="0">
+                    已经 被困 了 ２ 、 ３ 个 小时 ， 终于 受 不 了 的 台铁 旅客们	  	  	  
+                </arg>
+                <arg n="1">
+                    隧道	  	  	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    在 徒步 走 了 ４０多 分钟 后	  	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    晚上 １０点 多	  	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    终于	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f8">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="procedure, program"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 程序))
+                    (VP (VRD (VV 走)
+                    (VV 完))
+                    (AS 了))) 
+                    
+                </parse>
+                <arg n="1">
+                    程序	  	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

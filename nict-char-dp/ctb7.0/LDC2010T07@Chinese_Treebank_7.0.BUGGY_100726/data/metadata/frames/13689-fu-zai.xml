@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 负载 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 截至)
+                    (NP (NT 中午)))
+                    (NP-SBJ (QP (CD １２)
+                    (CLP (M 台)))
+                    (NP (NN 机组)))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 能够)
+                    (VP (ADVP (AD 正常))
+                    (VP (VV 负载))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    截至 中午          
+                </arg>
+                <arg n="0">
+                    １２ 台 机组          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="adv">
+                    正常          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

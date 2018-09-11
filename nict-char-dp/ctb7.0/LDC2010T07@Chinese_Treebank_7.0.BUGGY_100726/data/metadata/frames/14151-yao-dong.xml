@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 摇动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="agent/cause"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-LOC (NN 附近))
+                    (NP-SBJ (QP (ADVP (AD 至少))
+                    (QP (CD 一)
+                    (CLP (M 栋))))
+                    (NP (NN 建筑)))
+                    (VP (ADVP (AD 就))
+                    (DVP (VP (PP (P 象)
+                    (LCP (IP (NP-SBJ (NN 地震))
+                    (VP (VV 发生)))
+                    (LC 时)))
+                    (VP (VA 一般)))
+                    (DEV 的))
+                    (VP (VV 摇动))))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    附近          
+                </arg>
+                <arg n="0">
+                    至少 一 栋 建筑          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    象 地震 发生 时 一般 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

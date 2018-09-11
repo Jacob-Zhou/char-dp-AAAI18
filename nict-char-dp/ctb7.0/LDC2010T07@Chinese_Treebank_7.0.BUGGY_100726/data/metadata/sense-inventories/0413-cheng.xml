@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="成-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="become" group="1">
+<commentary>
+</commentary>
+<examples>
+临国旅游成时尚.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega><pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="into (used as a last part of a verb compound)" group="1">
+<commentary>
+</commentary>
+<examples>
+沿路停靠的汽车排成长龙.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega><pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="succeed (part of verb compound), c.f.
+cheng2gong3" group="1">
+<commentary>
+</commentary>
+<examples>
+蓉蓉看不成最喜欢的节目.
+等你办成这件事再说.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega><pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="complete,finish, cf. wan2cheng2" group="1">
+<commentary>
+</commentary>
+<examples>
+创造了月成洞789米的记录.
+他以数年心血写成这部著作.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega><pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="acceptable" group="1">
+<commentary>
+</commentary>
+<examples>
+这事成吗?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega><pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" name="constitute (proportion)" group="1">
+<examples>
+成正比
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="7" name="form, cf. xing2cheng2" group="1">
+<examples>
+成形,成规模
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="8" name="numerical expression: percent" group="1">
+<commentary>CD</commentary>
+<examples>
+天津妥善安排下岗工人近九成.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense group="1" n="9" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="40" ann_1_2_agreement="0.725" />
+</inventory>

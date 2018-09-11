@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="本-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="according to, based on" group="1">
+<commentary>
+</commentary>
+<examples>
+你们 本 着 爱 国 爱 港 的 精神
+大润发 则 本 着 「 同业 做 得 到 ， 我们 也 做 得 到 」 的 态度 跟进
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="this, present, current" group="1">
+<commentary>
+</commentary>
+<examples>
+到 本 世纪 末
+本 次 洽谈会
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="one's own, native" group="1">
+<commentary>
+</commentary>
+<examples>
+代表 本 国 政府
+不仅 能 加速 本 地 产业 的 升级 换代 和 国际化
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="originally, at first" group="1">
+<commentary>
+</commentary>
+<examples>
+也 有 些 工厂 原先 在 台湾 本 是 下游厂
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="capital, principal" group="1">
+<commentary>
+</commentary>
+<examples>
+攒 「 理财 本 」 ， 她 不 愿 买 房子
+做 小 本 生意 的 八里
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="origin, basis, source, foundation" group="1">
+<commentary>
+</commentary>
+<examples>
+「 人才 为 知识 之 本 ， 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="classifier for books, scripts" group="1">
+<commentary>
+</commentary>
+<examples>
+《 放生 》 这 本 「 每 一 篇 都 是 以 老人 为 主角 」 的 小说 集子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="copy, edition" group="1">
+<commentary>
+</commentary>
+<examples>
+简装 本
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="9" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="61" ann_1_2_agreement="0.901639344262" />
+</inventory>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="围-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to surround, to encircle, to enclose" group="1">
+<commentary>
+</commentary>
+<examples>
+过去 长期 围 湖 造 田
+我 高兴 把 他 拉成 条 ， 围 在 腰 上
+中午 闭市 时间 ， 证券 营业部 里 不少 股民 还 围 在一起
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

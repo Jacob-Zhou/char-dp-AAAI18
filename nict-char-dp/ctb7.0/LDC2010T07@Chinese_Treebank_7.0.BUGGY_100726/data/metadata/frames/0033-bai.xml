@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 摆 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP-APP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 摆)
+                    (NP-OBJ (NN 摊)))
+                    (VP (VV 设)
+                    (NP-OBJ (NN 点)))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <V/>
+                <arg n="1">
+                    摊 
+                </arg>
+            </example>
+        </frame>
+    </frameset>
+</verb>

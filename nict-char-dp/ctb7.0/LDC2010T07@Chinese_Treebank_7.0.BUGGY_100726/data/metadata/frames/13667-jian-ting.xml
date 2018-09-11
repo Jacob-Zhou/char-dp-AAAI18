@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 建停 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="project"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 核四))
+                    (VP (ADVP (CS 如果))
+                    (VP (VV 建停)))) 
+                    
+                </parse>
+                <arg n="1">
+                    核四          
+                </arg>
+                <arg n="m" f="dis">
+                    如果          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

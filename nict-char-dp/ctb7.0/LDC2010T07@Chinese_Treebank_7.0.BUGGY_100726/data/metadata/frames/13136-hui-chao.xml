@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 回潮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (DP (DT 各)
+                    (CLP (M 种)))
+                    (NP (NN 检查)))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 回潮))))
+                    (DEC 之)))
+                    (NP (NN 时)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    各 种 检查          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-1 -> 时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

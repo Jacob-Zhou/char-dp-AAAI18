@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发挥-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to make use of, to exert one's power or influence" group="1">
+<commentary>
+</commentary>
+<examples>
+今年 中国 银行 仍 将 继续 发挥 其 在 支持 外商 投资 企业 方面 的 主渠道 作用
+使 资产 管理 公司 发挥 更 大 的 功能
+为 充分 发挥 地缘 优势 ， 进一步 加快 对 外 开放 步伐 ， 呼伦贝尔盟 自 去年 下半年 开始 ， 认真 总结 在 对 外 开放 方面 存在 的 问题 和 不足 ， 大力 开展 了 “ 创造 良好 开放 环境 ” 活动
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to put in vigorous effort, to bring into full play" group="1">
+<commentary>
+</commentary>
+<examples>
+马尔默队 的 马・尼尔松 和 斯・尼尔松 都 发挥 出 了 较 高 的 水平 ， 各 赢得 了 两 分 。
+潜力 没有 发挥 出来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="147" ann_1_2_agreement="0.700680272109" />
+</inventory>

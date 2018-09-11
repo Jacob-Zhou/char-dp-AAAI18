@@ -1,0 +1,3 @@
+bn/vom/01/vom_0106@0106@vom@bn@ch@on 0 2 gold 介绍-v 介绍.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:4-ARG1 11:1-ARGM-ADV
+bn/vom/01/vom_0106@0106@vom@bn@ch@on 1 2 gold 请-v 请.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:1-ARG1 4:2-ARG2
+bn/vom/01/vom_0106@0106@vom@bn@ch@on 1 5 gold 听-v 听.01 ----- 5:0-rel 4:1-ARG0 6:2-ARG1

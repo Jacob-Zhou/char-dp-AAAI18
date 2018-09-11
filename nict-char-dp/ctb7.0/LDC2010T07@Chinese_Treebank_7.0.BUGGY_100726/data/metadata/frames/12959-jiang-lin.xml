@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 降临 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 夜幕))
+                    (VP (VV 降临))) 
+                    
+                </parse>
+                <arg n="0">
+                    夜幕          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

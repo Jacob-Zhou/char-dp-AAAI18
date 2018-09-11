@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发生-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to occur" group="1">
+<commentary>
+</commentary>
+<examples>
+特别是 今年 七月 中旬 以来 ， 淮河 中 、 下游 又 发生 大 面积 水污染 事故 “ 千岛湖 事件 ” 发生 以来
+中共 和 美国 在 贸易 方面 也 有 发生 磨擦 的 可能
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to arise (a disease)" group="1">
+<commentary>
+</commentary>
+<examples>
+一 侧 肾脏 较 小 的 人 发生 高 血压 的 机会 较 大
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="695" ann_1_2_agreement="0.815827338129" />
+</inventory>

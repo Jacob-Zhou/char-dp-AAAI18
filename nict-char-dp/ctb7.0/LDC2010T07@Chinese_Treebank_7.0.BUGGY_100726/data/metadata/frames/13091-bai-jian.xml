@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拜见 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="visitor"/>
+        <role argnum="1" argrole="person visited"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (NP-SBJ (NP-PN (NR 美国))
+                    (NP (NN 能源)
+                    (NN 部长)))
+                    (VP (ADVP (AD 已经))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP-PN-SBJ (NR 哈西娜))
+                    (VP (VV 抵达)
+                    (NP-PN-OBJ (NR 华盛顿))))
+                    (LC 后)))
+                    (ADVP (AD 迅速))
+                    (VP (VV 拜见)
+                    (AS 了)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 位)))
+                    (DNP (NP-PN (NR 孟加拉国))
+                    (DEG 的))
+                    (NP (NN 女)
+                    (NN 总理)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    美国 能源 部长          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 哈西娜 抵达 华盛顿 后          
+                </arg>
+                <arg n="m" f="adv">
+                    迅速          
+                </arg>
+                <arg n="1">
+                    这 位 孟加拉国 的  总理          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

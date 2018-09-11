@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闯出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 creates"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NT 今天))
+                    (DEG 的))
+                    (NP (NN 特区)))
+                    (VP (VP (ADVP (AD 不仅))
+                    (VP (VV 闯出)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 震惊)
+                    (NP-OBJ (NN 世界))))
+                    (DEC 的)))
+                    (NP (NP (NP-PN (NR 深圳))
+                    (NP (NN 速度)))
+                    (CC 与)
+                    (NP (NN 经济)
+                    (NN 奇迹)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    今天 的 特区          
+                </arg>
+                <arg n="m" f="dis">
+                    不仅          
+                </arg>
+                <arg n="1">
+                    震惊 世界 的 深圳 速度 与经济 奇迹          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

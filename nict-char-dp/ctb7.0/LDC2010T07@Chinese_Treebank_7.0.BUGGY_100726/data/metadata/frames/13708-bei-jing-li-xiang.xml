@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 背井离乡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ４０多万))
+                    (NP (NN 人)))
+                    (VP (VV 背井离乡))) 
+                    
+                </parse>
+                <arg n="0">
+                    ４０多万人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

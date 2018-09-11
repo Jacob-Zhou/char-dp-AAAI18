@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="定-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to decide, to set, to settle" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 经济 体制 多 项 改革 按照 原 定 部署 有序 推进
+新闻 及 广播 中心 原 定 七月 十日 关闭
+我 幼 时 的 家庭 虽然 迁徙 不 定
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="certainly, definitely" group="1">
+<commentary>
+</commentary>
+<examples>
+定 当 拥护 《 中华 人民 共和国 香港 特别 行政区 基本法 》
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="12" ann_1_2_agreement="1.0" />
+</inventory>

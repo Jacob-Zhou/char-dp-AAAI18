@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="负-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to bear (responsibility, reputaion, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+其 真实性 我 部 负 法律 责任
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to fail, to disappoint, to fall short of one's expectation" group="1">
+<commentary>
+</commentary>
+<examples>
+在 国家 利益 与 人民 福祉 的 最 高 原则 之下 ， 未来 不论是 执政者 或 在野者 ， 都 应该 能 不 负 人民 的 付托 、 善 尽 本身 的 职责 ， 实现 政党 政治 公平 竞争 、 民主 政治 监督 制衡 的 理想
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="negative" group="1">
+<commentary>
+</commentary>
+<examples>
+九七 年度 日本 经济 出现 负 增长
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to lose, to fail" group="1">
+<commentary>
+</commentary>
+<examples>
+威拉蓬 最后 战绩 是 ２１ 战 ２０ 胜 １ 负
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to carry on one's back" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="1.0" />
+</inventory>

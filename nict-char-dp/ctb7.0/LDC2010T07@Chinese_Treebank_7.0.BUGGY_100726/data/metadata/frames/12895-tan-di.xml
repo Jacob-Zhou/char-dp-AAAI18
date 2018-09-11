@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 探底 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (NN 台股))
+                    (VP (ADVP (AD 再))
+                    (ADVP (AD 向下))
+                    (VP (VV 探底)))) 
+                    
+                </parse>
+                <arg n="0">
+                    台股          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

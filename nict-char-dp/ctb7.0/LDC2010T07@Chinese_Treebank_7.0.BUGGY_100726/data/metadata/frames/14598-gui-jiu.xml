@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 归咎 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 blames"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 民进党))
+                    (VP (VP (ADVP (AD 将))
+                    (ADVP (AD 完全))
+                    (VP (VV 恢复)
+                    (NP-OBJ (NP (NT 日后)
+                    (NN 执政))
+                    (DNP (NP (DP (DT 所有))
+                    (NP (NN 成败)))
+                    (DEG 的))
+                    (NP (NN 责任)))))
+                    (PU ，)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 会)
+                    (VP (ADVP (AD 再))
+                    (VP (VV 归咎)
+                    (NP-OBJ (DP (DT 任何))
+                    (NP (NN 人))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    民进党          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="m" f="adv">
+                    再          
+                </arg>
+                <arg n="1">
+                    任何 人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

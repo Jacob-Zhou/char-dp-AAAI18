@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="要-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="want to, hope to, intend to, in order to" group="1">
+<commentary>VV</commentary>
+<examples>
+这本书我还要看呢。
+双方表示要进一步合作.
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="ask, request, demand" group="1">
+<commentary>VV</commentary>
+<examples>
+她要我替她写信。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="must, should, need" group="1">
+<commentary>VV</commentary>
+<examples>
+路很滑,大家要小心点。
+苏钢每年要靠大运河运输原料、成品一百五十万吨。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to be about to, will, may, possibly" group="1">
+<commentary>VV</commentary>
+<examples>
+天要黑了,快走吧。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="require, take (money, time, effort, etc.)" group="1">
+<commentary>VV</commentary>
+<examples>
+做件上衣要多少布?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="if, in case" group="1">
+<commentary>CS</commentary>
+<examples>
+这有什么可怕呢?要我就不怕。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="ask for, take" group="1">
+<commentary>VV</commentary>
+<examples>
+不收不要就是好领导。
+你要不要这本书?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="adverb used to indicate a comparison " group="1">
+<commentary>AD</commentary>
+<examples>
+屋子里太热了,树下要凉快得多。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="important, major, essential" group="1">
+<commentary>VA</commentary>
+<examples>
+上述规定希严格执行为要。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

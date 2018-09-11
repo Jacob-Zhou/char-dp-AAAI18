@@ -1,0 +1,89 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 融 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TPC (NN 花节)
+                    (NN 盛会))
+                    (NP-SBJ (NN 暖意))
+                    (VP (VV 融))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    花节 盛会 	  
+                </arg>
+                <arg n="0">
+                    暖意 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 融)
+                    (NP-OBJ (NN 冰)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="1">
+                    冰 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 融)
+                    (NP-OBJ (NN 中)
+                    (PU 、)
+                    (NN 外)
+                    (NN 音乐))
+                    (PP (P 于)
+                    (NP (NN 一体)))))
+                    (DEC 的)))
+                    (ADJP (JJ 精彩))
+                    (NP (NN 音乐会))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1-> 音乐会	  
+                </arg>
+                <arg n="1">
+                    中 、 外 音乐	  	  
+                </arg>
+                <arg n="m" f="loc">
+                    于 一体	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

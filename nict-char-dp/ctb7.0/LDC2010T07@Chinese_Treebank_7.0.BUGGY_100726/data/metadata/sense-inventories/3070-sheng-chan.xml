@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="生产-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to manufacture, to make" group="1">
+<commentary>
+</commentary>
+<examples>
+同样 生产 半导体 ， 台湾 厂商 多 以 「 代工 」 （ 接获 订单 後 ， 依照 买主 指定 的 电路图 生产 ） 或 技术性 产品 （ 如 快闪 记忆体 ） 等 为主
+如今 ， 中国 已 能 生产 上万 门 数字 电话 程控 交换机
+电话机 生产 一千六百一十一万 部
+目前 这 种 药 已 批量 生产 ， 并 大范围 用于 临床
+于 一九八八年 在 国内 率先 生产 出 首 批 硅酸盐 菌剂 生物 钾肥
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to produce" group="1">
+<commentary>
+</commentary>
+<examples>
+新疆 油区 去年 生产 原油 一千四百三十万 吨
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="production" group="1">
+<commentary>
+</commentary>
+<examples>
+１９９８年 大陆 研发 经费 占 了 国民 生产 毛额 的 比率 只 有 ０．６９％
+乡镇 企业 创造 的 国民 生产 总值 约 占 福建省 国民 生产 总值 的 三分之一
+西藏 银行 部门 积极 调整 信贷 结构 ， 以 确保 农牧业 生产 等 重点 产业 的 投入
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to give birth to a child" group="1">
+<commentary>
+</commentary>
+<examples>
+生 孩 子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="471" ann_1_2_agreement="0.292993630573" />
+</inventory>

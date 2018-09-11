@@ -1,0 +1,59 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 慎 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 is careful about"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-PN (NR 美国))
+                    (VP (VV 停泊)
+                    (NP-OBJ (-NONE- *T*-1))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 也门)))))
+                    (DEC 的)))
+                    (NP-PN (NR 科尔号))
+                    (NP (NN 驱逐舰)))
+                    (NP (VV 遭到)
+                    (NP-OBJ (ADJP (JJ 致命))
+                    (VP-PRD (NN 攻击)))))
+                    (LC 以后)))
+                    (PU ，)
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 位)))
+                    (NP (NN 发言人)))
+                    (VP (PU （)
+                    (QP (QP (CD ２１)
+                    (PU ：)
+                    (CD ２６))
+                    (CC 至)
+                    (QP (CD ２１)
+                    (PU ：)
+                    (CD ２８)))
+                    (PU ）)
+                    (VP (VA 慎)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 美国 停泊 在 也门 的 科尔号 驱逐舰 遭到 致命 攻击 以后          
+                </arg>
+                <arg n="0">
+                    这 位 发言人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

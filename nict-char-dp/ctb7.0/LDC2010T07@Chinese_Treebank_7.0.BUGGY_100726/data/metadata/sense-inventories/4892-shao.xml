@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="烧-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to burn" group="1">
+<commentary>
+</commentary>
+<examples>
+游客 烧 垃圾 、 煮 食 东西 等
+火 烧 古城
+蜡烛 两 头 烧
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be powered with (gas, etc)" group="1">
+<commentary>
+</commentary>
+<examples>
+林墨山 一 个 轮子 、 一 片 车厢板 ， 由 全 手工 制作 烧 酒精 的 蒸气 模型 火车
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to bake in a kiln" group="1">
+<commentary>
+</commentary>
+<examples>
+因为 大家 用 电窑 ， 可以 精确 控制 温度 ， 慢慢 『 炖 』 ， 慢慢 烧 ， 不 必 担心 急遽 的 热涨冷缩 会 把 作品 烧裂
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to cook, to heat up" group="1">
+<commentary>
+</commentary>
+<examples>
+大年夜 亲手 烧 一 桌 年菜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="prosper" group="1">
+<commentary>
+</commentary>
+<examples>
+景气 看淡 ， 人力 资源 市场 却 是 越 烧 越 旺 ， 甚至 成为 观察 就业 市场 的 指标 看板 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to burn the incense" group="1">
+<commentary>
+</commentary>
+<examples>
+除了 商家 日常 烧 香 参拜 的 招财 神像 之外
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="burning hot" group="1">
+<commentary>
+</commentary>
+<examples>
+烧 肉粽
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="fever, high temperature" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="9" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="52" ann_1_2_agreement="0.961538461538" />
+</inventory>

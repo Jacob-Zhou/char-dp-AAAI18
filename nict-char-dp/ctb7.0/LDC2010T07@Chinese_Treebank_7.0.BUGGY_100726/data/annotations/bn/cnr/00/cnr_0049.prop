@@ -1,0 +1,14 @@
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 11 gold 交替-v 交替.01 ----- 11:0-rel 9:1-ARG0 10:0*10:1*13:1*8:0*8:1-ARGM-TMP
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 14 gold 写-v 写.01 ----- 14:0-rel 0:2-ARGM-TPC 3:2-ARG0 7:1-ARGM-TMP 16:5-ARG1
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 15 gold 下-v 下.01 ----- 15:0-rel
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 17 gold 期盼-v 期盼.01 ----- 17:0-rel 16:1-ARG0 18:2-ARG1
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 20 gold 和平-v 和平.01 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-ADV
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 36 gold 策划-v 策划.01 ----- 36:0-rel 32:1*33:1*37:1*39:1-ARG1 34:1-ARG0
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 44 gold 特有-v 特有.01 ----- 44:0-rel 43:1-ARG0 42:0*42:1*45:0*45:1*47:1-ARG1
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 49 gold 出版-v 出版.01 ----- 49:0-rel 0:3-ARGM-ADV 30:2-ARG1 40:1-ARGM-TMP 41:1-ARGM-MNR
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 51 gold 表达-v 表达.01 ----- 51:0-rel 30:2-ARG0 40:2-ARG0 53:3-ARG1
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 0 62 gold 美好-v 美好.01 ----- 62:0-rel 61:1-ARGM-ADV 59:0*59:1*60:0*60:1*64:1-ARG0
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 1 20 gold 策划-v 策划.01 ----- 20:0-rel 0:1*21:1*35:1-ARG1 5:1-ARG0 19:1-ARGM-ADV
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 1 34 gold 主编-v 主编.01 ----- 34:0-rel 0:1*21:1*35:1-ARG1 23:1-ARG0 33:1-ARGM-ADV
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 3 4 gold 为-v 为.01 ----- 4:0-rel 0:4-ARG0 5:1-ARGM-PRD
+bn/cnr/00/cnr_0049@0049@cnr@bn@ch@on 3 8 gold 充满-v 充满.01 ----- 8:0-rel 9:1-ARG1 13:0*6:0*6:1*7:0*7:1-ARG0

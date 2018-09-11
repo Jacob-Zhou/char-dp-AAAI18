@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="结-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+三十六 对 新人 於 台北 宾馆 共 结 连理
+「 原来 只 是 想 换 个 地方 工作 ， 半 年 在 澳洲 生活 、 写 剧本 ， 半 年 回 香港 拍戏 ， 想 不 到 却 和 澳洲 结 了 一 个 缘 ， 」 她 说
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

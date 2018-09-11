@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 聆检 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="investigator"/>
+        <role argnum="1" argrole="thing investigated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 大批))
+                    (NP (NN 事务)
+                    (NN 稽查员)))
+                    (VP (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 加上)
+                    (NP-OBJ (NN 警方))))
+                    (PP-LOC (P 在)
+                    (LCP (NP (DNP (NP (NP-APP (NP-PN (NR 台北市))
+                    (NP (NN 社会)
+                    (NN 局长)))
+                    (NP-PN (NR 陈晓梅)))
+                    (DEG 的))
+                    (NP (NN 带领)))
+                    (LC 下)))
+                    (VP (VV 聆检)
+                    (NP-OBJ (DNP (ADJP (JJ 五星级))
+                    (DEG 的))
+                    (NP-PN (NP (NR 来来))
+                    (ADJP (JJ 大))
+                    (NP (NN 饭店)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    大批 事务 稽查员          
+                </arg>
+                <arg n="0" f="crd">
+                    加上 警方          
+                </arg>
+                <arg n="0" f="loc">
+                    在 台北市 社会 局长 陈晓梅 的 带领下          
+                </arg>
+                <arg n="1">
+                    五星级 的 来来 大 饭店          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

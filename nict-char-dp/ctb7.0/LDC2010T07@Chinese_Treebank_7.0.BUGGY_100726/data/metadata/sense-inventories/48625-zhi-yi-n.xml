@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="zhi-yi, 之一-n">
+<commentary></commentary>
+<sense n="1" name="之一, one of them" group="" type="">
+<commentary>one of them.</commentary><examples>他是我们之一。
+He was one of us.
+
+其中之一。
+one of them.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="之一, 第一, first" group="" type="">
+<commentary>Article first or article one, etc.</commentary><examples>这可以在第七章之一找到。
+It can be found in Chapter 7, articles first.
+
+第一条规定时尊重地方习惯。
+The first rule was to follow the local customs.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

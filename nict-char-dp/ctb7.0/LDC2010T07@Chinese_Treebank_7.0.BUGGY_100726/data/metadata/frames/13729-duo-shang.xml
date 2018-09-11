@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 多上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="amount"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 因为)
+                    (NP (NN 慌报)))
+                    (NP-SBJ (NN 前科))
+                    (VP (ADVP (AD 又))
+                    (VP (VV 要)
+                    (VP (VV 多上)
+                    (QP-OBJ (CD 一)
+                    (CLP (M 条)))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    因为 慌报           
+                </arg>
+                <arg n="0">
+                    前科           
+                </arg>
+                <arg n="m" f="dis">
+                    又          
+                </arg>
+                <arg n="1">
+                    一 条          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

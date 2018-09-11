@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="01707-jian-ding-n 鉴定-n">
+
+<commentary>
+
+</commentary>
+
+
+
+
+
+<sense n="1" type="" name="鉴定, appraisal," group="">
+
+<commentary>
+
+</commentary>
+
+
+<examples>
+
+
+
+毕业鉴定
+graduation appraisal.
+
+
+
+鉴定文物。
+Make an appraisal of a cultural relic.
+
+
+
+
+
+</examples>
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+<omega>
+
+</omega>
+
+
+<pb>
+</pb>
+
+</mappings>
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+<sense n="2" type="" name="鉴定, identification,  " group="">
+
+<commentary>
+
+</commentary>
+
+
+<examples>
+
+
+
+
+指纹鉴定
+fingerpoint identification.
+
+
+
+根据指纹鉴定罪犯。
+The identification of criminals by fingerprints.
+
+
+
+
+</examples>
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+<omega>
+
+</omega>
+
+
+<pb>
+</pb>
+
+</mappings>
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+<sense n="3" type="" name="鉴定, test, evaluation, survey, " group="">
+
+<commentary>
+
+</commentary>
+
+
+<examples>
+
+
+
+
+优质矿泉水已通过国家级鉴定。
+The high quality mineral water has passed the state-level test.
+
+
+
+工作鉴定
+job evaluation.
+
+
+作物鉴定
+crop survey.
+
+
+
+
+</examples>
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+<omega>
+
+</omega>
+
+
+<pb>
+</pb>
+
+</mappings>
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+</inventory>

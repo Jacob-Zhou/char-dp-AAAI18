@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="摊-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+梁 乡长 双 手 一 摊 ， 无奈 地 表示 ， 政府 不 要 做 什麽 事 都 以 管理 和 不 信任 的 态度 去 看 乡民 ， 应该 想 双 手 办法 让 坪林 与 水源 保护区 的 角色 共生 共荣
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

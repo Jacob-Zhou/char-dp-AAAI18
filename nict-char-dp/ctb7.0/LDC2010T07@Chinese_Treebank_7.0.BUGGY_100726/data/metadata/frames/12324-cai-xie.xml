@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 采写 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="report, article"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NR 黄少焕))
+                    (VP (VV 采写)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (NP (NN 录音)
+                    (NN 报道))) 
+                    
+                </parse>
+                <arg n="0">
+                    黄少焕          
+                </arg>
+                <arg n="1">
+                    *T*-2 -> 录音 报道          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

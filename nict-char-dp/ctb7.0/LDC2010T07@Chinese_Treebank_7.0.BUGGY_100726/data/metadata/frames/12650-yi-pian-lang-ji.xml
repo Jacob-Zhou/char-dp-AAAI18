@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一片狼藉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-SBJ (NP (NN 街道))
+                    (LC 上))
+                    (VP (VC 是)
+                    (VP (VV 一片狼藉)))) 
+                    
+                </parse>
+                <arg n="0">
+                    街道 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

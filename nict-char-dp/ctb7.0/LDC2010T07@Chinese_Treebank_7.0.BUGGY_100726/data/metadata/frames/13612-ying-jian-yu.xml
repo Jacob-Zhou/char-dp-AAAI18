@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 应鉴于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 应鉴于)
+                    (NP-OBJ (DNP (NP-PN (NR 诺丁汉)
+                    (NN 大学))
+                    (DEG 的))
+                    (NP (NN 教职))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    诺丁汉 大学 的 教职          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

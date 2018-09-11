@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 配制 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing made"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (QP (CD ２９)
+                    (CLP (M 个)))
+                    (NP (NN 生产)
+                    (NN 单位)))
+                    (VP (VV 生产)
+                    (CC 或)
+                    (VV 配制)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (QP (CD １５)
+                    (CLP (M 个)))
+                    (NP (NN 品种))) 
+                    
+                </parse>
+                <arg n="0">
+                    ２９ 个 生产 单位 生产 或 配制          
+                </arg>
+                <arg n="1">
+                    *T*-2 -> 品种          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

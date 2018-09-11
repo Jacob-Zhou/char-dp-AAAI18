@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 改到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme changed"/>
+        <role argnum="2" argrole="changing to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-TMP (P 从)
+                    (LCP (NP (NT 今年))
+                    (LC 起)))
+                    (NP-SBJ (DNP (NP (NN 航展))
+                    (DEG 的))
+                    (NP (NN 举办)
+                    (NN 日期)))
+                    (VP (VV 改到)
+                    (NP-OBJ (NT ７月份)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    从 今年 起          
+                </arg>
+                <arg n="1">
+                    航展 的举办 日期          
+                </arg>
+                <arg n="2">
+                    ７月份          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

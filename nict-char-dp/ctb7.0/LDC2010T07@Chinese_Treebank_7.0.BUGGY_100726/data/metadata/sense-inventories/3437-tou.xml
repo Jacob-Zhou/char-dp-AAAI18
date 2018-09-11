@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="投-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to cast a ballot" group="1">
+<commentary>
+</commentary>
+<examples>
+美 、 英 、 法 、 苏 投 了 赞成票
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to put in, to invest" group="1">
+<commentary>
+</commentary>
+<examples>
+王翔 投 巨资 一点二七亿 元 人民币 参与 了 九江 火车站 站场 的 建设
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to join (e.g. an army, group, party, etc.), to go
+and seek help from" group="1">
+<commentary>
+</commentary>
+<examples>
+国民党 方面 ， 在 这 次 选战 中 ， 国民党 公开 「 投 宋 」 者 ， 还 可 被 解释 为 国民党 中 的 「 失意人 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to throw, to fling, to toss" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

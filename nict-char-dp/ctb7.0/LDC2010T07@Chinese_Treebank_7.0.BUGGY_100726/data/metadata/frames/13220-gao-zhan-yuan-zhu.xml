@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 高瞻远举 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 建议)
+                    (NN 稿))
+                    (VP (VP (ADVP (AD 高))
+                    (VP (VV 举)
+                    (NP-OBJ (NP (NP-PN (NR 邓小平))
+                    (NP (NN 理论)))
+                    (ADJP (JJ 伟大))
+                    (NP (NN 旗帜)))))
+                    (PU ，)
+                    (VP (PP-MNR (P 根据)
+                    (NP (DNP (NP (NP (NN 国际)
+                    (NN 国内))
+                    (NP (NN 形势)))
+                    (DEG 的))
+                    (NP (NN 变化))))
+                    (PU ，)
+                    (VP (VV 高瞻远举))) 
+                    
+                </parse>
+                <arg n="0">
+                    建议 稿          
+                </arg>
+                <arg n="m" f="mnr">
+                    根据 国际 国内 形势 的 变化          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

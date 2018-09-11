@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 匿藏 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity hidden"/>
+        <role argnum="2" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 匿藏)
+                    (PP (P 在)
+                    (NP (NN 背后)))))
+                    (DEC 的)))
+                    (NP (NN 西瓜)
+                    (NN 刀)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 西瓜 刀          
+                </arg>
+                <arg n="2">
+                    在 背后          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

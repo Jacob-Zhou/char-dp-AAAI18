@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 征用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity recruited"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (NP-1 (-NONE- *PRO*))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (NN 大战)
+                    (NN 时期))
+                    (VP (VV 征用)
+                    (NP-OBJ (-NONE- *T*-1))))))
+                    (NP-PN (NR 中国))
+                    (NP (NN 劳工))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          	  
+                </arg>
+                <arg n="m" f="tmp">
+                    大战时期          	  
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 劳工          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

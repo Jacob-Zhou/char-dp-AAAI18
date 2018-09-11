@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 移位 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="eneity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (LCP-TMP (QP (CD １４０)
+                    (CLP (M 天)))
+                    (LC 前))
+                    (VP (VV 接下)
+                    (NP-OBJ (NN 行政院长)
+                    (NN 职位)))))
+                    (DEC 的)))
+                    (NP-PN (NR 唐飞)))
+                    (PU ，)
+                    (VP (DP-ADV (DT 这)
+                    (CLP (M 回)))
+                    (VP (VP (NP-MNR (NN 主客))
+                    (VP (VV 移位))) 
+                    
+                </parse>
+                <arg n="m" f="tpc">
+                    １４０ 天 前 接下行政院长 职位 的 唐飞          
+                </arg>
+                <arg n="m" f="adv">
+                    这 回          
+                </arg>
+                <arg n="0">
+                    主客          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

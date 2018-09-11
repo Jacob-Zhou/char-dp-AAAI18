@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 欣悦 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 正在))
+                    (PP-PRP (P 为)
+                    (NP (NN 家乡)
+                    (NN 巨变)))
+                    (VP (MSP 而)
+                    (VP (VV 欣悦)))))
+                    (DEC 的)))
+                    (NP (NN 天津人))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 天津人          
+                </arg>
+                <arg n="m" f="adv">
+                    正在          
+                </arg>
+                <arg n="m" f="prp">
+                    为 家乡 巨变          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

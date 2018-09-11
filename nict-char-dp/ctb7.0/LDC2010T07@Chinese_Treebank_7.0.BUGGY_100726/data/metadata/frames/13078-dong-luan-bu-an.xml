@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 动乱不安 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (LCP-TMP (NP-PN (QP (OD 第二)
+                    (CLP (M 次)))
+                    (NP (NN 世界)
+                    (NN 大战)))
+                    (LC 以后))
+                    (ADVP (AD 最))
+                    (VP (VV 动乱不安))))
+                    (DEC 的)))
+                    (QP (CD １０)
+                    (CLP (M 年))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> １０ 年          
+                </arg>
+                <arg n="m" f="tmp">
+                    第二 次 世界 大战 以后          
+                </arg>
+                <arg n="m" f="adv">
+                    最          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,14 @@
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 0 2 gold 请-v 请.01 ----- 2:0-rel 0:1-ARG1 1:1-ARGM-DIS 3:1-ARG2
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 0 3 gold 听-v 听.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:1-ARG1
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 0 12 gold 播报-v 播报.01 ----- 12:0-rel 13:0*13:1*7:0*7:1-ARG1 8:1-ARG0 10:1-ARGM-BNF
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 1 2 gold 判处-v 判处.01 ----- 2:0-rel 0:2-ARG0 3:2-ARG1 6:1-ARG2
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 2 8 gold 短-v 短.01 ----- 8:0-rel 0:1-ARGM-TMP 2:4-ARG0 7:1-ARGM-ADV
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 2 13 gold 宣判-v 宣判.01 ----- 13:0-rel 11:1-ARG0 10:1*12:1*16:1-ARGM-TMP 14:1-ARG1
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 2 24 gold 鼓掌-v 鼓掌.01 ----- 24:0-rel
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 2 25 gold 欢迎-v 欢迎.01 ----- 25:0-rel 10:3-ARGM-TMP 17:3-ARG0
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 2 29 gold 有-v 有.05 ----- 29:0-rel 27:1-ARG0 28:1-ARGM-DIS 30:3-ARG1
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 2 33 gold 判处-v 判处.01 ----- 33:0-rel 30:2*34:1-ARG1 35:2-ARG2
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 3 6 gold 处决-v 处决.01 ----- 6:0-rel 0:3-ARGM-TMP 5:1-ARG0 8:2-ARG1
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 3 17 gold 服务-v 服务.01 ----- 17:0-rel 14:1-ARG0 15:1-ARG1
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 3 20 gold 判处-v 判处.01 ----- 20:0-rel 11:1*12:1*21:1*24:1-ARG1 13:1-ARG3 22:1-ARG2
+bn/vom/02/vom_0282@0282@vom@bn@ch@on 4 12 gold 处决-v 处决.01 ----- 12:0-rel 0:1-ARGM-MNR 2:3-ARGM-TMP 9:1-ARG0 10:1-ARGM-ADV 13:3-ARG1

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 齐名 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (PP-ADV (P 与)
+                    (NP-PN (NR 柴科夫斯基)))
+                    (VP (VV 齐名))))
+                    (DEC 的)))
+                    (CP (WHNP-4 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-4))
+                    (LCP-LOC (NP (NN 国际))
+                    (LC 上))
+                    (NP-SBJ (NN 艺术)
+                    (NN 水准))
+                    (VP (ADVP (AD 最))
+                    (VP (VA 高))))
+                    (DEC 的)))
+                    (NP (NN 赛事))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 赛事          
+                </arg>
+                <arg n="0" f="crd">
+                    与 柴科夫斯基          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

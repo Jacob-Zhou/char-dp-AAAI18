@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="挺-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stand erect, to stand straight, to stick out
+(chest), to straighten" group="1">
+<commentary>
+</commentary>
+<examples>
+犹如 一 只 挺 胸 鼓 肚 、 引颈 长鸣 的 公鸡
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to hold, to hold upright" group="1">
+<commentary>
+</commentary>
+<examples>
+徐俊 先手 挺 后 前 兵 展开 攻势
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to support, to back up, to stand for" group="1">
+<commentary>
+</commentary>
+<examples>
+也 无法 凝聚 所有 党员 支持 的 共识 ， 大部分 的 支持者 转 而 挺 宋
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="quite, very" group="1">
+<commentary>
+</commentary>
+<examples>
+不过 这 个 一 个 月 租金 要 三万五千 元 的 「 家 」 着实 挺 贵
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="38" ann_1_2_agreement="0.947368421053" />
+</inventory>

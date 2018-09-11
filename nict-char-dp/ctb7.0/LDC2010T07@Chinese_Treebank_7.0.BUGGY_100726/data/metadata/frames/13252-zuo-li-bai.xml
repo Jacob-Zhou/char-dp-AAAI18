@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 作礼拜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 克林顿)
+                    (NN 总统))
+                    (VP (VP (VE 有)
+                    (NP-OBJ (NN 可能)))
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 越)))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 教堂)))
+                    (VP (VV 去)
+                    (VP (VV 作礼拜)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    克林顿 总统          
+                </arg>
+                <arg n="m" f="loc">
+                    在 越          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

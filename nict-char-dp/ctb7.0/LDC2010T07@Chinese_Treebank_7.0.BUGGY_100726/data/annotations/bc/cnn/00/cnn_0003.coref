@@ -1,0 +1,863 @@
+<DOC DOCNO="cnn_0003">
+<TEXT PARTNO="000">
+<COREF ID="000-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 今晚 *pro* 有请 <COREF ID="000-318" TYPE="IDENT"><COREF ID="000-319" TYPE="APPOS" SUBTYPE="ATTRIB">传奇 人物</COREF> <COREF ID="000-319" TYPE="APPOS" SUBTYPE="HEAD">麦克・华莱士</COREF></COREF> ．
+<COREF ID="000-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 这 一 次 ， <COREF ID="000-318" TYPE="IDENT">他</COREF> 将 回答 各种各样 的 问题 ， *pro* 从 中情局 泄密 调查 起诉 ， 到 总统 新 的 最高 法院 大法官 提名人 ．
+<COREF ID="000-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 同时 ， <COREF ID="000-318" TYPE="IDENT">他</COREF> 也 将 接 你 的 来电 ．
+<COREF ID="000-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> ＂ <COREF ID="000-318" TYPE="IDENT">拉里・金 现场 ＂ 的 下 一 位 嘉宾</COREF> 是 麦克 ．
+</TEXT>
+<TEXT PARTNO="001">
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> 在 <COREF ID="001-0" TYPE="IDENT">我们</COREF> 跟 <COREF ID="001-1" TYPE="IDENT">麦克・华莱士</COREF> 讨论 <COREF ID="001-1" TYPE="IDENT">他</COREF> 的 新 书 之前 ， 呃 ， <COREF ID="001-0" TYPE="IDENT">我们</COREF> 跟 <COREF ID="001-6" TYPE="IDENT">萨姆・布朗贝克 参议员</COREF> 谈谈 <COREF ID="001-7" TYPE="IDENT"><COREF ID="001-10" TYPE="IDENT">最高 法院</COREF> 大法官 任命 这 件 事</COREF> ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">他</COREF> 是 <COREF ID="001-17" TYPE="IDENT">司法 委员会</COREF> 成员 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">他</COREF> 将 参与 参议员 的 投票 表决 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">他</COREF> 曾 投票 赞成 <COREF ID="001-24" TYPE="IDENT">约翰・罗伯茨</COREF> ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-25" TYPE="IDENT">查克・舒默 参议员</COREF> 来自 纽约州 ， 民主党 ， 是 <COREF ID="001-17" TYPE="IDENT">司法 委员会</COREF> 成员 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-25" TYPE="IDENT">舒默 参议员</COREF> 曾 投票 反对 <COREF ID="001-24" TYPE="IDENT">罗伯茨</COREF> 提名案 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 还 有 <COREF ID="001-36" TYPE="IDENT">波士顿 的 大卫・格尔根</COREF> ． <COREF ID="001-36" TYPE="IDENT">他</COREF> 曾 是 尼克松 、 福特 、 里根 以及 克林顿 总统 任期 内 的 白宫 顾问 ， 是 哈佛大学 约翰・Ｆ・肯尼迪 政府 学院 公共 服务 教授 ， 同时 也 是
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> ＂ 美国 新闻 和 世界 报道 ＂ 的 自由 编辑 ． <COREF ID="001-0" TYPE="IDENT">我们</COREF> 将 先 从 <COREF ID="001-36" TYPE="IDENT">大卫</COREF> 开始 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-m_72" TYPE="IDENT">我</COREF> 敢 打赌 <COREF ID="001-6" TYPE="IDENT">萨姆・布朗贝克</COREF> 将 投票 赞成 <COREF ID="001-65" TYPE="IDENT">他</COREF> ， 而 <COREF ID="001-25" TYPE="IDENT">查尔斯・舒默</COREF> 将 投票 反对 <COREF ID="001-65" TYPE="IDENT">他</COREF> ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> 那么 ， 问题 是 <COREF ID="001-69" TYPE="IDENT">他们 两 个 人</COREF> 为什么 都 不 等 <COREF ID="001-119" TYPE="IDENT">听证会</COREF> 以后 ？
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 呃 ， *pro* 因为 我们 刚 经历 完 <COREF ID="001-76" TYPE="IDENT">哈里特＊梅尔斯</COREF> 这 一 *OP* *T*-1 非常 有 争议 的 阶段 ， 而且 <COREF ID="001-36" TYPE="IDENT">我</COREF> 想 *OP* <COREF ID="001-82" TYPE="IDENT">保守派</COREF> 真正 想要 *T*-2 的 是 一 位 强硬 的 保守 人士 ， 而 <COREF ID="001-86" TYPE="IDENT">现在</COREF> <COREF ID="001-82" TYPE="IDENT">他们</COREF> 已经 找到 <COREF ID="001-65" TYPE="IDENT">他</COREF> 了 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 而且 ， <COREF ID="001-82" TYPE="IDENT">他们</COREF> 都 已 大批 出来 庆祝 －－
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="001-90" TYPE="IDENT">帕特＊罗伯森</COREF> 称 之 *PRO* 为 <COREF ID="001-90" TYPE="IDENT">他</COREF> 的 ， 你 知道 的 ， 一 个 大满贯 全垒打 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 而且 ， 正如 *OP* <COREF ID="001-98" TYPE="IDENT">*pro*</COREF> 所 预料 *T*-1 的 ， <COREF ID="001-98" TYPE="IDENT">*pro*</COREF> 相信 ， 呃 ， ％ ｐｗ 左翼 阵营 将 发动 进攻 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="001-36" TYPE="IDENT">我</COREF> 想 我们 正 朝着 一 场 混乱 发展 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="001-107" TYPE="IDENT">今晚</COREF> *pro* 能 听听 <COREF ID="001-69" TYPE="IDENT">这 两 位 参议员</COREF> 就 议事 阻挠 行为 发生 的 可能性 的 看法 ， 这 将 非常 有趣 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">布朗贝克 参议员</COREF> ， <COREF ID="001-6" TYPE="IDENT">*pro*</COREF> 确认 听证会 难道 不 重要 吗 ？
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> 或者 对 <COREF ID="001-6" TYPE="IDENT">你</COREF> 来说 这 已 成 定局 ？
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-65" TYPE="IDENT">他</COREF> 已 得到 一 票 赞成票 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 呃 ， <COREF ID="001-6" TYPE="IDENT">*pro*</COREF> 确认 听证会 当然 重要 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 而且 对 <COREF ID="001-6" TYPE="IDENT">我</COREF> 来说 这 并没有 结束 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 想 *PRO* 看看 <COREF ID="001-65" TYPE="IDENT">这 位 *OP* *T*-1 被 提名 *-2 人</COREF> 的 表现 如何 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 想 *PRO* 听听 <COREF ID="001-65" TYPE="IDENT">他</COREF> 要 *PRO* 说 些 什么 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 刚 在 今天 早上 听到 <COREF ID="001-65" TYPE="IDENT">他</COREF> 的 名字 ， 刚刚 开始 查看 <COREF ID="001-65" TYPE="IDENT">他</COREF> 的 资历 、 <COREF ID="001-65" TYPE="IDENT">他</COREF> 的 背景 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 想 <COREF ID="001-65" TYPE="IDENT">他</COREF> 看起来 还 不错 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 但是 <COREF ID="001-6" TYPE="IDENT">我</COREF> <COREF ID="001-86" TYPE="IDENT">现在</COREF> 无法 给 <COREF ID="001-m_72" TYPE="IDENT">你</COREF> 一 个 <COREF ID="001-6" TYPE="IDENT">*pro*</COREF> 赞成 或 不 赞成 ， 是 或 不 是 的 答案 ． *pro* 了解 更 多 信息 是 建议 批准 流程 的 一 部分 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-25" TYPE="IDENT">舒默 参议员</COREF> ， 对 <COREF ID="001-25" TYPE="IDENT">你</COREF> <COREF ID="001-m_72" TYPE="IDENT">*pro*</COREF> 也 是 同样 的 问题 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-25" TYPE="IDENT">*pro*</COREF> 一定 是 不 赞成 吧 ？
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 不 ， *pro* 当然 不 是 ， 正如 *OP* <COREF ID="001-6" TYPE="IDENT">萨姆</COREF> 所 说 *T*-1 的 ，
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 在 这 一 点 上 ， <COREF ID="001-69" TYPE="IDENT">我们</COREF> 观点 一致 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 嗯 ， <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">我们</COREF> 需要 看看 <COREF ID="001-65" TYPE="IDENT">这 位 *OP* *T*-1 被 提名 *-2 人</COREF> 是 谁 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">我们</COREF> 需要 研究 <COREF ID="001-191" TYPE="IDENT"><COREF ID="001-65" TYPE="IDENT">他</COREF> 的 记录</COREF> ， 找出 ， 呃 ， <COREF ID="001-65" TYPE="IDENT">他</COREF> 在 想 什么 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">我们</COREF> 会 亲自 跟 <COREF ID="001-65" TYPE="IDENT">他</COREF> 会面 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 ， 接下来 <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">*pro*</COREF> 将 举行 <COREF ID="001-119" TYPE="IDENT">听证会</COREF> ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 所以 ， <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">*pro*</COREF> 不必 <COREF ID="001-86" TYPE="IDENT">现在</COREF> 做出 决定 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 很 明显 ， 人人 都 有 倾向 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-25" TYPE="IDENT">我</COREF> 的 猜测 是 对于 这 项 提名 ， <COREF ID="001-6" TYPE="IDENT">萨姆</COREF> 比 <COREF ID="001-25" TYPE="IDENT">我</COREF> 更 满意 一些 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 但是 <COREF ID="001-69" TYPE="IDENT">我们</COREF> 俩 都 不 会 声明 <COREF ID="001-69" TYPE="IDENT">我们</COREF> 的 立场 ， 因为 <COREF ID="001-69" TYPE="IDENT">我们</COREF> 还 没 呢 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 在 <COREF ID="001-217" TYPE="IDENT">你</COREF> 真正 会见 了 <COREF ID="001-218" TYPE="IDENT">*OP* *T*-1 被 提名 *-2 人</COREF> 、 并 了解 <COREF ID="001-218" TYPE="IDENT">他们</COREF> 之前 ， <COREF ID="001-217" TYPE="IDENT">你</COREF> 无法 确定 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> ％ ｐｗ 呃 ， <COREF ID="001-36" TYPE="IDENT">大卫＊格尔根</COREF> ， 如果 <COREF ID="001-225" TYPE="IDENT">这</COREF> 将 演变 成 一 场 议事 阻挠 事件 ， 那 将 对 政府 造成 怎样 的 损害 ？
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 嗯 ， 如果 <COREF ID="001-225" TYPE="IDENT">这</COREF> 将 演变 成 一 场 *pro* 阻碍 议案 *PRO* 通过 事件 ， ％ ｐｗ 呃 ， 而 <COREF ID="001-36" TYPE="IDENT">我</COREF> 认为 这 最终 是否 会 发生 ， <COREF ID="001-107" TYPE="IDENT">今晚</COREF> 还 很 难 见分晓 ． 呃 ， 而且 <COREF ID="001-241" TYPE="IDENT">共和党</COREF> 已经 清楚 表达 <COREF ID="001-241" TYPE="IDENT">他们</COREF> 将 有 可能 选择 激进 措施 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 那 就 是 <COREF ID="001-241" TYPE="IDENT">*pro*</COREF> 要 扼杀 议事 阻挠 事件 的 发生 ， 扼杀 一般 议事 阻挠 事件 的 发生 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 那 接下来 <COREF ID="001-255" TYPE="IDENT">我们</COREF> 将 看到 华盛顿 发生 派系 之 争 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="001-255" TYPE="IDENT">我们</COREF> 可能 不 会 面临 那 种 情况 ， <COREF ID="001-m_72" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 很多 因素 还 未 定 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 呃 ， <COREF ID="001-119" TYPE="IDENT">听证会</COREF> 当然 重要 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 大家 必须 更加 仔细 地 查看 <COREF ID="001-191" TYPE="IDENT">记录</COREF> ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 但是 <COREF ID="001-36" TYPE="IDENT">我</COREF> 认为 有些 －－ 是 的 ， 嗯 ， <COREF ID="001-36" TYPE="IDENT">我</COREF> 想 <COREF ID="001-69" TYPE="IDENT">两 位 参议员</COREF> ， <COREF ID="001-36" TYPE="IDENT">我</COREF> 想 ， <COREF ID="001-69" TYPE="IDENT">*pro*</COREF> 说 <COREF ID="001-69" TYPE="IDENT">我们</COREF> 必须 等待 并 保留 <COREF ID="001-69" TYPE="IDENT">我们</COREF> 的 立场 是 完全 正确 的 ．
+<COREF ID="001-36" TYPE="IDENT">[David_Gergen_#1E]</COREF> 根据 <COREF ID="001-280" TYPE="IDENT">*OP* <COREF ID="001-281" TYPE="IDENT">双方</COREF> 正在 排列 *T*-1 的 阵容</COREF> ， <COREF ID="001-280" TYPE="IDENT">*OP* <COREF ID="001-281" TYPE="IDENT">双方</COREF> 正在 排列 *T*-2 的 活动 分子 阵容</COREF> ， 你 可以 看 得 出 这 将 演变 成 一 种 混乱 场面 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">布朗贝克 参议员</COREF> ， <COREF ID="001-294" TYPE="IDENT">布什</COREF> 提名 <COREF ID="001-76" TYPE="IDENT">哈里特＊梅尔斯</COREF> 时 ， <COREF ID="001-6" TYPE="IDENT">你</COREF> 曾 说 过 <COREF ID="001-294" TYPE="IDENT">他</COREF> 选择 了 <COREF ID="001-76" TYPE="IDENT">*OP* <COREF ID="001-294" TYPE="IDENT">他</COREF> 能 找到 *T*-1 的 最佳 人选</COREF> ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 是否 意味 着 <COREF ID="001-65" TYPE="IDENT">阿利托</COREF> 是 第二 佳 人选 ？
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 啊 ， <COREF ID="001-6" TYPE="IDENT">我</COREF> 不 记得 <COREF ID="001-6" TYPE="IDENT">我</COREF> 说 过 <COREF ID="001-316" TYPE="IDENT">那 话</COREF> ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 不 清楚 从 哪里 ， 呃 ， <COREF ID="001-312" TYPE="IDENT">你们 的 制片人</COREF> 是 从 哪里 弄到 <COREF ID="001-316" TYPE="IDENT">这 项 特别 声明</COREF> 的 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="001-312" TYPE="IDENT">他们</COREF> 找到 <COREF ID="001-316" TYPE="IDENT">它</COREF> 的 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 不 是 <COREF ID="001-m_72" TYPE="IDENT">我</COREF> ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 嗯 ， 呃 ， *pro* 好 吧 ， <COREF ID="001-6" TYPE="IDENT">我</COREF> 不 确定 <COREF ID="001-316" TYPE="IDENT">那</COREF> 是否 可能 是 *OP* <COREF ID="001-6" TYPE="IDENT">我</COREF> 说 *T*-1 的 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 对 <COREF ID="001-76" TYPE="IDENT">哈里特＊梅尔斯</COREF> 曾 存在 很多 疑问 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 更多 ， *pro* 是 因为 呢 ， 比起 <COREF ID="001-191" TYPE="IDENT"><COREF ID="001-65" TYPE="IDENT">阿利托 法官</COREF> 的 记录</COREF> ， 关于 <COREF ID="001-76" TYPE="IDENT">她</COREF> 的 记录 少 了 很多 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 所以 <COREF ID="001-6" TYPE="IDENT">我</COREF> －－
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 认为 有关 <COREF ID="001-65" TYPE="IDENT">这个 人</COREF> <COREF ID="001-343" TYPE="IDENT">我们</COREF> 将 会 了解 更 多 的 情况 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 并且 <COREF ID="001-6" TYPE="IDENT">我</COREF> 认为 这 有利于 整个 流程 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-343" TYPE="IDENT">我们</COREF> 应当 了解 一 种 司法 理念 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-343" TYPE="IDENT">我们</COREF> 应当 推荐 杰出 候选人 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 认为 每个 人 都 赞同 <COREF ID="001-359" TYPE="IDENT">这</COREF> 是 一 种 卓越 的 法律 思维 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 那么 <COREF ID="001-86" TYPE="IDENT">现在</COREF> *pro* 让 <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E13" TYPE="IDENT">我们</COREF> *PRO* 来 看看 <COREF ID="001-359" TYPE="IDENT">这个 司法 理念</COREF> ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-6" TYPE="IDENT">我</COREF> 认为 <COREF ID="001-65" TYPE="IDENT">他</COREF> 可能 比较 保守 一些 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="001-65" TYPE="IDENT">他</COREF> 可能 并不 像 鲁思＊巴德＊金斯伯格 左倾 那样 右倾 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 呃 ， 但是 ， 呃 ， 让 <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E13" TYPE="IDENT">我们</COREF> ， *pro* 让 <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E13" TYPE="IDENT">我们</COREF> *PRO* 来 看 一下 ．
+<COREF ID="001-6" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 而且 观察 需要 一些 时间 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 谈到 这些 ， <COREF ID="001-25" TYPE="IDENT">舒默 参议员</COREF> ， <COREF ID="001-25" TYPE="IDENT">你</COREF> 更 喜欢 ， <COREF ID="001-25" TYPE="IDENT">你</COREF> 希望 <COREF ID="001-382" TYPE="IDENT">*pro*</COREF> 是 一 位 女性 吗 ？
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 这个 ， 所有 情况 相等 下 ， *pro* 是 的 ， <COREF ID="001-25" TYPE="IDENT">我</COREF> 会 希望 <COREF ID="001-382" TYPE="IDENT">*pro*</COREF> 是 一 位 女性 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-25" TYPE="IDENT">我</COREF> 相信 多元化 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 但是 ， 呃 ， <COREF ID="001-294" TYPE="IDENT">总统</COREF> 做 了 <COREF ID="001-294" TYPE="IDENT">他</COREF> 的 选择 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 ， <COREF ID="001-69" TYPE="IDENT"><COREF ID="001-6" TYPE="IDENT">萨姆</COREF> 和 <COREF ID="001-25" TYPE="IDENT">我</COREF></COREF> 在 有 一 点 上 观点 一致 ， <COREF ID="001-m_72" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 这 有点 有趣 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-69" TYPE="IDENT">我们 两 人</COREF> 一致 认为 <COREF ID="001-409" TYPE="IDENT">*OP* *T*-1 被 提名 *-2 人</COREF> 应 阐明 <COREF ID="001-409" TYPE="IDENT">他们</COREF> 的 司法 理念 ， 让 我们 *PRO* 了解 <COREF ID="001-409" TYPE="IDENT">他</COREF> 或 ， 如果 结果 是 <COREF ID="001-409" TYPE="IDENT">她</COREF> 的话 ， 是 如何 看待 这些 问题 的 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 这 ， <COREF ID="001-25" TYPE="IDENT">我</COREF> 认为 神秘 提名人 的 时代 ， <COREF ID="001-76" TYPE="IDENT">哈里特＊梅尔斯</COREF> 显然 曾经 是 ， 已经 结束 了 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 这 ， 你 知道 的 ， <COREF ID="001-432" TYPE="IDENT"><COREF ID="001-10" TYPE="IDENT">最高 法院</COREF> 大法官</COREF> 对 我们 每个 人 的 生命 都 有 着 巨大 的 ， 巨大 的 权力 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而 你 唯一 *pro* 可以 真正 质询 <COREF ID="001-432" TYPE="IDENT">他们</COREF> 、 了解 <COREF ID="001-432" TYPE="IDENT">他们</COREF> 想法 的 机会 就 是 当 *OP* 参议院 *T*-1 执行 <COREF ID="001-451" TYPE="IDENT">确认 流程</COREF> 的 时候 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 我们 一致 认为 <COREF ID="001-451" TYPE="IDENT">这</COREF> 应该 进行 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-451" TYPE="IDENT">它</COREF> 应该 以 一 种 尊严 的 形式 进行 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-451" TYPE="IDENT">它</COREF> 应该 以 一 种 审慎 的 形式 进行 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 但是 <COREF ID="001-451" TYPE="IDENT">它</COREF> 当然 应该 进行 ．
+<COREF ID="001-m_72" TYPE="IDENT">[Larry_King_#1E]</COREF> 如果 *pro* 通过 的话 ， <COREF ID="001-65" TYPE="IDENT">他</COREF> 要 到 ％ ｐｗ 一月份 才 到 <COREF ID="001-10" TYPE="IDENT">法院</COREF> 上任 ， *pro* 对 吗 ？
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 嗯 ， <COREF ID="001-25" TYPE="IDENT">我</COREF> 想 *pro* 是 的 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 ， 你 知道 ， 那 是 *OP* *T*-1 确实 令 <COREF ID="001-25" TYPE="IDENT">我</COREF> *PRO* 担忧 的 一 件 事 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 由于 <COREF ID="001-7" TYPE="IDENT">这 项 任命</COREF> 的 重要性 ， <COREF ID="001-451" TYPE="IDENT">流程</COREF> 不 应该 草率 进行 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 呃 ， 有些 人 说 <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">我们</COREF> 应 速战速决 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 那样 <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">*pro*</COREF> 反而 会 把 事情 弄糟 *-1 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 呃 ， <COREF ID="001-65" TYPE="IDENT">阿利托 法官</COREF> 现年 ５５ 岁 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 呃 ， <COREF ID="001-65" TYPE="IDENT">他</COREF> 有 可能 在任 几十 年 ， 不仅 会 对 <COREF ID="001-490" TYPE="IDENT">我们</COREF> ， 而且 对 <COREF ID="001-490" TYPE="IDENT">我们</COREF> 的 孩子们 ， 可能 <COREF ID="001-490" TYPE="IDENT">我们</COREF> 的 孙辈们 ， 都 会 有 巨大 的 影响 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 所以 ， <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">我们</COREF> 应该 首先 做到 *PRO* 仔细 审慎 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">*pro*</COREF> 不 草率 行事 ．
+<COREF ID="001-25" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="001-CNN_LARRYKING_ENG_20051031_205800.part-001-E3" TYPE="IDENT">*pro*</COREF> 不 应该 那样 ．
+</TEXT>
+<TEXT PARTNO="002">
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">大卫＊格尔根</COREF> ， 比尔＊克林顿 在 本 节目 中 曾 说 <COREF ID="002-3" TYPE="IDENT">法官</COREF> 常常 使 *OP* *T*-1 任命 <COREF ID="002-3" TYPE="IDENT">他们</COREF> 的 总统们 *PRO* 失望 ， 因为 这 是 *OP* <COREF ID="002-3" TYPE="IDENT">他们</COREF> 人生 中 第一 次 担任 *T*-2 的 *OP* *T*-3 <COREF ID="002-3" TYPE="IDENT">*pro*</COREF> 不 会 被 人 上诉 *-4 的 工作 ， 而且 <COREF ID="002-3" TYPE="IDENT">他们</COREF> 看待 事情 也 不同 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 真的 吗 ？
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 啊 ， *pro* 是 的 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 不 认为 ％ ｐｗ 此 次 的 情况 ％ ｐｗ 是 这么 回 事 ， 因为 ％ ｐｗ <COREF ID="002-28" TYPE="IDENT">阿利托 法官</COREF> 确实 具有 很 长 的 记录 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-28" TYPE="IDENT">他</COREF> 已 在 上诉 法院 工作 １５ 年 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 呃 ， 而且 我们 确实 了解 <COREF ID="002-28" TYPE="IDENT">他</COREF> 的 一 点 就 是 <COREF ID="002-28" TYPE="IDENT">他</COREF> 在 <COREF ID="002-44" TYPE="IDENT">那个 法院</COREF> 执行 过 约 ４１ 次 异议权 ， 在 <COREF ID="002-44" TYPE="IDENT">一 个 相当 自由 的 法院</COREF> 里 几乎 是 在 ， 几乎 总是 偏向 保守 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 呃 ， 而且 ， 所以 ％ ｐｗ <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-28" TYPE="IDENT">他</COREF> 已 具备 ， <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-28" TYPE="IDENT">他</COREF> 具备 一 种 一贯 的 ， 呃 ， 理念 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_47" TYPE="IDENT">拉里</COREF> ， 依 <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 看来 ， <COREF ID="002-53" TYPE="IDENT">总统</COREF> <COREF ID="002-297" TYPE="IDENT">现在</COREF> 再次 推荐 一 位 *OP* *T*-1 具有 经验 和 能力 的 人选 ， 需要 ， 值得 *pro* 向 <COREF ID="002-53" TYPE="IDENT">他</COREF> 庆贺 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 那 是 毫无疑问 的 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-28" TYPE="IDENT">他</COREF> 看起来 很 亲切 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 相信 <COREF ID="002-28" TYPE="IDENT">他</COREF> 在 听证会 上 会 表现 很 好 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 的 感觉 是 这 最终 将 回到 <COREF ID="002-70" TYPE="IDENT">这个 问题 ， 就 是 国会 或 参议院 会 批准 <COREF ID="002-28" TYPE="IDENT">这 位 *OP* *T*-1 值得 信赖 的 、 *OP* *T*-2 并 有 可能 与 斯卡利亚 和 托马斯 投票 一致 的 保守派 人士</COREF> 吗 ？ 或 民主党 将 有 可能 阻止 它</COREF> ？
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 那么 <COREF ID="002-70" TYPE="IDENT">那</COREF> 将 是 ， <COREF ID="002-70" TYPE="IDENT">那</COREF> 将 是 ％ ｐｗ ， 而且 <COREF ID="002-70" TYPE="IDENT">那</COREF> 是 一 场 非常 重要 的 、 关于 *OP* *T*-1 应该 用 于 指导 ， *PRO* 指导 法庭 的 司法 理念 的 大 斗争 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="002-m_0" TYPE="IDENT">布朗贝克 参议员</COREF> ， <COREF ID="002-28" TYPE="IDENT">他</COREF> 有 可能 既 是 一 位 *OP* *T*-1 值得 信赖 的 保守派 、 并且 同时 投票 赞同 <COREF ID="002-99" TYPE="IDENT"><COREF ID="002-100" TYPE="IDENT">罗伊</COREF> 诉 <COREF ID="002-101" TYPE="IDENT">韦德</COREF> 案</COREF> 吗 ？
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> ％ ｐｗ <COREF ID="002-m_0" TYPE="IDENT">我</COREF> ， <COREF ID="002-m_0" TYPE="IDENT">我</COREF> 认为 这 点 可能 值得 探讨 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 但是 <COREF ID="002-m_0" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-m_0" TYPE="IDENT">*pro*</COREF> 是 不 可能 ， 呃 ， 从 那个 方面 去 考虑 它 的 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 呃 ， <COREF ID="002-99" TYPE="IDENT"><COREF ID="002-100" TYPE="IDENT">罗伊</COREF> 诉 <COREF ID="002-101" TYPE="IDENT">韦德</COREF> 案</COREF> ， 呃 ， <COREF ID="002-116" TYPE="IDENT">堕胎 的 权利</COREF> ， <COREF ID="002-116" TYPE="IDENT">那</COREF> 是 根据 <COREF ID="002-120" TYPE="IDENT">宪法</COREF> 解释 的 ， <COREF ID="002-120" TYPE="IDENT">宪法</COREF> 里 并 没有 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 呃 ， 而且 左翼 阵营 和 右翼 阵营 有 不少 评论家 认为 <COREF ID="002-116" TYPE="IDENT">这</COREF> 并没有 写入 <COREF ID="002-120" TYPE="IDENT">宪法</COREF> ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="002-116" TYPE="IDENT">这</COREF> 应该 进行 辩论 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="002-116" TYPE="IDENT">这</COREF> 应 通过 全国 各 立法 机构 解决 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 因此 <COREF ID="002-m_0" TYPE="IDENT">我</COREF> ， <COREF ID="002-m_0" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-28" TYPE="IDENT">他</COREF> 可以 那样 解释 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 但是 ， 在 <COREF ID="002-m_0" TYPE="IDENT">我</COREF> 看来 *OP* *T*-1 更 严格 解释 <COREF ID="002-120" TYPE="IDENT">宪法</COREF> 的 人 似乎 不 可能 那样 做 的 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> 但是 ，
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> 但是 <COREF ID="002-28" TYPE="IDENT">他</COREF> 只用 赞同 先例 就 可以 了 呀 ， 难道 <COREF ID="002-28" TYPE="IDENT">他</COREF> 不 可以 吗 ？
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 因为 <COREF ID="002-28" TYPE="IDENT">他</COREF> 在 过去 说 过 ， 就 是 <COREF ID="002-28" TYPE="IDENT">他</COREF> 赞成 *pro* 引用 先例 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 呃 ， <COREF ID="002-m_0" TYPE="IDENT">我</COREF> 认为 几乎 每 位 法官 ， 大法官 都 赞成 *pro* 引用 先例 ， *PRO* 遵循 先例 的 ％ ｐｗ 作用 ， 就 是 一旦 <COREF ID="002-161" TYPE="IDENT">一 项 法律</COREF> 已 有 定案 ， <COREF ID="002-161" TYPE="IDENT">*pro*</COREF> 就 是 已定 法律 了 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 但是 你 知道 ， 你 回顾 一下 <COREF ID="002-170" TYPE="IDENT">我们</COREF> 的 历史 ，
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="002-170" TYPE="IDENT">我们</COREF> 有 过 不少 最高 法院 的 案子 ， 呃 ， 就 是 被 <COREF ID="002-177" TYPE="IDENT">后来 的 法院</COREF> 所 推翻 *-1 的 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> 而且 ， <COREF ID="002-181" TYPE="IDENT">*pro*</COREF> 谢天谢地 <COREF ID="002-177" TYPE="IDENT">他们</COREF> 那样 做 了 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="002-183" TYPE="IDENT">布朗 起诉 教育 委员会 案</COREF> 是 发生 在 *OP* <COREF ID="002-m_0" TYPE="IDENT">我</COREF> 所 在 *T*-1 的 堪萨斯州 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="002-183" TYPE="IDENT">它</COREF> 推翻 了 *OP* *T*-1 先前 认为 种族 隔离 是 可以 的 法律 ．
+<COREF ID="002-m_0" TYPE="IDENT">[Senator_Sam_Brownback_#1E]</COREF> <COREF ID="002-181" TYPE="IDENT">*pro*</COREF> 谢天谢地 ， 谢天谢地 ， 法院 推翻 了 先前 那些 判决 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="002-m_15" TYPE="IDENT">查克＊舒默</COREF> ， <COREF ID="002-m_15" TYPE="IDENT">你</COREF> 预期 *pro* 会 有 一 场 斗争 吗 ？
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 嗯 ， 你 知道 的 ， <COREF ID="002-m_15" TYPE="IDENT">*pro*</COREF> 诚实 地 说 ， <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 会 希望 ， 是 ， *pro* 让 <COREF ID="002-m_15" TYPE="IDENT">我</COREF> *PRO* 这么 说 吧 ， <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 真 希望 我们 能 避免 <COREF ID="002-213" TYPE="IDENT">一 场 斗争</COREF> ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="002-m_15" TYPE="IDENT">你</COREF> 真的 预期 <COREF ID="002-213" TYPE="IDENT">它</COREF> 会 发生 吗 ？
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 原本 希望 <COREF ID="002-53" TYPE="IDENT">总统</COREF> 会 推选 一 位 *OP* 更 多 人 真正 赞同 *T*-1 的 、 *OP* *T*-2 能 取得 更 广泛 支持 的 *OP* *T*-3 被 提名 *-4 人 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 但是 <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 认为 *OP* 这里 发生 *T*-1 的 是 ， 呃 ， <COREF ID="002-m_15" TYPE="IDENT">*pro*</COREF> 举 个 例子 ， 呃 ， *pro* 没有 一 位 参议员 曾 说 过 ， 呃 ， 哈里特＊梅尔斯 提名 应 被 撤销 *-2 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="002-m_0" TYPE="IDENT">萨姆</COREF> 可能 话 都 到 嘴边 了 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 但是 <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 不 认为 <COREF ID="002-m_0" TYPE="IDENT">他</COREF> 曾 说 出来 过 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> *OP* *T*-1 这么 说 的 仅仅 是 <COREF ID="002-250" TYPE="IDENT">那些 非常 极端 的 群体</COREF> ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 <COREF ID="002-53" TYPE="IDENT">总统</COREF> ， 呃 ， 赞同 <COREF ID="002-250" TYPE="IDENT">他们</COREF> ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 ， 你 知道 的 ， <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 必须 告诉 <COREF ID="002-m_47" TYPE="IDENT">你</COREF> 这 点 ， <COREF ID="002-m_47" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 无法 告诉 <COREF ID="002-m_47" TYPE="IDENT">你</COREF> <COREF ID="002-262" TYPE="IDENT"><COREF ID="002-28" TYPE="IDENT">阿利托 法官</COREF> 的 情况</COREF> 会 怎么样 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> <COREF ID="002-m_15" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-262" TYPE="IDENT">*pro*</COREF> 跟 *OP* <COREF ID="002-m_27" TYPE="IDENT">大卫＊格尔根</COREF> 所 说 *T*-1 的 很 接近 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 但是 <COREF ID="002-270" TYPE="IDENT">任何 一 位 总统</COREF> ， 如果 <COREF ID="002-270" TYPE="IDENT">他</COREF> 企图 *PRO* 支配 ， 无论是 法院 任命 还是 *OP* *T*-1 来自 <COREF ID="002-280" TYPE="IDENT">极端方</COREF> 的 任何 别的 事情 ， <COREF ID="002-280" TYPE="IDENT">极为 左倾 的 民主党 ， 极为 右倾 的 共和党</COREF> ， 都 不 会 对 国家 有 好处 ．
+<COREF ID="002-m_15" TYPE="IDENT">[Senator_Charles_Schumer_#1E]</COREF> 而且 到 最后 ， *pro* 对 <COREF ID="002-270" TYPE="IDENT">他们 自己</COREF> 也 没 好处 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">大卫＊格尔根</COREF> ， <COREF ID="002-m_27" TYPE="IDENT">你</COREF> 有 预言 ？
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> 或是 <COREF ID="002-CNN_LARRYKING_ENG_20051031_205800.part-002-E4" TYPE="IDENT">*pro*</COREF> <COREF ID="002-297" TYPE="IDENT">现在</COREF> 说 还 为时过早 ？
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-CNN_LARRYKING_ENG_20051031_205800.part-002-E4" TYPE="IDENT">*pro*</COREF> <COREF ID="002-297" TYPE="IDENT">现在</COREF> 说 还 为时过早 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 呃 ， ％ ｐｗ <COREF ID="002-300" TYPE="IDENT">*pro*</COREF> 观看 那些 较温和派 的 民主党人 的 做法 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-300" TYPE="IDENT">*pro*</COREF> 观看 共和党 方面 的 奥林匹亚＊斯诺 、 苏珊＊柯林斯 和 林肯＊查菲会 做 些 什么 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> ％ ｐｗ 那些 将 是 摇摆 票 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> 所以 <COREF ID="002-CNN_LARRYKING_ENG_20051031_205800.part-002-E4" TYPE="IDENT">*pro*</COREF> <COREF ID="002-297" TYPE="IDENT">现在</COREF> 说 还 真 是 为时太早 了 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 认为 它 是 ， 呃 ， <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 认为 ， <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-28" TYPE="IDENT">他</COREF> 是 ， <COREF ID="002-28" TYPE="IDENT">他</COREF> 是 保守派 ， <COREF ID="002-323" TYPE="IDENT">这 点</COREF> 是 可靠 的 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 觉得 随着 国人 渐渐 了解 某些 个别 裁决 是 什么 ， 问题 就 成 了 国人 是否 会 欢迎 <COREF ID="002-323" TYPE="IDENT">这 一 点</COREF> ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 认为 <COREF ID="002-CNN_LARRYKING_ENG_20051031_205800.part-002-E4" TYPE="IDENT">*pro*</COREF> <COREF ID="002-297" TYPE="IDENT">现在</COREF> 下结论 还 为时过早 ．
+<COREF ID="002-m_27" TYPE="IDENT">[David_Gergen_#1E]</COREF> <COREF ID="002-m_27" TYPE="IDENT">我</COREF> 想 ， 这 对 双方 都 将 ， 都 将 是 一 场 斗争 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="002-341" TYPE="IDENT"><COREF ID="002-m_0" TYPE="IDENT">布朗贝克 参议员</COREF> 和 <COREF ID="002-m_15" TYPE="IDENT">舒默 参议员</COREF> ， 还有 <COREF ID="002-m_27" TYPE="IDENT">大卫＊格尔根</COREF></COREF> ， <COREF ID="002-m_47" TYPE="IDENT">*pro*</COREF> 谢谢 <COREF ID="002-341" TYPE="IDENT">你们</COREF> ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> 明天 晚上 将 是 约瑟夫＊威尔逊 大使 ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> 周三 是 <COREF ID="002-351" TYPE="APPOS" SUBTYPE="ATTRIB">前 总统</COREF> <COREF ID="002-351" TYPE="APPOS" SUBTYPE="HEAD">吉米＊卡特</COREF> ．
+<COREF ID="002-m_47" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 周四 是 约翰＊麦凯恩 参议员 ．
+</TEXT>
+<TEXT PARTNO="003">
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 下 一 位 则 是 <COREF ID="003-m_41" TYPE="IDENT">麦克＊华莱士</COREF> ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 不 要 走开 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 欢迎 <COREF ID="003-m_41" TYPE="IDENT">他</COREF> ， 呃 ， 一直 是 一 件 乐事 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 在 <COREF ID="003-8" TYPE="IDENT">我们</COREF> 的 ， 在 <COREF ID="003-m_0" TYPE="IDENT">我</COREF> 生日 时 ， <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 和 <COREF ID="003-8" TYPE="IDENT">我们</COREF> 在一起 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">他</COREF> （ （ ） ） 陪 <COREF ID="003-m_0" TYPE="IDENT">我</COREF> *PRO* 一起 走过 不少 人生 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 <COREF ID="003-m_0" TYPE="IDENT">我</COREF> 敬爱 <COREF ID="003-m_41" TYPE="IDENT">他</COREF> ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 而且 <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 一直 是 *OP* <COREF ID="003-m_0" TYPE="IDENT">我</COREF> 最 欣赏 *T*-1 的 ， 呃 ， 人物 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 就 是 麦克＊华莱士 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ ） ） 的 记者 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， <COREF ID="003-m_0" TYPE="IDENT">拉里</COREF> ， <COREF ID="003-m_0" TYPE="IDENT">拉里</COREF> ， <COREF ID="003-m_0" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ 嗯 ） ） <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 确实 是 的 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 自从 <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 在 １９６８年 首播 <COREF ID="003-32" TYPE="IDENT">哥伦比亚 广播 公司 新闻 ＂ ６０ 分钟 ＂</COREF> 以来 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 从 一开始 就 在 <COREF ID="003-32" TYPE="IDENT">那里</COREF> ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 获奖 无数 ， *pro* 包括 三 次 杜庞 奖 和 三 次 皮博迪 奖 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 而且 <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 刚 出 了 <COREF ID="003-48" TYPE="IDENT">一 本 挺 不错 的 新 回忆录</COREF> ， 包括 一 张 *OP* *T*-1 从 <COREF ID="003-m_41" TYPE="IDENT">他</COREF> 一些 最 著名 的 采访 中 剪辑 而 成 的 光盘 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 书名 叫 《 你 我 之间 》 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 你 看 ， 这 就 是 <COREF ID="003-48" TYPE="IDENT">它</COREF> 的 封面 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* <COREF ID="003-48" TYPE="IDENT">一 本 好 书</COREF> ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 在 <COREF ID="003-67" TYPE="IDENT">我们</COREF> 开始 谈 <COREF ID="003-48" TYPE="IDENT">这 本 书</COREF> 之前 ， <COREF ID="003-67" TYPE="IDENT">*pro*</COREF> 先 评说 一些 重要 事件 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">麦克</COREF> ， <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 对 <COREF ID="003-76" TYPE="IDENT">塞缪尔＊阿利托</COREF> 的 看法 如何 ？
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> （ （ 嗯 ， <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 不 ） ） －－
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 刚 在 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 之前 有 两 位 *OP* *T*-1 口才 极 佳 的 嘉宾 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 对 <COREF ID="003-76" TYPE="IDENT">那个 人</COREF> 并不 是 很 了解 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 吗 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-76" TYPE="IDENT">他</COREF> 看起来 像 一 位 *OP* *T*-1 和蔼可亲 的 人 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 说真的 ， <COREF ID="003-m_41" TYPE="IDENT">我</COREF> ， <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 确实 不 知道 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 猜测 <COREF ID="003-76" TYPE="IDENT">他</COREF> 不 喜欢 *PRO* 被 称呼 为 史卡利托 ， 就 像 斯卡利亚 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 具体 为了 什么 原因 ， <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 不 知道 *T*-1 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *OP* 你 的确 知道 *T*-1 的 是 ， <COREF ID="003-m_41" TYPE="IDENT">*pro*</COREF> 顺便 提 一下 ， 呃 ， 就是 <COREF ID="003-108" TYPE="IDENT"><COREF ID="003-76" TYPE="IDENT">他</COREF> 母亲</COREF> 在 关于 罗伊 诉 韦德 案 等 问题 上 似乎 说 过 ， <COREF ID="003-108" TYPE="IDENT"><COREF ID="003-76" TYPE="IDENT">他</COREF> 的 母亲</COREF> 曾 说 ： 哦 ， 不 ， <COREF ID="003-76" TYPE="IDENT">他</COREF> 是 ， <COREF ID="003-76" TYPE="IDENT">他</COREF> 是 ， <COREF ID="003-76" TYPE="IDENT">他</COREF> 是 坚决 反对 堕胎 的 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-76" TYPE="IDENT">他</COREF> 从小 就 是 一 位 虔诚 的 天主教徒 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="003-76" TYPE="IDENT">他</COREF> 不 推崇 堕胎 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 那么 <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 是 如何 看待 <COREF ID="003-124" TYPE="IDENT"><COREF ID="003-145" TYPE="IDENT">利比</COREF> 被 控告 *-1 一 案</COREF> 的 ？
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， <COREF ID="003-124" TYPE="IDENT">那</COREF> 是 挺 可悲 的 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-124" TYPE="IDENT">那</COREF> 是 挺 可悲 的 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ 而且 ， 而且 <COREF ID="003-124" TYPE="IDENT">它</COREF> 这么 一 弄 ， <COREF ID="003-124" TYPE="IDENT">它</COREF> 把 <COREF ID="003-158" TYPE="IDENT">副总统</COREF> 牵扯 进来 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 知道 吗 ？
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 最近 关于 ， 呃 ， 关于 <COREF ID="003-158" TYPE="IDENT">迪克＊切尼</COREF> *pro* 很少 有 人 谈论 了 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这 ， 这 ， 呃 ， <COREF ID="003-158" TYPE="IDENT">他</COREF> 一直 不露声色 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-158" TYPE="IDENT">他</COREF> 对 <COREF ID="003-124" TYPE="IDENT">那 件 事</COREF> 一直 保持 着 沉默 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 谁 知道 <COREF ID="003-158" TYPE="IDENT">他</COREF> 对 <COREF ID="003-145" TYPE="IDENT">斯库特＊利比</COREF> 说 了 些 什么 ？
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ 这 ， 呃 ， 而且 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 相信 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 今天 在 美国 有线 电视 新闻网 上 看到 这个 国家 内 现 已 发展 了 <COREF ID="003-156" TYPE="IDENT">一 大 群 *OP* *T*-1 反对 <COREF ID="003-158" TYPE="IDENT">迪克＊切尼</COREF> 的 人</COREF> ， 而且 <COREF ID="003-156" TYPE="IDENT">他们</COREF> 不 喜欢 <COREF ID="003-158" TYPE="IDENT">他</COREF> 是 如此 不 负责任 这个 事实 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 你 在 电视 上 看 不 到 <COREF ID="003-158" TYPE="IDENT">他</COREF> ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-158" TYPE="IDENT">他</COREF> 不 回答 问题 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-158" TYPE="IDENT">他</COREF> ， 嗯 ， 谁 知道 呢 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 那么 ， <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 是 如何 看待 那些 *OP* *T*-1 牵扯 在内 的 新闻界 人士 的 呢 ？
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 谁 知道 呢 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 提姆・罗索特 可能 会 作证 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 朱迪 ％ ｐｗ 呃 ， 朱迪＊米勒 去 监狱 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， *pro* 这么着 吧 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 知道 吗 ？
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-181" TYPE="IDENT">我们</COREF> 正 ， <COREF ID="003-181" TYPE="IDENT">我们</COREF> 越来越 深 地 被 卷入 到 *OP* <COREF ID="003-181" TYPE="IDENT">我们</COREF> 所 报导 *T*-1 的 那些 事情 中 去 了 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-181" TYPE="IDENT">我们</COREF> 很 容易 就 会 这样 做 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 就 会 这么 做 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 人们 私下 跟 <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 谈 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 一直 有 秘密 消息 来源 ， 有 各种各样 的 人 跟 <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 谈 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 ， 呃 ， <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 已 被 传讯 过 *-1 了 吗 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 没有 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 可 曾 因 一 个 案子 而 被 传讯 *-1 吗 ？ 比如 ， 呃 ， 类似 的 案子 ， 里面 有 人 告诉 <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 一些 信息 ， <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 可能 已 报道 过 了 或 <COREF ID="003-m_41" TYPE="IDENT">*pro*</COREF> 还 没有 报道 过 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 ， 所以 <COREF ID="003-216" TYPE="IDENT">我们</COREF> 尽量 避 它 就 像 <COREF ID="003-216" TYPE="IDENT">*pro*</COREF> 避 魔鬼 一样 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对不起 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 关于 ， 呃 ， <COREF ID="003-CNN_LARRYKING_ENG_20051031_205800.part-003-E3" TYPE="IDENT"><COREF ID="003-222" TYPE="APPOS" SUBTYPE="HEAD">威斯特摩兰 案子</COREF> ， <COREF ID="003-222" TYPE="APPOS" SUBTYPE="ATTRIB">*OP* *T*-1 当时 <COREF ID="003-216" TYPE="IDENT">我们</COREF> 被 告 *-3 诽谤罪 而 接受 审讯 、 被 要求 *-3 *PRO* 赔偿 １．２亿 美金 的 案子</COREF></COREF> ， 并且 ， 呃 ， <COREF ID="003-216" TYPE="IDENT">我们</COREF> 曾 制作 过 一 个 ， <COREF ID="003-216" TYPE="IDENT">我们</COREF> 曾 制作 过 <COREF ID="003-236" TYPE="IDENT">一 个 *OP* *T*-2 历时 一 个 半 小时 的 ％ ｐｗ 节目</COREF> ， <COREF ID="003-236" TYPE="IDENT">*pro*</COREF> 是 关于 ， 名叫 ， 嗯 －－
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 鬼 知道 <COREF ID="003-236" TYPE="IDENT">*pro*</COREF> 叫 啥 ， <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 是 知道 的 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_0" TYPE="IDENT">我</COREF> 知道 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这个 ％ ｐｗ 脑袋 有点 变老 了 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-248" TYPE="IDENT"><COREF ID="003-m_0" TYPE="IDENT">你</COREF> 的 记性</COREF> 有 问题 吗 ， ％ ｐｗ <COREF ID="003-m_0" TYPE="IDENT">拉里</COREF> ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 吗 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 人 越 老 ， 越 记 不 住 了 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 确实 如此 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这 是 一 个 事实 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-260" TYPE="IDENT"><COREF ID="003-m_0" TYPE="IDENT">你</COREF> 的 听力</COREF> 怎样 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-260" TYPE="IDENT">*pro*</COREF> 更 困难 了 ， 但是 没有 ， <COREF ID="003-260" TYPE="IDENT">*pro*</COREF> 没有 像 <COREF ID="003-248" TYPE="IDENT">记性</COREF> 那样 糟 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 ， ％ ｐｗ －－ ％ ｐｗ ％ ｐｗ 记忆 困难 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 <COREF ID="003-267" TYPE="IDENT"><COREF ID="003-m_0" TYPE="IDENT">你</COREF> 的 眼镜 ， <COREF ID="003-m_0" TYPE="IDENT">你</COREF> 的 视力</COREF> 呢 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> ％ ｐｗ <COREF ID="003-267" TYPE="IDENT">它们</COREF> 没有 太 糟糕 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 但 <COREF ID="003-m_0" TYPE="IDENT">我</COREF> ， <COREF ID="003-m_0" TYPE="IDENT">我</COREF> 已经 戴 眼镜 了 －－
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 看 ， <COREF ID="003-m_41" TYPE="IDENT">麦克</COREF> ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 才 是 嘉宾 ， *pro* 对 吧 ？
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 好 吧 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 那么 <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 因为 <COREF ID="003-CNN_LARRYKING_ENG_20051031_205800.part-003-E3" TYPE="IDENT">威斯特摩兰案</COREF> 上 了 法庭 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 事实上 ， <COREF ID="003-m_41" TYPE="IDENT">你</COREF> 过去 曾 告诉 过 我们 <COREF ID="003-221" TYPE="IDENT">那 件 事</COREF> 使 <COREF ID="003-m_41" TYPE="IDENT">你</COREF> *PRO* 更 消沉 了 ．
+<COREF ID="003-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 整个 审讯 过程 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ， *pro* 确实 是 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-221" TYPE="IDENT">那</COREF> 是 ， <COREF ID="003-221" TYPE="IDENT">那</COREF> 是 ， 呃 ， 抑郁症 正 是 <COREF ID="003-221" TYPE="IDENT">那 件 事</COREF> 第一 次 开始 的 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 当时 没有 意识 到 *pro* 正在 发生 些 什么 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 <COREF ID="003-m_41" TYPE="IDENT">*pro*</COREF> 坐在 <COREF ID="003-308" TYPE="IDENT">*OP* *T*-1 冰冷 透风 的 联邦 法庭</COREF> 内 ， 被 叫做 <COREF ID="003-CNN_LARRYKING_ENG_20051031_205800.part-003-E2" TYPE="IDENT">小偷 、 *OP* *T*-2 撒谎 的 人 、 骗子 等等</COREF> ， 被 那些 －－
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 因为 ， 呃 ， 原告 先 发言 指控 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="003-m_41" TYPE="IDENT">*pro*</COREF> 坐在 <COREF ID="003-308" TYPE="IDENT">那里</COREF> ， 听 着 <COREF ID="003-CNN_LARRYKING_ENG_20051031_205800.part-003-E2" TYPE="IDENT">那样 的 话</COREF> ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 相信 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 突然间 ， <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 无法 入眠 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="003-m_41" TYPE="IDENT">我</COREF> ， <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 开始 相信 或许 <COREF ID="003-m_41" TYPE="IDENT">我</COREF> 真的 有罪 ．
+<COREF ID="003-m_41" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 它 ， 它 ， 它 真 挺 怪 的 ．
+</TEXT>
+<TEXT PARTNO="004">
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 好 吧 ， <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 跟 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 说说 <COREF ID="004-3" TYPE="IDENT">这 本 不 寻常 的 书</COREF> 吧 ， <COREF ID="004-3" TYPE="IDENT">它</COREF> 收集 了 回忆 和 采访 ， 是 一 本 极 好 的 回忆录 ， 同时 还 带 一 张 光盘 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 告诉 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> <COREF ID="004-3" TYPE="IDENT">这 本 书</COREF> 的 整个 过程 吧 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 好 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， 首先 ， <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 已 读 过 <COREF ID="004-3" TYPE="IDENT">它</COREF> 了 吗 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 因为 ， <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 是 指 －－ <COREF ID="004-m_6" TYPE="IDENT">*pro*</COREF> 跟 <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 说 实话 （ （ 现在 ） ） ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> ％ ｐｗ <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 告诉 过 <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 了 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 在 <COREF ID="004-m_6" TYPE="IDENT">*pro*</COREF> 没 播音 时 曾 告诉 过 <COREF ID="004-m_62" TYPE="IDENT">你</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 已经 读 过 <COREF ID="004-3" TYPE="IDENT">它</COREF> 了 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 不过 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 还 没有 听 过 <COREF ID="004-33" TYPE="IDENT">光盘</COREF> ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 没有 听 过 <COREF ID="004-33" TYPE="IDENT">光盘</COREF> ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 没有 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 知道 吗 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 首先 ， <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 喜欢 <COREF ID="004-3" TYPE="IDENT">这 本 书</COREF> 吗 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 觉得 <COREF ID="004-3" TYPE="IDENT">它</COREF> 有意思 吗 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> ， ％ ｐｗ <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 说 过 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 喜欢 <COREF ID="004-3" TYPE="IDENT">这 本 书</COREF> ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-3" TYPE="IDENT">它</COREF> 不止 有趣 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 真的 吗 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ， <COREF ID="004-49" TYPE="IDENT">*pro*</COREF> 看看 <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 的 事业 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 好 ， ％ ｐｗ *pro* 好 －－
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-49" TYPE="IDENT">*pro*</COREF> 再 看看 *OP* <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 已 采访 过 *T*-1 的 人 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-3" TYPE="IDENT">它</COREF> 怎么 能 不 有趣 呢 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 奇妙 的 ， 嗯 ， 奇妙 的 事 确实 是 ， 奇妙 的 是 ， 呃 ， 这么 多 年 来 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 能 想象 在 <COREF ID="004-90" TYPE="IDENT">１９５７年 那 时候</COREF> <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 能 有 机会 采访 到 <COREF ID="004-69" TYPE="IDENT">埃莉诺＊罗斯福</COREF> 吗 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 记得 <COREF ID="004-71" TYPE="IDENT">一 个 *OP* *T*-1 名叫 ， 叫 ， 嗯 ， <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 记 起来 了 ， 布鲁克＊佩格勒 的 人</COREF> 吗 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 哦 ， <COREF ID="004-m_6" TYPE="IDENT">*pro*</COREF> 以前 经常 读 <COREF ID="004-78" TYPE="IDENT"><COREF ID="004-71" TYPE="IDENT">他</COREF> 的 文章</COREF> ， 一直 都 讨厌 <COREF ID="004-71" TYPE="IDENT">他</COREF> ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">*pro*</COREF> 读 过 <COREF ID="004-78" TYPE="IDENT"><COREF ID="004-71" TYPE="IDENT">他</COREF> 的 文章</COREF> ， 讨厌 <COREF ID="004-71" TYPE="IDENT">他</COREF> ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， 在 <COREF ID="004-90" TYPE="IDENT">１９５７年</COREF> 的 那 次 采访 中 ， <COREF ID="004-m_62" TYPE="IDENT">我</COREF> <COREF ID="004-90" TYPE="IDENT">那个 时候</COREF> 是 在 美国 广播 公司 工作 ， <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 向 <COREF ID="004-69" TYPE="IDENT">她</COREF> 引用 了 <COREF ID="004-98" TYPE="IDENT"><COREF ID="004-71" TYPE="IDENT">他</COREF> 的 话</COREF> ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-98" TYPE="IDENT">*pro*</COREF> 就 是 *OP* <COREF ID="004-71" TYPE="IDENT">他</COREF> 曾 说 过 *T*-1 的 关于 <COREF ID="004-69" TYPE="IDENT">她</COREF> 的 话 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-98" TYPE="IDENT">*pro*</COREF> 就 是 一 个 *OP* *T*-1 多么 ％ ｐｗ 恶毒 的 、 *OP* *T*-3 令人讨厌 的 、 *OP* *T*-2 爱 *PRO* 说谎 的 ， 等等 ， 等等 ， 等等 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="004-69" TYPE="IDENT">她</COREF> ， <COREF ID="004-69" TYPE="IDENT">她</COREF> 觉得 <COREF ID="004-98" TYPE="IDENT">那</COREF> 挺逗 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 真 是 <COREF ID="004-69" TYPE="IDENT">*pro*</COREF> 以 温和 的 回应 抵挡 愤怒 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 但愿 <COREF ID="004-m_6" TYPE="IDENT">你</COREF> ， 希望 <COREF ID="004-m_6" TYPE="IDENT">你 那边</COREF> 可能 有 ， <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 还 没有 看 过 <COREF ID="004-124" TYPE="IDENT">它</COREF> ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 没有 ， <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 还 没有 看 过 <COREF ID="004-124" TYPE="IDENT">它</COREF> ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 当然 了 ， <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 已经 读 过 <COREF ID="004-124" TYPE="IDENT">它</COREF> 了 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 读 过 <COREF ID="004-124" TYPE="IDENT">它</COREF> 了 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ， <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 知道 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 ， 但是 ， 如果 ， 如果 ， 呃 －－ <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 不 知道 <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 是否 会 播放 它们 中 的 任何 一 段 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 那样 的话 ， 有 ， *pro* 有 ， 嗯 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *OP* <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 以前 常常 做 *T*-1 的 ， <COREF ID="004-m_6" TYPE="IDENT">拉里</COREF> ， 就 是 <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 偶尔 发表 演讲 ， 正如 *OP* <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 所 知道 *T*-2 的 ， 因为 <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 一直 在 发表 演讲 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 就是 ， 就是 ， <COREF ID="004-151" TYPE="IDENT">你</COREF> 到场 了 ，
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 然后 <COREF ID="004-151" TYPE="IDENT">你</COREF> ， <COREF ID="004-151" TYPE="IDENT">你</COREF> 想 *PRO* 做 一 个 新 的 演讲 ， 一些 新 的 东西 ， 给 <COREF ID="004-158" TYPE="IDENT">观众</COREF> 一些 *OP* *T*-1 <COREF ID="004-158" TYPE="IDENT">*pro*</COREF> 可以 反思 的 东西 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但 不多久 <COREF ID="004-163" TYPE="IDENT">那</COREF> 就 变成 一 件 *OP* *pro* 讨厌 *T*-1 的 事 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 所以 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="004-163" TYPE="IDENT">它</COREF> 倒 是 *OP* *pro* *T*-1 既 跑 地方 又 有 钱 赚 的 方法 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 不管 *pro* 怎样 ， *OP* <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 以前 经常 做 *T*-1 的 就 是 <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 在 大厅 内 布置 一 个 大 屏幕 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 然后 <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 会 ， 呃 ， 你 知道 的 ， 引进 一些 <COREF ID="004-186" TYPE="IDENT">*OP* <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 以前 采访 过 *T*-1 的 那些 人</COREF> 的 话题 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 啊 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 好 主意 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 ， 可能 在 一 个 小时 的 时间 里 ， 呃 ， <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 采访 五 个 不同 的 人 ， 问 些 问题 等等 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， <COREF ID="004-186" TYPE="IDENT">那些 人</COREF> ， 嗯 ， <COREF ID="004-206" TYPE="IDENT">它</COREF> 是 ， <COREF ID="004-206" TYPE="IDENT">它</COREF> 的确 不错 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那些 人 ， 呃 ， <COREF ID="004-207" TYPE="IDENT">出版商</COREF> 听说 了 <COREF ID="004-206" TYPE="IDENT">它</COREF> ， 看 了 <COREF ID="004-206" TYPE="IDENT">它</COREF> ， 然后 说 ： 嘿 ， *pro* 有 人 可以 出 一 本 *OP* *T*-1 精彩 极 了 的 书 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 天哪 ， <COREF ID="004-207" TYPE="IDENT">他们</COREF> 还 真 说对 了 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="004-3" TYPE="IDENT">它</COREF> 就 是 那样 开始 的 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 让 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> *PRO* 休息 一下 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-220" TYPE="IDENT">我们</COREF> 马上 回来 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-220" TYPE="IDENT">我们</COREF> 要 去 休息 一下 ， <COREF ID="004-222" TYPE="IDENT">这 本 书</COREF> 叫 《 你 我 之间 》 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 这里 有 一些 那 张 光盘 的 剪辑 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 请 看 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 啊 ，
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_58" TYPE="IDENT">金 博士</COREF> ， *OP* *T*-1 完全 不 赞同 你 策略 的 的 少数派 声势 <COREF ID="004-242" TYPE="IDENT">现</COREF> 越来越 大 了 ．
+<COREF ID="004-m_58" TYPE="IDENT">[Martin_Luther_King_Jr._#1E]</COREF> 这 一 点 毫无疑问 ．
+<COREF ID="004-m_58" TYPE="IDENT">[Martin_Luther_King_Jr._#1E]</COREF> <COREF ID="004-m_58" TYPE="IDENT">我</COREF> 同意 ， 呃 ， <COREF ID="004-242" TYPE="IDENT">现在</COREF> 黑人 社区 中 有 一 个 ， 一 个 *OP* *T*-1 提倡 暴力 的 群体 ．
+<COREF ID="004-m_58" TYPE="IDENT">[Martin_Luther_King_Jr._#1E]</COREF> 绝大多数 黑人 依然 相信 *OP* *pro* *T*-2 在 这个 国家 解决 *OP* 我们 所 面对 *T*-1 的 困境 的 最 好 办法 就 是 ， 呃 ， 通过 非暴力 抵抗 ．
+<COREF ID="004-m_58" TYPE="IDENT">[Martin_Luther_King_Jr._#1E]</COREF> 而且 <COREF ID="004-m_58" TYPE="IDENT">我</COREF> 认为 黑人 社会 的 呐喊 说到底 是 对 白人 社会 不 愿 做 任何 必要 的 改变 从而 使 黑人 平等 *PRO* 成为 一 种 现实 的 反应 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-285" TYPE="IDENT">你们</COREF> 就要 去 <COREF ID="004-275" TYPE="IDENT">日本</COREF> ， 而 *pro* 有 人 告诉 <COREF ID="004-m_62" TYPE="IDENT">我</COREF> <COREF ID="004-301" TYPE="IDENT">这</COREF> 是 <COREF ID="004-280" TYPE="IDENT">个 ， *OP* *T*-1 价值 两百万 美元 的 两 个 星期</COREF> ．
+<COREF ID="004-m_0" TYPE="IDENT">[Nancy_Reagan_#1E]</COREF> <COREF ID="004-284" TYPE="IDENT">他们</COREF> 让 <COREF ID="004-285" TYPE="IDENT">我们</COREF> 两 个 *PRO* 一起 去 ．
+<COREF ID="004-m_0" TYPE="IDENT">[Nancy_Reagan_#1E]</COREF> <COREF ID="004-284" TYPE="IDENT">他们</COREF> 拼命 地 让 <COREF ID="004-285" TYPE="IDENT">我们</COREF> *PRO* 工作 ．
+<COREF ID="004-m_0" TYPE="IDENT">[Nancy_Reagan_#1E]</COREF> <COREF ID="004-285" TYPE="IDENT">我们</COREF> 将 带 <COREF ID="004-291" TYPE="IDENT"><COREF ID="004-275" TYPE="IDENT">那里</COREF> 驻军 的 妻子们</COREF> *PRO* 跟 <COREF ID="004-285" TYPE="IDENT">我们</COREF> 一同 前往 ， 这样 <COREF ID="004-291" TYPE="IDENT">她们</COREF> 可以 看看 <COREF ID="004-291" TYPE="IDENT">她们</COREF> 的 丈夫 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 不过 <COREF ID="004-301" TYPE="IDENT">这</COREF> 可 是 <COREF ID="004-280" TYPE="IDENT">一 个 ％ ｐｗ 一 个 <COREF ID="004-302" TYPE="IDENT">高 报酬</COREF> 的 两 星期</COREF> ．
+<COREF ID="004-m_0" TYPE="IDENT">[Nancy_Reagan_#1E]</COREF> <COREF ID="004-302" TYPE="IDENT">它</COREF> 是 给 *OP* *T*-1 前往 <COREF ID="004-275" TYPE="IDENT">那里</COREF> 的 所有 人 的 ．
+<COREF ID="004-m_0" TYPE="IDENT">[Nancy_Reagan_#1E]</COREF> 这 一 点 <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 可能 知道 *T*-1 的 ．
+<COREF ID="004-m_0" TYPE="IDENT">[Nancy_Reagan_#1E]</COREF> *pro* 好 啦 ， <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 根本 就 没有 必要 问 那个 问题 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 会 说 （ （ ） ） －－
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 已 成为 一 个 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 <COREF ID="004-323" TYPE="IDENT">我们 两 人</COREF> 的 好 朋友 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 而且 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 一 位 很 优秀 的 女性 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> （ （ *pro* 是 的 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 一直 是 ） ） －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 呃 ， 那些 ， ％ ｐｗ <COREF ID="004-333" TYPE="IDENT">那</COREF> 可 挺 棘手 的 ， *pro* 对 吗 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-333" TYPE="IDENT">那</COREF> 是 挺 棘手 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 还 是 <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 帮 <COREF ID="004-m_62" TYPE="IDENT">我</COREF> *PRO* 把 <COREF ID="004-333" TYPE="IDENT">这 事</COREF> 调和 好 *-1 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 可能 并不 －－
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 事实上 ， <COREF ID="004-323" TYPE="IDENT">我们</COREF> 将 让 <COREF ID="004-346" TYPE="IDENT">观众</COREF> *PRO* 看看 <COREF ID="004-323" TYPE="IDENT">我们</COREF> 是 怎么 做 的 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-346" TYPE="IDENT">*pro*</COREF> 看看 <COREF ID="004-323" TYPE="IDENT">我们</COREF> 是 怎样 把 <COREF ID="004-333" TYPE="IDENT">这 事</COREF> 调和 好 *-1 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> （ （ ） ） 大家 （ （ ） ） ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 好 极 了 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对 了 ， <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 知道 吗 ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 第二 天 早上 打 电话 给 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 然后 <COREF ID="004-323" TYPE="IDENT">我们</COREF> 在 <COREF ID="004-333" TYPE="IDENT">整 件 事</COREF> 上 弥补 如初 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-333" TYPE="IDENT">它</COREF> ， <COREF ID="004-333" TYPE="IDENT">它</COREF> 是 －－
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 知道 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， <COREF ID="004-323" TYPE="IDENT">我们</COREF> 俩 都 钦佩 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-323" TYPE="IDENT">我们</COREF> 俩 都 非常 了解 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ， 并 很 赞赏 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-323" TYPE="IDENT">我们</COREF> 的确 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 如此 一 位 *OP* *T*-1 与众不同 的 女性 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 为什么 多 年 前 <COREF ID="004-323" TYPE="IDENT">我们</COREF> 并没有 好好 解读 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 指 什么 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 是 指 <COREF ID="004-m_0" TYPE="IDENT">*pro*</COREF> 在 白宫 时 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_0" TYPE="IDENT">她</COREF> <COREF ID="004-m_0" TYPE="IDENT">*pro*</COREF> 在 华盛顿 时 曾 有 那 ， ％ ｐｗ 那 种 ， 你 知道 的 ， *OP* *T*-1 个性 很 强 女性 的 ％ ｐｗ 形象 ， 而且 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， 嗯 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 ， <COREF ID="004-409" TYPE="IDENT">他</COREF> 听 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-409" TYPE="IDENT">她 丈夫</COREF> 听 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 比 *OP* 我们 所 了解 *T*-1 的 更 热衷于 政治 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 当 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 想 *PRO* 甩掉 <COREF ID="004-409" TYPE="IDENT">唐{unknown|encoding}德＊里甘</COREF> 时 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 还 记得 *OP* 他们 *T*-1 过去 住在 那个 农场式 小 屋 那会 吗 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 得 告诉 <COREF ID="004-m_6" TYPE="IDENT">你</COREF> ， 这 ， 这 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 最近 跟 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 联系 了 吗 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 呃 ， 最后 一 次 大概 是 在 一 个 月 之前 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 希望 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 明天 可以 打 电话 给 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ， 然后 我们 可以 共进 晚餐 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">*pro*</COREF> 替 <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 问候 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 呃 ， ％ ｐｗ 这 ， 呃 ， 实际上 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 已 ， 呃 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 有 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 的 背 一直 有 点 毛病 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 ， <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 知道 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 摔 过 一 次 跤 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， *pro* 是 的 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 跌倒 过 ， 而且 ， 而且 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 一 个 *OP* *T*-1 值得 钦佩 的 女性 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 不管 *pro* 怎样 －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， 我们 现在 要 听 这个 了 吗 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 不 ， <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 可 不 是 在 吓 <COREF ID="004-m_6" TYPE="IDENT">我</COREF> （ （ ） ） <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 知道 的 ， 有 （ （ ） ） *pro* 有 一些 事情 <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 并不 知道 *T*-2 ， *pro* 是 吧 ？ <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 是 指 <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 知道 一些 *OP* 我们 并不 知道 *T*-1 的 事情 ， *pro* 对 吗 ， <COREF ID="004-m_62" TYPE="IDENT">麦克</COREF> ？
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">你</COREF> 在 说 什么 ？
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 是 指 <COREF ID="004-m_0" TYPE="IDENT">南希</COREF> ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 比如 ， ％ ｐｗ <COREF ID="004-m_62" TYPE="IDENT">你</COREF> 看起来 挺 困扰 的 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， 不 ， <COREF ID="004-m_62" TYPE="IDENT">*pro*</COREF> 不 困扰 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 这么着 吧 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 再 也 不 是 一 个 小孩 了 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="004-m_62" TYPE="IDENT">我</COREF> －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-323" TYPE="IDENT"><COREF ID="004-m_6" TYPE="IDENT">你</COREF> 跟 <COREF ID="004-m_62" TYPE="IDENT">我</COREF></COREF> 对 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 的 印象 都 差不多 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ <COREF ID="004-m_0" TYPE="IDENT">她</COREF> 是 ） ） *OP* <COREF ID="004-m_6" TYPE="IDENT">我</COREF> 在 这个 世界 上 最 喜欢 *T*-1 的 人 之一 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="004-m_0" TYPE="IDENT">她</COREF> （ （ ） ） －－
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 了解 这 点 ．
+<COREF ID="004-m_62" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="004-m_62" TYPE="IDENT">我</COREF> 了解 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 现在 *pro* 让 <COREF ID="004-507" TYPE="IDENT">我们</COREF> *PRO* 休息 一下 ， <COREF ID="004-507" TYPE="IDENT">*pro*</COREF> 回来 后 *pro* 有 更 多 节目 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-507" TYPE="IDENT">我们</COREF> 到时 也 将 接听 *OP* *pro* 给 <COREF ID="004-m_62" TYPE="IDENT">麦克＊华莱士</COREF> *T*-1 的 电话 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-222" TYPE="IDENT">书名</COREF> 叫 《 你 我 之间 》 ， <COREF ID="004-3" TYPE="IDENT">*pro*</COREF> 还 带 光盘 一 片 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 还 押韵 ．
+<COREF ID="004-m_6" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="004-507" TYPE="IDENT">我们</COREF> 马上 回来 ．
+</TEXT>
+<TEXT PARTNO="005">
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 当 <COREF ID="005-0" TYPE="IDENT">*OP* <COREF ID="005-101" TYPE="IDENT"><COREF ID="005-m_0" TYPE="IDENT">你</COREF> 丈夫</COREF> *T*-1 是 总统 那会</COREF> ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 曾 在 中西部 呆 了 不少 年 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 那时候 *pro* 确实 存在 *pro* 不仅仅 是 意见 不同 而已 的 核心 问题 ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> 不 ， <COREF ID="005-0" TYPE="IDENT">当时</COREF> *pro* 确实 存在 一 种 仇恨 情绪 ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> *pro* 有 人 会 称 <COREF ID="005-101" TYPE="IDENT">他</COREF> *PRO* 为 那个 人 ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> 而 *pro* 有 人 会 ， 呃 ， 开心 地 －－
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> <COREF ID="005-m_0" TYPE="IDENT">我</COREF> 记得 在 <COREF ID="005-101" TYPE="IDENT">他</COREF> 去世 时 ， *pro* 有 个 人 ， 呃 ， 实际上 高兴 极 了 ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> 嗯 ， 但是 ， 嗯 ， <COREF ID="005-m_0" TYPE="IDENT">我</COREF> ， <COREF ID="005-m_0" TYPE="IDENT">我</COREF> 猜 那 ， 那 只 是 <COREF ID="005-31" TYPE="IDENT">某些 人</COREF> 的 感受 而已 ， <COREF ID="005-31" TYPE="IDENT">*pro*</COREF> 觉得 <COREF ID="005-101" TYPE="IDENT">他</COREF> 正在 毁掉 *OP* <COREF ID="005-31" TYPE="IDENT">他们</COREF> 所 珍惜 *RNR*-2 并且 ， 并且 觉得 *T*-1 让 <COREF ID="005-31" TYPE="IDENT">他们</COREF> *PRO* 感动 的 东西 ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> 那样 ， 呃 ， 很 自然 地 ， <COREF ID="005-31" TYPE="IDENT">你</COREF> 会 对 它 产生 <COREF ID="005-45" TYPE="IDENT">反应</COREF> ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> <COREF ID="005-45" TYPE="IDENT">那</COREF> 叫 仇恨 ．
+<COREF ID="005-m_0" TYPE="IDENT">[speaker9_#1E]</COREF> 而 <COREF ID="005-m_0" TYPE="IDENT">我</COREF> 想 那 就 是 *OP* *T*-1 导致 <COREF ID="005-63" TYPE="IDENT">它</COREF> 的 原因 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-55" TYPE="IDENT">秘勤局</COREF> 或 <COREF ID="005-m_83" TYPE="IDENT">克林特＊希尔</COREF> 是否 当时 有 任何 办法 ， 可以 做 些 什么 ， 去 防止 <COREF ID="005-63" TYPE="IDENT">那 件 事</COREF> 的 发生 ？
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">克林特＊希尔</COREF> ， 是 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">克林特＊希尔</COREF> ， 是 的 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">你</COREF> 是 指 什么 ？
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> 如果 <COREF ID="005-m_83" TYPE="IDENT">他</COREF> ， 呃 ， <COREF ID="005-m_83" TYPE="IDENT">*pro*</COREF> 快 十分之五 秒 或 也许 一 秒 反应 过来 的话 ．
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> 那么 <COREF ID="005-m_83" TYPE="IDENT">我</COREF> 今天 就 不 会 在 这里 了 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">你</COREF> 是 指 <COREF ID="005-m_83" TYPE="IDENT">你</COREF> 本 可以 赶到 那里 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="005-m_83" TYPE="IDENT">你</COREF> 本 可以 承受 <COREF ID="005-82" TYPE="IDENT">那 一 枪</COREF> 的 ．
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> *pro* <COREF ID="005-82" TYPE="IDENT">第三 枪</COREF> ， *pro* 是 的 ， <COREF ID="005-m_8" TYPE="IDENT">先生</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 对 <COREF ID="005-m_83" TYPE="IDENT">你</COREF> 来说 要是 *pro* 那样 <COREF ID="005-m_83" TYPE="IDENT">*pro*</COREF> 也 没关系 ．
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> 那样 对 <COREF ID="005-m_83" TYPE="IDENT">我</COREF> 来说 <COREF ID="005-m_83" TYPE="IDENT">*pro*</COREF> 也 没关系 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 书中 精彩 一刻 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* <COREF ID="005-55" TYPE="IDENT">秘勤局</COREF> ％ ｐｗ －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">那</COREF> 就 是 <COREF ID="005-99" TYPE="APPOS" SUBTYPE="HEAD">克林特＊希尔</COREF> ， <COREF ID="005-99" TYPE="APPOS" SUBTYPE="ATTRIB"><COREF ID="005-63" TYPE="IDENT"><COREF ID="005-101" TYPE="IDENT">肯尼迪</COREF> 被 暗杀</COREF> *-1 时 的 特工</COREF> ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 当时 感觉 怎么样 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， *pro* 这么 说 吧 ，
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">那个 男人</COREF> 心中 很 痛苦 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 相信 －－ 如果 我们 再 多 看 那个 一点点 的话 ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 将 很 感激 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这 ， 这 ， <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 认为 <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 对 <COREF ID="005-63" TYPE="IDENT"><COREF ID="005-101" TYPE="IDENT">约翰＊Ｆ＊肯尼迪</COREF> 之 死</COREF> 有 责任 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 忘记 了 我们 到底 是 怎样 获得 <COREF ID="005-m_8" TYPE="IDENT">*pro*</COREF> 跟 <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 交谈 的 机会 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 相信 那 是 在 ７５年 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ， *pro* 是 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="005-m_83" TYPE="IDENT">他</COREF> ， 而且 突然间 ， <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 开始 －－
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 是 指 ， *pro* 听 下面 这些 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， <COREF ID="005-m_0" TYPE="IDENT">她</COREF> <COREF ID="005-137" TYPE="IDENT">当时</COREF> ， <COREF ID="005-m_0" TYPE="IDENT">她</COREF> ， <COREF ID="005-m_0" TYPE="IDENT">她</COREF> 已 从 后面 爬 了 出来 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="005-m_0" TYPE="IDENT">她</COREF> <COREF ID="005-137" TYPE="IDENT">当时</COREF> 在 *pro* 回去 的 路上 ， *pro* 对 吗 ？
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> 嗯 ．
+<COREF ID="005-m_83" TYPE="IDENT">[Clint_Hill_#1E]</COREF> 而且 因为 这个 事实 ， *pro* 就 是 <COREF ID="005-101" TYPE="IDENT"><COREF ID="005-m_0" TYPE="IDENT">她</COREF> 丈夫</COREF> 的 －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 我们 就 这么 一点 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 但是 <COREF ID="005-152" TYPE="IDENT">它</COREF> 是 一 个 －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 而且 <COREF ID="005-152" TYPE="IDENT">那</COREF> －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-152" TYPE="IDENT">它</COREF> 在 ， 在 光盘 上 有 多少 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-152" TYPE="IDENT">整个 －－ 它 ， 它</COREF> 大概 长 达 ３ 分钟 左右 ， <COREF ID="005-m_90" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这 ， 这 ， 呃 ， <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 的确 相信 <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 负有 责任 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 而且 ， <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 出现 过 一 次 精神 崩溃 之类 的 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 还 好 ， 还 好 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ <COREF ID="005-m_83" TYPE="IDENT">*pro*</COREF> 看起来 像 ） ） *PRO* 是 在 <COREF ID="005-171" TYPE="IDENT">*pro*</COREF> 播放 时 出现 精神 崩溃 的 情况 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 啊 ？
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 看起来 好像 <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 是 在 <COREF ID="005-171" TYPE="IDENT">*pro*</COREF> 播放 时 出现 精神 崩溃 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 是 ， <COREF ID="005-m_83" TYPE="IDENT">他</COREF> 是 那样 感受 的 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_90" TYPE="IDENT">*pro*</COREF> 顺便 说 一下 ， <COREF ID="005-CNN_LARRYKING_ENG_20051031_205800.part-005-E2" TYPE="IDENT">这 本 书</COREF> 叫 《 你 我 之间 》 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-CNN_LARRYKING_ENG_20051031_205800.part-005-E2" TYPE="IDENT">它</COREF> 带 光盘 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> ％ ｐｗ *OP* *T*-1 不可思议 的 是 ， <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 事业 上 有 如此 惊人 的 成就 ， 但是 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 还 从来 没有 采访 过 <COREF ID="005-194" TYPE="IDENT">乔治＊Ｗ＊布什．</COREF>
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-195" TYPE="IDENT">那</COREF> 是 ％ ｐｗ ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 从来 没 和 <COREF ID="005-194" TYPE="IDENT">他</COREF> 见 过 面 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-195" TYPE="IDENT">*pro*</COREF> 怎么 可能 呢 ？
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">*pro*</COREF> 从没 和 <COREF ID="005-194" TYPE="IDENT">他</COREF> 见 过 面 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 当 <COREF ID="005-194" TYPE="IDENT">他</COREF> 还 是 <COREF ID="005-205" TYPE="IDENT">得克萨斯州</COREF> 州长 时 ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 曾 去 <COREF ID="005-205" TYPE="IDENT">那里</COREF> 制作 <COREF ID="005-209" TYPE="IDENT">一 个 关于 ， 呃 ， <COREF ID="005-210" TYPE="IDENT">侵权法 改革</COREF> 的 节目</COREF> ． <COREF ID="005-212" TYPE="IDENT">卡尔＊罗夫</COREF> ， <COREF ID="005-212" TYPE="IDENT">卡尔＊罗夫</COREF> 告诉 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 然后 <COREF ID="005-212" TYPE="IDENT">罗夫</COREF> 认定 ， 就是 ， 就是 ， 呃 ， <COREF ID="005-215" TYPE="IDENT">我们</COREF> 弄错 了 <COREF ID="005-210" TYPE="IDENT">那个 问题</COREF> 的 方向 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 然后 <COREF ID="005-212" TYPE="IDENT">他</COREF> 说 ： <COREF ID="005-m_8" TYPE="IDENT">华莱士 先生</COREF> ， <COREF ID="005-212" TYPE="IDENT">我</COREF> 不 认识 <COREF ID="005-194" TYPE="IDENT">他</COREF> ． 接着 ， <COREF ID="005-212" TYPE="IDENT">他</COREF> 说 ： <COREF ID="005-m_8" TYPE="IDENT">华莱士 先生</COREF> ， <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 将 无法 跟 <COREF ID="005-194" TYPE="IDENT">州长</COREF> 会谈 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 说 ： ％ ｐｗ <COREF ID="005-212" TYPE="IDENT">你</COREF> 是 什么 意思 （ （ ） ） ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-232" TYPE="IDENT">我们</COREF> 知道 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 已经 打定 主意 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 所以 <COREF ID="005-232" TYPE="IDENT">我们</COREF> 不 会 让 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> *PRO* 跟 <COREF ID="005-194" TYPE="IDENT">他</COREF> 谈 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 好 吧 ， 所以 <COREF ID="005-215" TYPE="IDENT">我们</COREF> 反正 还是 完成 了 <COREF ID="005-209" TYPE="IDENT">节目</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 呃 ， *OP* *T*-1 后来 发生 的 是 ， 当 <COREF ID="005-194" TYPE="IDENT">他</COREF> 入主 <COREF ID="005-305" TYPE="IDENT">白宫</COREF> 后 ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 想 ， 嗯 ， <COREF ID="005-248" TYPE="IDENT">*pro*</COREF> 来 了 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-248" TYPE="IDENT">时机</COREF> 终于 来 了 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 是 指 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 已 采访 过 *OP* *T*-1 从 亚伯＊林肯 开始 的 每 一 位 总统 ， 所以 呢 ， 和 *OP* *T*-2 从 玛莎＊华盛顿 开始 的 每 一 位 第一 夫人 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 呃 ， （ （ ） ） <COREF ID="005-m_8" TYPE="IDENT">*pro*</COREF> 不断 提醒 着 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 ， *pro* 说 正经 的 ， 呃 ， <COREF ID="005-212" TYPE="IDENT">他</COREF> 只是 说 ： <COREF ID="005-m_8" TYPE="IDENT">*pro*</COREF> 忘 了 它 吧 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 是 不 会 有 机会 跟 <COREF ID="005-194" TYPE="IDENT">他</COREF> 谈 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 所以 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 从没有 见 过 ， *pro* 更 不用 说 *pro* 交谈 了 ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 从没有 见 过 <COREF ID="005-194" TYPE="IDENT">乔治＊Ｗ＊布什</COREF> ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-212" TYPE="IDENT">罗夫</COREF> 曾 给 过 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 一 个 理由 吗 ？
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 事后 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">*pro*</COREF> 别 提 侵权法 改革 和 <COREF ID="005-194" TYPE="IDENT">州长</COREF> ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-194" TYPE="IDENT">他</COREF> 当 总统 时 ， <COREF ID="005-194" TYPE="IDENT">他</COREF> 曾 给 过 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 一 个 为什么 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 不 能 采访 <COREF ID="005-194" TYPE="IDENT">他</COREF> 的 理由 吗 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-212" TYPE="IDENT">卡尔＊罗夫</COREF> 不 喜欢 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> ， 这 当然 使 ， 使 <COREF ID="005-212" TYPE="IDENT">他</COREF> －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 因为 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 鬼 才 知道 呢 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 谁 知道 呢 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 不 知道 *pro* 为什么 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ， <COREF ID="005-m_90" TYPE="IDENT">你</COREF> 知道 的 ， 论 真正 坦率 而说 ， <COREF ID="005-305" TYPE="IDENT">这</COREF> 是 *OP* *T*-1 有史以来 最 守口如瓶 的 白宫 ， 而且 ， 呃 ， <COREF ID="005-305" TYPE="IDENT">它</COREF> 是 *OP* *T*-2 最 遮遮掩掩 的 ， 如果 你 要 *PRO* 这么 说 的话 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-314" TYPE="IDENT">总统 和 副总统</COREF> ， <COREF ID="005-314" TYPE="IDENT">他们</COREF> 俩 都 不 喜欢 新闻界 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="005-314" TYPE="IDENT">他们</COREF> 特别 不 喜欢 那些 *OP* *T*-1 可能 会 问 ， 呃 ， 一些 有趣 的 问题 ， 或 烦人 的 问题 ， 或 随便 什么 问题 的 人 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 人们 不 知道 这个 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 但是 <COREF ID="005-332" TYPE="IDENT">我们</COREF> <COREF ID="005-332" TYPE="IDENT">*pro*</COREF> 很 久 以前 <COREF ID="005-332" TYPE="IDENT">*pro*</COREF> 在 迈阿密 做 采访 时 这么 做 了 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_126" TYPE="IDENT">理查德＊尼克松</COREF> 曾 请 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> *PRO* 担任 <COREF ID="005-340" TYPE="IDENT">新闻 秘书 的 工作</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 的确 如此 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 <COREF ID="005-m_90" TYPE="IDENT">你</COREF> 知道 吗 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_126" TYPE="IDENT">理查德＊尼克松</COREF> －－ <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 曾 被 邀请 *-1 *PRO* 担任 <COREF ID="005-340" TYPE="IDENT"><COREF ID="005-m_126" TYPE="IDENT">理查德＊尼克松</COREF> 的 新闻 秘书 的 工作</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 我们 很 快 就 相处 得 很 融洽 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 要 *PRO* 告诉 <COREF ID="005-m_90" TYPE="IDENT">你</COREF> <COREF ID="005-361" TYPE="IDENT">*OP* *T*-1 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 真正 合 得 来 的</COREF> 是 帕特丽夏＊尼克松 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-361" TYPE="IDENT">她</COREF> 是 一 位 －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 真的 吗 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ 哦 ， <COREF ID="005-361" TYPE="IDENT">她</COREF> 是 一 位 可爱 的 女性 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 我们 ， <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 跟 <COREF ID="005-m_126" TYPE="IDENT">他</COREF> 一起 旅行 ， 因为 <COREF ID="005-m_126" TYPE="IDENT">他</COREF> 是 一 个 ， 被 认为 *-2 是 一 个 *OP* *T*-1 不 成功 的 人 ， 所以 <COREF ID="005-m_126" TYPE="IDENT">他</COREF> 乐意 ， 你 知道 的 ， *PRO* 让 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> *PRO* 跟 <COREF ID="005-m_126" TYPE="IDENT">他</COREF> 还有 <COREF ID="005-382" TYPE="APPOS" SUBTYPE="ATTRIB">孩子们</COREF> ， <COREF ID="005-382" TYPE="APPOS" SUBTYPE="HEAD">朱丽叶 和 崔西亚</COREF> ， 以及 帕特＊尼克松 一同 随行 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 呃 ， 由于 整个 水门 事件 的 结局 ， <COREF ID="005-361" TYPE="IDENT">她</COREF> 是 一 ， *OP* *T*-1 显而易见 受 了 伤 的 女性 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 呃 ， <COREF ID="005-361" TYPE="IDENT">她</COREF> 是 一 位 <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 真正 ， *OP* <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 真正 想要 *PRO* 采访 *T*-1 的 人 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 <COREF ID="005-361" TYPE="IDENT">她</COREF> 当时 很 害怕 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-361" TYPE="IDENT">她</COREF> 不 愿意 ， <COREF ID="005-361" TYPE="IDENT">她</COREF> 不 愿意 *PRO* 这么 做 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ ） ） －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-361" TYPE="IDENT">*pro*</COREF> 可能 是 *OP* *T*-1 了解 最 少 的 第一 夫人 了 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="005-361" TYPE="IDENT">*pro*</COREF> 是 一 位 可爱 的 ， 可爱 的 女性 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 你 知道 吗 ， 他们 称为 <COREF ID="005-361" TYPE="IDENT">她</COREF> *PRO* 为 －－ <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 相信 *pro* 是 葛萝莉亚＊史丹能 ， 称 <COREF ID="005-361" TYPE="IDENT">她</COREF> *PRO* 为 ＂ *OP* *T*-1 面无表情 的 帕特 ＂ ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-361" TYPE="IDENT">*pro*</COREF> 是 *OP* <COREF ID="005-m_8" TYPE="IDENT">我</COREF> 所 遇到 *T*-1 的 *OP* *T*-2 最 不 乏 表情 的 人 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-432" TYPE="IDENT">我们</COREF> 将 接听 <COREF ID="005-434" TYPE="IDENT">电话</COREF> ， 接听 <COREF ID="005-434" TYPE="IDENT">*OP* *pro* 给 <COREF ID="005-m_8" TYPE="IDENT">麦克＊华莱士</COREF> *T*-1 的 电话</COREF> ． <COREF ID="005-432" TYPE="IDENT">*pro*</COREF> 休息 一下 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 当 <COREF ID="005-361" TYPE="IDENT">她</COREF> 是 －－
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 然后 ， 呃 ， 当 <COREF ID="005-432" TYPE="IDENT">我们</COREF> 回来 时 ， <COREF ID="005-CNN_LARRYKING_ENG_20051031_205800.part-005-E2" TYPE="IDENT">这 本 书</COREF> 名叫 《 你 我 之间 》 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 这 是 <COREF ID="005-m_8" TYPE="IDENT">华莱士 先生</COREF> 采访 <COREF ID="005-m_126" TYPE="IDENT">尼克松 先生</COREF> ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 如果 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> 真的 赢 了 这 次 竞选 ， <COREF ID="005-m_126" TYPE="IDENT">我</COREF> 想 <COREF ID="005-454" TYPE="IDENT"><COREF ID="005-m_126" TYPE="IDENT">我</COREF> 在 任期 内 的 作为</COREF> 将 使 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> *PRO* 赢得 美国 人民 的 尊重 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> <COREF ID="005-454" TYPE="IDENT">那</COREF> 可能 与 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> 一些 前任 的 风格 不 相同 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 呃 ， 但是 <COREF ID="005-454" TYPE="IDENT">它</COREF> 将 使 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> *PRO* 能 起 领导 作用 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 呃 ， 让 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> ， *pro* 让 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> *PRO* 来 说明 这 一 点 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 一些 ， 一些 *OP* *T*-1 从事 社会 活动 的 人 注定 *PRO* 会 被 爱戴 *-2 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 而 另外 一些 *OP* *T*-1 从事 社会 活动 的 人 则 注定 *PRO* 会 被 讨厌 *-2 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 呃 ， *OP* *T*-2 有关 <COREF ID="005-494" TYPE="IDENT">*OP* *T*-1 从事 社会 活动 的 人</COREF> 最 重要 的 一 点 不 是 <COREF ID="005-494" TYPE="IDENT">他</COREF> 是否 被 爱戴 *-4 或 被 讨厌 *-4 ， 而 是 <COREF ID="005-494" TYPE="IDENT">他</COREF> 是否 被 尊重 *-3 ．
+<COREF ID="005-m_126" TYPE="IDENT">[Richard_Nixon_#1E]</COREF> 而 <COREF ID="005-m_126" TYPE="IDENT">我</COREF> 希望 *PRO* 重建 人们 对 总统 的 尊重 ， 嗯 ， 在 各 个 层次 上 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-m_134" TYPE="IDENT">吉米</COREF> ， <COREF ID="005-513" TYPE="IDENT">*OP* <COREF ID="005-520" TYPE="IDENT">你们</COREF> 第一 个 杀死 *T*-1 的 人</COREF> 是 谁 ？
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> 唔 ， <COREF ID="005-513" TYPE="IDENT">*pro*</COREF> 是 弗兰基＊尼可里 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-520" TYPE="IDENT">你们</COREF> 是 在 哪里 杀害 <COREF ID="005-513" TYPE="IDENT">他</COREF> 的 ？
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> *pro* 在 <COREF ID="005-m_134" TYPE="IDENT">我</COREF> 的 房子 里 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="005-520" TYPE="IDENT">你们</COREF> 是 如何 杀害 <COREF ID="005-513" TYPE="IDENT">他</COREF> 的 ？
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> <COREF ID="005-520" TYPE="IDENT">我们</COREF> 把 <COREF ID="005-513" TYPE="IDENT">他</COREF> 勒死 了 *-1 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 在 <COREF ID="005-533" TYPE="IDENT"><COREF ID="005-m_134" TYPE="IDENT">你 自己</COREF> 的 起居室</COREF> 里 ？
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> *pro* 对 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 <COREF ID="005-513" TYPE="IDENT">他</COREF> 弄脏 了 <COREF ID="005-533" TYPE="IDENT"><COREF ID="005-m_134" TYPE="IDENT">你</COREF> 的 起居室</COREF> ．
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> *pro* 有 一点 血迹 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 一点 血迹 ， 还有 <COREF ID="005-548" TYPE="IDENT">一些 ， 呃 ， 液体</COREF> ．
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> *pro* 对 ．
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 是 怎么 知道 的 ？
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* <COREF ID="005-548" TYPE="IDENT">尿液</COREF> ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ <COREF ID="005-513" TYPE="IDENT">*pro*</COREF> 撒尿 了 ．
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> *pro* <COREF ID="005-548" TYPE="IDENT">一些 尿液</COREF> ， *pro* 是 的 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 对 ．
+<COREF ID="005-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *OP* <COREF ID="005-m_134" TYPE="IDENT">你</COREF> *T*-1 回想 它 的 时候 ， <COREF ID="005-m_134" TYPE="IDENT">你</COREF> 面带微笑 ．
+<COREF ID="005-m_134" TYPE="IDENT">[speaker7_#1E]</COREF> 那 <COREF ID="005-m_8" TYPE="IDENT">你</COREF> 会 怎样 ？
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 如此 人生 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-m_8" TYPE="IDENT">华莱士</COREF> ， <COREF ID="005-m_8" TYPE="IDENT">华莱士</COREF> ， <COREF ID="005-m_8" TYPE="IDENT">华莱士</COREF> ， <COREF ID="005-m_8" TYPE="IDENT">麦克＊华莱士</COREF> ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="005-CNN_LARRYKING_ENG_20051031_205800.part-005-E2" TYPE="IDENT">这 本 书</COREF> 名叫 《 你 我 之间 》 ， 附带 一 张 光盘 ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* <COREF ID="005-CNN_LARRYKING_ENG_20051031_205800.part-005-E2" TYPE="IDENT">好 书</COREF> ．
+<COREF ID="005-m_90" TYPE="IDENT">[Larry_King_#1E]</COREF> 加拿大 多伦多 ．
+</TEXT>
+<TEXT PARTNO="006">
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> 我们 来 接听 一些 电话 ．
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="006-m_0" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> 喂 ， <COREF ID="006-m_17" TYPE="IDENT">麦克</COREF> ， *pro* 是 <COREF ID="006-m_17" TYPE="IDENT">你</COREF> 吗 ？
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> 呃 ， 首先 <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 只 是 想 *PRO* 说 <COREF ID="006-m_0" TYPE="IDENT">我</COREF> ， 呃 ， <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 很 ， 呃 ， 当 <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 刚 来到 加拿大 这里 时 ， <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 在 政治 方面 的 教育 是 <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 通过 <COREF ID="006-m_0" TYPE="IDENT">*pro*</COREF> 观看 <COREF ID="006-20" TYPE="IDENT">那些 哥伦比亚 广播 公司 的 ， 呃 ， 报导</COREF> 得来 的 ．
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 啊 ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> *pro* 跟 ， 呃 ， <COREF ID="006-24" TYPE="IDENT">华特＊克朗凯 和 查尔斯 ， 呃 ， 库拉尔特 ， 还有 埃里克＊塞瓦赖德</COREF> ．
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 当然 了 ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> 呃 ， 所以 ％ ｐｗ <COREF ID="006-20" TYPE="IDENT">它</COREF> ， <COREF ID="006-20" TYPE="IDENT">它</COREF> 是 一 档 优秀 的 新闻 节目 ．
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="006-m_17" TYPE="IDENT">我</COREF> 必须 告诉 <COREF ID="006-m_0" TYPE="IDENT">你</COREF> ， 当 ， 当 <COREF ID="006-m_17" TYPE="IDENT">我</COREF> ， 当 <COREF ID="006-m_17" TYPE="IDENT">我</COREF> ， 呃 ， 加入 那个 群体 时 ， <COREF ID="006-24" TYPE="IDENT">克朗凯特 、 塞瓦赖德 和 库拉尔特 等 人</COREF> 都 在 ， <COREF ID="006-37" TYPE="IDENT">那</COREF> 就 像 ， <COREF ID="006-37" TYPE="IDENT">*pro*</COREF> 就 像 <COREF ID="006-m_17" TYPE="IDENT">*pro*</COREF> 被 允许 *-1 *PRO* 加入 主教会 ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> 嗯 －－
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="006-m_0" TYPE="IDENT">先生</COREF> ， <COREF ID="006-50" TYPE="IDENT">问题</COREF> 是 什么 ？
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> *pro* 好 的 ， 事实上 在 <COREF ID="006-m_17" TYPE="IDENT">你</COREF> 开始 ， 呃 ， 谈论 ， 呃 ， <COREF ID="006-48" TYPE="IDENT">卡尔＊罗夫</COREF> 之前 ， <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 就 有 了 <COREF ID="006-50" TYPE="IDENT">这个 问题</COREF> ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> 呃 ， <COREF ID="006-m_17" TYPE="IDENT">你</COREF> 曾 提到 ， 呃 ， <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 猜想 ， <COREF ID="006-m_17" TYPE="IDENT">你</COREF> 觉得 <COREF ID="006-56" TYPE="IDENT">迪克＊切尼</COREF> 的 沉默 相当 ， 呃 ， 奇怪 ， 或者 可能 并不 是 那么 奇怪 ， 但 <COREF ID="006-56" TYPE="IDENT">他</COREF> 一直 保持 着 沉默 ．
+<COREF ID="006-m_0" TYPE="IDENT">[speaker1_#1E]</COREF> 但 <COREF ID="006-m_0" TYPE="IDENT">我</COREF> 觉得 它 ， 呃 ， 不仅仅 很 古怪 ， 而且 ， 呃 ， <COREF ID="006-62" TYPE="IDENT">乔治＊布什</COREF> 一直 对 <COREF ID="006-48" TYPE="IDENT">卡尔＊罗夫</COREF> 的 问题 如此 保持 沉默 ， *pro* 简直 是 令人费解 ．
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="006-62" TYPE="IDENT">他</COREF> 没有 太 多 谈论 <COREF ID="006-48" TYPE="IDENT">他</COREF> ， *pro* 对 吗 ， <COREF ID="006-m_17" TYPE="IDENT">麦克</COREF> ？
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="006-62" TYPE="IDENT">他</COREF> 根本 没有 谈论 <COREF ID="006-48" TYPE="IDENT">他</COREF> ．
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 没 人 问到 <COREF ID="006-48" TYPE="IDENT">他</COREF> ．
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="006-62" TYPE="IDENT">他</COREF> 简单 地 ， 你 知道 的 －－
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 我们 都 知道 *pro* 是 <COREF ID="006-48" TYPE="IDENT">罗夫</COREF> 帮 <COREF ID="006-62" TYPE="IDENT">他</COREF> *PRO* 当 了 州长 ， 也 是 <COREF ID="006-48" TYPE="IDENT">罗夫</COREF> 帮 <COREF ID="006-62" TYPE="IDENT">他</COREF> *PRO* 当 了 总统 ．
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 呃 ， 如果 *pro* 能 找到 更 多 关于 <COREF ID="006-48" TYPE="IDENT">罗夫</COREF> 跟 那些 *OP* 我们 说读 *T*-1 的 所有 消息 有 什么 联系 的 证据 ， 那 不 是 太 妙 了 吗 ？
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> 那么 ， 我们 知道 *pro* 跟 <COREF ID="006-48" TYPE="IDENT">他</COREF> 有 一些 关联 ．
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> 指控书 点 了 <COREF ID="006-48" TYPE="IDENT">他</COREF> 的 名 ．
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> 但 <COREF ID="006-48" TYPE="IDENT">他</COREF> 没有 被 指控 *-1 ．
+<COREF ID="006-m_17" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 没有 ， *pro* 对 ．
+<COREF ID="006-m_8" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+</TEXT>
+<TEXT PARTNO="007">
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 加利福尼亚州 贝克斯菲尔德 ， <COREF ID="007-0" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="007-0" TYPE="IDENT">[speaker2_#1E]</COREF> <COREF ID="007-m_0" TYPE="IDENT">你</COREF> 好 ， <COREF ID="007-0" TYPE="IDENT">*pro*</COREF> 私下 说 ， <COREF ID="007-6" TYPE="IDENT">你们 两 位 先生</COREF> 继续 为 <COREF ID="007-24" TYPE="IDENT">这个 国家</COREF> 的 人民 做出 很大 贡献 ．
+<COREF ID="007-0" TYPE="IDENT">[speaker2_#1E]</COREF> 所以 <COREF ID="007-0" TYPE="IDENT">我</COREF> 希望 <COREF ID="007-6" TYPE="IDENT">我 面前 的 两 位 聪明人</COREF> 回答 <COREF ID="007-19" TYPE="IDENT">这个 *OP* *T*-1 <COREF ID="007-0" TYPE="IDENT">我 自己</COREF> 一直 都 无法 找到 答案 的 问题</COREF> ．
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ．
+<COREF ID="007-0" TYPE="IDENT">[speaker2_#1E]</COREF> 如果 <COREF ID="007-24" TYPE="IDENT">我们</COREF> ， 即使 只 一瞬间 ， 真的 相信 <COREF ID="007-72" TYPE="IDENT">*pro*</COREF> 确实 有 大 规模 杀伤性 武器 ， 那 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 为什么 还 派遣 地面 部队 *PRO* 过去 ？
+<COREF ID="007-0" TYPE="IDENT">[speaker2_#1E]</COREF> <COREF ID="007-0" TYPE="IDENT">*pro*</COREF> 谢谢 <COREF ID="007-m_0" TYPE="IDENT">你</COREF> ．
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="007-0" TYPE="IDENT">你</COREF> 是 指 *pro* 不 如 什么 ？
+<COREF ID="007-0" TYPE="IDENT">[speaker2_#1E]</COREF> *pro* 什么 －－
+<COREF ID="007-0" TYPE="IDENT">[speaker2_#1E]</COREF> 如果 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 相信 <COREF ID="007-72" TYPE="IDENT">*pro*</COREF> 有 大 规模 杀伤性 武器 ， 为什么 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 仍 送遣 ， 派遣 <COREF ID="007-47" TYPE="IDENT">地面 部队</COREF> *PRO* 过去 ？
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 哦 ， <COREF ID="007-m_0" TYPE="IDENT">我</COREF> 明白 了 ．
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 为什么 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 把 <COREF ID="007-47" TYPE="IDENT">他们</COREF> ， 为什么 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 要 *PRO* 把 <COREF ID="007-47" TYPE="IDENT">他们</COREF> 置于 危险 之中 ？
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 你 知道 吗 ？
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 ， 那 是 ， 呃 ， *pro* 听 <COREF ID="007-m_15" TYPE="IDENT">我</COREF> 说 ， <COREF ID="007-19" TYPE="IDENT">这 问题</COREF> 问 得 好 ．
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="007-19" TYPE="IDENT">*pro*</COREF> 非常 不错 ．
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 *OP* <COREF ID="007-62" TYPE="IDENT">他们</COREF> 所 做 *T*-1 的 就 是 ， 如 ， 如 *OP* 你 所 记得 *T*-2 的 －－
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="007-m_15" TYPE="IDENT">我</COREF> ， <COREF ID="007-m_15" TYPE="IDENT">我</COREF> 看到 那时 <COREF ID="007-m_15" TYPE="IDENT">我</COREF> 很 惊讶 ， <COREF ID="007-62" TYPE="IDENT">他们</COREF> －－
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="007-m_0" TYPE="IDENT">你</COREF> 记得 震慑 与 威慑 吗 ？
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="007-24" TYPE="IDENT">美国</COREF> 袭击 <COREF ID="007-72" TYPE="IDENT">伊拉克</COREF> ， 并 告诉 世界 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 将 震慑 *RNR*-1 与 威慑 世界 因为 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 将 要 进攻 －－
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="007-m_15" TYPE="IDENT">我</COREF> 是 指 那 是 －－ 而 那 是 <COREF ID="007-80" TYPE="IDENT">乔治＊特内特</COREF> 说 的 ， *pro* 是 吗 ？ *pro* 是 <COREF ID="007-80" TYPE="IDENT">他</COREF> 说 那 是 一 记 大 灌篮 ？
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="007-80" TYPE="IDENT">*pro*</COREF> 说 <COREF ID="007-72" TYPE="IDENT">那里</COREF> 有 大 规模 杀伤性 武器 ．
+<COREF ID="007-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="007-19" TYPE="IDENT">那</COREF> 确实 是 一 个 好 问题 ． <COREF ID="007-24" TYPE="IDENT">我们</COREF> 是否 把 <COREF ID="007-24" TYPE="IDENT">我们</COREF> 的 男生 ， 男的 ， 还有 女生 ， 还有 ， 还有 女的 ， 置于 危险 之中 呢 ？
+<COREF ID="007-m_15" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ．
+</TEXT>
+<TEXT PARTNO="008">
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> 喂 ， 喂 ， <COREF ID="008-m_60" TYPE="IDENT">*OP* *T*-1 来自 乔治亚州 的 杰伊</COREF> ， <COREF ID="008-m_60" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> 啊 ， <COREF ID="008-m_60" TYPE="IDENT">*pro*</COREF> 谢谢 <COREF ID="008-m_35" TYPE="IDENT">你</COREF> ， <COREF ID="008-m_35" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> <COREF ID="008-m_0" TYPE="IDENT">麦克</COREF> ， <COREF ID="008-m_60" TYPE="IDENT">我</COREF> 很 喜欢 <COREF ID="008-10" TYPE="IDENT"><COREF ID="008-m_0" TYPE="IDENT">你</COREF> 的 书</COREF> ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> <COREF ID="008-10" TYPE="IDENT">它</COREF> 很 精彩 ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> 而 在 *pro* 接近 书尾 时 ， <COREF ID="008-m_0" TYPE="IDENT">你</COREF> 提到 <COREF ID="008-17" TYPE="IDENT"><COREF ID="008-18" TYPE="APPOS" SUBTYPE="ATTRIB"><COREF ID="008-19" TYPE="IDENT">俄罗斯</COREF> 秘书长</COREF> <COREF ID="008-18" TYPE="APPOS" SUBTYPE="HEAD">普京</COREF></COREF> 邀请 <COREF ID="008-m_0" TYPE="IDENT">你</COREF> *PRO* 过去 采访 <COREF ID="008-17" TYPE="IDENT">他</COREF> ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> <COREF ID="008-m_0" TYPE="IDENT">你</COREF> 已经 那样 做 了 吗 ？
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> 呃 ， 那么 <COREF ID="008-m_60" TYPE="IDENT">我</COREF> 想 *PRO* 听听 它 ．
+<COREF ID="008-m_60" TYPE="IDENT">[speaker3_#1E]</COREF> <COREF ID="008-m_60" TYPE="IDENT">*pro*</COREF> 非常 感谢 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="008-m_35" TYPE="IDENT">我</COREF> 的确 采访 了 <COREF ID="008-17" TYPE="IDENT">普金</COREF> ， *pro* 是 的 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> （ （ ） ） ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 在 第６０ ， 呃 ， 在 *pro* 纪念 第二 次 世界 大战 胜利 ６０ 周年 时 ， <COREF ID="008-17" TYPE="IDENT">他</COREF> 邀请 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> *PRO* 过去 并 ， 并 采访 <COREF ID="008-17" TYPE="IDENT">他</COREF> ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那么 采访 是 在 ， 呃 ， 许多 地方 进行 的 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 *pro* 让 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> *PRO* 这么 跟 <COREF ID="008-m_60" TYPE="IDENT">你</COREF> 说 吧 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-17" TYPE="IDENT">普金</COREF> ， <COREF ID="008-17" TYPE="IDENT">他</COREF> 称 <COREF ID="008-17" TYPE="IDENT">他 自己</COREF> 是 一 个 民主派 人士 ， 依 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 看来 ， －－
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-17" TYPE="IDENT">他</COREF> 不 是 我们 这 种 民主派 人士 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 钦佩 <COREF ID="008-17" TYPE="IDENT">他</COREF> ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 想 <COREF ID="008-17" TYPE="IDENT">他</COREF> 是 一 位 可敬 的 人 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 想 ， 呃 ， 对于 <COREF ID="008-19" TYPE="IDENT">俄罗斯</COREF> 来说 ， <COREF ID="008-17" TYPE="IDENT">他</COREF> 干 得 挺 不错 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="008-17" TYPE="IDENT">他</COREF> 曾 说 过 ， <COREF ID="008-17" TYPE="IDENT">他</COREF> 将 不 会 ％ ｐｗ －－ <COREF ID="008-17" TYPE="IDENT">他</COREF> 将 是 ５５ 岁 ， 在 <COREF ID="008-17" TYPE="IDENT">他</COREF> 第二 任 任期 到期 时 ， <COREF ID="008-17" TYPE="IDENT">他</COREF> 将 是 ５５ 岁 了 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="008-17" TYPE="IDENT">他</COREF> 说 过 <COREF ID="008-17" TYPE="IDENT">他</COREF> 不 会 竞选 *PRO* 再次 连任 ， 因为 那 将 造成 不稳定 ， <COREF ID="008-17" TYPE="IDENT">*pro*</COREF> 不 打算 *PRO* 要求 *pro* 修改 宪法 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> 唔 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 几乎 是 玩笑 地 问 <COREF ID="008-17" TYPE="IDENT">他</COREF> ， 呃 ， <COREF ID="008-17" TYPE="IDENT">你</COREF> 为什么 不 ， 呃 ， <COREF ID="008-m_0" TYPE="IDENT">*pro*</COREF> 这么 跟 <COREF ID="008-17" TYPE="IDENT">你</COREF> 说 吧 ， <COREF ID="008-17" TYPE="IDENT">你</COREF> 为什么 不 投身于 新闻业 呢 ？
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 收入 不错 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> 嗯 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 呃 ， 年龄 不 是 什么 大不了 的 问题 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-17" TYPE="IDENT">他</COREF> ， <COREF ID="008-17" TYPE="IDENT">他</COREF> ， <COREF ID="008-17" TYPE="IDENT">他</COREF> 看 着 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 就 好像 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 是 疯 了 一样 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 谁 知道 呢 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> 难道 <COREF ID="008-m_0" TYPE="IDENT">你</COREF> 不 觉得 <COREF ID="008-17" TYPE="IDENT">他</COREF> 容易 相处 吗 ？ <COREF ID="008-m_35" TYPE="IDENT">我</COREF> 是 这么 感觉 的 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* <COREF ID="008-17" TYPE="IDENT">普京</COREF> ？
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， *pro* 当然 了 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 非常 不错 的 地道 英语 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-17" TYPE="IDENT">他</COREF> 发言 ， ％ ｐｗ 在 拍摄 过程 中 ， 用 ， 用 ， 呃 ， 俄语 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 但是 ， 但是 ， 呃 ， <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 钦佩 <COREF ID="008-17" TYPE="IDENT">那个 人</COREF> ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="008-m_35" TYPE="IDENT">我</COREF> 也 是 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="008-119" TYPE="IDENT">我们</COREF> 将 休息 一下 ， <COREF ID="008-119" TYPE="IDENT">*pro*</COREF> 回来 时 跟 <COREF ID="008-m_0" TYPE="IDENT">麦克＊华莱士</COREF> 谈 更 多 内容 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="008-10" TYPE="IDENT">这</COREF> 是 一 个 好 书 ， <COREF ID="008-127" TYPE="IDENT">书名</COREF> 叫 《 你 我 之间 》 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> 人生 的 事 是 很 难 预测 的 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="008-10" TYPE="IDENT">这</COREF> 将 成为 一 本 主要 畅销书 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 不 要 走开 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-139" TYPE="APPOS" SUBTYPE="ATTRIB">教长</COREF> ， <COREF ID="008-138" TYPE="IDENT"><COREF ID="008-139" TYPE="APPOS" SUBTYPE="ATTRIB">埃及 总统</COREF> <COREF ID="008-139" TYPE="APPOS" SUBTYPE="HEAD">萨达特</COREF></COREF> ， <COREF ID="008-139" TYPE="APPOS" SUBTYPE="ATTRIB">一 位 虔诚 的 宗教徒</COREF> ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-145" TYPE="IDENT">一 位 穆斯林 教徒</COREF> 说 ， *OP* <COREF ID="008-138" TYPE="IDENT">你</COREF> 现在 正在 做 *T*-1 的 ， 引文 是 ＂ 对 <COREF ID="008-154" TYPE="IDENT">伊斯兰教</COREF> 的 一 种 耻辱 ＂ ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="008-145" TYPE="IDENT">他</COREF> 叫 <COREF ID="008-138" TYPE="IDENT">你</COREF> ， <COREF ID="008-138" TYPE="IDENT">教长</COREF> ， <COREF ID="008-138" TYPE="IDENT">*pro*</COREF> 请 原谅 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> ， *pro* 是 <COREF ID="008-145" TYPE="IDENT">他</COREF> 的 话 ， 并不 是 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 的 ， *pro* <COREF ID="008-145" TYPE="IDENT">一 个 疯子</COREF> ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 知道 你 听说 过 <COREF ID="008-172" TYPE="IDENT">那个 评论</COREF> 了 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-172" TYPE="IDENT">那</COREF> 是 ， 是 的 ， <COREF ID="008-172" TYPE="IDENT">那</COREF> 是 ， <COREF ID="008-172" TYPE="IDENT">那</COREF> 是 <COREF ID="008-m_0" TYPE="IDENT">我</COREF> 在 <COREF ID="008-178" TYPE="IDENT">美国</COREF> 电视 上 听 <COREF ID="008-138" TYPE="IDENT">萨达特 总统</COREF> 说 的 ．
+<COREF ID="008-m_31" TYPE="IDENT">[speaker8_#1E]</COREF> （ （ ） ） ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="008-145" TYPE="IDENT">*pro*</COREF> 说 <COREF ID="008-138" TYPE="IDENT">教长</COREF> 是 <COREF ID="008-154" TYPE="IDENT">伊斯兰教</COREF> 的 一 个 耻辱 ．
+<COREF ID="008-m_31" TYPE="IDENT">[speaker8_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="008-145" TYPE="IDENT">他</COREF> 用 了 一 个 疯子 这个 词 ．
+<COREF ID="008-m_31" TYPE="IDENT">[speaker8_#1E]</COREF> *pro* ＥＭＰＴＹ
+<COREF ID="008-m_67" TYPE="IDENT">[speaker10_#1E]</COREF> <COREF ID="008-138" TYPE="IDENT">萨达特</COREF> 声称 <COREF ID="008-138" TYPE="IDENT">他</COREF> 是 一 位 穆斯林 教徒 ， 而 我们 不 是 ．
+<COREF ID="008-m_67" TYPE="IDENT">[speaker10_#1E]</COREF> <COREF ID="008-138" TYPE="IDENT">他</COREF> 不 是 ， 因为 <COREF ID="008-138" TYPE="IDENT">他</COREF> 向 <COREF ID="008-201" TYPE="IDENT"><COREF ID="008-154" TYPE="IDENT">伊斯兰教</COREF> 的 敌人</COREF> 妥协 ．
+<COREF ID="008-m_31" TYPE="IDENT">[speaker8_#1E]</COREF> *pro* ＥＭＰＴＹ
+<COREF ID="008-m_67" TYPE="IDENT">[speaker10_#1E]</COREF> <COREF ID="008-138" TYPE="IDENT">萨达特</COREF> 已经 跟 <COREF ID="008-201" TYPE="IDENT"><COREF ID="008-154" TYPE="IDENT">我们</COREF> 的 敌人</COREF> 狼狈为奸 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> <COREF ID="008-138" TYPE="IDENT">他</COREF> 使 ， 呃 ， <COREF ID="008-210" TYPE="IDENT">六 位 姐妹</COREF> *PRO* 怀孕 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> <COREF ID="008-210" TYPE="IDENT">他们</COREF> 都 已经 有 了 孩子 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> 那 六 位 中 有 两 位 有 两 个 孩子 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> 呃 ， 呃 ， 那 两 位 中 其中 有 一 位 <COREF ID="008-150" TYPE="IDENT">现在</COREF> 怀 了 孕 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> *pro* 有 人 告诉 <COREF ID="008-m_50" TYPE="IDENT">我</COREF> *pro* 有 <COREF ID="008-224" TYPE="IDENT">一 位 姐妹 ， 第七 位</COREF> ， <COREF ID="008-150" TYPE="IDENT">现在</COREF> 应该 在 墨西哥 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> 而且 据说 <COREF ID="008-224" TYPE="IDENT">她</COREF> 怀 了 <COREF ID="008-138" TYPE="IDENT">他</COREF> 的 孩子 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 <COREF ID="008-m_50" TYPE="IDENT">你</COREF> 觉得 或许 <COREF ID="008-m_50" TYPE="IDENT">你</COREF> <COREF ID="008-150" TYPE="IDENT">现在</COREF> 应该 夺取 黑人 穆斯林 的 领导权 吗 ？
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> 不 ， <COREF ID="008-m_50" TYPE="IDENT">我</COREF> 无意 *PRO* 夺取 黑人 穆斯林 的 领导权 ， 而且 <COREF ID="008-m_50" TYPE="IDENT">我</COREF> 也 从来 没有 那 种 欲望 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> 但是 <COREF ID="008-m_50" TYPE="IDENT">我</COREF> 确实 有 这 种 愿望 ．
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> <COREF ID="008-m_50" TYPE="IDENT">我</COREF> 希望 *PRO* 看到 <COREF ID="008-256" TYPE="IDENT">在 <COREF ID="008-178" TYPE="IDENT">这个 国家</COREF> 内 的 非洲裔 美国人</COREF> 能 得到 *OP* <COREF ID="008-256" TYPE="IDENT">他</COREF> 应有 *T*-1 的 人权 ， 从而 成为 一 个 完整 的 人 ．
+<COREF ID="008-m_0" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 <COREF ID="008-m_50" TYPE="IDENT">你</COREF> 一点 都 不 害怕 因为 <COREF ID="008-m_50" TYPE="IDENT">你</COREF> 说 了 这些 启示性 的 话 <COREF ID="008-m_50" TYPE="IDENT">你</COREF> 可能 会 出 什么 事 吗 ？
+<COREF ID="008-m_50" TYPE="IDENT">[Malcolm_X_#1E]</COREF> 哦 ， 那 当然 了 ， <COREF ID="008-m_50" TYPE="IDENT">我</COREF> 可能 已经 是 死 的 人 了 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* <COREF ID="008-m_50" TYPE="IDENT"><COREF ID="008-279" TYPE="APPOS" SUBTYPE="ATTRIB">预言家</COREF> <COREF ID="008-279" TYPE="APPOS" SUBTYPE="HEAD">马尔科姆＊Ｘ</COREF></COREF> ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> 堪萨斯州 托皮卡 ， 和 <COREF ID="008-m_0" TYPE="IDENT">麦克＊华莱士</COREF> 一起 ．
+<COREF ID="008-m_35" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="008-127" TYPE="IDENT">书名</COREF> 《 你 我 之间 》 ．
+</TEXT>
+<TEXT PARTNO="009">
+<COREF ID="009-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 喂 ．
+<COREF ID="009-m_5" TYPE="IDENT">[speaker4_#1E]</COREF> *pro* 晚上 好 ．
+<COREF ID="009-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="009-m_5" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="009-m_5" TYPE="IDENT">[speaker4_#1E]</COREF> <COREF ID="009-m_5" TYPE="IDENT">我</COREF> 想 *PRO* 问问 <COREF ID="009-m_7" TYPE="IDENT">华莱士 先生</COREF> <COREF ID="009-m_7" TYPE="IDENT">他</COREF> 是否 曾 拒绝 过 一 次 ％ ｐｗ ．
+<COREF ID="009-m_7" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="009-m_7" TYPE="IDENT">*pro*</COREF> 拒绝 什么 ？
+<COREF ID="009-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="009-m_7" TYPE="IDENT">*pro*</COREF> 采访 ．
+<COREF ID="009-m_7" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="009-m_7" TYPE="IDENT">*pro*</COREF> 拒绝 *PRO* 做 采访 ？
+<COREF ID="009-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ 换句话说 ） ） <COREF ID="009-m_7" TYPE="IDENT">你</COREF> 可曾 被 哥伦比亚 广播 公司 要求 ： *-1 *PRO* 去 采访 这个 人 ．
+<COREF ID="009-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 <COREF ID="009-m_7" TYPE="IDENT">你</COREF> 却 说 不 ？
+<COREF ID="009-m_7" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 如果 *pro* 那样 的话 ， <COREF ID="009-m_7" TYPE="IDENT">我</COREF> 不 ％ ｐｗ <COREF ID="009-m_7" TYPE="IDENT">我</COREF> 不 记得 了 ．
+<COREF ID="009-m_7" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 不 ， <COREF ID="009-m_7" TYPE="IDENT">我</COREF> 不 认为 <COREF ID="009-m_7" TYPE="IDENT">*pro*</COREF> 有 那样 ．
+</TEXT>
+<TEXT PARTNO="010">
+<COREF ID="010-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 佛罗里达州 奥兰多 ． <COREF ID="010-m_6" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="010-m_6" TYPE="IDENT">[speaker5_#1E]</COREF> <COREF ID="010-m_10" TYPE="IDENT">麦克</COREF> ， <COREF ID="010-m_6" TYPE="IDENT">我</COREF> 想 *PRO* 知道 ．
+<COREF ID="010-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="010-m_6" TYPE="IDENT">*pro*</COREF> 请 说 ．
+<COREF ID="010-m_6" TYPE="IDENT">[speaker5_#1E]</COREF> <COREF ID="010-m_6" TYPE="IDENT">我</COREF> 刚 到 <COREF ID="010-7" TYPE="IDENT">纽约</COREF> 时 ， <COREF ID="010-m_6" TYPE="IDENT">我</COREF> 曾 在 <COREF ID="010-9" TYPE="IDENT">电视 上 一 个 *OP* *T*-1 名叫 ＂ 麦克 和 芭芙 ＂ 的 节目</COREF> 中 看到 <COREF ID="010-CNN_LARRYKING_ENG_20051031_205800.part-010-E5" TYPE="IDENT">一 位 *OP* *T*-2 长 得 不错 的 年轻人</COREF> ．
+<COREF ID="010-m_6" TYPE="IDENT">[speaker5_#1E]</COREF> <COREF ID="010-CNN_LARRYKING_ENG_20051031_205800.part-010-E5" TYPE="IDENT">那</COREF> 是 <COREF ID="010-m_10" TYPE="IDENT">你</COREF> 吗 ？
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-CNN_LARRYKING_ENG_20051031_205800.part-010-E5" TYPE="IDENT">那</COREF> 是 <COREF ID="010-m_10" TYPE="IDENT">我</COREF> ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-9" TYPE="IDENT">那</COREF> 是 <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 的 ， ％ ｐｗ 呃 ， <COREF ID="010-24" TYPE="IDENT"><COREF ID="010-m_10" TYPE="IDENT">我</COREF> ， 和 ， 和 <COREF ID="010-26" TYPE="IDENT">芭芙＊科贝</COREF></COREF> ， <COREF ID="010-26" TYPE="IDENT">她</COREF> 曾 是 <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 的 －－
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-m_6" TYPE="IDENT">你</COREF> 不 是 <COREF ID="010-26" TYPE="IDENT">芭芙</COREF> 吧 ， *pro* 对 吗 ？
+<COREF ID="010-m_6" TYPE="IDENT">[speaker5_#1E]</COREF> 不 ， 不 ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 因为 ， *pro* 因为 ， <COREF ID="010-26" TYPE="IDENT">芭芙</COREF> 现在 住在 <COREF ID="010-36" TYPE="IDENT">新罕布夏州</COREF> ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-26" TYPE="IDENT">她</COREF> 住在 <COREF ID="010-36" TYPE="IDENT">那里</COREF> 的 家 里 ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-26" TYPE="IDENT">她</COREF> 不 是 很 健康 ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 唔 ， *pro* 是 的 ， 当 <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 第一 次 到 <COREF ID="010-7" TYPE="IDENT">纽约</COREF> 时 ， <COREF ID="010-24" TYPE="IDENT">她 和 我</COREF> 曾 在 哥伦比亚 广播 公司 做 过 <COREF ID="010-9" TYPE="IDENT">一 个 节目</COREF> ， 而 <COREF ID="010-9" TYPE="IDENT">那</COREF> 是 一 个 *OP* *T*-1 很 吸引 人 的 －－
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-9" TYPE="IDENT">它</COREF> ， <COREF ID="010-9" TYPE="IDENT">它</COREF> 就 像 ， 有一点 像 ， 里吉斯 和 ， 呃 ， 凯西 ， 或 ＂ 里吉斯 和 凯利 ＂ ．
+<COREF ID="010-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 <COREF ID="010-24" TYPE="IDENT">你们</COREF> 当时 结婚 了 ， *pro* 对 吗 ？
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="010-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="010-m_10" TYPE="IDENT">*pro*</COREF> 跟 <COREF ID="010-26" TYPE="IDENT">妻子</COREF> 一起 做 节目 的 感觉 如何 ？
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 不 容易 ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 是 ， <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 是 ， 说真的 ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 你 知道 ， 呃 ， <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 很 想 *PRO* 看看 <COREF ID="010-9" TYPE="IDENT">那个</COREF> ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这 ， 这 ， 呃 －－ <COREF ID="010-24" TYPE="IDENT">我们</COREF> 曾经 常 在 <COREF ID="010-9" TYPE="IDENT">*pro*</COREF> 播放 时 拌嘴 ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 结果 是 不久 后 ， <COREF ID="010-24" TYPE="IDENT">我们</COREF> <COREF ID="010-24" TYPE="IDENT">*pro*</COREF> 下 了 <COREF ID="010-9" TYPE="IDENT">节目</COREF> 后 继续 拌嘴 ．
+<COREF ID="010-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> （ （ ） ） ．
+<COREF ID="010-m_10" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="010-m_0" TYPE="IDENT">你</COREF> 知道 <COREF ID="010-m_10" TYPE="IDENT">我</COREF> 的 意思 是 什么 ．
+<COREF ID="010-m_0" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="010-m_0" TYPE="IDENT">我</COREF> 知道 ．
+</TEXT>
+<TEXT PARTNO="011">
+<COREF ID="011-m_4" TYPE="IDENT">[Larry_King_#1E]</COREF> 底特律 ． 喂 ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> （ （ ） ） －－
+<COREF ID="011-m_0" TYPE="IDENT">[speaker6_#1E]</COREF> <COREF ID="011-m_4" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="011-m_4" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="011-m_0" TYPE="IDENT">你</COREF> 好 ．
+<COREF ID="011-m_0" TYPE="IDENT">[speaker6_#1E]</COREF> <COREF ID="011-m_4" TYPE="IDENT">你</COREF> 好 吗 ？
+<COREF ID="011-m_4" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="011-m_4" TYPE="IDENT">*pro*</COREF> 很 好 ．
+<COREF ID="011-m_0" TYPE="IDENT">[speaker6_#1E]</COREF> <COREF ID="011-m_8" TYPE="IDENT">华莱士 先生</COREF> ， <COREF ID="011-m_0" TYPE="IDENT">*pro*</COREF> 能 跟 <COREF ID="011-m_8" TYPE="IDENT">你</COREF> 通话 ， <COREF ID="011-m_0" TYPE="IDENT">我</COREF> 太 高兴 了 ．
+<COREF ID="011-m_0" TYPE="IDENT">[speaker6_#1E]</COREF> 但是 ， 呃 ， <COREF ID="011-m_0" TYPE="IDENT">我</COREF> 有 ， 呃 －－ 在 *OP* <COREF ID="011-m_8" TYPE="IDENT">你</COREF> 主持 *T*-1 的 ＂ ６０ 分钟 ＂ 中 ， 哪 一 次 是 <COREF ID="011-50" TYPE="IDENT">*OP* <COREF ID="011-m_8" TYPE="IDENT">你</COREF> 遇到 过 *T*-2 的 最 艰难 的 一 次 采访</COREF> ？ 谁 可能 是 <COREF ID="011-19" TYPE="IDENT">*OP* <COREF ID="011-m_8" TYPE="IDENT">你</COREF> 采访 过 *T*-3 的 *OP* *T*-4 最 难 对付 的 人</COREF> ？
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="011-m_8" TYPE="IDENT">我</COREF> ， <COREF ID="011-m_8" TYPE="IDENT">我</COREF> 想 <COREF ID="011-19" TYPE="IDENT">*pro*</COREF> 可能 是 <COREF ID="011-26" TYPE="IDENT">阿亚图拉＊霍梅尼</COREF> ， 的确 ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 因为 <COREF ID="011-26" TYPE="IDENT">他</COREF> 并不 急于 *PRO* 做 <COREF ID="011-50" TYPE="IDENT">它</COREF> ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="011-50" TYPE="IDENT">它</COREF> 是 ， 呃 ， 正好 在 人质 ， 美国 人质 在 伊朗 被 劫走 *-1 后 进行 的 ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="011-m_8" TYPE="IDENT">我</COREF> <COREF ID="011-38" TYPE="IDENT">当时</COREF> 很 惊讶 <COREF ID="011-26" TYPE="IDENT">他</COREF> 乐意 *PRO* 谈 ， 乐意 *PRO* 跟 <COREF ID="011-42" TYPE="IDENT">我们</COREF> 谈 ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="011-50" TYPE="IDENT">那</COREF> 是 一 件 非常 ， 非常 ， 困难 的 事 ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="011-42" TYPE="IDENT">我们</COREF> 是 在 <COREF ID="011-48" TYPE="APPOS" SUBTYPE="ATTRIB">圣城</COREF> （ （ <COREF ID="011-48" TYPE="APPOS" SUBTYPE="HEAD">库姆</COREF> ） ） 进行 <COREF ID="011-50" TYPE="IDENT">那 次 采访</COREF> ， 那 是 ， 呃 ， <COREF ID="011-42" TYPE="IDENT">我们</COREF> －－
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 而且 ， <COREF ID="011-38" TYPE="IDENT">当时</COREF> 的 境况 是 ， 是 艰难 的 ．
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 －－
+<COREF ID="011-m_8" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 他们 照料 妥善 ， 确保 <COREF ID="011-42" TYPE="IDENT">我们</COREF> 不 会 陷入 麻烦 之中 ．
+<COREF ID="011-m_4" TYPE="IDENT">[Larry_King_#1E]</COREF> 我们 休息 一会 ．
+</TEXT>
+<TEXT PARTNO="012">
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 他 正好 －－
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-1" TYPE="IDENT">我们</COREF> 回来 时 *pro* 有 更 多 <COREF ID="012-m_70" TYPE="IDENT">麦克＊华莱士</COREF> 的 内容 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 书名 叫 《 你 我 之间 》 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-11" TYPE="IDENT">*pro*</COREF> 包括 光盘 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-11" TYPE="IDENT">它</COREF> 是 ， 哦 ， 没说的 ， <COREF ID="012-11" TYPE="IDENT">它</COREF> 是 一 本 精彩 的 书 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-1" TYPE="IDENT">我们</COREF> 马上 回来 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">你</COREF> <COREF ID="012-16" TYPE="IDENT">现在</COREF> 为什么 这么 做 了 ？
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">*pro*</COREF> 做 什么 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 这个 ， <COREF ID="012-m_56" TYPE="IDENT">你</COREF> 曾 断然 拒绝 过 <COREF ID="012-20" TYPE="IDENT">我们</COREF> 一 次 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">*pro*</COREF> 没有 拒绝 <COREF ID="012-20" TYPE="IDENT">我们</COREF> ．
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 的 理解 是 <COREF ID="012-20" TYPE="IDENT">你们</COREF> 为了 <COREF ID="012-57" TYPE="IDENT">这个</COREF> 会 支付 <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 一 大 笔 钱 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">你</COREF> 错 了 ．
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> 那 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 为什么 <COREF ID="012-16" TYPE="IDENT">现在</COREF> 这么 做 ？
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 不 开 *OP* *T*-1 强行 推销 所 ， <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 没 做 假 房地产 行骗 ， 呃 ， <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 没有 接受 任何 回扣 ．
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> 呃 ， 在 <COREF ID="012-m_56" TYPE="IDENT">我</COREF> １２ 岁 时 ， <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 的确 曾 有一次 从 伍尔沃思 偷 过 一 枚 戒指 ．
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> 而 <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 认为 那 就 是 为什么 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 今天 在 这里 的 原因 ．
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> 我们 进行 <COREF ID="012-57" TYPE="IDENT">这 次 采访</COREF> 是 因为 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 是 一 个 国宝 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 是 他们 告诉 <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 的 ， <COREF ID="012-m_56" TYPE="IDENT">你</COREF> 是 一 个 国宝 ．
+<COREF ID="012-m_56" TYPE="IDENT">[Johnny_Carson_#1E]</COREF> 那 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 知道 现在 美元 的 价值 ．
+<COREF ID="012-129" TYPE="IDENT">[speaker11_#1E]</COREF> *OP* <COREF ID="012-129" TYPE="IDENT">我</COREF> *T*-1 在 这里 的 一部分 原因 是 因为 <COREF ID="012-129" TYPE="IDENT">我</COREF> 觉得 <COREF ID="012-78" TYPE="IDENT"><COREF ID="012-79" TYPE="IDENT">他们</COREF> 的 陈述</COREF> 明显 地 ， 至少 在 （ （ ） ） <COREF ID="012-78" TYPE="IDENT">陈述</COREF> 里 ， 明显 地 说错 了 *OP* <COREF ID="012-79" TYPE="IDENT">他们</COREF> 通常 所 ＋ 熟悉 *T*-2 的 公司 内部 用语 ．
+<COREF ID="012-129" TYPE="IDENT">[speaker11_#1E]</COREF> 你 知道 的 ， 我们 从事 尼古丁 输送 业务 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 那 便 是 <COREF ID="012-94" TYPE="IDENT">香烟</COREF> 的 用途 ．
+<COREF ID="012-129" TYPE="IDENT">[speaker11_#1E]</COREF> 那 肯定 啦 ．
+<COREF ID="012-129" TYPE="IDENT">[speaker11_#1E]</COREF> <COREF ID="012-94" TYPE="IDENT">它</COREF> 是 一 种 *OP* <COREF ID="012-94" TYPE="IDENT">*pro*</COREF> *T*-1 输送 尼古丁 的 工具 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 一 种 *OP* <COREF ID="012-94" TYPE="IDENT">*pro*</COREF> *T*-1 输送 尼古丁 的 工具 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-112" TYPE="IDENT">*pro*</COREF> 把 <COREF ID="012-94" TYPE="IDENT">它</COREF> 放在 你 嘴里 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-112" TYPE="IDENT">*pro*</COREF> 点燃 <COREF ID="012-94" TYPE="IDENT">它</COREF> ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 然后 <COREF ID="012-112" TYPE="IDENT">你</COREF> 就 可以 过瘾 了 ．
+<COREF ID="012-129" TYPE="IDENT">[speaker11_#1E]</COREF> <COREF ID="012-112" TYPE="IDENT">你</COREF> 就 可以 过瘾 了 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 声音 是 <COREF ID="012-129" TYPE="IDENT">《 内线人 》 主人公</COREF> 的 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* <COREF ID="012-129" TYPE="IDENT">那个 人</COREF> ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 ， <COREF ID="012-129" TYPE="IDENT">那个 人</COREF> 曾 是 *RNR*-1 ， 是 ， 一直 是 <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 的 英雄 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-129" TYPE="IDENT">杰夫＊魏甘德</COREF> ， <COREF ID="012-129" TYPE="IDENT">他</COREF> 曾 和 烟草 卡特尔 对着干 ， 你 可以 这么 说 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 对 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 ， 你 还 记得 <COREF ID="012-135" TYPE="IDENT">所有 那些 经营 公司 的 人</COREF> 都 举起 手 ， 说 ： 哦 ， <COREF ID="012-94" TYPE="IDENT">它</COREF> 不 会 ， <COREF ID="012-94" TYPE="IDENT">*pro*</COREF> 不 会 ， 有 瘾头 的 ， <COREF ID="012-94" TYPE="IDENT">*pro*</COREF> 不 会 ％ ｐｗ －－
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-135" TYPE="IDENT">他们</COREF> 知道 <COREF ID="012-94" TYPE="IDENT">它</COREF> 是 有 瘾头 的 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而 <COREF ID="012-129" TYPE="IDENT">他</COREF> 成功 了 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 是 指 ， 真的 ， <COREF ID="012-129" TYPE="IDENT">他</COREF> 成功 了 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-129" TYPE="IDENT">他</COREF> 经办 <COREF ID="012-150" TYPE="IDENT">一 家 基金会</COREF> ， 为了 ， <COREF ID="012-150" TYPE="IDENT">*pro*</COREF> 叫做 ， 为了 无烟 儿童 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 而且 <COREF ID="012-129" TYPE="IDENT">他</COREF> 在 各个 方面 已 取得 了 各种各样 的 成功 ， 在 ％ ｐｗ 国外 等 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-129" TYPE="IDENT">那个 人</COREF> 是 <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 的 英雄 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 是 <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 的 英雄 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 我们 还 剩下 一 分 半 钟 的 时间 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 还 将 ％ ｐｗ －－ <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 知道 人们 一直 在 问 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 这个 问题 ， 但是 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 打算 *PRO* 继续 ， 继续 干 多久 ？
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 打算 *PRO* 多久 －－
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ 你 知道 的 ， <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 到底 会 做 什么 ， 什么 呢 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 会 做 什么 ， 什么 呢 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 那 *OP* <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 现在 在 干 *T*-1 的 事情 <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 打算 *PRO* 继续 干 多久 ？
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 的 ， 但是 ， <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 是 ， <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 是 －－
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 多 大 了 ， <COREF ID="012-m_70" TYPE="IDENT">麦克</COREF> ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 八十七 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">你</COREF> ＋ 能 想象 吗 ？
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 ， <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 马上 就要 七十二 了 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 所以 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 比 <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 大 十五 岁 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ， 所以 <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 将 （ （ ） ） ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 所以 <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 觉得 ， <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 觉得 <COREF ID="012-m_5" TYPE="IDENT">*pro*</COREF> 跟 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 一 比 ， <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 就 像 一 个 孩子 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 那 <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 可 不 知道 了 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 是 青少年 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 会 祈祷 <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 能 活到 八十七 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 啊哈 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">你</COREF> ， <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 在 照顾 <COREF ID="012-m_5" TYPE="IDENT">你 自己</COREF> 吗 ？
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 啊 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 呢 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 一切 都 好 吗 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 一切 都 不错 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 是 ， <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 是 一 个 好人 ， <COREF ID="012-m_5" TYPE="IDENT">拉里</COREF> ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 唔 ， <COREF ID="012-m_70" TYPE="IDENT">麦克＊华莱士</COREF> *pro* 无 人 能 取代 *T*-1 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">我</COREF> ％ ｐｗ －－
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 就 是 喜欢 <COREF ID="012-m_5" TYPE="IDENT">你</COREF> ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 上帝 保佑 <COREF ID="012-m_5" TYPE="IDENT">你</COREF> ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 另外 一 个 很 快 的 问题 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 嗯 ？
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 曾 想 *PRO* 让 人 *PRO* 坐立不安 吗 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 当然 了 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> （ （ ） ） －－
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 所以 ， <COREF ID="012-248" TYPE="IDENT">那</COREF> 就 是 <COREF ID="012-249" TYPE="IDENT"><COREF ID="012-m_70" TYPE="IDENT">你</COREF> 的 角色 ， 揭露 他们</COREF> ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 当然 了 ， *pro* 当然 了 ， *pro* 当然 了 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ <COREF ID="012-248" TYPE="IDENT">那</COREF> 是 ， <COREF ID="012-248" TYPE="IDENT">那</COREF> 是 <COREF ID="012-249" TYPE="IDENT">*OP* <COREF ID="012-m_70" TYPE="IDENT">我</COREF> 扮演 *T*-1 的 角色</COREF> ， *pro* 当然 了 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 喜欢 *OP* <COREF ID="012-m_56" TYPE="IDENT">约翰尼＊卡森</COREF> 对 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> 说 *T*-1 的 话 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">我</COREF> 没有 ， 没有 ， 呃 ， 偷 过 任何 轮胎 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">我</COREF> －－
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ *pro* 对 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> ％ ｐｗ <COREF ID="012-m_5" TYPE="IDENT">你</COREF> 知道 它 的 悲剧 一 面 吗 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> 哦 ， <COREF ID="012-281" TYPE="IDENT">*pro*</COREF> 看看 <COREF ID="012-280" TYPE="IDENT">那</COREF> ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-281" TYPE="IDENT">*pro*</COREF> 看 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-280" TYPE="IDENT">那</COREF> 是 瑟夫 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 还 有 那 一 大 群 人 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 我们 没有 时间 了 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 快点 ， 关于 <COREF ID="012-m_56" TYPE="IDENT">卡森</COREF> ， <COREF ID="012-m_56" TYPE="IDENT">*pro*</COREF> 发生 了 什么 悲剧 ？
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 就 是 <COREF ID="012-m_56" TYPE="IDENT">他</COREF> 吸烟 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">他</COREF> 害 了 <COREF ID="012-m_56" TYPE="IDENT">他 自己</COREF> ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* 一直 到 最后 也 是 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">他</COREF> 吸烟 ， 害 了 <COREF ID="012-m_56" TYPE="IDENT">他 自己</COREF> ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_56" TYPE="IDENT">他</COREF> 在 心脏 手术 后 仍旧 吸烟 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 是 的 ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> *pro* 完全 正确 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">*pro*</COREF> 谢谢 <COREF ID="012-m_70" TYPE="IDENT">你</COREF> ， <COREF ID="012-m_70" TYPE="IDENT">麦克</COREF> ．
+<COREF ID="012-m_70" TYPE="IDENT">[Mike_Wallace_#1E]</COREF> <COREF ID="012-m_70" TYPE="IDENT">*pro*</COREF> 跟 往常 一样 ， <COREF ID="012-m_5" TYPE="IDENT">拉里</COREF> ， <COREF ID="012-m_70" TYPE="IDENT">*pro*</COREF> 非常 感谢 <COREF ID="012-m_5" TYPE="IDENT">你</COREF> ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> ％ ｐｗ －－
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> *pro* <COREF ID="012-m_70" TYPE="IDENT">麦克＊华莱士</COREF> ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 书名 叫 《 你 我 之间 》 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 而且 <COREF ID="012-11" TYPE="IDENT">它</COREF> 附带 一 张 *OP* *T*-1 与众不同 的 光盘 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 读 过 <COREF ID="012-11" TYPE="IDENT">那 本 书</COREF> ， 还 没有 听 过 ％ ｐｗ ， 还 没有 看 过 光盘 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-11" TYPE="IDENT">它</COREF> 肯定 不错 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 阿伦＊布朗 这个 星期 不 在 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_64" TYPE="IDENT">宝拉＊赞恩</COREF> ， <COREF ID="012-m_64" TYPE="IDENT">她</COREF> <COREF ID="012-335" TYPE="IDENT">昨晚</COREF> 在 *OP* *pro* 为 伊扎克＊ 拉宾 医疗 中心 举行 *T*-1 的 一 件 盛事 上 演奏 大提琴 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 是 主持人 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 他们 跟 哈林 爵士 乐队 一起 演奏 了 ＂ 搭乘 Ａ 号 列车 ＂ ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_64" TYPE="IDENT">她</COREF> 太 精彩 了 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_64" TYPE="IDENT">宝拉</COREF> ， <COREF ID="012-m_64" TYPE="IDENT">*pro*</COREF> 万圣节 快乐 ． <COREF ID="012-m_64" TYPE="IDENT">你</COREF> <COREF ID="012-335" TYPE="IDENT">昨晚</COREF> 真 精彩 ．
+<COREF ID="012-m_64" TYPE="IDENT">[Paula_Zahn_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">*pro*</COREF> 万圣节 快乐 ．
+<COREF ID="012-m_64" TYPE="IDENT">[Paula_Zahn_#1E]</COREF> *OP* *T*-1 较为 ， 最 重要 的 问题 是 我们 <COREF ID="012-335" TYPE="IDENT">昨天 晚上</COREF> 是否 筹集 了 钱 ， 筹集 了 很多 钱 ？
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 猜想 <COREF ID="012-372" TYPE="IDENT">他们</COREF> 筹到 了 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> <COREF ID="012-m_5" TYPE="IDENT">我</COREF> 没有 听到 －－
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 但是 <COREF ID="012-372" TYPE="IDENT">他们</COREF> 干 得 不错 ．
+<COREF ID="012-m_64" TYPE="IDENT">[Paula_Zahn_#1E]</COREF> 嗯 ， 那 就 是 我们 为什么 都 在 那里 的 原因 ．
+<COREF ID="012-m_5" TYPE="IDENT">[Larry_King_#1E]</COREF> 而 <COREF ID="012-m_64" TYPE="IDENT">你</COREF> 棒 极 了 ．
+<COREF ID="012-m_64" TYPE="IDENT">[Paula_Zahn_#1E]</COREF> <COREF ID="012-m_64" TYPE="IDENT">*pro*</COREF> 谢谢 ， 它 的确 很 有趣 ．
+<COREF ID="012-m_64" TYPE="IDENT">[Paula_Zahn_#1E]</COREF> 当 <COREF ID="012-m_64" TYPE="IDENT">你</COREF> 有 *OP* ２０ 名 左右 天才 音乐家 组成 *T*-1 的 管弦 乐队 支持 <COREF ID="012-m_64" TYPE="IDENT">你</COREF> ， 那 肯定 不错 ．
+<COREF ID="012-m_64" TYPE="IDENT">[Paula_Zahn_#1E]</COREF> <COREF ID="012-m_64" TYPE="IDENT">*pro*</COREF> 非常 感谢 ， <COREF ID="012-m_5" TYPE="IDENT">拉里</COREF> ．
+</TEXT>
+</DOC>

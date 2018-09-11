@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 试运行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity operated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NP-PN (NR 上海))
+                    (NP (NN 轨道)
+                    (NN 交通)))
+                    (NP-PN (NR 明珠线)))
+                    (VP (NP-TMP (NT ２６号))
+                    (ADJP (AD 正式))
+                    (VP (VCD (VV 通车)
+                    (VV 试运行))) 
+                    
+                </parse>
+                <arg n="1">
+                    上海 轨道交通明珠线          
+                </arg>
+                <arg n="m" f="tmp">
+                    ２６号          
+                </arg>
+                <arg n="m" f="adv">
+                    正式          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

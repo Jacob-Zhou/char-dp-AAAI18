@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 驳 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity disagreed with"/>
+        <role argnum="2" argrole="argument"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NP-APP (NN 国防会)
+                    (NN 秘书长))
+                    (NP-PN (NR 庄明耀)))
+                    (VP (NP-TMP (NT 昨天))
+                    (ADVP (AD 更))
+                    (VP (VC 是)
+                    (VP (DVP (VP (VA 公开))
+                    (DEV 的))
+                    (ADVP (AD 怒))
+                    (VP (VV 驳)
+                    (IP-OBJ (NP-SBJ (PN 他))
+                    (VP (VV 应该)
+                    (VP (VV 要)
+                    (VP (DVP (VP (VA 好好))
+                    (DEV 的))
+                    (VP (VV 检讨)
+                    (NP-OBJ (DNP (NP (PN 自己))
+                    (DEG 的))
+                    (NN 言行)))))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    国防会 秘书长庄明耀          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天          
+                </arg>
+                <arg n="m" f="adv">
+                    更          
+                </arg>
+                <arg n="m" f="adv">
+                    公开 的          
+                </arg>
+                <arg n="m" f="adv">
+                    怒          
+                </arg>
+                <arg n="2">
+                    他 应该 要 好好 的 检讨 自己 的 言行          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

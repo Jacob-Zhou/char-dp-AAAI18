@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 溶 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing dissolved"/>
+        <role argnum="2" argrole="liquid"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (LCP-LOC (NP (NP (DP (DT 这)
+                    (CLP (M 种)))
+                    (NP (NN 玻璃窗)))
+                    (NP (NN 夹层)))
+                    (LC 当中)
+                    (FLR (LC 间)))
+                    (VP (VV 冲入)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 水)))
+                    (NP (NN 里面)))
+                    (VP (VRD (VV 溶)
+                    (VE 有))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 种)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 透明)))
+                    (DEC 的)))
+                    (NP (NN 化学)
+                    (NN 物质))))) 
+                    
+                </parse>
+                <arg n="2">
+                    这 种 玻璃窗 夹层 当中 间 冲入 的 水 里面          
+                </arg>
+                <arg n="1">
+                    一 种 透明 的 化学 物质          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

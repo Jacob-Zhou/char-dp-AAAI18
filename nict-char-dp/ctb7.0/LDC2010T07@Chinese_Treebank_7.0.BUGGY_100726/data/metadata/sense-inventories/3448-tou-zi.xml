@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="投资-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to invest, to put money into" group="1">
+<commentary>
+</commentary>
+<examples>
+如 市 建设 委员会 ， 在 台商 对 基础 设施 投资 方面 ， 专门 出台 了 一 整 套 的 优惠 政策
+它 是 中国 首 家 主要 由 民营 企业 投资 入股 的 全国性 股份制 商业 银行
+这 个 全 国 最大 规模 的 木浆厂 将 由 新加坡 亚洲 浆纸业 股份 有限 公司 投资 十二点八三亿 美元 兴建 ， 年 产 漂白 商品 木浆 六十万 吨
+中国 鼓励 民营 企业家 投资 国家 基础 建设
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

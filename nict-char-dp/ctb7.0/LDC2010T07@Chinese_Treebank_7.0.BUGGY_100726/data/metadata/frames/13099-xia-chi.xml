@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 狭持 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="hostage"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 真主党))
+                    (FLR (ADVP (AD 对)))
+                    (VP (VP (ADVP (AD 于是))
+                    (NP-MNR (NN 飞弹))
+                    (VP (VV 攻击)
+                    (NP-OBJ (DNP (NP-PN (NR 以色列))
+                    (DEG 的))
+                    (NP-PN (NR 奇巴)
+                    (NN 农场))
+                    (NP (NN 区域)))))
+                    (PU ，)
+                    (CC 并且)
+                    (VP (VV 狭持)
+                    (AS 了)
+                    (NP-OBJ (QP (CD ３)
+                    (CLP (M 名)))
+                    (NP (NP-PN (NR 以色列))
+                    (NP (NN 士兵)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    真主党          
+                </arg>
+                <arg n="1">
+                    ３ 名 以色列 士兵          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

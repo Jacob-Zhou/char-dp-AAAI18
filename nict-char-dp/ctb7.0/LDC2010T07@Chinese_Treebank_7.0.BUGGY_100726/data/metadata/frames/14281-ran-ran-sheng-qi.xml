@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 冉冉升起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 两)
+                    (CLP (M 面)))
+                    (NP (NN 五星)
+                    (NN 红旗)))
+                    (VP (VV 冉冉升起)) 
+                    
+                </parse>
+                <arg n="0">
+                    两 面 五星红旗          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

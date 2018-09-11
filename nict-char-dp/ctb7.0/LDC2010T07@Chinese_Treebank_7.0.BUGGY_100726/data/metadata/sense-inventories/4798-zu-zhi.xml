@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="组织-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to allocate, to gather, to arrange" group="1">
+<commentary>
+</commentary>
+<examples>
+按 协议 ， 电厂 使用 的 天然气 货源 由 威尔 集团 负责 在 国际 市场 上 组织 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to organize some groups" group="1">
+<commentary>
+</commentary>
+<examples>
+起步 较 晚 的 钦州港 ， 积极 引入 市场 机制 推动 港口 开发 ， 组织 国内外 大 财团 、 大 公司 成立 招商 集团 联合 招商 ， 推行 业主制 兴建 码头 。
+敦促 回教 会议 组织 各 国 领袖
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="organization, organized group" group="1">
+<commentary>
+</commentary>
+<examples>
+遭到 激进 的 回教 阿卜 沙耶夫 组织 羁押
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to set up or establish, to found" group="1">
+<commentary>
+</commentary>
+<examples>
+叙利亚 在 ８号 重申 他 支持 黎巴嫩 的 民兵 组织 真主党
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="(body) tissue" group="1">
+<commentary>
+</commentary>
+<examples>
+一面 消炎 ， 一面 促进 组织 再生
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="weaved structure" group="1">
+<commentary>
+</commentary>
+<examples>
+早期 原住民 便 以 骨针 、 橘刺 ， 或 其他 工具 在 苎麻 织布 上 刺绣 ， 但 当 棉布 传入 之后 ， 原住民 便 以 铁针 为 缝制 工具 ， 依 布 底 的 组织 结构 在 纵线 、 横线 上 展现 出 十字绣 、 缎面绣 、 直线绣 、 钉链绣 等 精致 刺绣 技巧 ， 除 雅美 、 泰雅 、 赛夏 三 族 不 见 刺绣品 之外 ， 排湾 、 鲁凯 二 族 的 妇女 几乎 随手 不 离 刺绣 工作 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="563" ann_1_2_agreement="0.88809946714" />
+</inventory>

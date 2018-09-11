@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 大叹 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="lament"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (NN 财物))
+                    (VP (ADVP (CS 虽然))
+                    (VP (VP-FOC (VV 损失))
+                    (VP (ADVP (AD 不))
+                    (VP (VA 多))))))
+                    (PU ，)
+                    (ADVP (AD 但))
+                    (NP-SBJ (NN 车主))
+                    (VP (VC 是)
+                    (VP (VV 大叹)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 倒霉)))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    财物 虽然 损失 不 多          
+                </arg>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="0">
+                    车主          
+                </arg>
+                <arg n="1">
+                    倒霉          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

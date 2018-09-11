@@ -1,0 +1,11 @@
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 3 gold 宣布-v 宣布.01 ----- 3:0-rel 1:2-ARG0
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 16 gold 受到-v 受到.01 ----- 16:0-rel 0:1-ARGM-MNR 5:2-ARG0 11:1-ARGM-TMP 12:1-ARGM-LOC 17:4-ARG1
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 21 gold 携带-v 携带.01 ----- 21:0-rel 22:1-ARG1 19:0*19:1*20:0*20:1*25:1-ARG0
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 29 gold 发生-v 发生.01 ----- 29:0-rel 0:1-ARGM-MNR 5:2-ARG1 11:1-ARGM-TMP 12:1-ARGM-LOC 30:1-ARG0 43:2-ARGM-ADV
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 32 gold 造成-v 造成.01 ----- 32:0-rel 0:1-ARGM-MNR 5:2-ARG0 11:1-ARGM-TMP 12:1-ARGM-LOC 16:1,29:1-ARG0 33:5-ARG1
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 37 gold 死亡-v 死亡.01 ----- 37:0-rel 33:3-ARG1
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 41 gold 受伤-v 受伤.01 ----- 41:0-rel 39:2-ARG0
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 45 gold 有-v 有.05 ----- 45:0-rel 43:1-ARG0 44:1-ARGM-ADV 46:3-ARG1
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 52 gold 没有-v 没有.01 ----- 52:0-rel 43:1-ARG1 50:1-ARGM-TMP 51:1-ARGM-ADV 53:2-ARG0
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 54 gold 声称-v 声称.01 ----- 54:0-rel 53:1-ARG0 55:2-ARG1
+bn/cnr/00/cnr_0019@0019@cnr@bn@ch@on 0 60 gold 负责-v 负责.01 ----- 60:0-rel 55:1-ARG0 56:1-ARG1

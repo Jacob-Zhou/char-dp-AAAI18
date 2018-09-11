@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="准备-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to prepare" group="1">
+<commentary>
+</commentary>
+<examples>
+据悉 ， 新疆 为 本 次 大会 精心 准备 了 三百 个 对 外 经济 技术 合作 项目 及 内联 项目
+核实 结果 连同 准备 妥当 的 居留权 证明书 送往 各 有关 的 公安局
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to plan" group="1">
+<commentary>
+</commentary>
+<examples>
+苏联 准备 从 今年 五月 开始 撤出 驻 波兰 的 苏军 ， 一九九四年 中 以前 全部 撤完
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="noun usage as in preparation, readiness" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 和平号 ” 太空站 已经 作好 了 准备
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="253" ann_1_2_agreement="0.837944664032" />
+</inventory>

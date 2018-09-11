@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="盛-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="vigorous, strong" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 乒乓球队 因此 被 誉为 “ 长 盛 不 衰 ” 的 队伍
+眼看 着 e世代 投入 股市 的 风气 越来越 盛
+东北 季风 正 盛
+投资 环境 的 显著 改善 使 福州 吸引 外资 呈现 长 盛 不 衰 的 良好 势头
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to contain, to hold" group="1">
+<commentary>
+</commentary>
+<examples>
+盛 以 锦囊 ， 击 以 彩棒
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="flourishing, thriving" group="1">
+<commentary>
+</commentary>
+<examples>
+浸淫 于 当时 正 盛 的 西方 现代 乐派
+汉代 人才 之 盛 ， 历史 上 不 多 见
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="magnificent (e.g. ceremony, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,11 @@
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 0 2 gold 结束-v 结束.01 ----- 2:0-rel 0:2-ARG0 3:2-ARG1
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 0 4 gold 访-v 访.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 2 5 gold 结束-v 结束.01 ----- 5:0-rel 0:3-ARG0 3:1-ARGM-TMP 6:2-ARG1
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 2 10 gold 为时-v 为时.01 ----- 10:0-rel 11:1-ARG1 8:0*9:0*14:1-ARG0
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 2 15 gold 访问-n 访问.01 ----- 15:0-rel 0:3-ARG0 6:1-ARG1 9:2-ARGM-TMP 14:0-ARGM-MNR
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 2 17 gold 离开-v 离开.01 ----- 17:0-rel 0:3-ARG0 3:1-ARGM-TMP 18:1-ARG1
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 2 19 gold 回国-v 回国.01 ----- 19:0-rel 0:3-ARG0 3:1-ARGM-TMP
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 3 12 gold 驻-v 驻.01 ----- 12:0-rel 10:1-ARG0 13:1-ARG1 9:0*11:0*14:1-ARG0
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 3 35 gold 到-v 到.01 ----- 35:0-rel 0:6-ARG0 36:1-ARG1
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 3 37 gold 送行-v 送行.01 ----- 37:0-rel 0:6-ARG0
+nw/xinhua/02/chtb_0228@0228@xinhua@nw@ch@on 4 1 gold 完-v 完.01 ----- 1:0-rel

@@ -1,0 +1,14 @@
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 0 9 gold 结束-v 结束.01 ----- 9:0-rel 0:4-ARG0 11:4-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 0 12 gold 竞选-v 竞选.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 1 4 gold 筹集-v 筹集.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 1 9 gold 攻击-v 攻击.01 ----- 9:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-LOC 10:1-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 2 5 gold 举行-v 举行.01 ----- 5:0-rel 2:1-ARGM-TMP 3:1-ARGM-LOC 0:0*0:1*1:0*1:1*7:1-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 2 21 gold 分歧-v 分歧.01 ----- 21:0-rel 0:4-ARGM-LOC 10:4-ARG0 16:1-ARGM-LOC 20:1-ARG0
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 3 1 gold 包括-v 包括.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 3 10 gold 兴建-v 兴建.01 ----- 10:0-rel 7:1-ARG0 8:1-ARGM-LOC 11:2-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 4 10 gold 剩下-v 剩下.01 ----- 10:0-rel 0:2-ARG0 7:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 5 4 gold 显示-v 显示.01 ----- 4:0-rel 0:3-ARG0 6:2-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 5 8 gold 争取-v 争取.02 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 5 10 gold 接替-v 接替.01 ----- 10:0-rel 9:1-ARG0 11:4-ARG1
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 5 14 gold 退休-v 退休.01 ----- 14:0-rel 11:1*12:1*17:1-ARG0 13:1-ARGM-ADV
+bn/vom/00/vom_0031@0031@vom@bn@ch@on 5 25 gold 领先于-v 领先于.01 ----- 25:0-rel 6:1-ARGM-LOC 23:1-ARG0 26:1-ARG1

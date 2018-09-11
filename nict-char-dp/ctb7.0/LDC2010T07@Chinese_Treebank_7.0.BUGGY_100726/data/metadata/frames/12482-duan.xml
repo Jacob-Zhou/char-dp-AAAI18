@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 端 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 holds or carries"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 一路上))
+                    (NP-PN-SBJ (NR 梁)
+                    (NN 局长))
+                    (VP (VP (PP-BNF (P 给)
+                    (NP-PN (NR 葭)
+                    (NN 总)))
+                    (VP (VP (VV 倒)
+                    (NP-OBJ (NN 水)))
+                    (PU 、)
+                    (VP (VV 端)
+                    (NP-OBJ (NN 饭)))
+                    (PU 、)
+                    (VP (VV 按摩)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    一路上          
+                </arg>
+                <arg n="0">
+                    梁 局长          
+                </arg>
+                <arg n="m" f="bnf">
+                    给 葭 总          
+                </arg>
+                <arg n="1">
+                    饭          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

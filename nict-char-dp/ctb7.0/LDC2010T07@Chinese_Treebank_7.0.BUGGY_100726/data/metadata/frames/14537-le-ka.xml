@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 勒卡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 市)
+                    (NN 给排水)
+                    (NN 公司)
+                    (NN 职员))
+                    (VP (VP (ADVP (AD 强行))
+                    (VP (VV 收费)))
+                    (PU 、)
+                    (VP (VV 勒卡)
+                    (NP-OBJ (NN 业户))))) 
+                    
+                </parse>
+                <arg n="0">
+                    市 给排水 公司 职员          
+                </arg>
+                <arg n="1">
+                    业户          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

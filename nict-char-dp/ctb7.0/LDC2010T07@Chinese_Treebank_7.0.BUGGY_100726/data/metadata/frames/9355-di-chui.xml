@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 低垂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing hanging low"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (IP (NP-SBJ (NN 长日))
+                    (VP (ADVP (AD 将))
+                    (VP (VV 尽))))
+                    (PU ，)
+                    (IP (NP-SBJ (NN 夜幕))
+                    (VP (VV 低垂)))) 
+                </parse>
+                <arg n="0">
+                    夜幕 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

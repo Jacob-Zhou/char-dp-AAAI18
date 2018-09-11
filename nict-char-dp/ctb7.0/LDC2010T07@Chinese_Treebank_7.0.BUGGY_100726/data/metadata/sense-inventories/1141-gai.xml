@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="该-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="the aforesaid, the aforementioned, that, the said" group="1">
+<commentary>
+</commentary>
+<examples>
+香港 特区 行政 长官 董建华 今天 对 美国 传统 基金会 发表 的 《 一九九八年 经济自由 指数 报告 》 表示 欢迎 ， 该 报告 认为 香港 继续 是 全球 最 自由 的 经济体系
+近年 来 ， 该 省 又 建立 了 成果 转化 科技 风险 资金
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="should, ought to" group="1">
+<commentary>
+</commentary>
+<examples>
+做 加工 生产 时 出 了 问题 也 不 知道 该 问 谁
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="probably, most likely" group="1">
+<commentary>
+</commentary>
+<examples>
+那 曾 有 一 大 片 一 大 片 由 绿 转 黄 再 转 绿 的 田埂 ， 该 是 许多 老淡水 儿时 蹦蹦跳跳 的 游戏场
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to be one's turn, to be next to do something" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="28" ann_1_2_agreement="0.964285714286" />
+</inventory>

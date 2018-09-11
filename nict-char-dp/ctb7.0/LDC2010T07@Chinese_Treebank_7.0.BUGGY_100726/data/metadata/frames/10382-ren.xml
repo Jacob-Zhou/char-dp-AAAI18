@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 认 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="entity arg0 recognizes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VRD (VV 认)
+                    (VV 出来))
+                    (AS 了)
+                    (IP-OBJ (NP-SBJ (PN 我))
+                    (VP (VC 是)
+                    (NP-WH-PRD (PN 谁))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他	  
+                </arg>
+                <arg n="1">
+                    我 是 谁	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 admits"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (NP-APP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (SB 被)
+                    (VP (VCP (VV 怀疑)
+                    (VC 是))
+                    (NP-OBJ (NP (NP (DP (DT 这个))
+                    (ADJP (JJ 民间))
+                    (NP (NN 社团)))
+                    (NP (NN 成员)))
+                    (NP (NN 之一))))))
+                    (DEC 的)))
+                    (NP-PN (NR 台北市))
+                    (NP (NN 教育局长)))
+                    (NP-PN (NR 李吉金)))
+                    (VP (VV 是否)
+                    (VP (VV 认)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NN 议员))
+                    (DEG 的))
+                    (NP (NN 指控))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而		  
+                </arg>
+                <arg n="0">
+                    被 怀疑 是 这个 民间 社团 成员 之一 的 台北市 教育局长 李吉金		  
+                </arg>
+                <arg n="1">
+                    议员 的 指控		  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

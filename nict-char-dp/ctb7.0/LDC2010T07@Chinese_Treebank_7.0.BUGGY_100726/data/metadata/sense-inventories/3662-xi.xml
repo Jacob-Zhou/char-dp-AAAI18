@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="喜-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be happy, to be delighted (about), happiness" group="1">
+<commentary>
+</commentary>
+<examples>
+喜 的 是 外贸 总额 仍 保持 着 强劲 的 增长 势头 ， 并 连续 第三 年 实现 顺差
+人类 自古 以来 即 藉着 各 种 建筑 ， 以 依附 情感 ， 凝聚 记忆 ， 无论 悲 喜 ， 「 我们 都 有 凭吊 往古 的 感情
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to like, to be found of, to prefer" group="1">
+<commentary>
+</commentary>
+<examples>
+女 孩子 向 你 表示 好感 ， 不管 她 长 得 漂 不 漂亮 、 你 喜 不 喜欢 她 ， 都 应该 同等 地 对待 与 尊重
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="celebration event (e.g. wedding, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+至于 高行健 恰好 是 华裔 法籍 、 又 恰好 在 书展 揭幕 前 三 个 月 摘下 诺贝尔奖 桂冠 ， 则 纯 属 锦上添花 的 意外 之 喜 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="0.0" />
+</inventory>

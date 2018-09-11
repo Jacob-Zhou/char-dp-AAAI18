@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 谈笑自若 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 当时))
+                    (NP-PN-SBJ (NR 奥尔布赖特))
+                    (VP (VP (VV 坐)
+                    (PP (P 在)
+                    (NP (NP-PN (NR 金正日))
+                    (NP (NN 身旁)))))
+                    (PU ，)
+                    (VP (VV 谈笑自若))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    当时          
+                </arg>
+                <arg n="0">
+                    奥尔布赖特          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

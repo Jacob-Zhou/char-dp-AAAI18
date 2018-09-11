@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 惨遭 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="misfortune"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 路边)))
+                    (VP (VV 拉肚子)))))
+                    (VP (MSP 而)
+                    (VP (VP (SB 被)
+                    (VP (VRD (VV 误认)
+                    (VC 为))
+                    (VP (VC 是)
+                    (NP-PRD (NN 小偷)))))
+                    (PU ，)
+                    (VP (VV 惨遭)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 顿)))
+                    (NP (NN 毒打))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 在 路边 拉肚子          
+                </arg>
+                <arg n="1">
+                    一 顿 毒打          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

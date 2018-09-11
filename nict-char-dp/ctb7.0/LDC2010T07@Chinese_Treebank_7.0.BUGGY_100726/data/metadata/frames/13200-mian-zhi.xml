@@ -1,0 +1,111 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 免职 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-LOC (NP (NN 企业))
+                    (LC 上下))
+                    (PP-DIR (P 从)
+                    (NP (NN 干部)))
+                    (PP-DIR (P 到)
+                    (NP (NN 职工)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 层层))
+                    (VP (VV 落实)
+                    (NP-OBJ (NP (NP (NN 扭亏)
+                    (NN 亏损)
+                    (NN 增赢))
+                    (NP (NN 目标)))
+                    (NP (NN 考核)
+                    (NN 责任制)))))
+                    (PU ，)
+                    (CC 并)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (PN 它))
+                    (VP (PP-ADV (P 和)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 加强)
+                    (NP-OBJ (NP (NN 企业)
+                    (NN 领导)
+                    (NN 班子))
+                    (NP (NN 建设))))))
+                    (VP (VRD (VV 结合)
+                    (VV 起来))))))
+                    (PU ，)
+                    (VP (PP-DIR (P 对)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (IP (NP-SBJ (NN 扭亏)
+                    (NN 工作))
+                    (VP (VA 不利)))
+                    (PU 、)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 无所作为)))
+                    (PU 、)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 影响)
+                    (NP-OBJ (NN 全局)))))
+                    (DEC 的)))
+                    (NP (NN 领导))
+                    (NP (NN 班子)
+                    (CC 和)
+                    (NN 人员))))
+                    (PU ，)
+                    (ADVP (AD 坚绝))
+                    (VP (VV 实行)
+                    (NP-OBJ (NN 责任)
+                    (NN 追究))))
+                    (PU ，)
+                    (VP (NP-FOC-3 (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 限期))
+                    (VP (VPT (VV 完)
+                    (AD 不)
+                    (VV 成))
+                    (NP-OBJ (NN 扭亏)
+                    (NN 任务)))))
+                    (DEC 的))))
+                    (ADVP (AD 一律))
+                    (VP (VP (VV 撤换)
+                    (NP-OBJ (-NONE- *-3)))
+                    (CC 或)
+                    (VP (ADVP (AD 就地))
+                    (VP (VV 免职)
+                    (NP-OBJ (-NONE- *-3)))))))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    企业 上下          
+                </arg>
+                <arg n="m" f="dir">
+                    从 干部          
+                </arg>
+                <arg n="m" f="dir">
+                    到 职工          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    限期 完 不 成 扭亏 任务 的 -> *-3          
+                </arg>
+                <arg n="m" f="adv">
+                    一律          
+                </arg>
+                <arg n="m" f="adv">
+                    就地          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

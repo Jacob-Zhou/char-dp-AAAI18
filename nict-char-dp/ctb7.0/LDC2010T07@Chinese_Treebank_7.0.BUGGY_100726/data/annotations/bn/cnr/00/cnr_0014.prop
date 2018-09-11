@@ -1,0 +1,4 @@
+bn/cnr/00/cnr_0014@0014@cnr@bn@ch@on 0 6 gold 会见-v 会见.01 ----- 6:0-rel 0:3-ARG0 3:1-ARGM-TMP 4:1-ARGM-LOC 8:3-ARG1
+bn/cnr/00/cnr_0014@0014@cnr@bn@ch@on 0 10 gold 来访-v 来访.01 ----- 10:0-rel 21:1*8:0*8:1*9:0*9:1-ARG0
+bn/cnr/00/cnr_0014@0014@cnr@bn@ch@on 1 13 gold 关心-v 关心.01 ----- 13:0-rel 11:1-ARG0 12:1-ARGM-ADV 10:1*14:1*16:1-ARG1
+bn/cnr/00/cnr_0014@0014@cnr@bn@ch@on 1 17 gold 交换-v 交换.01 ----- 17:0-rel 0:1-ARG0 19:1-ARG1

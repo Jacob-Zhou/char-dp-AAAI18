@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 置询 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="question, issue"/>
+        <role argnum="2" argrole="party arg0 questions"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 只))
+                    (ADVP (AD 不过))
+                    (NP-SBJ (NP-APP (NN 主席))
+                    (NP-PN (NR 冯副祥)))
+                    (VP (NP-MNR (PN 自己))
+                    (VP (VSB (VV 上台)
+                    (VV 置询))
+                    (IP-OBJ (NP-SBJ (NP-APP (NN 总统府)
+                    (NN 秘书))
+                    (NP-PN (NR 马永臣)))
+                    (VP (VNV (VC 是)
+                    (AD 不)
+                    (VC 是))
+                    (VP (VV 负责)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-BNF (P 给)
+                    (NP-PN (NR 陈水扁)
+                    (NN 总统)))
+                    (VP (VV 洗)
+                    (NP-OBJ (NN 内裤))))))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    只          
+                </arg>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    主席 冯副祥          
+                </arg>
+                <arg n="m" f="adv">
+                    自己          
+                </arg>
+                <arg n="1">
+                    总统府 秘书 马永臣 是 不 是 负责 给 陈水扁 总统 洗 内裤          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

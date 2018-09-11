@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="协助-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to assist, to facilitate" group="1">
+<commentary>
+</commentary>
+<examples>
+他 的 旅行 证件 其後 被 用於 协助 其中 一 名 中国 人士 以 办理 前往 澳洲 的 登机 手续
+外交部 驻港 特派员 公署 致力 协助 特区 政府 处理 经 授权 的 对 外 事务
+他 说 ， 公署 还 积极 配合 中国 驻外 使领馆 ， 密切 与 特区 政府 有关 部门 联系 与 合作 ， 协助 处理 了 七 起 较 大 的 涉及 香港 居民 利益 和 生命 安全 的 突发性 事件 ，
+未来 会 尽力 协助 菲律宾 中正 学院 改善 师资 缺乏 的 问题
+
+其中 邵族 与 巴则海族 （ 平埔族 的 一 支 ） 的 部分 ， 就 是 邓相扬 协助 完成
+的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="assistance" group="1">
+<commentary>
+</commentary>
+<examples>
+雇主 或 雇员 可 就 暴雨 警号 下 工作 安排 的 事宜 ， 向 就近 劳资 关系组 分区 办事处 寻求 协助
+简单 地 说 ， 每 个 地区 发生 地震 以后 的 灾区 情况 不 一样 ， 是否 需要 协助 ， 应该 尊重 当事国 需要
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="111" ann_1_2_agreement="0.135135135135" />
+</inventory>

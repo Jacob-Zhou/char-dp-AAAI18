@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 原籍 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="city/country"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 原籍)
+                    (NP-PN-OBJ (NR 中国))))
+                    (DEC 的)))
+                    (NP (NN 法籍)
+                    (NN 华裔)
+                    (NN 作家))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 法籍 华裔 作家          
+                </arg>
+                <arg n="1">
+                    中国          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

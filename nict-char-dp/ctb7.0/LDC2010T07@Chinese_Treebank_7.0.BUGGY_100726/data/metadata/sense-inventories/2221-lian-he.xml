@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="联合-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to unite, to ally, to associate, to combine" group="1">
+<commentary>
+</commentary>
+<examples>
+温州市 教委 和 共青团 温州 市委 还 联合 灾区 学校 师生 ， 发起 “ 为 受灾 学校 献 爱心 ” 募捐 活动
+其中 由 美国 市场 有限 公司 联合 四 家 美国 公司 共 投资 二亿 美元 ， 联合 开发 北海市 涠洲岛 旅游 项目
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="joint (adj), joinly (adv)" group="1">
+<commentary>
+</commentary>
+<examples>
+联合 调查
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="the state of being united (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+大 联合
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="4" ann_1_2_agreement="0.75" />
+</inventory>

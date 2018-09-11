@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="发-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to leave, to set out" group="1">
+<commentary>
+</commentary>
+<examples>
+到处 千 帆 竞 发 ， 一片生机
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to launch, to discharge, to shoot" group="1">
+<commentary>
+</commentary>
+<examples>
+枪炮声 伴 着 泪光 齐 发
+发 球 前 先 喝 一 小 瓶盖 酒
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to issue, to publish" group="1">
+<commentary>
+</commentary>
+<examples>
+开始 替 中广 歌手 做 录音 、 发 唱片
+国片 录影带 出 得 太 快 ， 甚至 戏院 还 没 下档 ， 录影带 就 同时 发
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to send out, to give away, to issue" group="1">
+<commentary>
+</commentary>
+<examples>
+发 了 十 年 、 吵 了 十 年 的 辅导金
+只 发 钱 而 不 追踪 辅助 效果
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to build up, to amass (wealth)" group="1">
+<commentary>
+</commentary>
+<examples>
+连 一 生 没 发 过 财 的 盖世 英雄 关帝爷 ， 都 成 了 「 武 财神 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to happen, to start, to launch (activity, event)" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 事 发 地点 紧邻 垦丁 国家 公园 龙坑 保护区
+在 公路 病害 多 发 区段 建造 、 加固 护坡
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to spread, to disperse" group="1">
+<commentary>
+</commentary>
+<examples>
+发 着 一 股 腥膻 味道 的 骆驼
+两 个 发 着 红 光 的 祭祀 坑 内
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="to sprout" group="1">
+<commentary>
+</commentary>
+<examples>
+等 着 芽 发 了 再 去 采
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to show, to reveal (feelings, opinions)" group="1">
+<commentary>
+</commentary>
+<examples>
+五四 以来 学界 对 文化 的 论争 ，往往 都 是 迫于 政治 而 发
+五四 对 台湾人 就 像 二八六 电脑 ， 可以 在 发 思古之幽情 时 看 一 看
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="to generate, to produce, to develop" group="1">
+<commentary>
+</commentary>
+<examples>
+他 是 顶替 因 发 高烧 缺阵 的 队友 阿・本岑 而 上场 的 替补 队员
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="hair" group="1">
+<commentary>
+</commentary>
+<examples>
+再 看看 自己 ， 白 发 飞上 双 鬓
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="12" type="" name="classifier" group="1">
+<commentary>
+</commentary>
+<examples>
+一 发 子弹
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="13" type="" name="make (a promise)" group="1">
+<commentary>
+</commentary>
+<examples>
+发 了 重誓
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="14" type="" name="pronounce" group="1">
+<commentary>
+</commentary>
+<examples>
+发 这 个 音
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="15" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="ahouston" sample_score="-"/>
+
+<ita count="31" ann_1_2_agreement="0.935483870968" />
+</inventory>

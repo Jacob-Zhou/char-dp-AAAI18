@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="赖-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+由 这 一 片 残存 的 蛮荒 桧木 原始林 往 北 延伸 ， 到 桃园 拉拉山 与 宜兰 栖兰 ， 桧木 连结 成 绿色 长城 ， 是 北 台湾 百万 人 赖 以 维生 的 石门 水库 、 淡水河 、 兰阳溪 的 安全 阀
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="算-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be considered as" group="1">
+<commentary>
+</commentary>
+<examples>
+可 算 实现 了 一 桩 多 年 的 “ 非分之想 ”
+虽然 说 八点 档 连续剧 是 商品 ， 而 非 艺术品 ， 但 赋予 正向 的 价值观 才 算 对 观众 负责
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to calculate, to count, to compute" group="1">
+<commentary>
+</commentary>
+<examples>
+我 要 和 你们 一 个个 算 清楚 帐 ， 一 个个 轮流 算 … …
+时间 得 算 得 准 ， 温度 得 量 得 确
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to include, to count" group="1">
+<commentary>
+</commentary>
+<examples>
+有 经验 强过 没 经验 ， 失败 的 经验 也 算
+自认 在 商业 上 没 把握 的 影片 ， 「 不 算 纯粹 的 商业片 。 」
+为什么 只有 闽南语 是 台语 ， 客家话 不 算 ？
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="22" ann_1_2_agreement="0.954545454545" />
+</inventory>

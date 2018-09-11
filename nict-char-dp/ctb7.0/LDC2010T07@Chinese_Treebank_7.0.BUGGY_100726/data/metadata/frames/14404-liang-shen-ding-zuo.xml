@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 量身定做 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing made"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (QP-TMP (OD 第二)
+                    (CLP (M 年)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 赴)
+                    (NP-OBJ (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 开发)))
+                    (LC 中))
+                    (NP (NN 国家))))
+                    (VP (PP-MNR (P 依)
+                    (NP (NP (DP (DT 各))
+                    (NP (NN 国)))
+                    (NP (NN 需求))))
+                    (VP (VP (VV 量身定做))
+                    (VP (VV 提供)
+                    (NP-OBJ (NN 训练))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    第二 年          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    依 各国 需求          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

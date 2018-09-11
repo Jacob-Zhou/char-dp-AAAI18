@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 钻洞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location drilled"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (PP-DIR (P 对)
+                    (NP (NN 潜水艇)))
+                    (VP (VV 做)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 番)))
+                    (NP (NN 检查)))))
+                    (PU ，)
+                    (VP (ADVP (AD 然后))
+                    (VP (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 船壳))
+                    (LC 上)))
+                    (VP (VV 钻洞))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    然后          
+                </arg>
+                <arg n="1">
+                    在 船壳 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

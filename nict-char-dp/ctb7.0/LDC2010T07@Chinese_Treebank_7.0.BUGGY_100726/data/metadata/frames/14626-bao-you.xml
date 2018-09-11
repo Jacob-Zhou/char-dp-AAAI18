@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 包有 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="container"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 包有)
+                    (NP-OBJ (NN 橡皮))))
+                    (DEC 的)))
+                    (NP (NN 金属)
+                    (NN 子弹))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 金属 子弹          
+                </arg>
+                <arg n="1">
+                    橡皮          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

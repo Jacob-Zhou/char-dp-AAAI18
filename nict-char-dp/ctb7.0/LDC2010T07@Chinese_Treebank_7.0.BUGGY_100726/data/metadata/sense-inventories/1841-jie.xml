@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="界-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="boundary, border, to border" group="1">
+<commentary>
+</commentary>
+<examples>
+可可西里 位 于 青藏 高原 腹地 ， 北 界 昆仑山 ， 南 临 唐古拉山 ， 海拔 五千 米 ， 面积 八点三万 平方公里 ， 属于 高 寒 地区
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="group, circle (of a society)" group="1">
+<commentary>
+</commentary>
+<examples>
+此 次 的 政治 侦防 风波 ， 再度 引起 各 界 对 调查局 职掌 范围 与 组织 定位 问题 的 讨论
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

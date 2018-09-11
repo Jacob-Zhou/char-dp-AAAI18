@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="受到-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to experience" group="1">
+<commentary>
+</commentary>
+<examples>
+９ 、 中国 男子 乒乓球 受到 严峻 挑战 。
+他们 在 以往 几 年 的 白皮书 中 对 中国 经济 发展 轨迹 的 准确 描述 与 预言 ， 受到 学术界 与 实业界 好评 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="252" ann_1_2_agreement="0.996031746032" />
+</inventory>

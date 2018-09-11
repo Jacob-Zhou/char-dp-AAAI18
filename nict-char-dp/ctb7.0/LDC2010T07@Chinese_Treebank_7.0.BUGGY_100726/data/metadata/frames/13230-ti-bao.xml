@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 提报 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity nominated"/>
+        <role argnum="2" argrole="nominated for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (PN 他))
+                    (DEG 的))
+                    (NP (NN 做法)))
+                    (VP (VP (ADVP (AD 已经))
+                    (ADVP (AD 严重))
+                    (VP (VV 危害)
+                    (NP-OBJ (NN 社会)
+                    (NN 治安))))
+                    (PU ，)
+                    (VP (VV 必须)
+                    (VP (VP (VV 交给)
+                    (NP-OBJ (NN 刑事局)
+                    (NN 侦八队))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 暗中))
+                    (VP (VV 收证)))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (VP (VCP (VV 提报)
+                    (VC 为))
+                    (NP-OBJ (NN 治平)
+                    (NN 对象)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他 的 做法          
+                </arg>
+                <arg n="m" f="dis">
+                    并且          
+                </arg>
+                <arg n="1">
+                    治平 对象          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

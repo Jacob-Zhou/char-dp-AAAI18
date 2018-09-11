@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="收-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="receive, accept" group="1">
+<commentary>
+</commentary>
+<examples>
+无论 如何 要 收 他 的 孩子
+拥有 营利 事业 登记证 者 才 能 进 卖场 、 只 收 现金 等
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to collect" group="1">
+<commentary>
+</commentary>
+<examples>
+将 可 盈利 百万 元 以上 的 一 整 套 “ 王码 软件 精品 ” ， 免 收 技术 费用 ，全部 以 不 加密 的 软盘 方式 对 国内 “ 开放 ” ， 从而 使 国内 任何 微机 用户都 可以 拷贝 使用
+乡民 看到 老师 、 医生 都 来 收 垃圾 ， 都 有 指标 作用
+所有 的 收益 我 都 没有 收 回去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to harvest" group="1">
+<commentary>
+</commentary>
+<examples>
+靠着 果农 独到 的 栽植 技术 ， 控制 莲雾 花 的 总数 ， 收 得 果实 累累
+亩 收 百 石
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to restrain, to control (e.g. emotions, actions)" group="1">
+<commentary>
+</commentary>
+<examples>
+电视 新闻 一 收 一 放
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to put away" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="5" ann_1_2_agreement="1.0" />
+</inventory>

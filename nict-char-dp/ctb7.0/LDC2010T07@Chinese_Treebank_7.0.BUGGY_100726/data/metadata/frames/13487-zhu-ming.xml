@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 注明 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing marked"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-LOC (NP (NN 食品)
+                    (NN 标签))
+                    (LC 上))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 一定))
+                    (VP (VV 要)
+                    (VP (VV 注明)
+                    (IP-OBJ (NP-SBJ (PN 这))
+                    (VP (VC 是)
+                    (NP-PRD (DNP (NP (NN 基因)
+                    (NN 工程))
+                    (DEG 的))
+                    (NP (NN 产物)))) 
+                    
+                </parse>
+                <arg n="2">
+                    食品 标签 上          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    一定          
+                </arg>
+                <arg n="1">
+                    这 是 基因 工程 的 产物          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

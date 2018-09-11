@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="说-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to utter, to speak" group="1">
+<commentary>VV</commentary>
+<examples>
+请说得慢一点儿。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to explain, to elucidate" group="1">
+<commentary>VV</commentary>
+<examples>
+我一说,他就明白了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to scold, to criticize" group="1">
+<commentary>VV</commentary>
+<examples>
+他父亲说了他一顿。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to refer to" group="1">
+<commentary>VV</commentary>
+<examples>
+你这话是说谁呢?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to express in a certain way, e.g., ke-yi-shuo, bu-ru-shuo" group="1">
+<commentary>VV</commentary>
+<examples>
+中国队这次可以说表现特优。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="From the perspective of (fixed expression)" group="1">
+<commentary>VV</commentary>
+<examples>
+对 他 来 说 , 去 不 去 上课 是 一样 的 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to express" group="1">
+<commentary>VV</commentary>
+<examples>
+他是昨天说这句话的。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="to report (by media)" group="1">
+<commentary>VV</commentary>
+<examples>
+报纸上说,今年失业人口达新高。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="to speak a language" group="1">
+<commentary>VV</commentary>
+<examples>
+我会说一点法文。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="10" type="" name="to bring together, to introduce" group="1">
+<commentary>VV</commentary>
+<examples>
+张媒婆去年给隔壁的小伙子说个媳妇儿。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="11" type="" name="to indicate" group="1">
+<commentary>VV</commentary>
+<examples>
+在 澳门 ， 虽 说 「 亲中 」 势力 强大 ， 但 过去 澳 葡 政府 或许 也 因为 基于 民生 的 理由 ， 在 发展 台 澳 关系 上 ， 并 不 怎么 理会 中共 的 压力 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="12" type="" name="to mention" group="1">
+<commentary>VV</commentary>
+<examples>
+原料 取得 困难 不 说 ， 机器 设备 的 Know-how 也 绝 不 轻易 外泄
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="13" type="" name="to decide" group="1">
+<commentary>VV</commentary>
+<examples>
+这 事 很难 说 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="14" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

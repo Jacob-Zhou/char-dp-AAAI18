@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 好于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 is better than"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (NP-PRD (QP (OD ２))
+                    (NP (NN 级))))
+                    (CC 和)
+                    (VP (VV 好于)
+                    (NP-OBJ (QP (OD ２))
+                    (NP (NN 级))))))
+                    (DEC 的)))
+                    (NP (NN 天数))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 天数          
+                </arg>
+                <arg n="1">
+                    ２ 级          
+                </arg>
+                <V/>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

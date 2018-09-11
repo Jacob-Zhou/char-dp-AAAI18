@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 何乐不为 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 中共))
+                    (VP (VV 何乐不为))) 
+                    
+                </parse>
+                <arg n="0">
+                    中共           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

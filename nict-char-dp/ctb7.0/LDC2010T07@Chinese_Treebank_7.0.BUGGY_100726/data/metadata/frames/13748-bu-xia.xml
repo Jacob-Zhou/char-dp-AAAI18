@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 布下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="arranger"/>
+        <role argnum="1" argrole="entity arranged"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-DIR (P 对)
+                    (NP (DP (DT 所有))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 涉及)
+                    (NP-OBJ (NN 出口)
+                    (NN 退税))))
+                    (DEC 的)))
+                    (NP (NN 企业)
+                    (PU 、)
+                    (NN 税务))
+                    (ETC 等)))
+                    (NP-SBJ (ADJP (JJ 有关))
+                    (NP (NN 单位)))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 要)
+                    (VP (VP (ADVP (AD 认真))
+                    (VP (VV 进行)
+                    (NP-OBJ (NN 检查))))
+                    (PU ，)
+                    (VP (VV 布下)
+                    (NP-OBJ (NN 天罗地网))) 
+                    
+                </parse>
+                <arg n="m" f="bnf">
+                    对 所有 涉及 出口 退税 的 企业 、 税务 等          
+                </arg>
+                <arg n="0">
+                    有关 单位          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="1">
+                    天罗地网          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

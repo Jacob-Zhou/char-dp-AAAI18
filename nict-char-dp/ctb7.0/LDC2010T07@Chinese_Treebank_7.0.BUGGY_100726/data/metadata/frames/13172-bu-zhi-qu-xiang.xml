@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不知去向 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT １６号))
+                    (NP-SBJ (DNP (QP (CD １６)
+                    (CLP (M 岁)))
+                    (DEG 的))
+                    (NP-APP (NP-PN (NR 以色列))
+                    (NP (NN 少年)))
+                    (NP-PN (NR 拉夫姆)))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 离开)
+                    (NP-OBJ (NN 家))))
+                    (LC 之后))
+                    (ADVP (AD 就))
+                    (VP (VV 不知去向)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    １６号          
+                </arg>
+                <arg n="0">
+                    １６ 岁 的 以色列 少年 拉夫姆          
+                </arg>
+                <arg n="m" f="tmp">
+                    离开 家 之后          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

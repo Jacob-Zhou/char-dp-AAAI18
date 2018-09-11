@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 停而不前 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 包括)
+                    (NP-OBJ (NP (NP-PN (NR 核四)))
+                    (CC 及)
+                    (NP (NP-PN (NR 美能)
+                    (NN 水库))
+                    (NP (NN 基础)
+                    (NN 建设)))
+                    (ETC 等)))))
+                    (NP (NN 问题)))
+                    (VP (VV 停而不前))) 
+                    
+                </parse>
+                <arg n="0">
+                    包括 核四 及 美能 水库 基础 建设 等 问题          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

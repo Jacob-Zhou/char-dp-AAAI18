@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 面奏 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person arg0 reports directly to"/>
+        <role argnum="2" argrole="thing arg0 reports"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP-APP (NN 槐里令))
+                    (NP-PN (NR 朱云)))
+                    (VP (VP (VV 面奏)
+                    (NP-PN-OBJ (NR 汉成帝)))
+                    (PU ，)
+                    (VP (VV 请)
+                    (NP-OBJ (-NONE- *pro*))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 赐)
+                    (NP-OBJ (PU 「)
+                    (NP (NN 尚方))
+                    (IP-APP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 斩)
+                    (NP-OBJ (NN 马))))
+                    (NP (NN 剑))
+                    (PU 」)))
+                    (VP (VV 杀)
+                    (NP-OBJ (NP-APP (NN 佞臣))
+                    (NP-APP (NN 安昌侯))
+                    (NP-PN (NR 张禹))))))))) 
+                </parse>
+                <arg n="0">
+                    槐里令 朱云 
+                </arg>
+                <arg n="1">
+                    汉成帝 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 留连 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location arg0 lingers"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 留连)
+                    (PP (P 在)
+                    (NP (DNP (NP (NN 特区))
+                    (DEG 的))
+                    (NP (NN 大街小巷))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    在 特区 的 大街小巷          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

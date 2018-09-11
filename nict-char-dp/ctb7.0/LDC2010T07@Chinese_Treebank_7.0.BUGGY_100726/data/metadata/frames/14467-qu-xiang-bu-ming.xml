@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 去向不明 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 米洛舍维奇))
+                    (VP (NP-TMP (NT 目前))
+                    (VP (VV 去向不明))) 
+                    
+                </parse>
+                <arg n="0">
+                    米洛舍维奇           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拍手称快 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 is happy about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-DIR (P 对)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT 当前))
+                    (ADVP (AD 正在))
+                    (VP (VV 进行))))
+                    (DEC 的)))
+                    (ADJP (JJ 全国性))
+                    (NP (NN 打假)
+                    (NN 斗争))))
+                    (PU ，)
+                    (NP-SBJ (NP (DP (DT 全))
+                    (NP (NN 国)))
+                    (NP (NN 人民)))
+                    (VP (VP (ADVP (AD 衷心))
+                    (VP (VV 拥护)))
+                    (PU ，)
+                    (VP (VV 拍手称快))) 
+                    
+                </parse>
+                <arg n="1">
+                    对 当前 正在 进行 的 全国性 打假 斗争          
+                </arg>
+                <arg n="0">
+                    全 国 人民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

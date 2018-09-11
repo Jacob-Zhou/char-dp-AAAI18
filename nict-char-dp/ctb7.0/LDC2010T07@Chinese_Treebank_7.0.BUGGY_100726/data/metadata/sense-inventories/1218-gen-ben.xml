@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="根本-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="fundamental, basic, fundamentality, foundation, root" group="1">
+<commentary>
+</commentary>
+<examples>
+最 根本 的
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="entirely, totally" group="1">
+<commentary>
+</commentary>
+<examples>
+台语 曾经 一度 被 视为 「 不雅 」 ， 根本 就 与 八点 档 绝缘
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="29" ann_1_2_agreement="0.931034482759" />
+</inventory>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 筹钱 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="fundraiser"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 到处))
+                    (VP (VV 筹钱))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    到处	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

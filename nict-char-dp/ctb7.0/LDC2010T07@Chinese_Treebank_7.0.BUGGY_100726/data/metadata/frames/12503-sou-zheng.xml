@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搜证 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 工作)
+                    (NN 人员))
+                    (VP (VP (PP-LOC (P 在)
+                    (LCP (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 狭小)))
+                    (DEC 的)))
+                    (NP (NN 槟榔摊)))
+                    (LC 内)))
+                    (VP (VV 搜证))) 
+                    
+                </parse>
+                <arg n="0">
+                    工作 人员          
+                </arg>
+                <arg n="m" f="loc">
+                    在 狭小 的 槟榔摊 内          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

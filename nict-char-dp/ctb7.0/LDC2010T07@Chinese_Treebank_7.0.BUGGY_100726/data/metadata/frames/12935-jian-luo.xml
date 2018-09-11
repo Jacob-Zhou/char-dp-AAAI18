@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 溅落 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 据)
+                    (NP (NN 了解)))
+                    (LCP-TMP (NP (NT １２月)
+                    (NT ２５号)
+                    (NT 晚上)
+                    (NT ９点))
+                    (LC 左右))
+                    (PU ，)
+                    (LCP-TMP (IP (NP-SBJ (NP-PN-APP (NR 王呈泰)
+                    (ETC 等))
+                    (QP (CD ４)
+                    (CLP (M 名)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 无证))
+                    (VP (VV 上岗))))
+                    (DEC 的)))
+                    (NP (NN 电焊工)))
+                    (VP (PP-LOC (P 在)
+                    (QP (NP-PN (NR 东都)
+                    (NN 商厦))
+                    (NP (NN 地下))
+                    (QP (OD 一)
+                    (CLP (M 层)))))
+                    (VP (VV 焊接)
+                    (NP-OBJ (NP (NP (DP (DT 该))
+                    (NP (NN 层)))
+                    (CC 与)
+                    (QP (NP (NN 地下))
+                    (QP (OD 二)
+                    (CLP (M 层)))))
+                    (NP (NN 分割)
+                    (NN 铁板))))))
+                    (LC 时))
+                    (PU ，)
+                    (NP-SBJ (NN 电焊)
+                    (NN 火渣))
+                    (VP (VP (VRD (VV 溅落)
+                    (VV 到))
+                    (LCP-OBJ (NP (DNP (QP (NP (NN 地下))
+                    (QP (OD 二)
+                    (CLP (M 层))))
+                    (DEG 的))
+                    (NP (NN 可燃物)))
+                    (LC 上)))
+                    (VP (VV 引发)
+                    (NP-OBJ (NN 火灾)))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    据 了解          
+                </arg>
+                <arg n="m" f="tmp">
+                    １２月 ２５号 晚上 ９点 左右          
+                </arg>
+                <arg n="m" f="tmp">
+                    王呈泰 等 ４ 名 无证 上岗 的 电焊工 在 东都 商厦 地下 一 层 焊接 该 层 与 地下 二 层 分割 铁板 时          
+                </arg>
+                <arg n="0">
+                    电焊 火渣          
+                </arg>
+                <arg n="1">
+                    地下 二 层 的 可燃物 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 并行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (PP-TMP (P 在)
+                    (LCP (IP (NP (NN 电子)
+                    (NN 货币))
+                    (VP (VV 上路)))
+                    (LC 之后)))
+                    (NP-SBJ (NP (NN 信用卡)
+                    (PU 、)
+                    (NN 签账卡))
+                    (CC 或是)
+                    (NP (DP (DT 其它))
+                    (NP (NN 支汇卡))))
+                    (VP (ADVP (AD 仍然))
+                    (VP (VV 可以)
+                    (VP (VV 继续)
+                    (VP (VV 并行))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 电子 货币 上路 之后          
+                </arg>
+                <arg n="0">
+                    信用卡 、 签账卡 或是 其它 支汇卡          
+                </arg>
+                <arg n="m" f="adv">
+                    仍然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

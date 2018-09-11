@@ -1,0 +1,71 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 气 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 有的))
+                    (NP (NN 小朋友)))
+                    (VP (VP (VPT (VV 抢)
+                    (AD 不)
+                    (VV 到)))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 气)
+                    (DER 得)
+                    (IP-EXT (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 边))
+                    (VP (VV 发)
+                    (NP-OBJ (NN 脾气))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    有的 小朋友          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <arg n="m" f="ext">
+                    边 发 脾气          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 神智不清)))
+                    (DEC 的)))
+                    (NP (NN 先生)))
+                    (VP (VP (VPT (VV 气)
+                    (AD 不)
+                    (VV 过)))
+                    (VP (VV 打)
+                    (NP-OBJ (NN 电话)))
+                    (VP (VV 慌报)
+                    (AS 了)
+                    (NP-OBJ (NN 案情))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    神智不清 的 先生          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

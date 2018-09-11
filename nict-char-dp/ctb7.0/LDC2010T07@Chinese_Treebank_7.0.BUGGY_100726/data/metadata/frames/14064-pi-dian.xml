@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 批点 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="criticizer"/>
+        <role argnum="1" argrole="thing criticized"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-ADV (ADVP (CS 虽然))
+                    (IP (NP-SBJ (NP-PN (NR 民进党))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 批评)
+                    (NP-PN-OBJ (NR 秦惠珠))
+                    (CP (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 发疯)))
+                    (SP 了))))))
+                    (PU ，)
+                    (ADVP (AD 不过))
+                    (NP-PN-SBJ (NR 秦惠珠))
+                    (VP (VP (ADVP (AD 还))
+                    (VP (VC 是)
+                    (VP (ADVP (AD 不))
+                    (VP (VV 肯)
+                    (VP (VV 罢休))))))
+                    (PU ，)
+                    (VP (VV 继续)
+                    (VP (VV 批点)))
+                    (VP (ADVP (AD 又))
+                    (VP (VV 说)
+                    (IP-OBJ (NP-TPC (NN 拉法夜案))
+                    (NP-PN-SBJ (NR 李登辉))
+                    (VP (VV 知情))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    虽然 民进党 人 都 批评秦惠珠 发疯 了          
+                </arg>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="0">
+                    秦惠珠          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

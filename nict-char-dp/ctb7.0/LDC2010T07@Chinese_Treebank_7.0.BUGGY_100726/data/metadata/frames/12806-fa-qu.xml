@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 发去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 sends"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-APP (NN 国务院)
+                    (NN 总理))
+                    (NP-PN (NR 朱容基)))
+                    (CC 和)
+                    (NP (NP-APP (NP-PN (NR 日本))
+                    (NP (NN 首相)))
+                    (NP-PN (NR 森喜朗))))
+                    (VP (ADVP (AD 分别))
+                    (VP (VV 发去)
+                    (NP-OBJ (NN 贺辞)
+                    (CC 和)
+                    (NN 贺电)))) 
+                    
+                </parse>
+                <arg n="0">
+                    国务院 总理 朱容基 和 日本 首相 森喜朗          
+                </arg>
+                <arg n="m" f="adv">
+                    分别          
+                </arg>
+                <arg n="1">
+                    贺辞 和 贺电          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,38 @@
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 6 gold 回答-v 回答.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-TMP 7:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 10 gold 表示-v 表示.01 ----- 10:0-rel 0:2-ARG0 4:3-ARGM-TMP 12:5-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 16 gold 邀请-v 邀请.01 ----- 16:0-rel 12:3-ARG0 15:1-ARGM-TMP 17:3-ARG1 20:2-ARG2
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 24 gold 前往-v 前往.01 ----- 24:0-rel 20:1-ARG0 21:1-ARGM-TMP 25:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 26 gold 访问-v 访问.01 ----- 26:0-rel 20:1-ARG0 21:1-ARGM-TMP
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 29 gold 原定-v 原定.01 ----- 29:0-rel 28:1-ARG0 30:2-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 35 gold 前往-v 前往.01 ----- 35:0-rel 30:1-ARG0 31:1-ARGM-TMP 36:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 39 gold 讨论-v 讨论.01 ----- 39:0-rel 30:1-ARG0 31:1-ARGM-TMP 37:1-ARG0 40:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 50 gold 决定-v 决定.01 ----- 50:0-rel 44:1-ARGM-DIS 45:2-ARG1 49:1-ARGM-ADV 51:2-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 53 gold 到-v 到.01 ----- 53:0-rel
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 0 55 gold 举行-v 举行.01 ----- 55:0-rel 51:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 4 gold 指出-v 指出.01 ----- 4:0-rel 0:2-ARG0 6:3-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 7 gold 邀请-v 邀请.01 ----- 7:0-rel 6:1-ARG0 8:1-ARG1 9:2-ARG2
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 12 gold 前往-v 前往.01 ----- 12:0-rel 9:1-ARG0 10:1-ARGM-TMP 13:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 14 gold 访问-v 访问.01 ----- 14:0-rel 9:1-ARG0 10:1-ARGM-TMP
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 16 gold 解决-v 解决.01 ----- 16:0-rel 9:1-ARG0 10:1-ARGM-TMP 17:3-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 22 gold 签定-v 签定.01 ----- 22:0-rel 9:1-ARG0 10:1-ARGM-TMP 23:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 1 28 gold 是-v 是.01 ----- 28:0-rel 25:1-ARG0 26:1-ARGM-DIS 27:1-ARGM-ADV 29:3-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 6 gold 是-v 是.01 ----- 6:0-rel
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 7 gold 表示-v 表示.01 ----- 7:0-rel 0:3-ARG0 5:1-ARGM-ADV 9:3-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 12 gold 前往-v 前往.01 ----- 12:0-rel 11:1-ARG0 13:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 16 gold 签定-v 签定.01 ----- 16:0-rel 11:1-ARG0 14:1-ARG0 17:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 20 gold 取消-v 取消.01 ----- 20:0-rel 11:4-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 25 gold 正确-v 正确.01 ----- 25:0-rel 9:1-ARGM-TMP 10:3-ARG0 23:1-ARGM-ADV 24:1-ARGM-ADV
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 2 31 gold 确定-v 确定.01 ----- 31:0-rel 27:1-ARGM-DIS 28:1-ARG1 30:1-ARGM-ADV
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 3 10 gold 原定-v 原定.01 ----- 10:0-rel 12:1*8:0*9:0-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 3 16 gold 成行-v 成行.01 ----- 16:0-rel 1:2-ARG1 6:1-ARGM-ADV 7:1-ARGM-MNR 13:1-ARGM-TMP
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 3 23 gold 预定-v 预定.01 ----- 23:0-rel 0:2-ARGM-ADV 18:1-ARGM-DIS 19:1-ARG0 22:1-ARGM-ADV 24:2-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 3 31 gold 举行-v 举行.01 ----- 31:0-rel 30:1-ARG0 29:0*29:1*32:0*32:1*35:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 3 39 gold 举行-v 举行.01 ----- 39:0-rel 24:1-ARG0 25:1-ARGM-TMP 28:1-ARGM-TMP 40:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 4 gold 讨论-v 讨论.01 ----- 4:0-rel 0:1-ARG0 3:1-ARGM-ADV 5:4-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 8 gold 占领-v 占领.01 ----- 8:0-rel 6:1-ARG0 7:1-ARGM-ADV 10:1-ARGM-EXT 18:1*5:0*5:1*9:0*9:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 28 gold 称为-v 称为.01 ----- 28:0-rel 27:1-ARG1 29:1-ARG2 25:1*26:1*32:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 33 gold 座落-v 座落.01 ----- 33:0-rel 22:2-ARG0 34:1-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 43 gold 结束-v 结束.01 ----- 43:0-rel 39:2-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 50 gold 占领-v 占领.01 ----- 50:0-rel 22:2*51:1-ARG1 38:1-ARGM-TMP 45:1-ARGM-ADV 47:2-ARG0
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 55 gold 宣称-v 宣称.01 ----- 55:0-rel 53:1-ARGM-DIS 54:1-ARG0 56:2-ARG1
+bn/cbs/00/cbs_0046@0046@cbs@bn@ch@on 4 57 gold 拥有-v 拥有.01 ----- 57:0-rel 56:1-ARG0 58:4-ARG1

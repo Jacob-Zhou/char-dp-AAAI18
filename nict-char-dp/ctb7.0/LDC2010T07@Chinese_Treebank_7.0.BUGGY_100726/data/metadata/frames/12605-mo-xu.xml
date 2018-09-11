@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 默许 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party that arg0 permits to do something"/>
+        <role argnum="2" argrole="predicate arg0 permits arg1 to do"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 巴勒斯坦))
+                    (ADJP (JJ 自治))
+                    (NP (NN 政府)))
+                    (VP (VV 默许)
+                    (NP-OBJ (DP (DT 这些))
+                    (NP (NN 恐怖)
+                    (NN 分子)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 采取)
+                    (NP-OBJ (NN 行动)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    巴勒斯坦 自治 政府          
+                </arg>
+                <arg n="1">
+                    这些 恐怖 分子          
+                </arg>
+                <arg n="2">
+                    采取 行动          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

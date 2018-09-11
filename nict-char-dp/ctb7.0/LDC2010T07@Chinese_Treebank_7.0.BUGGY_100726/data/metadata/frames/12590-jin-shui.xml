@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 进水 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 船舱))
+                    (VP (VV 进水)))) 
+                    
+                </parse>
+                <arg n="0">
+                    船舱          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

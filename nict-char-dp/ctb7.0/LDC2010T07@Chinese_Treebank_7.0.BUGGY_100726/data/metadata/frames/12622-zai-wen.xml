@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 载文 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="media"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (ADJP (JJ 最新))
+                    (QP (CD 一)
+                    (CLP (M 期))))
+                    (NP-PN (PU 《)
+                    (NR 了望)
+                    (PU 》)
+                    (NN 周刊)))
+                    (VP (VP (VV 载文)) 
+                    
+                </parse>
+                <arg n="0">
+                    最新 一 期 《 了望 》 周刊          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

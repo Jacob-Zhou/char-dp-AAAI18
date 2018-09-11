@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 骑马 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="rider"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 过去))
+                    (PU ，)
+                    (CP-ADV (ADVP (CS 无论))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VC 是)
+                    (VP (PP-DIR (P 从)
+                    (NP-PN (NR 昌都)))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 内地)))
+                    (PU ，)
+                    (CC 还是)
+                    (VP (VV 到)
+                    (NP-PN-OBJ (NR 拉萨))))))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP-FOC (VV 骑马))
+                    (VP (VV 要)
+                    (VP (VRD (VV 走)
+                    (VV 上))
+                    (NP-EXT (QP (QP (CD 一)
+                    (CLP (-NONE- *RNR*-1)))
+                    (PU 、)
+                    (QP (CD 两)
+                    (CLP-1 (M 个))))
+                    (NP (NN 月))))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    过去           
+                </arg>
+                <arg n="m" f="adv">
+                    无论 是 从 昌都 到 内地 ， 还是 到 拉萨          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

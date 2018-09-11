@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 试航 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing being tested for navigation"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP-PN (NR 额尔古纳河))
+                    (NP (NN 航运)))
+                    (VP (VRD (VV 试航)
+                    (VA 成功)))) 
+                </parse>
+                <arg n="0">
+                    额尔古纳河 航运 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

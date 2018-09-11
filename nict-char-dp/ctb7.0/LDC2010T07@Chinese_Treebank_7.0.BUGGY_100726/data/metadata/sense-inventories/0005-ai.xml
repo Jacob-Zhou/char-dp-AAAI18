@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="爱-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to love, to have deep feelings for" group="1">
+<commentary>
+</commentary>
+<examples>
+爱 国 爱 港 的 精神
+七○年代 ， 黄春明 在 高涨 的 民族主义 气氛 里 ， 改而 去 写 明白 仇 日 的 《 莎哟哪拉 ． 再见 》 、 明白 反 美 的 《 我 爱 玛丽 》
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be fond of, keen on" group="1">
+<commentary>
+</commentary>
+<examples>
+意大利人 更 爱 为 足球 而 激动
+爱 看 连续剧 的 阮金蓉 批评
+孩子 并 没有 比 过去 爱 漂亮
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="love, affection" group="1">
+<commentary>
+</commentary>
+<examples>
+电视 八点 档 流行风 ―― 爱 恨 交织 乡土剧
+一直 到 一九九○年 《 爱 》 在 华视 上演 ， 才 打破 了 八点 档 语言 的 禁忌
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to cherish, to treasure" group="1">
+<commentary>
+</commentary>
+<examples>
+阿嬷 又 爱 又 怜 地 说
+爱 财 不 分 古今
+爱 书 痴 人
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="need to, must, should" group="1">
+<commentary>
+</commentary>
+<examples>
+「 爱 拚 才 会 赢 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="26" ann_1_2_agreement="0.769230769231" />
+</inventory>

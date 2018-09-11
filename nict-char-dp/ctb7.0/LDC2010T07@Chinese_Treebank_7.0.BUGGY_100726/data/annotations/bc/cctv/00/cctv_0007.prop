@@ -1,0 +1,906 @@
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 0 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 0 5 gold 欢迎-v 欢迎.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1 7:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 0 8 gold 收看-v 收看.01 ----- 8:0-rel 7:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 1 6 gold 举行-v 举行.01 ----- 6:0-rel 1:1*2:1-ARG1 3:1-ARGM-TMP 4:1-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 1 21 gold 宣布-v 宣布.01 ----- 21:0-rel 1:4-ARGM-LOC 17:3-ARG0 23:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 1 25 gold 支持-v 支持.01 ----- 25:0-rel 24:1-ARG0 26:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 1 34 gold 决定-v 决定.01 ----- 34:0-rel 23:1-ARGM-PRP 32:2-ARG0 35:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 1 36 gold 提供-v 提供.01 ----- 36:0-rel 35:1-ARG0 37:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 1 43 gold 到位-v 到位.01 ----- 43:0-rel 40:1-ARGM-DIS 41:1-ARG1 42:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 2 7 gold 蔓延-v 蔓延.01 ----- 7:0-rel 6:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 2 10 gold 如何-v 如何.01 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:4-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 3 6 gold 采取-v 采取.01 ----- 6:0-rel 1:1-ARGM-DIS 2:2-ARG0 4:1-ARGM-DIS 5:1-ARGM-ADV 7:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 4 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 4 7 gold 要-v 要.03 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 4 8 gold 关注-v 关注.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-TMP 4:1*9:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 5 2 gold 请到-v 请到.01 ----- 2:0-rel 1:1-ARG0 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 5 17 gold 好-v 好.01 ----- 17:0-rel 16:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 6 3 gold 有-v 有.07 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 6 6 gold 是-v 是.01 ----- 6:0-rel 4:1-ARG0 7:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 6 16 gold 欢迎-v 欢迎.01 ----- 16:0-rel 15:1-ARG0 17:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 7 5 gold 来-v 来.05 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-ADV 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 7 6 gold 看一看-v 看一看.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-ADV 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 8 3 gold 支持-v 支持.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 8 11 gold 决定-v 决定.01 ----- 11:0-rel 1:1-ARGM-PRP 9:2-ARG0 12:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 8 13 gold 提供-v 提供.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 8 20 gold 到位-v 到位.01 ----- 20:0-rel 17:1-ARGM-DIS 18:1-ARG1 19:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 9 4 gold 继续-v 继续.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-ADV 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 9 15 gold 有-v 有.01 ----- 15:0-rel 13:1*14:1-ARG0 16:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 9 19 gold 提供-v 提供.01 ----- 19:0-rel 1:1-ARG0 2:1-ARGM-DIS 3:1-ARGM-ADV 5:1-ARGM-MNR 9:1-ARG2 20:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 10 14 gold 介绍-v 介绍.01 ----- 14:0-rel 3:2-ARG0 13:1-ARGM-DIS 16:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 11 7 gold 提出-v 提出.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 5:1-ARG0 6:1-ARGM-DIS 9:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 12 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 13 4 gold 知道-v 知道.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 13 19 gold 讲-v 讲.01 ----- 19:0-rel 12:1-ARGM-DIS 13:1-ARG0 14:1-ARGM-MNR
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 13 30 gold 可以-v 可以.01 ----- 30:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 14 3 gold 认为-v 认为.01 ----- 3:0-rel 1:1-ARGM-LOC 2:1-ARG0 5:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 14 10 gold 是-v 是.01 ----- 10:0-rel 5:3-ARG0 9:1-ARGM-ADV 11:2-ARG1 17:1-ARGM-PRP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 14 12 gold 加强-v 加强.01 ----- 12:0-rel 11:1-ARG0 13:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 14 31 gold 发生-v 发生.01 ----- 31:0-rel 18:1-ARGM-TMP 19:1-ARGM-TPC 22:1-ARGM-LOC 27:2-ARG1 29:1-ARGM-ADV 30:1-ARGM-ADV 32:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 16 7 gold 讲-v 讲.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 6:1-ARG0 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 16 9 gold 要-v 要.03 ----- 9:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 17 17 gold 讲-v 讲.01 ----- 17:0-rel 11:1-ARGM-DIS 12:1-ARG0 13:2-ARGM-MNR
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 17 28 gold 可以-v 可以.01 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 17 29 gold 采取-v 采取.01 ----- 29:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 20:1-ARGM-LOC 26:2-ARG0 30:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 17 33 gold 合作-v 合作.01 ----- 33:0-rel 1:1-ARGM-DIS 2:2-ARGM-ADV 20:1-ARG1 26:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 19 3 gold 是-v 是.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 19 8 gold 要-v 要.03 ----- 8:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 19 9 gold 进行-v 进行.01 ----- 9:0-rel 7:1-ARG0 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 11 gold 是-v 是.01 ----- 11:0-rel 3:2-ARGM-LOC 9:1-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 13 gold 要-v 要.03 ----- 13:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 14 gold 进行-v 进行.01 ----- 14:0-rel 12:1-ARG0 17:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 36 gold 是-v 是.01 ----- 36:0-rel 33:1-ARG0 35:1-ARGM-ADV 37:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 39 gold 必须-v 必须.02 ----- 39:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 40 gold 要-v 要.03 ----- 40:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 21 41 gold 进行-v 进行.01 ----- 41:0-rel 37:1*38:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 24 6 gold 应该-v 应该.01 ----- 6:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 24 7 gold 是-v 是.04 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 24 9 gold 详细-v 详细.01 ----- 9:0-rel 1:1-ARGM-DIS 2:2-ARG0 8:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 24 11 gold 好-v 好.01 ----- 11:0-rel 1:1-ARGM-DIS 2:2-ARG0 10:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 25 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 26 3 gold 包括-v 包括.01 ----- 3:0-rel 2:1-ARG0 5:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 26 6 gold 蔓延-v 蔓延.01 ----- 6:0-rel 5:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 26 11 gold 包括-v 包括.01 ----- 11:0-rel 2:1-ARG0 12:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 18 gold 分离-v 分离.01 ----- 18:0-rel 16:1-ARG0 17:1-ARGM-ADV 15:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 41 gold 应该-v 应该.01 ----- 41:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 44 gold 公布-v 公布.01 ----- 44:0-rel 4:1-ARGM-DIS 5:3-ARGM-TPC 32:1-ARGM-DIS 33:4-ARG1 42:2-ARGM-ADV 46:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 54 gold 让-v 让.02 ----- 54:0-rel 4:1-ARGM-DIS 5:3-ARGM-TPC 32:1-ARGM-DIS 33:4-ARG0 53:1-ARGM-DIS 55:3-ARG1 68:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 62 gold 从事-v 从事.01 ----- 62:0-rel 60:1*61:1-ARG0 63:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 27 70 gold 掌握-v 掌握.01 ----- 70:0-rel 68:1-ARG0 69:1-ARGM-ADV 71:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 31 7 gold 研究-v 研究.01 ----- 7:0-rel 5:1*6:1-ARG0 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 31 15 gold 是-v 是.01 ----- 15:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-DIR 16:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 31 19 gold 需要-v 需要.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 16:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 32 3 gold 是-v 是.01 ----- 3:0-rel 2:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 32 7 gold 重要-v 重要.01 ----- 7:0-rel 2:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 35 7 gold 是-v 是.03 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 36 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 36 38 gold 可能-v 可能.02 ----- 38:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 36 39 gold 掌握-v 掌握.01 ----- 39:0-rel 14:2-ARGM-TMP 17:1-ARGM-ADV 18:1-ARGM-LOC 29:2-ARG0 32:1-ARG1 40:2-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 36 42 gold 清楚-v 清楚.01 ----- 42:0-rel 40:1-ARGM-ADV 41:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 38 16 gold 能-v 能.01 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 38 17 gold 知道-v 知道.01 ----- 17:0-rel 3:1-ARGM-MNR 8:1-ARGM-MNR 15:1-ARG0 18:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 38 36 gold 能够-v 能够.01 ----- 36:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 39 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 39 8 gold 是-v 是.01 ----- 8:0-rel 7:1-ARG0 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 39 19 gold 知道-v 知道.01 ----- 19:0-rel 17:1-ARG0 18:1-ARGM-ADV 20:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 39 28 gold 有-v 有.04 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 39 41 gold 有-v 有.01 ----- 41:0-rel 20:1-ARGM-TMP 21:1-ARGM-LOC 25:1-ARG0 29:1-ARG0 35:1-ARGM-DIS 36:1-ARG1 43:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 40 14 gold 是-v 是.04 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 40 15 gold 有-v 有.01 ----- 15:0-rel 3:1-ARGM-ADV 5:1-ARGM-DIS 12:1-ARG0 13:1-ARGM-ADV 16:1*6:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 41 24 gold 有-v 有.08 ----- 24:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 6:1-ARGM-ADV 18:1-ARG0 19:1-ARGM-ADV 20:1-ARG0 26:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 43 12 gold 有-v 有.01 ----- 12:0-rel 1:1-ARGM-ADV 2:1-ARGM-TMP 6:3-ARG0 13:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 43 34 gold 保持-v 保持.01 ----- 34:0-rel 23:1-ARGM-DIS 24:1-ARG0 25:1-ARGM-DIS 26:1-ARG1 36:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 44 9 gold 包括-v 包括.01 ----- 9:0-rel 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 44 18 gold 有-v 有.01 ----- 18:0-rel 1:1-ARGM-DIS 2:4-ARGM-TPC 16:1-ARG0 17:1-ARGM-ADV 20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 44 25 gold 提供-v 提供.01 ----- 25:0-rel 22:1-ARG0 23:1-ARGM-DIS 24:1-ARGM-ADV 26:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 45 3 gold 想-v 想.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 45 7 gold 认为-v 认为.01 ----- 7:0-rel 5:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 45 13 gold 应该-v 应该.01 ----- 13:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 45 18 gold 会-v 会.02 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 45 19 gold 具有-v 具有.01 ----- 19:0-rel 9:2-ARGM-ADV 14:1-ARG1 20:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 46 5 gold 加强-v 加强.01 ----- 5:0-rel 1:1-ARGM-DIS 3:1-ARG0 4:1-ARGM-ADV 7:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 47 3 gold 有-v 有.07 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 47 8 gold 认为-v 认为.01 ----- 8:0-rel 7:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 47 14 gold 能够-v 能够.01 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 47 19 gold 可能-v 可能.02 ----- 19:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 47 24 gold 需要-v 需要.01 ----- 24:0-rel 22:1*23:1-ARG0 25:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 47 31 gold 提供-v 提供.01 ----- 31:0-rel 9:2-ARG0 18:1-ARGM-DIS 20:1-ARG2 32:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 48 11 gold 是-v 是.01 ----- 11:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 48 12 gold 引起-v 引起.01 ----- 12:0-rel 3:1-ARGM-ADV 4:1-ARGM-TMP 5:3-ARG0 10:1-ARGM-ADV 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 49 9 gold 报道-v 报道.01 ----- 9:0-rel 6:1*7:1-ARG1 8:1-ARG0 11:2-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 49 12 gold 多-v 多.03 ----- 12:0-rel 11:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 49 15 gold 是-v 是.01 ----- 15:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 5:1-ARGM-ADV 6:3-ARG0 14:1-ARGM-ADV 16:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 49 32 gold 来-v 来.05 ----- 32:0-rel 25:1-ARG0 26:1-ARGM-MNR 31:1-ARGM-ADV 33:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 49 33 gold 看一看-v 看一看.01 ----- 33:0-rel 25:1-ARG0 26:1-ARGM-MNR 31:1-ARGM-ADV 34:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 50 5 gold 来自-v 来自.01 ----- 5:0-rel 1:2-ARG0 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 50 11 gold 送到-v 送到.01 ----- 11:0-rel 9:1-ARG1 12:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 50 19 gold 有-v 有.01 ----- 19:0-rel 1:2-ARG0 9:3-ARGM-TMP 15:1-ARGM-ADV 16:1-ARGM-ADV 17:1-ARG0 21:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 50 29 gold 死亡-v 死亡.01 ----- 29:0-rel 23:1-ARG1 24:1-ARGM-ADV 25:1-ARGM-TMP 27:1-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 50 37 gold 乐观-v 乐观.01 ----- 37:0-rel 31:3-ARG1 34:1-ARGM-TMP 35:1-ARGM-DIS 36:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 50 43 gold 进行-v 进行.01 ----- 43:0-rel 39:1-ARG0 40:1-ARGM-ADV 41:1-ARG1 44:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 51 5 gold 显示-v 显示.01 ----- 5:0-rel 1:1-ARGM-DIS 2:2-ARG0 7:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 51 10 gold 呈-v 呈.01 ----- 10:0-rel 7:3-ARG0 11:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 51 16 gold 怀疑-v 怀疑.01 ----- 16:0-rel 1:2-ARGM-ADV 13:1-ARGM-DIS 14:1-ARG0 15:1-ARGM-ADV 17:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 51 18 gold 感染-v 感染.01 ----- 18:0-rel 17:1-ARG1 20:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 51 26 gold 确认-v 确认.02 ----- 26:0-rel 22:1-ARGM-DIS 23:1*27:1-ARG1 24:1-ARGM-DIS 27:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 51 28 gold 感染-v 感染.01 ----- 28:0-rel 23:1*27:1-ARG1 33:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 52 6 gold 有-v 有.03 ----- 6:0-rel 1:1-ARGM-DIS 3:1-ARG0 5:1-ARGM-DIS 7:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 52 10 gold 出现-v 出现.01 ----- 10:0-rel 7:2-ARG0 12:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 52 13 gold 感染-v 感染.01 ----- 13:0-rel 12:1-ARG1 14:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 52 25 gold 接受-v 接受.01 ----- 25:0-rel 7:2-ARG0 19:1-ARGM-ADV 20:1-ARGM-LOC 26:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 53 7 gold 确认-v 确认.02 ----- 7:0-rel 1:1-ARGM-DIS 2:2*8:1-ARG1 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 53 9 gold 感染-v 感染.01 ----- 9:0-rel 2:2*8:1-ARG1 11:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 53 19 gold 出现-v 出现.01 ----- 19:0-rel 18:1-ARG0 17:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 53 25 gold 感染-v 感染.01 ----- 25:0-rel 24:1-ARG1 26:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 54 6 gold 表示-v 表示.01 ----- 6:0-rel 1:2-ARG0 5:1-ARGM-TMP 8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 54 16 gold 接触-v 接触.01 ----- 16:0-rel 13:1-ARGM-LOC 14:1-ARG0 15:1-ARGM-ADV 17:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 54 18 gold 有-v 有.01 ----- 18:0-rel 8:2-ARG0 12:1-ARG0 19:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 55 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 55 6 gold 爆发-v 爆发.01 ----- 6:0-rel 4:1-ARGM-TMP 5:1-ARG0 7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 55 14 gold 报告-v 报告.01 ----- 14:0-rel 12:1*13:1-ARG0 15:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 55 16 gold 有-v 有.05 ----- 16:0-rel 15:1-ARG0 17:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 55 18 gold 感染-v 感染.01 ----- 18:0-rel 17:1-ARG1 19:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 56 9 gold 造成-v 造成.01 ----- 9:0-rel 1:1-ARGM-TMP 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-BNF 11:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 57 5 gold 成立-v 成立.01 ----- 5:0-rel 1:2-ARG0 3:1-ARGM-ADV 4:1-ARGM-ADV 7:2-ARG1 11:2-ARGM-PRP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 57 12 gold 讨论-v 讨论.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 57 15 gold 应对-v 应对.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 16:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 57 18 gold 可能-v 可能.02 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 57 19 gold 带来-v 带来.01 ----- 19:0-rel 17:1-ARG0 16:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 58 6 gold 计划-v 计划.01 ----- 6:0-rel 1:1-ARGM-DIS 3:2-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 58 15 gold 爆发-v 爆发.01 ----- 15:0-rel 13:1*14:1-ARG0 16:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 58 21 gold 进行-v 进行.01 ----- 21:0-rel 7:1-ARG0 8:1-ARGM-TMP 12:1-ARG1 22:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 59 6 gold 觉得-v 觉得.01 ----- 6:0-rel 3:2-ARG0 8:6-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 59 12 gold 是-v 是.01 ----- 12:0-rel 16:1*8:3-ARG0 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 59 15 gold 传播-v 传播.01 ----- 15:0-rel 13:1-ARG0 16:1*8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 60 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 60 7 gold 有-v 有.03 ----- 7:0-rel 3:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 60 17 gold 必须-v 必须.02 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 60 19 gold 知道-v 知道.01 ----- 19:0-rel 16:1-ARG0 18:1-ARGM-ADV 20:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 60 28 gold 能-v 能.01 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 60 29 gold 知道-v 知道.01 ----- 29:0-rel 15:1-ARGM-DIS 16:2-ARGM-ADV 26:1-ARG0 27:1-ARGM-DIS 30:1*3:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 61 36 gold 知道-v 知道.01 ----- 36:0-rel 1:1-ARGM-PRP 32:1-ARGM-DIS 33:2-ARG0 35:1-ARGM-ADV 38:6-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 61 45 gold 是-v 是.01 ----- 45:0-rel 44:1-ARGM-ADV 49:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 63 13 gold 是-v 是.04 ----- 13:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 63 19 gold 有-v 有.01 ----- 19:0-rel 8:2-ARG0 17:1-ARG0 20:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 63 29 gold 要-v 要.03 ----- 29:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 63 30 gold 掌握-v 掌握.01 ----- 30:0-rel 1:1-ARGM-DIS 40:1*8:3-ARGM-TPC 24:1-ARGM-DIS 27:1-ARGM-DIS 28:1-ARG0 31:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 63 38 gold 能-v 能.01 ----- 38:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 63 39 gold 知道-v 知道.01 ----- 39:0-rel 1:1-ARGM-DIS 24:1-ARGM-DIS 27:1-ARGM-DIS 28:1-ARG0 37:1-ARGM-DIS 40:1*8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 65 6 gold 掌握-v 掌握.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 3:1*7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 65 14 gold 能够-v 能够.01 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 65 15 gold 下-v 下.03 ----- 15:0-rel 1:1-ARGM-TMP 2:1-ARGM-MNR 13:1-ARG0 16:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 5 gold 公布-v 公布.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 2:1*6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 28 gold 说-v 说.01 ----- 28:0-rel 25:1-ARGM-TMP 26:1-ARG0 24:1*29:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 37 gold 公布-v 公布.01 ----- 37:0-rel 33:1*34:1-ARG1 35:1-ARGM-TMP 36:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 45 gold 测定-v 测定.01 ----- 45:0-rel 33:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 58 gold 接近-v 接近.02 ----- 58:0-rel 1:1-ARGM-MNR 17:1-ARGM-DIS 23:1-ARGM-MNR 49:1-ARG0 50:1-ARGM-ADV 51:1-ARG0 57:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 66 gold 分离-v 分离.01 ----- 66:0-rel 63:3-ARGM-LOC 62:1*67:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 66 73 gold 接近-v 接近.02 ----- 73:0-rel 1:1-ARGM-MNR 17:1-ARGM-DIS 23:1-ARGM-MNR 49:1-ARG0 60:1-ARG0 72:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARGM-DIS 2:1-ARG0 6:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 10 gold 迁徙-v 迁徙.01 ----- 10:0-rel 8:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 12 gold 引起-v 引起.01 ----- 12:0-rel 7:1-ARG0 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 24 gold 感染-v 感染.01 ----- 24:0-rel 21:1-ARG0 23:1-ARGM-ADV 25:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 30 gold 需要-v 需要.01 ----- 30:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 27:1-ARGM-DIS 28:1-ARG0 29:1-ARGM-ADV 32:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 35 gold 提供-v 提供.01 ----- 35:0-rel 32:2-ARG0 36:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 42 gold 证明-v 证明.01 ----- 42:0-rel 32:2-ARG0 45:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 48 gold 是-v 是.01 ----- 48:0-rel 45:1-ARG0 49:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 56 gold 是-v 是.01 ----- 56:0-rel 49:2-ARG0 57:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 68 64 gold 爆发-v 爆发.01 ----- 64:0-rel 49:2-ARG1 57:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 71 4 gold 说-v 说.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 71 12 gold 是-v 是.01 ----- 12:0-rel 10:1-ARG0 11:1-ARGM-DIS 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 71 18 gold 要-v 要.03 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 71 20 gold 交换-v 交换.01 ----- 20:0-rel 15:1-ARG0 14:1*16:1-ARGM-PRP 17:1-ARGM-ADV 19:1-ARGM-ADV 21:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 73 5 gold 交换-v 交换.01 ----- 5:0-rel 1:1-ARGM-TMP 2:1-ARGM-ADV 4:1-ARG1 7:2-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 73 9 gold 够-v 够.01 ----- 9:0-rel 7:1-ARGM-ADV 8:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 74 4 gold 够-v 够.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 74 8 gold 够-v 够.01 ----- 8:0-rel 1:1-ARG0 6:1-ARGM-ADV 7:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 75 13 gold 掌握-v 掌握.01 ----- 13:0-rel 1:2-ARGM-ADV 3:1-ARGM-DIS 4:3-ARG1 12:1-ARGM-ADV 15:2-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 75 18 gold 是-v 是.04 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 75 20 gold 多-v 多.03 ----- 20:0-rel 19:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 76 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 76 6 gold 是-v 是.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 76 15 gold 有-v 有.01 ----- 15:0-rel 13:1*14:1-ARG0 16:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 76 18 gold 发生-v 发生.01 ----- 18:0-rel 16:2-ARG1 19:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 76 44 gold 知道-v 知道.01 ----- 44:0-rel 9:1-ARGM-LOC 12:1-ARGM-LOC 25:1-ARGM-DIS 26:1-ARGM-TMP 30:2-ARGM-LOC 41:1-ARG0 42:1-ARGM-ADV 43:1-ARGM-ADV 45:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 78 3 gold 说-v 说.07 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 78 5 gold 分析-v 分析.01 ----- 5:0-rel 4:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 78 20 gold 是-v 是.01 ----- 20:0-rel 9:3-ARG0 21:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 78 24 gold 传-v 传.02 ----- 24:0-rel 4:2-ARGM-ADV 9:3-ARG1 21:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 78 32 gold 分析-v 分析.01 ----- 32:0-rel 4:4-ARG1 28:1-ARGM-DIS 29:1-ARGM-ADV 30:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 78 36 gold 没有-v 没有.02 ----- 36:0-rel 34:1-ARG0 35:1-ARGM-DIS 37:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 80 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 80 3 gold 对-v 对.02 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 80 4 gold 对-v 对.02 ----- 4:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 81 6 gold 要-v 要.03 ----- 6:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 81 10 gold 交流-v 交流.01 ----- 10:0-rel 1:1-ARGM-DIS 3:2-ARG1 5:1-ARGM-ADV 7:2-ARGM-ADV 11:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 81 16 gold 要-v 要.03 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 81 23 gold 交流-v 交流.01 ----- 23:0-rel 15:1-ARG0 17:2-ARGM-ADV 20:2-ARGM-ADV 24:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 82 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 83 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 83 3 gold 对-v 对.02 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 4 gold 谈到-v 谈到.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-DIS 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 19 gold 传播-v 传播.01 ----- 19:0-rel 15:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 23 gold 透露-v 透露.02 ----- 23:0-rel 9:1-ARGM-ADV 10:2-ARG0 14:1-ARGM-TMP 25:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 39 gold 关注-v 关注.01 ----- 39:0-rel 28:1-ARGM-DIS 29:2-ARGM-TMP 34:1-ARGM-ADV 35:1-ARGM-ADV 36:1-ARG0 37:1-ARGM-DIS 38:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 48 gold 有-v 有.08 ----- 48:0-rel 42:1-ARGM-DIS 44:1-ARGM-ADV 45:2-ARG0 49:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 56 gold 来-v 来.05 ----- 56:0-rel 54:1-ARG0 55:1-ARGM-DIS 57:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 63 gold 是-v 是.04 ----- 63:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 84 65 gold 说-v 说.01 ----- 65:0-rel 58:3-ARG0 64:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 86 16 gold 指-v 指.01 ----- 16:0-rel 2:1-ARGM-LOC 10:3-ARG0 1:1*17:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 86 24 gold 来自于-v 来自于.01 ----- 24:0-rel 1:3-ARG0 25:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 86 32 gold 丧生-v 丧生.01 ----- 32:0-rel 26:1*27:1-ARG0 28:1-ARGM-PRP 31:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 87 9 gold 严重-v 严重.01 ----- 9:0-rel 3:3-ARGM-LOC 2:1*6:1-ARGM-TPC 7:1-ARG0 8:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 87 16 gold 有-v 有.05 ----- 16:0-rel 1:1-ARGM-ADV 13:1-ARG0 14:1-ARGM-TMP 15:1-ARGM-ADV 17:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 87 19 gold 感染-v 感染.01 ----- 19:0-rel 17:2-ARG1 21:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 88 5 gold 证实-v 证实.01 ----- 5:0-rel 3:1-ARG0 6:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 88 8 gold 出现-v 出现.01 ----- 8:0-rel 6:1-ARG0 9:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 88 18 gold 负责-v 负责.01 ----- 18:0-rel 16:1*17:1-ARG0 19:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 88 28 gold 作-v 作.01 ----- 28:0-rel 1:2-ARGM-TMP 15:3-ARG0 24:1-ARGM-LOC 27:1-ARGM-ADV 30:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 90 5 gold 看-v 看.02 ----- 5:0-rel 4:1-ARG0 8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 90 17 gold 能够-v 能够.01 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 90 18 gold 得出-v 得出.01 ----- 18:0-rel 3:1-ARG0 4:3-ARGM-TMP 15:1-ARGM-ADV 16:1-ARGM-ADV 19:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 91 15 gold 是-v 是.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 16:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 91 17 gold 发现-v 发现.01 ----- 17:0-rel 16:1-ARG0 18:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 91 20 gold 有-v 有.05 ----- 20:0-rel 18:2-ARG0 21:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 91 31 gold 发生-v 发生.01 ----- 31:0-rel 21:2-ARG1 33:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 92 4 gold 意味-v 意味.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 93 5 gold 下-v 下.03 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:2-ARGM-ADV 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 94 7 gold 觉得-v 觉得.01 ----- 7:0-rel 1:1-ARGM-DIS 6:1-ARG0 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 94 10 gold 看-v 看.02 ----- 10:0-rel 9:1-ARG0 12:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 94 17 gold 会-v 会.02 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 94 18 gold 觉得-v 觉得.01 ----- 18:0-rel 8:1-ARGM-TMP 16:1-ARG0 19:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 94 21 gold 会-v 会.02 ----- 21:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 94 22 gold 有-v 有.01 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-ADV 23:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 95 4 gold 感觉-v 感觉.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 95 6 gold 应该-v 应该.01 ----- 6:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 95 7 gold 说-v 说.07 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 95 18 gold 透露-v 透露.02 ----- 18:0-rel 8:1-ARG0 9:1-ARGM-LOC 16:1-ARGM-ADV 17:1-ARGM-ADV 20:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 4 gold 从事-v 从事.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 15 gold 说-v 说.07 ----- 15:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 18 gold 有-v 有.08 ----- 18:0-rel 16:2-ARG0 19:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 21 gold 可以-v 可以.01 ----- 21:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 22 gold 说-v 说.07 ----- 22:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 27 gold 变异-v 变异.01 ----- 27:0-rel 24:1-ARG0 25:1-ARGM-ADV 26:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 96 31 gold 是-v 是.01 ----- 31:0-rel 29:1-ARGM-DIS 30:1-ARG0 32:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 98 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 98 6 gold 在-v 在.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 5 gold 关心-v 关心.01 ----- 5:0-rel 3:1-ARG0 2:1*6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 10 gold 是-v 是.01 ----- 10:0-rel 1:1-ARGM-DIS 2:3-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 12 gold 拥有-v 拥有.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 22 gold 有-v 有.01 ----- 22:0-rel 17:1-ARGM-DIS 18:2-ARG0 21:1-ARGM-DIS 23:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 30 gold 是-v 是.04 ----- 30:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 33 gold 发生-v 发生.01 ----- 33:0-rel 27:2-ARG1 34:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 39 gold 是-v 是.01 ----- 39:0-rel 38:1-ARG0 40:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 99 43 gold 关心-v 关心.01 ----- 43:0-rel 41:1-ARG0 40:1*44:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 101 4 gold 提到-v 提到.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-TMP 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 101 7 gold 有-v 有.08 ----- 7:0-rel 5:1-ARGM-DIS 6:1-ARG0 8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 101 19 gold 判断-v 判断.01 ----- 19:0-rel 13:1-ARGM-ADV 14:1-ARG0 16:2-ARGM-ADV 21:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 101 23 gold 是-v 是.04 ----- 23:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 101 24 gold 发生-v 发生.01 ----- 24:0-rel 21:2-ARG0 25:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 102 3 gold 变-v 变.01 ----- 3:0-rel 1:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 104 4 gold 有-v 有.01 ----- 4:0-rel 1:1-ARGM-DIS 2:2-ARG0 5:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 105 3 gold 变-v 变.01 ----- 3:0-rel 2:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 105 20 gold 是-v 是.04 ----- 20:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 105 23 gold 加强-v 加强.01 ----- 23:0-rel 1:1-ARG1 2:3-ARGM-TMP 9:1-ARGM-DIR 14:1-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 105 29 gold 应该-v 应该.01 ----- 29:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 105 30 gold 说-v 说.07 ----- 30:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 105 34 gold 清楚-v 清楚.02 ----- 34:0-rel 31:1-ARG0 32:1-ARGM-ADV 33:1-ARGM-ADV 26:1*35:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 3 gold 能-v 能.01 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 10 gold 得出-v 得出.01 ----- 10:0-rel 1:1-ARG0 2:1-ARGM-TMP 6:1-ARGM-MNR 9:1-ARGM-ADV 11:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 13 gold 说-v 说.01 ----- 13:0-rel 1:1-ARG0 2:1-ARGM-TMP 6:1-ARGM-MNR 9:1-ARGM-ADV 14:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 17 gold 变异-v 变异.01 ----- 17:0-rel 16:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 28 gold 传播-v 传播.01 ----- 28:0-rel 14:1-ARGM-TMP 15:1-ARG1 16:3-ARGM-TMP 21:2-ARGM-ADV 23:1-ARGM-DIR 25:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 31 gold 可以-v 可以.01 ----- 31:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 107 32 gold 下-v 下.03 ----- 32:0-rel 30:1-ARG0 33:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 108 3 gold 应该-v 应该.01 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 108 4 gold 是-v 是.01 ----- 4:0-rel 1:2-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 108 16 gold 能-v 能.01 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 108 17 gold 下-v 下.03 ----- 17:0-rel 7:1-ARGM-ADV 14:1-ARG0 15:1-ARGM-ADV 18:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 110 22 gold 有-v 有.01 ----- 22:0-rel 19:1-ARG0 23:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 110 34 gold 想-v 想.02 ----- 34:0-rel 8:2-ARGM-TPC 11:1-ARGM-DIS 12:1-ARGM-TMP 19:3-ARGM-TMP 28:1-ARG0 29:1-ARGM-ADV 30:1-ARGM-MNR 35:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 110 36 gold 得到-v 得到.01 ----- 36:0-rel 35:1-ARG0 37:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 3 gold 有-v 有.05 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 7 gold 说明-v 说明.02 ----- 7:0-rel 4:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 14 gold 提到-v 提到.01 ----- 14:0-rel 11:2-ARG0 13:1-ARGM-ADV 16:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 22 gold 可能-v 可能.02 ----- 22:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 23 gold 是-v 是.04 ----- 23:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 28 gold 变异-v 变异.01 ----- 28:0-rel 19:2-ARG0 24:2-ARGM-ADV 26:1-ARG1 30:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 36 gold 去-v 去.04 ----- 36:0-rel 10:1-ARGM-PRP 32:1-ARGM-DIS 33:1-ARG0 34:1-ARGM-ADV 35:1-ARGM-ADV 38:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 41 gold 给-v 给.01 ----- 41:0-rel 10:1-ARGM-PRP 32:1-ARGM-DIS 33:1-ARG0 34:1-ARGM-PRP 35:1-ARGM-ADV 38:2-ARG1 42:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 47 gold 询问-v 询问.01 ----- 47:0-rel 10:1-ARGM-PRP 32:1-ARGM-DIS 33:1-ARG0 46:1-ARGM-DIS 49:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 50 gold 是-v 是.01 ----- 50:0-rel 49:1-ARG0 51:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 55 gold 说明-v 说明.02 ----- 55:0-rel 51:3-ARG0 57:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 64 gold 传播-v 传播.01 ----- 64:0-rel 57:2-ARG1 60:2-ARGM-ADV 62:1-ARGM-DIR 66:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 111 69 gold 感染-v 感染.01 ----- 69:0-rel 57:2-ARG0 60:2-ARGM-ADV 62:1-ARGM-DIR 70:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 112 3 gold 传播-v 传播.01 ----- 3:0-rel 1:1-ARGM-TMP 2:1-ARG0 4:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 112 13 gold 得到-v 得到.01 ----- 13:0-rel 6:1-ARGM-DIS 7:1-ARGM-TMP 11:1-ARG0 12:1-ARGM-ADV 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 113 3 gold 发-v 发.02 ----- 3:0-rel 1:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 113 5 gold 有-v 有.02 ----- 5:0-rel 1:2-ARG0 3:2-ARG0 6:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 114 9 gold 公布-v 公布.01 ----- 9:0-rel 8:1-ARG0 10:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 114 17 gold 发-v 发.02 ----- 17:0-rel 1:1-ARGM-DIS 6:1-ARGM-DIS 7:1-ARGM-TMP 15:1-ARG0 16:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 114 26 gold 询问-v 询问.01 ----- 26:0-rel 1:1-ARGM-DIS 6:1-ARGM-DIS 7:1-ARGM-TMP 15:1-ARG0 21:1-ARGM-ADV 22:1-ARG2 28:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 117 12 gold 发生-v 发生.01 ----- 12:0-rel 10:1-ARG1 13:1*9:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 117 21 gold 具有-v 具有.01 ----- 21:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 5:3-ARG0 22:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 117 37 gold 想-v 想.01 ----- 37:0-rel 36:1-ARG0 38:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 117 39 gold 需要-v 需要.01 ----- 39:0-rel 38:1-ARG0 40:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 117 46 gold 来-v 来.05 ----- 46:0-rel 40:3-ARG0 43:1-ARGM-ADV 45:1-ARGM-ADV 47:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 117 47 gold 讨论-v 讨论.01 ----- 47:0-rel 40:3-ARG0 43:1-ARGM-ADV 45:1-ARGM-ADV 48:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 118 8 gold 说-v 说.01 ----- 8:0-rel 4:1-ARGM-TMP 5:1-ARG0 3:1*9:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 118 18 gold 是-v 是.01 ----- 18:0-rel 1:1-ARGM-DIS 2:1-ARGM-TPC 16:1-ARG0 19:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 118 25 gold 变异-v 变异.01 ----- 25:0-rel 21:1*22:1-ARG0 23:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 120 3 gold 像-v 像.02 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 120 20 gold 变异-v 变异.01 ----- 20:0-rel 10:1-ARGM-TPC 14:1-ARG0 17:1-ARGM-ADV 18:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 120 27 gold 是-v 是.04 ----- 27:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 120 30 gold 变异-v 变异.01 ----- 30:0-rel 22:1-ARGM-DIS 23:1-ARGM-TPC 25:1-ARG0 26:1-ARGM-ADV 28:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 121 6 gold 分离-v 分离.01 ----- 6:0-rel 4:2-ARG0 3:1*7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 121 14 gold 可以-v 可以.01 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 121 15 gold 看到-v 看到.01 ----- 15:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIR 12:1-ARG0 13:1-ARGM-DIS 17:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 121 29 gold 变异-v 变异.01 ----- 29:0-rel 18:1-ARGM-TMP 23:1-ARG0 24:1-ARGM-DIS 25:1-ARGM-ADV 26:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 121 36 gold 飞来-v 飞来.01 ----- 36:0-rel 31:1*32:1-ARG0 33:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 121 41 gold 有-v 有.01 ----- 41:0-rel 31:3-ARGM-TPC 39:1-ARG0 40:1-ARGM-DIS 42:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 123 7 gold 代表-v 代表.01 ----- 7:0-rel 3:2-ARG0 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 123 12 gold 想-v 想.01 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 123 16 gold 要-v 要.03 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 123 18 gold 慎重-v 慎重.01 ----- 18:0-rel 13:1-ARGM-TPC 14:1-ARG0 15:1-ARGM-ADV 17:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 125 10 gold 说-v 说.01 ----- 10:0-rel 1:2-ARG0 6:1-ARGM-ADV 7:1-ARGM-DIS 8:2-ARGM-ADV 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 125 15 gold 排除-v 排除.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 17:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 125 18 gold 感染-v 感染.01 ----- 18:0-rel 17:1-ARG1 19:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 125 30 gold 说-v 说.01 ----- 30:0-rel 1:2-ARG0 27:1-ARGM-DIS 28:1-ARGM-DIS 32:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 125 35 gold 爆发-v 爆发.01 ----- 35:0-rel 32:1-ARGM-DIS 33:1-ARGM-DIS 34:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 126 7 gold 是-v 是.04 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 126 10 gold 同意-v 同意.01 ----- 10:0-rel 3:2-ARG0 11:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 4:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 12 gold 有-v 有.05 ----- 12:0-rel 7:1-ARGM-DIS 8:1-ARG0 13:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 16 gold 发生-v 发生.01 ----- 16:0-rel 13:2-ARG1 15:1-ARGM-ADV 18:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 19 gold 感染-v 感染.01 ----- 19:0-rel 18:1-ARG1 21:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 25 gold 应该-v 应该.01 ----- 25:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 31 gold 是-v 是.04 ----- 31:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 32 gold 属于-v 属于.01 ----- 32:0-rel 6:1-ARGM-TMP 7:2-ARGM-ADV 23:1-ARGM-DIS 24:1-ARG0 26:1-ARGM-ADV 28:1-ARGM-TMP 29:1-ARGM-ADV 30:1-ARGM-ADV 33:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 40 gold 是-v 是.01 ----- 40:0-rel 6:1-ARGM-TMP 7:2-ARGM-ADV 23:1-ARGM-DIS 24:1-ARG0 38:1-ARGM-ADV 39:1-ARGM-ADV 43:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 50 gold 发生-v 发生.01 ----- 50:0-rel 49:1-ARG1 51:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 57 gold 死亡-v 死亡.01 ----- 57:0-rel 49:1-ARG1 55:1-ARGM-ADV 56:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 127 70 gold 是-v 是.01 ----- 70:0-rel 61:1-ARG0 62:1-ARGM-ADV 69:1-ARGM-ADV 71:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 129 12 gold 发生-v 发生.01 ----- 12:0-rel 3:1-ARGM-DIS 5:1-ARGM-DIS 8:1-ARGM-ADV 9:1-ARGM-LOC 17:4-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 129 35 gold 有-v 有.01 ----- 35:0-rel 23:1-ARGM-TPC 25:3-ARG0 32:1-ARG0 36:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 129 48 gold 担心-v 担心.01 ----- 48:0-rel 22:1-ARGM-PRP 43:1-ARGM-DIS 44:1-ARGM-TMP 45:1-ARGM-DIS 47:1-ARG0 49:1-ARGM-DIS 51:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 129 54 gold 掺入-v 掺入.01 ----- 54:0-rel 51:1-ARGM-DIS 52:2-ARG1 56:3-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 129 65 gold 可能-v 可能.02 ----- 65:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 133 12 gold 传染-v 传染.01 ----- 12:0-rel 9:1-ARGM-DIS 10:1-ARGM-DIS 11:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 133 17 gold 会-v 会.02 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 134 3 gold 对-v 对.02 ----- 3:0-rel 2:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 134 5 gold 对-v 对.02 ----- 5:0-rel 2:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 135 5 gold 发生-v 发生.01 ----- 5:0-rel 2:1-ARGM-DIS 3:1-ARG1 4:1-ARGM-ADV 6:4-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 135 14 gold 应该-v 应该.01 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 135 15 gold 说-v 说.07 ----- 15:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 135 23 gold 算-v 算.01 ----- 23:0-rel 18:1-ARG0 21:1-ARGM-ADV 22:1-ARGM-ADV 24:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 135 25 gold 大-v 大.01 ----- 25:0-rel 24:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 137 17 gold 死亡-v 死亡.01 ----- 17:0-rel 15:1*16:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 137 29 gold 是-v 是.04 ----- 29:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 137 31 gold 少-v 少.01 ----- 31:0-rel 3:1-ARGM-ADV 4:1-ARGM-DIS 8:2-ARG1 21:1-ARGM-ADV 23:1-ARGM-ADV 24:1-ARGM-LOC 28:1-ARGM-ADV 30:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 137 33 gold 少-v 少.01 ----- 33:0-rel 3:1-ARGM-ADV 4:1-ARGM-ADV 8:2-ARG1 21:1-ARGM-ADV 23:1-ARGM-ADV 24:1-ARGM-LOC 28:1-ARGM-ADV 32:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 138 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 138 9 gold 应该-v 应该.01 ----- 9:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 138 10 gold 有-v 有.08 ----- 10:0-rel 4:1-ARGM-DIS 5:1-ARGM-LOC 8:1-ARG0 12:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 139 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 139 7 gold 担心-v 担心.01 ----- 7:0-rel 4:1-ARGM-ADV 5:1-ARG0 6:1-ARGM-ADV 13:3*8:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 139 11 gold 担忧-v 担忧.01 ----- 11:0-rel 4:1-ARGM-ADV 5:1-ARG0 10:1-ARGM-ADV 13:3*8:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 139 23 gold 来-v 来.01 ----- 23:0-rel 21:1-ARGM-DIS 22:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 140 8 gold 发生-v 发生.01 ----- 8:0-rel 3:1-ARGM-ADV 4:1-ARGM-TMP 7:1-ARG1 10:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 140 16 gold 有-v 有.08 ----- 16:0-rel 14:1*15:1-ARG0 17:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 140 21 gold 有-v 有.01 ----- 21:0-rel 14:1*15:1-ARG0 22:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 141 7 gold 喜欢-v 喜欢.01 ----- 7:0-rel 4:1-ARGM-TMP 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 141 9 gold 谈-v 谈.01 ----- 9:0-rel 8:1-ARG0 3:1*10:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 141 13 gold 是-v 是.01 ----- 13:0-rel 1:1-ARGM-DIS 3:3-ARG0 12:1-ARGM-ADV 14:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 141 20 gold 有-v 有.07 ----- 20:0-rel 16:1-ARGM-DIS 18:1-ARG0 19:1-ARGM-DIS 21:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 141 29 gold 发生-v 发生.01 ----- 29:0-rel 23:1-ARGM-TMP 26:1-ARG1 27:1-ARGM-ADV 28:1-ARGM-DIS 31:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 142 19 gold 传播-v 传播.01 ----- 19:0-rel 15:1*16:1-ARG1 17:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 142 25 gold 发生-v 发生.01 ----- 25:0-rel 23:1-ARGM-DIS 24:1-ARG1 26:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 142 35 gold 会-v 会.02 ----- 35:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 142 47 gold 带来-v 带来.01 ----- 47:0-rel 11:2*32:1-ARG0 33:1-ARGM-ADV 36:1-ARG2 48:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 144 8 gold 觉得-v 觉得.01 ----- 8:0-rel 1:1-ARGM-ADV 2:1-ARGM-TMP 7:1-ARG0 9:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 144 13 gold 是-v 是.01 ----- 13:0-rel 9:1-ARGM-DIS 11:1-ARG0 15:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 144 21 gold 防治-v 防治.01 ----- 21:0-rel 20:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 144 28 gold 可-v 可.01 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 144 29 gold 同日而语-v 同日而语.01 ----- 29:0-rel 15:3-ARG0 24:1-ARGM-ADV 25:1-ARGM-ADV 27:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 146 10 gold 重视-v 重视.01 ----- 10:0-rel 1:1-ARGM-DIS 4:1-ARGM-DIS 6:1-ARG0 7:1-ARGM-ADV 8:1-ARGM-ADV 9:1-ARGM-ADV 11:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 146 26 gold 是-v 是.01 ----- 26:0-rel 16:1-ARGM-DIS 17:1-ARGM-TMP 22:3-ARG0 28:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 146 30 gold 重要-v 重要.01 ----- 30:0-rel 28:1*29:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 146 36 gold 合作-v 合作.01 ----- 36:0-rel 35:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 146 41 gold 加强-v 加强.01 ----- 41:0-rel 32:1-ARG0 33:1-ARGM-LOC 42:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 5 gold 有-v 有.05 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV 6:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 11 gold 谈到-v 谈到.01 ----- 11:0-rel 6:3-ARG0 10:1-ARGM-DIS
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 13 gold 说-v 说.01 ----- 13:0-rel 6:3-ARG0 10:1-ARGM-DIS 14:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 16 gold 恐慌-v 恐慌.01 ----- 16:0-rel 14:1-ARG0 15:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 18 gold 说-v 说.01 ----- 18:0-rel 6:3-ARG0 10:1-ARGM-DIS 19:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 22 gold 像-v 像.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-ADV 23:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 35 gold 发生-v 发生.01 ----- 35:0-rel 29:1-ARGM-DIS 30:3-ARG0 36:1-ARGM-TMP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 42 gold 可能-v 可能.02 ----- 42:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 44 gold 会-v 会.02 ----- 44:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 53 gold 导致-v 导致.01 ----- 53:0-rel 46:1-ARG0 47:1-ARGM-ADV 51:1-ARGM-ADV 54:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 56 gold 死亡-v 死亡.01 ----- 56:0-rel 54:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 65 gold 可能-v 可能.02 ----- 65:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 67 gold 会-v 会.02 ----- 67:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 148 68 gold 发生-v 发生.01 ----- 68:0-rel 19:1-ARGM-PRP 28:1-ARG1 63:1-ARGM-DIS 64:1-ARGM-TMP 66:1-ARGM-ADV 69:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 149 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 149 5 gold 应该-v 应该.01 ----- 5:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 149 18 gold 是-v 是.01 ----- 18:0-rel 4:1-ARG0 6:2-ARGM-ADV 10:1-ARGM-ADV 17:1-ARGM-ADV 19:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 149 25 gold 可-v 可.01 ----- 25:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 149 28 gold 同日而语-v 同日而语.01 ----- 28:0-rel 19:1-ARG0 21:1-ARG0 24:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 151 13 gold 是-v 是.03 ----- 13:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 152 4 gold 经历-v 经历.01 ----- 4:0-rel 3:1-ARG0 9:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 152 23 gold 应该-v 应该.01 ----- 23:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 152 24 gold 说-v 说.07 ----- 24:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 152 28 gold 控制-v 控制.01 ----- 28:0-rel 27:1-ARG0 29:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 152 36 gold 积累-v 积累.01 ----- 36:0-rel 26:1-ARGM-LOC 33:1-ARG0 39:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 4 gold 发生-v 发生.01 ----- 4:0-rel 2:1-ARGM-DIS 3:1-ARG1 6:4-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 17 gold 应该-v 应该.01 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 18 gold 说-v 说.07 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 24 gold 有-v 有.01 ----- 24:0-rel 20:1-ARG0 21:1-ARGM-TMP 25:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 44 gold 发生-v 发生.01 ----- 44:0-rel 42:1-ARGM-DIS 43:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 48 gold 想-v 想.01 ----- 48:0-rel 42:2-ARGM-ADV 47:1-ARG0 49:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 50 gold 相信-v 相信.01 ----- 50:0-rel 49:1-ARG0 51:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 55 gold 能够-v 能够.01 ----- 55:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 153 56 gold 控制-v 控制.01 ----- 56:0-rel 51:1-ARG1 52:1-ARGM-ADV 53:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 156 12 gold 让-v 让.02 ----- 12:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:2-ARG0 10:1-ARGM-ADV 11:1-ARGM-ADV 13:1-ARG1 14:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 156 15 gold 感觉-v 感觉.01 ----- 15:0-rel 14:1-ARG0 23:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 157 7 gold 没-v 没.03 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 157 9 gold 找到-v 找到.01 ----- 9:0-rel 1:1-ARGM-TMP 5:1-ARG0 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 157 16 gold 对抗-v 对抗.01 ----- 16:0-rel 11:1*10:1-ARG0 12:2-ARGM-ADV 15:1-ARGM-ADV 18:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 157 25 gold 有-v 有.03 ----- 25:0-rel 22:1-ARGM-ADV 23:1-ARGM-TMP 24:1-ARG0 26:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 157 31 gold 知道-v 知道.01 ----- 31:0-rel 28:1-ARGM-DIS 29:1-ARG0 30:1-ARGM-ADV 32:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 157 36 gold 怎么样-v 怎么样.01 ----- 36:0-rel 32:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 158 4 gold 了解-v 了解.02 ----- 4:0-rel 1:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 9 gold 有-v 有.01 ----- 9:0-rel 1:1-ARGM-TPC 5:1-ARG0 6:1-ARGM-ADV 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 13 gold 可以-v 可以.01 ----- 13:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 14 gold 用于-v 用于.01 ----- 14:0-rel 11:1*12:1-ARG1 15:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 22 gold 是-v 是.01 ----- 22:0-rel 21:1-ARG0 23:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 31 gold 有-v 有.07 ----- 31:0-rel 28:1-ARGM-ADV 29:1-ARG0 30:1-ARGM-DIS 32:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 37 gold 是-v 是.01 ----- 37:0-rel 32:2-ARG0 36:1-ARGM-DIS 38:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 38 gold 可以-v 可以.01 ----- 38:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 159 39 gold 用于-v 用于.01 ----- 39:0-rel 32:2-ARG1 36:1-ARGM-DIS 40:3-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 160 7 gold 治疗-v 治疗.01 ----- 7:0-rel 6:1-ARG0 12:2*8:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 160 11 gold 预防-v 预防.01 ----- 11:0-rel 6:1-ARG0 12:2*8:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 160 13 gold 感染-v 感染.01 ----- 13:0-rel 12:1-ARG0 14:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 160 21 gold 起到-v 起到.01 ----- 21:0-rel 1:1-ARGM-DIS 3:1-ARGM-DIS 4:1-ARG0 5:1-ARGM-LOC 22:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 161 7 gold 是-v 是.04 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 161 9 gold 有限-v 有限.01 ----- 9:0-rel 6:1-ARG0 8:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 161 17 gold 是-v 是.01 ----- 17:0-rel 11:1-ARGM-DIS 15:1-ARG0 16:1-ARGM-ADV 18:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 161 22 gold 用-v 用.01 ----- 22:0-rel 18:3-ARG2 21:1-ARGM-ADV 24:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 163 14 gold 评价-v 评价.01 ----- 14:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARGM-TMP 4:1-ARGM-ADV 7:1-ARG0 8:1-ARGM-ADV 9:2-ARGM-ADV 17:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 163 20 gold 预防-v 预防.01 ----- 20:0-rel 19:1-ARG0 21:1*25:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 163 23 gold 治疗-v 治疗.01 ----- 23:0-rel 19:1-ARG0 21:1*25:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 163 26 gold 感染-v 感染.01 ----- 26:0-rel 25:1-ARG1 27:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 164 3 gold 想-v 想.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 164 8 gold 提到-v 提到.01 ----- 8:0-rel 5:1-ARGM-ADV 6:1-ARGM-TMP 7:1-ARG0 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 164 13 gold 感觉-v 感觉.01 ----- 13:0-rel 14:1*10:1-ARGM-TPC 11:1-ARG0 12:1-ARGM-ADV 14:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 164 28 gold 是-v 是.01 ----- 28:0-rel 20:1-ARGM-ADV 21:1-ARGM-TPC 27:1-ARG0 29:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 165 4 gold 要-v 要.06 ----- 4:0-rel 2:1-ARGM-DIS 3:1,5:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 165 6 gold 找到-v 找到.01 ----- 6:0-rel 5:1-ARG0 7:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 165 17 gold 治疗-v 治疗.01 ----- 17:0-rel 15:1*16:1-ARG0 19:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 165 40 gold 努力-v 努力.01 ----- 40:0-rel 32:4-ARG0 36:4-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 166 5 gold 说到-v 说到.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 166 14 gold 是-v 是.01 ----- 14:0-rel 1:1-ARGM-DIS 3:1-ARGM-ADV 8:1-ARGM-TPC 9:1-ARGM-ADV 13:1-ARG0 15:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 167 13 gold 流行-v 流行.01 ----- 13:0-rel 11:1-ARG0 12:1*10:1-ARGM-TMP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 167 20 gold 会-v 会.02 ----- 20:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 167 27 gold 是-v 是.01 ----- 27:0-rel 25:1-ARGM-DIS 26:1-ARG0 28:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 167 28 gold 能够-v 能够.01 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 167 31 gold 保护-v 保护.01 ----- 31:0-rel 25:1-ARGM-DIS 26:1-ARG0 29:2-ARGM-ADV 35:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 168 6 gold 使用-v 使用.01 ----- 6:0-rel 4:1-ARGM-DIS 2:2*8:1-ARG1 9:1-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 168 20 gold 证明-v 证明.01 ----- 20:0-rel 13:1-ARGM-DIS 18:1-ARGM-DIS 21:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 168 22 gold 是-v 是.01 ----- 22:0-rel 15:2*21:1-ARG0 23:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 168 23 gold 有效-v 有效.01 ----- 23:0-rel 15:2*21:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 169 5 gold 能-v 能.01 ----- 5:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 169 11 gold 预防-v 预防.01 ----- 11:0-rel 3:2-ARG0 9:2-ARGM-ADV 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 169 19 gold 引起-v 引起.01 ----- 19:0-rel 15:2-ARG0 14:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 169 39 gold 是-v 是.04 ----- 39:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 169 40 gold 属于-v 属于.01 ----- 40:0-rel 1:1-ARGM-TPC 26:1-ARGM-DIS 27:1-ARGM-TMP 31:3-ARG0 38:1-ARGM-ADV 42:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 170 4 gold 用于-v 用于.01 ----- 4:0-rel 2:1*3:1-ARG1 5:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 170 10 gold 是-v 是.04 ----- 10:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 170 12 gold 成熟-v 成熟.01 ----- 12:0-rel 1:1-ARGM-TMP 2:3-ARG0 9:1-ARGM-ADV 11:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 170 16 gold 是-v 是.03 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 171 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 171 3 gold 对-v 对.02 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 171 7 gold 成熟-v 成熟.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 171 10 gold 对-v 对.02 ----- 10:0-rel 9:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 172 5 gold 用于-v 用于.01 ----- 5:0-rel 3:1*4:1-ARG1 6:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 172 7 gold 感染-v 感染.01 ----- 7:0-rel 6:1-ARG1 8:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 172 13 gold 进展-v 进展.02 ----- 13:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:3-ARG0 12:1-ARGM-TMP 15:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 173 4 gold 是-v 是.04 ----- 4:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 173 8 gold 进行-v 进行.01 ----- 8:0-rel 1:1-ARGM-LOC 3:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 174 9 gold 有-v 有.03 ----- 9:0-rel 3:1-ARGM-DIS 4:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 175 3 gold 进行-v 进行.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 175 20 gold 开始-v 开始.01 ----- 20:0-rel 9:1-ARG0 18:1-ARGM-DIS 19:1-ARGM-ADV 21:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 177 11 gold 开始-v 开始.01 ----- 11:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-ADV 6:1-ARGM-TMP 10:1-ARGM-ADV 12:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 177 12 gold 进行-v 进行.01 ----- 12:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-DIS 6:1-ARGM-TMP 10:1-ARGM-ADV 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 178 16 gold 进入-v 进入.01 ----- 16:0-rel 3:1-ARGM-DIS 4:1-ARGM-TMP 9:1-ARGM-ADV 13:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV 17:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 6 gold 没有-v 没有.01 ----- 6:0-rel 4:1-ARG1 5:1-ARGM-ADV 7:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 13 gold 没有-v 没有.01 ----- 13:0-rel 4:1-ARG1 11:1-ARGM-DIS 12:1-ARGM-ADV 14:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 19 gold 批准-v 批准.01 ----- 19:0-rel 17:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 24 gold 用于-v 用于.01 ----- 24:0-rel 22:1*23:1-ARG1 28:3-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 44 gold 引起-v 引起.01 ----- 44:0-rel 29:1-ARG0 28:1*45:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 59 gold 说-v 说.01 ----- 59:0-rel 55:3-ARGM-TPC 58:1-ARG0 60:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 179 63 gold 没有-v 没有.01 ----- 63:0-rel 60:3-ARG0 62:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 181 7 gold 知道-v 知道.01 ----- 7:0-rel 3:3-ARGM-DIS 5:1-ARGM-DIS 6:1-ARG0 9:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 181 20 gold 感染-v 感染.01 ----- 20:0-rel 16:1-ARG1 15:1*17:1-ARGM-TMP 18:2-ARGM-ADV 21:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 181 30 gold 采取-v 采取.01 ----- 30:0-rel 27:3-ARG0 26:1*31:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 181 37 gold 是-v 是.01 ----- 37:0-rel 9:1-ARGM-TMP 11:1-ARGM-ADV 12:1-ARGM-TMP 26:3-ARG0 36:1-ARGM-ADV 38:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 181 39 gold 扑杀-v 扑杀.01 ----- 39:0-rel 38:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 182 3 gold 要-v 要.03 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 182 6 gold 用-v 用.01 ----- 6:0-rel 1:1-ARG0 2:1-ARGM-ADV 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 183 4 gold 有-v 有.01 ----- 4:0-rel 1:1-ARG0 5:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 184 14 gold 强-v 强.01 ----- 14:0-rel 11:1*10:1-ARG0 12:1-ARG0 13:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 184 22 gold 高-v 高.01 ----- 22:0-rel 18:1*19:1-ARG0 20:1-ARG0 21:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 184 27 gold 是-v 是.04 ----- 27:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 184 28 gold 采取-v 采取.01 ----- 28:0-rel 3:1-ARG1 24:1-ARG0 25:1-ARGM-ADV 26:1-ARGM-ADV 29:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 184 32 gold 扑杀-v 扑杀.01 ----- 32:0-rel 31:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 186 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 186 7 gold 通用-v 通用.01 ----- 7:0-rel 4:1-ARGM-LOC 3:1*8:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 187 3 gold 扑杀-v 扑杀.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 187 8 gold 是-v 是.01 ----- 8:0-rel 1:1-ARGM-ADV 2:2-ARG0 7:1-ARGM-ADV 9:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 187 11 gold 保护-v 保护.01 ----- 11:0-rel 10:1-ARG0 12:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 189 7 gold 防治-v 防治.01 ----- 7:0-rel 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 189 10 gold 是-v 是.01 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:1-ARGM-LOC 9:1-ARGM-DIS 11:2-ARG1 18:2-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 192 2 gold 感染-v 感染.01 ----- 2:0-rel 1:1-ARG1 5:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 192 10 gold 会-v 会.02 ----- 10:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 192 11 gold 表现-v 表现.01 ----- 11:0-rel 1:3-ARGM-TMP 9:1-ARG0 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 193 6 gold 看来-v 看来.01 ----- 6:0-rel 1:1-ARG0 2:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 193 9 gold 感染-v 感染.01 ----- 9:0-rel 8:1-ARG1 10:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 193 25 gold 说-v 说.01 ----- 25:0-rel 22:1-ARG0 23:1-ARGM-ADV 21:1*26:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 193 35 gold 是-v 是.04 ----- 35:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 193 36 gold 表现-v 表现.01 ----- 36:0-rel 34:1-ARG0 38:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 193 47 gold 是-v 是.01 ----- 47:0-rel 44:1-ARG0 45:1-ARGM-ADV 46:1-ARGM-ADV 48:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 194 3 gold 表现-v 表现.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 11 gold 说-v 说.01 ----- 11:0-rel 8:1-ARG0 9:1-ARGM-ADV 12:1*7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 17 gold 一样-v 一样.01 ----- 17:0-rel 4:1-ARG0 3:1*5:1-ARGM-LOC 6:1-ARG0 16:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 19 gold 是-v 是.01 ----- 19:0-rel 1:1-ARGM-DIS 3:3-ARG0 21:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 25 gold 说-v 说.01 ----- 25:0-rel 21:1-ARG0 22:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 31 gold 说-v 说.01 ----- 31:0-rel 29:1-ARG0 28:1*32:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 41 gold 感觉-v 感觉.01 ----- 41:0-rel 21:2-ARGM-ADV 27:1-ARGM-ADV 28:3-ARGM-TPC 38:1-ARG0 40:1-ARGM-ADV 42:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 50 gold 会-v 会.02 ----- 50:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 51 gold 康复-v 康复.01 ----- 51:0-rel 42:1-ARG0 43:1-ARGM-TMP 47:1-ARGM-ADV 49:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 55 gold 吃-v 吃.01 ----- 55:0-rel 53:1-ARG0 56:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 60 gold 退烧-v 退烧.01 ----- 60:0-rel 58:1*59:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 65 gold 会-v 会.02 ----- 65:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 195 66 gold 康复-v 康复.01 ----- 66:0-rel 42:1-ARG0 53:2-ARGM-ADV 64:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 24 gold 感染-v 感染.01 ----- 24:0-rel 23:1-ARG1 25:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 35 gold 看来-v 看来.01 ----- 35:0-rel 29:1-ARG0 30:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 38 gold 有-v 有.03 ----- 38:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 23:3-ARGM-TMP 28:1-ARGM-TMP 29:2-ARGM-ADV 37:1-ARG0 39:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 45 gold 发展-v 发展.03 ----- 45:0-rel 41:1-ARG1 42:3-ARGM-ADV 47:1-ARG3
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 54 gold 发展-v 发展.03 ----- 54:0-rel 53:1-ARG1 55:1-ARG3
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 59 gold 导致-v 导致.01 ----- 59:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 23:3-ARGM-TMP 28:1-ARGM-TMP 29:2-ARGM-MNR 37:1-ARG0 53:3-ARGM-TMP 58:1-ARGM-ADV 60:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 196 70 gold 导致-v 导致.01 ----- 70:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 23:3-ARGM-TMP 28:1-ARGM-TMP 29:2-ARGM-MNR 37:1-ARG0 53:3-ARGM-TMP 69:1-ARGM-ADV 71:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 7 gold 可以-v 可以.01 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 8 gold 看到-v 看到.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-DIR 6:1-ARGM-DIS 10:6-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 16 gold 高-v 高.01 ----- 16:0-rel 10:3-ARG0 14:1-ARGM-ADV 15:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 20 gold 接近-v 接近.01 ----- 20:0-rel 19:1-ARG0 21:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 30 gold 感染-v 感染.01 ----- 30:0-rel 29:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 32 gold 有-v 有.05 ----- 32:0-rel 23:1-ARGM-DIS 25:1-ARGM-ADV 26:1-ARG0 29:3-ARGM-TMP 33:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 36 gold 会-v 会.02 ----- 36:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 197 37 gold 死亡-v 死亡.01 ----- 37:0-rel 33:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 198 14 gold 要-v 要.03 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 198 15 gold 高-v 高.01 ----- 15:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 199 2 gold 要-v 要.03 ----- 2:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 199 3 gold 高-v 高.01 ----- 3:0-rel 1:1-ARG0 4:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 199 5 gold 多-v 多.03 ----- 5:0-rel 4:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 199 7 gold 要-v 要.03 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 199 18 gold 高-v 高.01 ----- 18:0-rel 1:1-ARG0 8:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 6 gold 有限-v 有限.01 ----- 6:0-rel 3:1-ARGM-TMP 4:1-ARG0 5:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 12 gold 讲-v 讲.01 ----- 12:0-rel 1:1-ARGM-DIS 2:1-ARGM-PRP 8:1-ARGM-DIS 9:1-ARG0 10:1-ARGM-LOC 13:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 22 gold 知道-v 知道.01 ----- 22:0-rel 16:1-ARGM-TMP 20:1-ARG0 24:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 26 gold 讲-v 讲.01 ----- 26:0-rel 24:1-ARGM-TMP 25:1-ARG0 27:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 28 gold 是-v 是.01 ----- 28:0-rel 27:1-ARG0 29:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 36 gold 讲-v 讲.01 ----- 36:0-rel 15:1-ARGM-PRP 31:1-ARGM-DIS 32:1-ARGM-TMP 35:1-ARG0 38:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 200 39 gold 是-v 是.01 ----- 39:0-rel 38:1-ARG0 40:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 202 3 gold 想-v 想.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 202 5 gold 可能-v 可能.02 ----- 5:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 202 6 gold 有-v 有.05 ----- 6:0-rel 4:1-ARG0 7:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 202 10 gold 是-v 是.01 ----- 10:0-rel 7:3-ARG0 11:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 202 29 gold 会-v 会.02 ----- 29:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 202 33 gold 有-v 有.03 ----- 33:0-rel 24:1-ARG0 25:1-ARGM-DIS 27:1-ARGM-ADV 28:1-ARGM-ADV 34:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 203 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 203 10 gold 需要-v 需要.03 ----- 10:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 203 11 gold 知道-v 知道.01 ----- 11:0-rel 4:1-ARGM-LOC 7:1-ARG0 12:1-ARGM-ADV 15:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 203 21 gold 有-v 有.05 ----- 21:0-rel 17:1-ARGM-DIS 20:1-ARG0 22:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 203 26 gold 有-v 有.05 ----- 26:0-rel 17:1-ARGM-DIS 20:1-ARG0 27:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 203 29 gold 死亡-v 死亡.01 ----- 29:0-rel 27:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 205 3 gold 有-v 有.07 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-DIS 4:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 205 13 gold 是-v 是.01 ----- 13:0-rel 12:1-ARGM-ADV 17:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 205 31 gold 高-v 高.01 ----- 31:0-rel 8:1-ARGM-ADV 9:1-ARGM-TPC 27:1-ARGM-DIS 28:2-ARG0 30:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 206 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 207 2 gold 应该-v 应该.01 ----- 2:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 207 3 gold 说-v 说.07 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 207 6 gold 低-v 低.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 208 17 gold 应该-v 应该.01 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 208 18 gold 说-v 说.07 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 208 28 gold 公布-v 公布.01 ----- 28:0-rel 9:2-ARGM-TMP 26:2-ARG0 30:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 208 36 gold 应该-v 应该.01 ----- 36:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 208 37 gold 说-v 说.07 ----- 37:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 208 42 gold 有-v 有.03 ----- 42:0-rel 41:1-ARG0 43:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 210 3 gold 有-v 有.05 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 210 12 gold 接触-v 接触.01 ----- 12:0-rel 4:3-ARG0 16:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 210 25 gold 死亡-v 死亡.01 ----- 25:0-rel 23:1*24:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 210 31 gold 是-v 是.01 ----- 31:0-rel 29:1-ARGM-DIS 30:1-ARG0 32:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 210 43 gold 是-v 是.01 ----- 43:0-rel 35:1-ARGM-LOC 41:1-ARG0 42:1-ARGM-DIS 44:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 210 44 gold 这样-v 这样.01 ----- 44:0-rel 35:1-ARGM-LOC 41:1-ARG0 42:1-ARGM-DIS
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 211 8 gold 有-v 有.05 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 7:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 211 13 gold 接触-v 接触.01 ----- 13:0-rel 9:2-ARG0 16:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 211 29 gold 参与-v 参与.01 ----- 29:0-rel 27:1-ARG0 26:1*28:1-ARGM-TMP 30:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 211 48 gold 接触-v 接触.01 ----- 48:0-rel 46:1*47:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 211 52 gold 多-v 多.03 ----- 52:0-rel 25:1-ARGM-TMP 34:2-ARGM-TMP 44:1-ARGM-ADV 45:1-ARGM-ADV 46:3-ARG0 51:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 5 gold 受-v 受.01 ----- 5:0-rel 3:1*4:1-ARG0 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 13 gold 应该-v 应该.01 ----- 13:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 14 gold 说-v 说.07 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 22 gold 掌握-v 掌握.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-TMP 19:1*23:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 27 gold 应该-v 应该.01 ----- 27:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 30 gold 少-v 少.01 ----- 30:0-rel 17:1*3:3-ARG1 18:1-ARGM-ADV 28:1-ARGM-ADV 29:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 32 gold 少-v 少.01 ----- 32:0-rel 17:1*3:3-ARG1 18:1-ARGM-ADV 28:1-ARGM-ADV 31:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 213 43 gold 少-v 少.01 ----- 43:0-rel 36:1-ARGM-DIS 37:3-ARG1 42:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 217 19 gold 接触-v 接触.01 ----- 19:0-rel 1:1-ARGM-DIS 6:1-ARGM-DIS 7:3-ARGM-LOC 12:1-ARGM-DIS 13:2-ARG0 15:1-ARGM-ADV 16:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 217 28 gold 感染-v 感染.01 ----- 28:0-rel 25:1*26:1-ARG1 27:1-ARGM-ADV 30:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 217 32 gold 可能-v 可能.02 ----- 32:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 217 34 gold 是-v 是.01 ----- 34:0-rel 24:1-ARGM-DIS 25:3-ARG0 33:1-ARGM-ADV 35:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 218 4 gold 对-v 对.02 ----- 4:0-rel 3:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 218 5 gold 对-v 对.02 ----- 5:0-rel 3:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 218 9 gold 少-v 少.01 ----- 9:0-rel 8:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 218 12 gold 少-v 少.01 ----- 12:0-rel 8:1-ARG1 11:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 219 14 gold 提醒-v 提醒.01 ----- 14:0-rel 1:1-ARGM-DIS 3:1-ARGM-LOC 11:1-ARG0 13:1-ARGM-DIS 16:2-ARG1 22:3-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 219 19 gold 从事-v 从事.01 ----- 19:0-rel 17:1*18:1-ARG0 20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 219 32 gold 是-v 是.04 ----- 32:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 219 38 gold 接触-v 接触.01 ----- 38:0-rel 34:1-ARGM-ADV 35:3-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 219 51 gold 少-v 少.01 ----- 51:0-rel 42:1-ARGM-DIS 44:3-ARG1 49:1-ARGM-DIS 50:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 221 15 gold 从事-v 从事.01 ----- 15:0-rel 13:1*14:1-ARG0 16:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 221 20 gold 发现-v 发现.01 ----- 20:0-rel 1:1-ARGM-DIS 5:1-ARGM-TPC 10:1-ARGM-TMP 11:2-ARG0 18:1-ARGM-TMP 19:1-ARGM-ADV 21:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 221 28 gold 是-v 是.04 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 222 42 gold 一样-v 一样.01 ----- 42:0-rel 1:1-ARGM-ADV 2:3-ARGM-TPC 13:2-ARGM-PRP 33:2-ARG0 35:1-ARG0 41:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 224 3 gold 可能-v 可能.02 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 224 8 gold 感染-v 感染.01 ----- 8:0-rel 1:1-ARGM-DIS 2:1-ARG1 6:1-ARGM-ADV 7:1-ARGM-ADV 9:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 17 gold 应该-v 应该.01 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 18 gold 说-v 说.07 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 22 gold 等待-v 等待.01 ----- 22:0-rel 19:2-ARG0 21:1-ARGM-TMP 23:1-ARG1 24:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 27 gold 去-v 去.02 ----- 27:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 28 gold 研究-v 研究.01 ----- 28:0-rel 24:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 31 gold 去-v 去.02 ----- 31:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 226 32 gold 解决-v 解决.01 ----- 32:0-rel 24:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 227 7 gold 发现-v 发现.01 ----- 7:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:1-ARG0 4:1-ARGM-ADV 5:1-ARGM-ADV 6:1-ARGM-ADV 8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 227 9 gold 是-v 是.01 ----- 9:0-rel 8:1-ARG0 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 227 12 gold 携带-v 携带.01 ----- 12:0-rel 11:1*10:1-ARG0 14:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 230 8 gold 发现-v 发现.01 ----- 8:0-rel 3:1-ARGM-TMP 6:1-ARGM-DIS 7:1-ARG0 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 230 25 gold 感染-v 感染.01 ----- 25:0-rel 24:1-ARG1 28:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 230 34 gold 是-v 是.01 ----- 34:0-rel 10:1-ARGM-ADV 18:1-ARGM-ADV 21:3-ARGM-TPC 24:3-ARGM-TMP 32:1-ARG0 33:1-ARGM-ADV 35:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 230 36 gold 高-v 高.01 ----- 36:0-rel 10:1-ARGM-MNR 18:1-ARGM-ADV 21:3-ARGM-TPC 24:3-ARGM-TMP 32:1-ARG0 33:1-ARGM-ADV 35:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 230 40 gold 是-v 是.01 ----- 40:0-rel 39:1-ARG0 41:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 231 12 gold 受到-v 受到.01 ----- 12:0-rel 4:1-ARGM-DIS 6:1-ARGM-ADV 7:1-ARG0 9:1-ARGM-ADV 10:2-ARGM-ADV 13:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 3 gold 看到-v 看到.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 4:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 6 gold 是-v 是.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 29 gold 是-v 是.01 ----- 29:0-rel 9:2-ARGM-TPC 11:1-ARGM-LOC 17:5-ARG0 28:1-ARGM-ADV 30:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 31 gold 高-v 高.01 ----- 31:0-rel 9:2-ARGM-TPC 11:1-ARGM-LOC 17:5-ARG0 28:1-ARGM-ADV 30:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 36 gold 有-v 有.05 ----- 36:0-rel 34:1-ARG0 37:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 42 gold 在-v 在.02 ----- 42:0-rel 37:2-ARG0 43:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 55 gold 是-v 是.04 ----- 55:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 56 gold 发育-v 发育.01 ----- 56:0-rel 46:1-ARGM-TPC 47:1-ARGM-ADV 49:1-ARGM-ADV 50:3-ARG0 54:1-ARGM-ADV 60:1-ARGM-EXT
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 232 60 gold 成熟-v 成熟.01 ----- 60:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 233 6 gold 是-v 是.04 ----- 6:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 233 9 gold 是-v 是.01 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 233 14 gold 受到-v 受到.01 ----- 14:0-rel 11:1*10:1-ARG0 12:2-ARGM-ADV 15:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 233 23 gold 是-v 是.01 ----- 23:0-rel 20:1-ARG0 24:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 233 28 gold 受到-v 受到.01 ----- 28:0-rel 24:1*25:1-ARG0 26:2-ARGM-ADV 29:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 234 14 gold 是-v 是.04 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 234 15 gold 高-v 高.01 ----- 15:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 9:2-ARG0 13:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 234 18 gold 称-v 称.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1 20:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 234 21 gold 为-v 为.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 236 8 gold 可能-v 可能.02 ----- 8:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 236 9 gold 带有-v 带有.01 ----- 9:0-rel 3:1-ARGM-ADV 6:1-ARGM-TPC 7:1-ARG0 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 236 29 gold 会-v 会.02 ----- 29:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 236 30 gold 下降-v 下降.01 ----- 30:0-rel 15:1-ARGM-DIS 18:1-ARGM-ADV 24:2-ARG0 28:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 238 8 gold 可以-v 可以.01 ----- 8:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 238 9 gold 看到-v 看到.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARGM-TMP 3:2-ARGM-MNR 6:1-ARG0 7:1-ARGM-DIS 11:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 238 21 gold 有-v 有.05 ----- 21:0-rel 11:1,14:1,17:1-ARG0 20:1-ARGM-DIS 23:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 238 24 gold 感染-v 感染.01 ----- 24:0-rel 23:1-ARG1 26:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 239 14 gold 是-v 是.01 ----- 14:0-rel 1:1-ARGM-DIS 3:2-ARGM-LOC 7:2-ARG0 15:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 239 17 gold 应该-v 应该.01 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 239 19 gold 保护-v 保护.01 ----- 19:0-rel 16:1-ARG0 18:1-ARGM-ADV 15:1*20:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 240 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 4:1-ARG0 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 240 8 gold 要-v 要.03 ----- 8:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 240 9 gold 基于-v 基于.01 ----- 9:0-rel 7:1-ARG0 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 240 17 gold 有-v 有.07 ----- 17:0-rel 15:1-ARG0 16:1-ARGM-DIS 18:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 240 20 gold 是-v 是.01 ----- 20:0-rel 18:1-ARG0 21:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 240 22 gold 基于-v 基于.01 ----- 22:0-rel 21:1-ARG0 23:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 3:3-ARG0 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 11 gold 没有-v 没有.02 ----- 11:0-rel 7:1-ARG0 8:1-ARGM-TMP 12:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 18 gold 保护-v 保护.01 ----- 18:0-rel 7:1-ARG0 8:1-ARGM-TMP 19:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 28 gold 能-v 能.01 ----- 28:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 35 gold 预防-v 预防.01 ----- 35:0-rel 29:1-ARG0 30:1-ARGM-ADV 31:1-ARGM-MNR 33:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 37 gold 让-v 让.02 ----- 37:0-rel 29:1-ARG0 38:2-ARG1 40:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 241 41 gold 得到-v 得到.01 ----- 41:0-rel 40:1-ARG0 42:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 5 gold 是-v 是.01 ----- 5:0-rel 1:1-ARGM-DIS 2:2-ARGM-TMP 4:1-ARG0 6:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 19 gold 是-v 是.01 ----- 19:0-rel 12:3-ARGM-ADV 17:1-ARG0 18:1-ARGM-ADV 20:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 22 gold 是-v 是.01 ----- 22:0-rel 20:1-ARG0 23:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 24 gold 控制-v 控制.01 ----- 24:0-rel 23:1-ARG0 25:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 28 gold 让-v 让.02 ----- 28:0-rel 23:1-ARG0 29:1-ARG1 30:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 32 gold 接触-v 接触.01 ----- 32:0-rel 30:1-ARG0 31:1-ARGM-ADV 33:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 242 37 gold 携带-v 携带.01 ----- 37:0-rel 35:1*36:1-ARG0 38:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 244 2 gold 是-v 是.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 244 7 gold 有效-v 有效.01 ----- 7:0-rel 3:1*4:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 17 gold 要-v 要.03 ----- 17:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 18 gold 教育-v 教育.01 ----- 18:0-rel 1:1-ARGM-DIS 3:1-ARGM-MNR 8:1-ARGM-DIS 9:1-ARGM-DIS 10:1-ARGM-LOC 15:1-ARG0 16:1-ARGM-ADV 19:1-ARG1 20:2-ARG2 27:1-ARGM-PRP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 22 gold 要-v 要.03 ----- 22:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 23 gold 吃-v 吃.01 ----- 23:0-rel 20:1-ARG0 21:1-ARGM-ADV 24:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 33 gold 有-v 有.05 ----- 33:0-rel 28:1-ARG0 34:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 38 gold 死-v 死.01 ----- 38:0-rel 36:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 43 gold 舍-v 舍.02 ----- 43:0-rel 34:2-ARGM-TPC 36:4-ARGM-TMP 42:1-ARG0 46:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 52 gold 会-v 会.02 ----- 52:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 53 gold 拿来-v 拿来.02 ----- 53:0-rel 50:1-ARG0 51:1-ARGM-DIS
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 54 gold 吃-v 吃.01 ----- 54:0-rel 50:1-ARG0 51:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 58 gold 可能-v 可能.02 ----- 58:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 246 59 gold 是-v 是.01 ----- 59:0-rel 56:1-ARGM-DIS 57:1-ARG0 60:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 250 18 gold 给予-v 给予.01 ----- 18:0-rel 1:1-ARGM-LOC 7:1-ARGM-ADV 8:1-ARG0 11:1-ARG1 17:1-ARGM-ADV 20:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 251 3 gold 对-v 对.02 ----- 3:0-rel 2:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 252 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 253 21 gold 感染-v 感染.01 ----- 21:0-rel 20:1-ARG1 22:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 253 39 gold 是-v 是.01 ----- 39:0-rel 3:1-ARGM-ADV 30:2-ARG0 38:1-ARGM-ADV 40:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 253 41 gold 高-v 高.01 ----- 41:0-rel 3:1-ARGM-TPC 30:2-ARG0 38:1-ARGM-ADV 40:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 255 6 gold 会-v 会.02 ----- 6:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 255 15 gold 给-v 给.01 ----- 15:0-rel 1:1-ARGM-DIS 2:1-ARGM-ADV 3:1-ARG0 5:1-ARGM-DIS 14:1-ARGM-DIS 17:1-ARG2 20:1*10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 255 30 gold 举-v 举.01 ----- 30:0-rel 22:1-ARGM-DIS 29:1-ARG0 31:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 255 47 gold 去-v 去.01 ----- 47:0-rel 34:1-ARGM-TPC 41:3-ARG0 46:1-ARGM-ADV 49:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 257 3 gold 去-v 去.01 ----- 3:0-rel 1:1-ARGM-DIS 2:1-ARG0 5:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 257 9 gold 去-v 去.01 ----- 9:0-rel 1:1-ARGM-DIS 2:1-ARG0 11:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 257 23 gold 有-v 有.01 ----- 23:0-rel 15:1-ARGM-DIS 16:1-ARGM-TMP 19:1-ARG0 22:1-ARGM-ADV 24:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 257 28 gold 在-v 在.01 ----- 28:0-rel 24:2-ARG0 29:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 259 6 gold 做-v 做.01 ----- 6:0-rel 3:1-ARG0 2:1*4:1-ARGM-PRP 5:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 259 12 gold 是-v 是.01 ----- 12:0-rel 1:1-ARGM-DIS 2:3-ARGM-TPC 10:1-ARG0 13:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 259 14 gold 希望-v 希望.02 ----- 14:0-rel 13:1-ARG0 15:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 259 18 gold 能-v 能.01 ----- 18:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 259 24 gold 提供-v 提供.01 ----- 24:0-rel 15:1-ARG0 19:1-ARG2 25:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 260 4 gold 想-v 想.01 ----- 4:0-rel 1:1-ARGM-DIS 3:1-ARG0 6:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 260 14 gold 希望-v 希望.02 ----- 14:0-rel 6:1-ARGM-LOC 12:1-ARG0 13:1-ARGM-ADV 15:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 260 20 gold 是-v 是.01 ----- 20:0-rel 15:2-ARG0 21:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 260 33 gold 需要-v 需要.01 ----- 33:0-rel 32:1-ARG0 34:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 262 27 gold 是-v 是.04 ----- 27:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 262 28 gold 提出-v 提出.01 ----- 28:0-rel 3:1-ARGM-DIS 4:1-ARGM-ADV 9:1-ARGM-DIS 10:1-ARGM-LOC 18:1-ARG0 26:1-ARGM-DIS 30:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 263 2 gold 看-v 看.02 ----- 2:0-rel 1:1-ARG0 4:1-ARGM-ADV 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 264 6 gold 是-v 是.01 ----- 6:0-rel 1:2-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 264 8 gold 建立-v 建立.01 ----- 8:0-rel 7:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 264 13 gold 合作-v 合作.01 ----- 13:0-rel 10:1-ARG0 12:1*9:1-ARGM-MNR
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 264 23 gold 谈到-v 谈到.01 ----- 23:0-rel 17:1-ARGM-LOC 21:1-ARG0 22:1-ARGM-DIS 24:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 264 25 gold 建立-v 建立.01 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 265 6 gold 是-v 是.01 ----- 6:0-rel 1:1-ARGM-DIS 2:1-ARGM-DIS 3:1-ARG0 5:1-ARGM-ADV 7:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 265 8 gold 加强-v 加强.01 ----- 8:0-rel 7:1-ARG0 9:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 266 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 266 6 gold 发挥-v 发挥.01 ----- 6:0-rel 5:1-ARG0 7:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 267 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 267 6 gold 争取-v 争取.01 ----- 6:0-rel 5:1-ARG0 7:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 2 gold 看-v 看.02 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 4 gold 有-v 有.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 8 gold 有-v 有.01 ----- 8:0-rel 3:1-ARG0 9:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 10 gold 建设-v 建设.01 ----- 10:0-rel 3:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 13 gold 有-v 有.08 ----- 13:0-rel 3:1-ARG0 14:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 35 gold 觉得-v 觉得.01 ----- 35:0-rel 22:2-ARGM-LOC 27:2-ARG0 30:1-ARGM-ADV 36:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 40 gold 缺-v 缺.01 ----- 40:0-rel 37:1*38:1-ARG0 39:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 47 gold 需要-v 需要.01 ----- 47:0-rel 44:1*45:1-ARG0 46:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 268 56 gold 是-v 是.01 ----- 56:0-rel 36:1-ARGM-TMP 37:4-ARG0 57:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 269 3 gold 应该-v 应该.01 ----- 3:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 269 4 gold 说-v 说.07 ----- 4:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 269 6 gold 是-v 是.04 ----- 6:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 269 9 gold 做到-v 做到.01 ----- 9:0-rel 5:1-ARG0 7:1-ARGM-ADV 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 269 23 gold 能够-v 能够.01 ----- 23:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 269 34 gold 能够-v 能够.01 ----- 34:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 271 4 gold 是-v 是.01 ----- 4:0-rel 1:1-ARGM-DIS 2:1-ARG0 3:1-ARGM-ADV 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 272 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 272 6 gold 在-v 在.02 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 273 11 gold 意识-v 意识.01 ----- 11:0-rel 4:1-ARGM-TMP 5:3-ARG0 9:1-ARGM-TMP 10:1-ARGM-ADV 15:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 273 18 gold 是-v 是.01 ----- 18:0-rel 15:1-ARGM-DIS 16:1-ARG0 17:1-ARGM-ADV 19:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 273 30 gold 是-v 是.01 ----- 30:0-rel 29:1-ARG0 31:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 273 36 gold 要-v 要.03 ----- 36:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 273 37 gold 关注-v 关注.01 ----- 37:0-rel 32:1-ARG0 35:1-ARGM-ADV 31:1*38:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 14 gold 着火-v 着火.01 ----- 14:0-rel 11:2-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 20 gold 看-v 看.02 ----- 20:0-rel 19:1-ARG0 22:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 24 gold 有-v 有.03 ----- 24:0-rel 22:2-ARG0 25:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 27 gold 去-v 去.02 ----- 27:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 28 gold 救-v 救.01 ----- 28:0-rel 19:1-ARG0 26:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 43 gold 应该-v 应该.01 ----- 43:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 44 gold 说-v 说.07 ----- 44:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 46 gold 是-v 是.04 ----- 46:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 274 48 gold 意识-v 意识.01 ----- 48:0-rel 41:1*45:1-ARG0 47:1-ARGM-ADV 50:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 275 3 gold 是-v 是.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 276 7 gold 没有-v 没有.01 ----- 7:0-rel 1:1-ARGM-DIS 2:2-ARG1 4:1-ARGM-ADV 5:1-ARGM-TMP 6:1-ARGM-ADV 8:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 276 16 gold 应该-v 应该.01 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 277 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 12 gold 发展-v 发展.05 ----- 12:0-rel 11:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 18 gold 发生-v 发生.01 ----- 18:0-rel 6:1-ARGM-TMP 9:2-ARG1 15:1-ARGM-ADV 16:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 25 gold 发展-v 发展.05 ----- 25:0-rel 24:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 28 gold 发生-v 发生.01 ----- 28:0-rel 21:1-ARGM-DIS 22:1-ARGM-DIS 24:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 36 gold 能-v 能.02 ----- 36:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 41 gold 是-v 是.04 ----- 41:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 43 gold 看-v 看.02 ----- 43:0-rel 31:1-ARGM-DIS 32:2-ARGM-TPC 34:1-ARG0 35:1-ARGM-ADV 38:1-ARGM-LOC 40:1-ARGM-ADV 42:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 46 gold 管-v 管.01 ----- 46:0-rel 31:1-ARGM-DIS 32:2-ARGM-TPC 34:1-ARG0 35:1-ARGM-ADV 38:1-ARGM-LOC 40:1-ARGM-ADV 45:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 50 gold 是-v 是.04 ----- 50:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 278 52 gold 行-v 行.04 ----- 52:0-rel 48:1-ARG0 49:1-ARGM-ADV 51:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 279 14 gold 有-v 有.01 ----- 14:0-rel 2:1-ARGM-TMP 3:1-ARGM-DIS 6:1-ARGM-TPC 9:1-ARG0 10:1-ARGM-DIR 13:1-ARGM-ADV 15:1-ARG1 17:1-ARGM-PRP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 279 27 gold 快-v 快.01 ----- 27:0-rel 21:4-ARG0 26:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 280 3 gold 有-v 有.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-ADV 4:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 281 21 gold 频繁-v 频繁.01 ----- 21:0-rel 1:1-ARGM-DIS 2:2-ARGM-TPC 4:1-ARGM-TMP 5:3-ARG0 17:1-ARGM-DIS 18:1-ARGM-ADV 19:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 281 36 gold 带-v 带.02 ----- 36:0-rel 24:1-ARGM-ADV 25:1-ARGM-ADV 26:1-ARGM-TMP 28:1-ARG0 29:1-ARGM-ADV 31:2*39:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 282 2 gold 觉得-v 觉得.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 282 7 gold 是-v 是.04 ----- 7:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 282 9 gold 重要-v 重要.01 ----- 9:0-rel 3:1-ARG0 8:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 283 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 286 7 gold 觉得-v 觉得.01 ----- 7:0-rel 1:1-ARGM-DIS 6:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 287 8 gold 觉得-v 觉得.01 ----- 8:0-rel 1:2-ARGM-LOC 6:1-ARGM-TPC 7:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 288 2 gold 总结-v 总结.01 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 288 10 gold 是-v 是.04 ----- 10:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 288 12 gold 重要-v 重要.01 ----- 12:0-rel 1:2-ARGM-ADV 4:1-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV 11:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 290 21 gold 出发-v 出发.01 ----- 21:0-rel 13:1-ARG0 14:1-ARGM-ADV 15:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 290 30 gold 重要-v 重要.01 ----- 30:0-rel 27:1*28:1-ARG0 29:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 290 33 gold 是-v 是.01 ----- 33:0-rel 26:1-ARGM-TMP 27:3-ARG0 32:1-ARGM-ADV 34:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 290 35 gold 要-v 要.03 ----- 35:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 290 36 gold 提高-v 提高.01 ----- 36:0-rel 34:1-ARG0 37:5-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 291 4 gold 重要-v 重要.01 ----- 4:0-rel 1:1-ARG0 3:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 292 2 gold 对-v 对.02 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 293 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 293 7 gold 感谢-v 感谢.02 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:2-ARG1 13:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 293 14 gold 能够-v 能够.01 ----- 14:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 293 15 gold 来到-v 来到.01 ----- 15:0-rel 13:1-ARG0 16:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 5 gold 想-v 想.01 ----- 5:0-rel 3:1-ARGM-DIS 4:1-ARG0 8:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 9 gold 伴随-v 伴随.01 ----- 9:0-rel 8:1-ARG0 11:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 18 gold 包括-v 包括.01 ----- 18:0-rel 16:1-ARGM-ADV 17:1-ARG0 19:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 37 gold 说明-v 说明.02 ----- 37:0-rel 8:2-ARGM-ADV 16:2-ARGM-ADV 36:1-ARG0 40:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 43 gold 形成-v 形成.01 ----- 43:0-rel 40:1-ARG1 41:1-ARGM-TMP 42:1-ARGM-ADV 45:3-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 50 gold 要-v 要.03 ----- 50:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 51 gold 形成-v 形成.01 ----- 51:0-rel 49:1-ARG1 52:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 55 gold 来-v 来.05 ----- 55:0-rel 49:1-ARG0 54:1-ARGM-ADV 57:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 61 gold 想-v 想.01 ----- 61:0-rel 60:1-ARG0 62:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 64 gold 应该-v 应该.01 ----- 64:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 294 65 gold 是-v 是.01 ----- 65:0-rel 62:1-ARG0 66:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 295 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 295 6 gold 感谢-v 感谢.02 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV 7:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 296 6 gold 感谢-v 感谢.02 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-DIS 7:1-ARG1 8:2-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 296 9 gold 收看-v 收看.01 ----- 9:0-rel 8:1-ARG0 10:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 297 3 gold 再见-v 再见.01 ----- 3:0-rel 1:1-ARG0 2:1-ARGM-TMP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 298 5 gold 好-v 好.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-TMP
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 299 4 gold 进入-v 进入.01 ----- 4:0-rel 1:1-ARGM-TMP 2:1-ARG0 3:1-ARGM-ADV 6:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 299 15 gold 配合-v 配合.01 ----- 15:0-rel 11:1-ARGM-DIS 12:1-ARG0 13:1-ARGM-DIS 14:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 300 10 gold 会-v 会.02 ----- 10:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 300 11 gold 继续-v 继续.01 ----- 11:0-rel 1:2-ARGM-TMP 5:3-ARG1 8:1-ARGM-ADV 9:1-ARGM-DIS
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 300 14 gold 有-v 有.07 ----- 14:0-rel 1:2-ARGM-TMP 5:3-ARG0 13:1-ARGM-DIS 15:4-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 300 16 gold 继续-v 继续.01 ----- 16:0-rel 15:1-ARG1 17:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 300 17 gold 扩大-v 扩大.01 ----- 17:0-rel 15:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 301 12 gold 会-v 会.02 ----- 12:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 301 16 gold 蔓延-v 蔓延.02 ----- 16:0-rel 1:1-ARGM-LOC 5:3-ARG0 11:1-ARGM-ADV 13:1-ARGM-DIR 15:1-ARGM-ADV 18:3-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 302 24 gold 会-v 会.02 ----- 24:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 302 25 gold 遭遇-v 遭遇.01 ----- 25:0-rel 1:1-ARGM-LOC 6:4-ARG0 23:1-ARGM-DIS 26:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 302 31 gold 会-v 会.02 ----- 31:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 302 32 gold 出现-v 出现.01 ----- 32:0-rel 28:2-ARG0 33:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 303 10 gold 扩大-v 扩大.01 ----- 10:0-rel 1:1-ARGM-DIS 2:1-ARGM-LOC 6:3-ARG1 9:1-ARGM-DIS
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 303 16 gold 会-v 会.02 ----- 16:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 303 17 gold 加强-v 加强.01 ----- 17:0-rel 13:1-ARGM-DIS 14:1-ARG1 15:1-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 304 22 gold 会-v 会.02 ----- 22:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 304 23 gold 遭遇-v 遭遇.01 ----- 23:0-rel 1:1-ARGM-ADV 2:1-ARGM-LOC 21:1-ARG0 24:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 3 gold 到-v 到.03 ----- 3:0-rel 2:1-ARG0 5:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 9 gold 是-v 是.01 ----- 9:0-rel 7:1-ARGM-DIS 8:1-ARGM-ADV 10:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 19 gold 会-v 会.02 ----- 19:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 22 gold 缩小-v 缩小.01 ----- 22:0-rel 1:1-ARGM-DIS 2:2-ARGM-TMP 13:4-ARG1 18:1-ARGM-ADV 20:2-ARGM-ADV
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 29 gold 降-v 降.02 ----- 29:0-rel 28:1-ARG0 30:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 32 gold 会-v 会.02 ----- 32:0-rel
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 305 33 gold 分布-v 分布.01 ----- 33:0-rel 24:1-ARGM-ADV 25:1-ARGM-LOC 28:2-ARG0 31:1-ARGM-ADV 34:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 306 2 gold 好-v 好.01 ----- 2:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 306 6 gold 请-v 请.01 ----- 6:0-rel 4:1-ARGM-DIS 5:1-ARG1 7:1-ARG2
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 306 7 gold 看-v 看.02 ----- 7:0-rel 4:1-ARGM-TMP 5:1-ARG0 8:2-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 307 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 309 3 gold 晴-v 晴.01 ----- 3:0-rel 1:1-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 311 3 gold 阴-v 阴.01 ----- 3:0-rel 1:1-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 313 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 314 3 gold 多云-v 多云.01 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 315 3 gold 晴-v 晴.01 ----- 3:0-rel 1:1-ARGM-LOC
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 317 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 318 3 gold 多云-v 多云.01 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 319 3 gold 多云-v 多云.01 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 320 3 gold 多云-v 多云.01 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 321 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 322 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 323 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 324 3 gold 多云-v 多云.01 ----- 3:0-rel 1:1-ARG0
+bc/cctv/00/cctv_0007@0007@cctv@bc@ch@on 325 4 gold 转-v 转.02 ----- 4:0-rel 3:1-ARG0 5:1-ARG1

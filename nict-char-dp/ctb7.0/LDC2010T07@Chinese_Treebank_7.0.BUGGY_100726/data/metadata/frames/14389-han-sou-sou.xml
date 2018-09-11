@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 寒飕飕 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (DP (DT 全))
+                    (NP (NN 省)))
+                    (DP (DT 各))
+                    (NP (NN 地)))
+                    (VP (ADVP (AD 不但))
+                    (VP (VV 寒飕飕)) 
+                    
+                </parse>
+                <arg n="0">
+                    全 省 各 地          
+                </arg>
+                <arg n="m" f="dis">
+                    不但          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

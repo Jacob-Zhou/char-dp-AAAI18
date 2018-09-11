@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 日趋 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="state tend towards"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 国内)
+                    (NN 毒品))
+                    (VP (ADVP (VV 日趋))
+                    (VP (VV 泛滥)))) 
+                    
+                </parse>
+                <arg n="0">
+                    国内 毒品          
+                </arg>
+                <arg n="1">
+                    泛滥          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

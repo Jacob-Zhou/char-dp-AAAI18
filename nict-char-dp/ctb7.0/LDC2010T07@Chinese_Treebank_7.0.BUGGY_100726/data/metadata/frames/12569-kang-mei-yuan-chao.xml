@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 抗美援朝 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 中国)
+                    (NN 人民)
+                    (NN 志愿军))
+                    (VP (VP (VV 抗美援朝))
+                    (VP (VSB (VV 出国)
+                    (VV 作战))))) 
+                    
+                </parse>
+                <arg n="0">
+                    中国 人民 志愿军          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

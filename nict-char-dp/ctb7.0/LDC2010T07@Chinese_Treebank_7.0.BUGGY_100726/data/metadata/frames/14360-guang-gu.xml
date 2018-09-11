@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 光顾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 patronizes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD １４)
+                    (CLP (M 位)))
+                    (NP (NN 读者)))
+                    (VP (VV 光顾)
+                    (AS 过)
+                    (NP-OBJ (NN 借书处)))) 
+                    
+                </parse>
+                <arg n="0">
+                    １４ 位 读者          
+                </arg>
+                <arg n="1">
+                    借书处          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

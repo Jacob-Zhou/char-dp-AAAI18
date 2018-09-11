@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 参半 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entities being half and half"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (ADJP (JJ 快)
+                    (PU 、)
+                    (JJ 慢))
+                    (NP (NN 歌) ))
+                    (VP (VV 参半))) 
+                </parse>
+                <arg n="0">
+                    快 、 慢 歌 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

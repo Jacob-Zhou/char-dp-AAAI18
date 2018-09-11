@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="压制-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+中共 可以 不 选择 造价 高 、 数量 有限 的 导弹 飞弹 ， 而 以 大量 造价 低 、 射程 三百六十 公里 的 火箭炮 从 沿海 基地 攻击 我方 机场 ， 压制 我方 空优
+统一 企业 遭 「 千面人 」 恐吓 的 新闻 ， 业主 希望 全面 压制
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+让 铼德 得以 从 「 压制 塑胶片 」 的 传统 型态 迅速 升级
+压制 好 了 後 ， 要 放入 大 锅 开水 中 煮熟
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+当时 战乱 逃亡 的 人家 不 方便 携带 细 碎 的 白米 ， 就 将 米 碾磨 成 浆 ， 再 压制 成 线条状
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

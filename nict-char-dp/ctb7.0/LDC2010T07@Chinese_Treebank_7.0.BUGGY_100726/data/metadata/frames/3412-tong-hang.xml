@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 通行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing which is common practice"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 出口)
+                    (NN 信用)
+                    (NN 保险)
+                    (NN 制度))
+                    (VP (VC 是)
+                    (NP-PRD (QP (CD 一)
+                    (CLP (M 种)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-LOC (NN 国际))
+                    (VP (VV 通行))))
+                    (DEC 的)))
+                    (NP (NN 惯例))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 	  
+                </arg>
+                <arg n="m" f="loc">
+                    国际 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="people passing through"/>
+        <role argnum="1" argrole="road/passsage"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 主辅路))
+                    (VP (ADVP (AD 都))
+                    (ADVP (AD 不))
+                    (VP (VV 能)
+                    (VP (VV 通行)))))
+                    (DEC 的)))
+                    (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 路段))) 
+                    
+                </parse>
+                <arg n="1" f="psr">
+                    主辅路	  
+                </arg>
+                <arg n="1" f="pse">
+                    *T*-1 -> 路段	  
+                </arg>
+                <arg n="m" f="adv">
+                    都	  
+                </arg>
+                <arg n="m" f="adv">
+                    不	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

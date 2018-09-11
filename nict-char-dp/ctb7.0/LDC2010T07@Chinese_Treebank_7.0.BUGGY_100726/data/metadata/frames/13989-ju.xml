@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 踞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="position/rank"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (NP-LOC (DP (DT 本))
+                    (NP (NN 省)))
+                    (VP (VV 踞)
+                    (NP-OBJ (NN 龙头)
+                    (NN 地位)))))
+                    (DEC 的)))
+                    (NP-PN (NR 天道盟)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 天道盟          
+                </arg>
+                <arg n="m" f="loc">
+                    本 省          
+                </arg>
+                <arg n="1">
+                    龙头 地位          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

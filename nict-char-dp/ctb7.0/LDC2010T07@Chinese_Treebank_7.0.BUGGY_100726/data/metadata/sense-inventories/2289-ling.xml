@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="令-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to cause, to make" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 今年 夏天 天气 连续 闷热 ， 上海 市区 内 不少 属于 春 秋季 的 花木 目前 纷纷 开花吐艳 ， 令 一些 种花 行家 也 大惑不解 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to order, to command, to instruct" group="1">
+<commentary>
+</commentary>
+<examples>
+成帝 却 令 卫士 拉出 斩首 ， 朱云 紧 攀 殿槛 不 去 ， 殿槛 遂 遭 他 拉断
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="21" ann_1_2_agreement="0.952380952381" />
+</inventory>

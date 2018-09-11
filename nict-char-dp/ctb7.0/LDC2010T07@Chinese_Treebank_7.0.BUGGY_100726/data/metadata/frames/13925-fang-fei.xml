@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 放飞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 台湾))
+                    (NP (NN 风筝队)))
+                    (VP (VV 放飞)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 长))
+                    (VP (VV 达)
+                    (QP-OBJ (CD ５７０)
+                    (CLP (M 米))))))
+                    (DEC 的)))
+                    (NP (NN 风筝))) 
+                    
+                </parse>
+                <arg n="0">
+                    台湾 风筝队           
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 风筝          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

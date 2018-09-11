@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 与着 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-ADV (P 同)
+                    (NP (PN 他)))
+                    (VP (VV 与着))))
+                    (DEC 的)))
+                    (NP (ADJP (ADVP (AD 最))
+                    (ADJP (JJ 高)))
+                    (NP (NN 特性)))
+                    (NP (NN 真圣人))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 真圣人          
+                </arg>
+                <arg n="0" f="crd">
+                    同 他          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

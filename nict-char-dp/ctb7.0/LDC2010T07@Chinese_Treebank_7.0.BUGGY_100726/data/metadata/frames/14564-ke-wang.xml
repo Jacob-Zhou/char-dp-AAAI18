@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 可望 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 普京))
+                    (DEG 的))
+                    (DP (DT 这)
+                    (CLP (M 次)))
+                    (NP (NN 访)))
+                    (VP (VV 可望)
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-BNF (P 为)
+                    (NP (DNP (NP-PN (NR 俄罗斯)
+                    (CC 和)
+                    (NR 印度))
+                    (DEG 的))
+                    (NP (NN 关系))))
+                    (VP (VV 注入)
+                    (NP-OBJ (DNP (ADJP (JJ 新))
+                    (DEC 的))
+                    (NP (NN 活力)))) 
+                    
+                </parse>
+                <arg n="0">
+                    普京 的 这 次 访          
+                </arg>
+                <arg n="1">
+                    为 俄罗斯 和 印度 的 关系 注入 新 的 活力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

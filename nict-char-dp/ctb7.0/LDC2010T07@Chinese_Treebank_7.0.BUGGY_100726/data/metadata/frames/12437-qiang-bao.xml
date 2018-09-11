@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 强暴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 rapes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (NP-TMP (DP (DT 那)
+                    (QP (CD 一)))
+                    (NP (NN 晚)))
+                    (VP (VC 是)
+                    (VP (VV 睡着)
+                    (AS 了))))
+                    (PU ，)
+                    (VP (ADVP (AD 并没有))
+                    (VP (VV 强暴)
+                    (NP-PN-OBJ (NR ａ)
+                    (NN 小姐))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="adv">
+                    并没有          
+                </arg>
+                <arg n="1">
+                    ａ 小姐          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

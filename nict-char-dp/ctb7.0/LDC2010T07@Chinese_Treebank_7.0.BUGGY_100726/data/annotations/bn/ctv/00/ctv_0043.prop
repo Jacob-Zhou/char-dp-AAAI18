@@ -1,0 +1,69 @@
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 0 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:6-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 0 16 gold 是-v 是.01 ----- 16:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 0 24 gold 备受-v 备受.01 ----- 24:0-rel 13:2-ARG0 18:1-ARG0 23:1-ARGM-ADV 25:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 1 8 gold 采访-v 采访.01 ----- 8:0-rel 5:1-ARG0 6:1-ARGM-LOC
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 1 11 gold 看到-v 看到.01 ----- 11:0-rel 0:1-ARGM-TMP 2:2-ARG0 5:3-ARGM-TMP 12:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 1 20 gold 发展-v 发展.03 ----- 20:0-rel 12:2-ARG0 19:1-ARGM-ADV 23:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 1 21 gold 成为-v 成为.01 ----- 21:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 1 27 gold 充满-v 充满.01 ----- 27:0-rel 28:1-ARG1 25:0*25:1*26:0*26:1*32:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 1 gold 走-v 走.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 8 gold 置身-v 置身.01 ----- 8:0-rel 0:1-ARG0 9:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 13 gold 林立-v 林立.01 ----- 13:0-rel 12:1-ARG0 10:0*10:1*11:0*11:1*18:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 16 gold 繁华-v 繁华.01 ----- 16:0-rel 14:0*14:1*15:0*15:1*18:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 23 gold 想象-v 想象.01 ----- 23:0-rel 0:2-ARGM-TMP 20:1-ARG0 21:2-ARGM-ADV 24:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 30 gold 是-v 是.01 ----- 30:0-rel 24:1-ARG0 25:1-ARGM-TMP 29:1-ARGM-ADV 31:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 2 40 gold 足-v 足.01 ----- 40:0-rel 37:1-ARG0 39:1-ARGM-ADV 41:1-ARG1 31:0*32:0*46:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 12 gold 生活-v 生活.01 ----- 12:0-rel 0:1-ARGM-TMP 2:4-ARG0 13:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 23 gold 繁荣-v 繁荣.01 ----- 23:0-rel 22:0*25:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 31 gold 完善-v 完善.01 ----- 31:0-rel 28:1*29:1*33:1-ARG1 30:1-ARGM-ADV
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 36 gold 使-v 使.01 ----- 36:0-rel 20:2-ARG0 37:3-ARG1 45:2-ARG2
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 42 gold 来-v 来.01 ----- 42:0-rel 37:1*38:1*44:1-ARG0 39:1-ARGM-ADV 40:1-ARG2
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 46 gold 感受-v 感受.01 ----- 46:0-rel 45:1-ARG0 49:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 47 gold 到-v 到.01 ----- 47:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 68 gold 不同-v 不同.01 ----- 68:0-rel 66:0*66:1*67:0*67:1*70:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 74 gold 能-v 能.01 ----- 74:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 75 gold 判断-v 判断.01 ----- 75:0-rel 54:1-ARG0 55:1-ARGM-DIS 56:1-ARGM-LOC 73:1-ARGM-DIS 77:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 76 gold 出-v 出.01 ----- 76:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 3 79 gold 是-v 是.01 ----- 79:0-rel 77:1-ARGM-TMP 78:1-ARG0 80:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 4 5 gold 接壤-v 接壤.01 ----- 5:0-rel 0:1-ARG0 1:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 4 8 gold 有-v 有.03 ----- 8:0-rel 0:1-ARG0 7:1-ARGM-ADV 9:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 4 14 gold 开放-v 开放.01 ----- 14:0-rel 11:1*12:1-ARG0 13:1-ARGM-ADV
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 4 25 gold 成为-v 成为.01 ----- 25:0-rel 17:1-ARGM-LOC 18:2-ARG0 24:1-ARGM-ADV 26:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 5 4 gold 统计-v 统计.01 ----- 4:0-rel 1:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 5 12 gold 达-v 达.01 ----- 12:0-rel 0:1-ARGM-MNR 6:1-ARGM-TMP 7:2-ARG0 13:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 5 18 gold 预计-v 预计.01 ----- 18:0-rel 16:1-ARGM-TMP 17:1-ARG0 19:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 5 22 gold 有-v 有.03 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV 23:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 6 gold 来到-v 来到.01 ----- 6:0-rel 0:3-ARG0 4:1-ARGM-TMP 7:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 8 gold 创业-v 创业.01 ----- 8:0-rel 0:3-ARG0 4:1-ARGM-TMP
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 12 gold 知道-v 知道.01 ----- 12:0-rel 11:1-ARG0 13:5-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 20 gold 强-v 强.01 ----- 20:0-rel 13:3-ARG0 19:1-ARGM-ADV
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 23 gold 是-v 是.01 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 34 gold 是-v 是.01 ----- 34:0-rel 31:1-ARGM-DIS 32:1-ARG0 33:1-ARGM-DIS 35:5-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 46 gold 有-v 有.05 ----- 46:0-rel 44:1-ARGM-TMP 45:1-ARG0 47:4-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 50 gold 扎根-v 扎根.01 ----- 50:0-rel 47:3-ARG0 51:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 58 gold 是-v 是.01 ----- 58:0-rel 53:2-ARG0 57:1-ARGM-ADV 59:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 6 61 gold 开设-v 开设.01 ----- 61:0-rel 60:1-ARG0 59:1*62:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 7 3 gold 有-v 有.05 ----- 3:0-rel 0:1-ARGM-TMP 1:1-ARG0 2:1-ARGM-ADV 4:4-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 7 8 gold 销往-v 销往.01 ----- 8:0-rel 4:3-ARG1 9:1-ARG2
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 7 14 gold 销往-v 销往.01 ----- 14:0-rel 4:3-ARG1 11:1-ARGM-DIS 12:1-ARGM-MNR 15:2-ARG2
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 8 1 gold 指出-v 指出.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 8 6 gold 成为-v 成为.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-TMP 5:1-ARGM-ADV 7:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 8 24 gold 看-v 看.02 ----- 24:0-rel 20:1-ARG0 21:1-ARGM-MNR
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 8 43 gold 排名-v 排名.01 ----- 43:0-rel 20:2-ARGM-MNR 26:1-ARGM-TMP 29:3-ARG0 35:1-ARGM-LOC 44:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 8 52 gold 排名-v 排名.01 ----- 52:0-rel 20:2-ARGM-MNR 26:1-ARGM-TMP 29:3-ARG0 46:1-ARGM-LOC 53:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 9 11 gold 达-v 达.01 ----- 11:0-rel 0:1-ARGM-TMP 1:1-ARG0 2:2-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 9 22 gold 建成-v 建成.02 ----- 22:0-rel 19:1-ARG0 21:1-ARG1 23:4-ARG2
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 9 29 gold 充满-v 充满.01 ----- 29:0-rel 16:1-ARG0 18:1-ARG1 30:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 14 gold 没有-v 没有.02 ----- 14:0-rel 1:1-ARGM-TMP 7:1-ARG0 8:2-ARGM-LOC 11:2-ARGM-LOC 13:1-ARGM-ADV 15:3-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 19 gold 能够-v 能够.01 ----- 19:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 20 gold 取代-v 取代.01 ----- 20:0-rel 15:2-ARG2 21:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 27 gold 说-v 说.01 ----- 27:0-rel 25:1-ARG0 26:1-ARGM-ADV 28:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 40 gold 是-v 是.01 ----- 40:0-rel 39:1-ARG0 41:4-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 47 gold 可-v 可.01 ----- 47:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 10 48 gold 取代-v 取代.01 ----- 48:0-rel 41:2-ARG2 46:1-ARGM-ADV
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 11 1 gold 想-v 想.01 ----- 1:0-rel 0:1-ARG0
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 11 8 gold 建设-v 建设.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 11 14 gold 有-v 有.03 ----- 14:0-rel 4:1-ARGM-PRP 7:2-ARG0 13:1-ARGM-DIS 15:1-ARG1
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 11 24 gold 能够-v 能够.01 ----- 24:0-rel
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 11 25 gold 变为-v 变为.01 ----- 25:0-rel 4:1-ARGM-PRP 7:2-ARG1 17:1-ARGM-DIS 18:1-ARGM-MNR 22:1-ARGM-DIS 23:1-ARGM-ADV 26:1-ARG2
+bn/ctv/00/ctv_0043@0043@ctv@bn@ch@on 12 2 gold 报道-v 报道.01 ----- 2:0-rel 0:2-ARG0

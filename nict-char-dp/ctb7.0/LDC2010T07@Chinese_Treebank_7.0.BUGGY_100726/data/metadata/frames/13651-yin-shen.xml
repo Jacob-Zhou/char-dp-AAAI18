@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 引申 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing produced through extending arg2"/>
+         
+        <role argnum="2" argrole="thing extended"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 王文洋))
+                    (VP (VP (VV 担心)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 东窗事发))))
+                    (PU ，)
+                    (VP (ADVP (AD 干脆))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 办公室)
+                    (NN 遭窃案))
+                    (VP (VCP (VV 引申)
+                    (VC 为))
+                    (NP-OBJ (NN 家族)
+                    (NN 斗争))))) 
+                    
+                </parse>
+                <arg n="0">
+                    王文洋          
+                </arg>
+                <arg n="2">
+                    办公室 遭窃案          
+                </arg>
+                <arg n="1">
+                    家族 斗争          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

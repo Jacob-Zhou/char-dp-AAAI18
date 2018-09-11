@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="承认-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to acknowledge (to agree)" group="1">
+<commentary>
+</commentary>
+<examples>
+承认 并 把握 体育 和 经济 之间 相互 促进 的 关系 ， 健康 地 发挥 经济 对 体育
+的 支撑 和 推动 作用
+美 承认 空袭 使 数百 伊 平民 死亡 英 一 记者 说 所 炸 绝 非 军事 目标
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to recognize the authority, validity, or claims of" group="1">
+<commentary>
+</commentary>
+<examples>
+第二 年 澳 葡 政府 正式 发布 了 承认 中文 作为 官方 语言 的 法令
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="85" ann_1_2_agreement="0.317647058824" />
+</inventory>

@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 直落 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="destination"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 条)))
+                    (NP (NN 绳子)))
+                    (VP (VV 直落)
+                    (NP-OBJ (NN 地面)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 条 绳子          
+                </arg>
+                <arg n="1">
+                    地面          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 堪忧 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (NP-APP (NN 总理))
+                    (NP-PN (NR 巴拉克)))
+                    (NP-SBJ (NN 地位))
+                    (VP (VV 堪忧))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    总理 巴拉克          
+                </arg>
+                <arg n="0" f="pse">
+                    地位          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

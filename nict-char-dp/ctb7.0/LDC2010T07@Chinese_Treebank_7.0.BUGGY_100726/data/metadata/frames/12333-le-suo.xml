@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 勒索 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person that arg0 extorts"/>
+        <role argnum="2" argrole="money, information"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="io" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (PP-ADV (P 和)
+                    (NP (NN 死者)))
+                    (VP (VC 是)
+                    (NP-PRD (NN 同事))))
+                    (VP (PP-PRP (P 因为)
+                    (NP (NN 债务)
+                    (NN 纠纷)))
+                    (VP (VSB (VV 绑架)
+                    (VV 勒索))
+                    (NP-IO (NN 死者)
+                    (NN 家属))
+                    (QP-OBJ (CD ４００万)
+                    (CLP (M 元))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    死者 家属          
+                </arg>
+                <arg n="2">
+                    ４００万 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

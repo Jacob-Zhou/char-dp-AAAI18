@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="完-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to use or finish up, to run out of" group="1">
+<commentary>VV</commentary>
+<examples>
+我们的煤快烧完了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to complete, to finish" group="1">
+<commentary>VV</commentary>
+<examples>
+会马上就开完了。
+（ 完 ）
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to pay (taxes)" group="1">
+<commentary>VV</commentary>
+<examples>
+我已经完税了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="too bad, extremely awful, to go down the tubes" group="1">
+<commentary>VV</commentary>
+<examples>
+然而 ， 林 小姐 闪 过 脑海 的 第一 个 念头 ， 不 是 捡到 便宜货 的 喜悦 ， 却 是 「 完 了 ， 台湾 以後 怎麽 跟 韩国 竞争 ？ ！ 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="17" ann_1_2_agreement="0.705882352941" />
+</inventory>

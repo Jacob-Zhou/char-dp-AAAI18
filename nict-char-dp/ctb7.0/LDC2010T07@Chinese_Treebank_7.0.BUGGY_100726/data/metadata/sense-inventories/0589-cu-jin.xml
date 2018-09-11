@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="促进-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to promote" group="1">
+<commentary>
+</commentary>
+<examples>
+澳 政府 将 继续 促进 澳 中 经济 的 互补性 合作 ， 并 开辟 澳 华 商界 与 中国 的 联系 。
+美国 会 继续 帮助 促进 亚洲 的 和平 与 繁荣
+外商 投资 促进 中国 进出口 贸易 快速 发展
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to facilitate" group="1">
+<commentary>
+</commentary>
+<examples>
+体育 和 经济 之间 相互 促进 的 关系
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="0.777777777778" />
+</inventory>

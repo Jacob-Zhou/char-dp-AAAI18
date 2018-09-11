@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 catches"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-2 (NN 人犯))
+                    (VP (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 要)
+                    (VP (VP (VV 坐)
+                    (NP-OBJ (NN 计程车)))
+                    (VP (VV 逃离)
+                    (NP-OBJ (NN 现场)))))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (PU ，)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 警方))
+                    (VP (VV 逮)
+                    (AS 了)
+                    (NP-OBJ (-NONE- *-2))
+                    (NP-EXT (QP (CLP (M 个)))
+                    (NP (NN 正着)))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    人犯 -> *-2          
+                </arg>
+                <arg n="m" f="tmp">
+                    要 坐 计程车 逃离 现场 的 时候          
+                </arg>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="m" f="adv">
+                    个 正着          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

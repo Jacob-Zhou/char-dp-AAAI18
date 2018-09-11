@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="48392-zheng-zhi-n 政治-n">
+<commentary>This word has only 1 sense.</commentary>
+<sense n="1" name="政治, politics" group="" type="">
+<commentary></commentary><examples>政治从未引起我的兴趣。
+Politics have never interested me.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

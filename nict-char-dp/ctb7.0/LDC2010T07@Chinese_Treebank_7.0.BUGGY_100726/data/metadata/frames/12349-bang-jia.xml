@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 绑架 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="hostage"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 愤怒)))
+                    (DEC 的)))
+                    (NP (NN 塞族人)))
+                    (VP (VP (ADVP (AD 还))
+                    (VP (VSB (VV 发火)
+                    (VV 焚烧))
+                    (AS 了)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 辆)))
+                    (NP-PN (NR 联合国))
+                    (NP (NN 警车)))))
+                    (PU ，)
+                    (VP (ADVP (AD 并))
+                    (VP (VV 绑架)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 翻译))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    愤怒 的 塞族人          
+                </arg>
+                <arg n="m" f="adv">
+                    并          
+                </arg>
+                <arg n="1">
+                    一 名 翻译          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

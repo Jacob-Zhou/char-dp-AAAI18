@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 树碑立像 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="beneficiary"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 伦敦)))
+                    (NP-SBJ (PN 你))
+                    (VP (ADVP (AD 不))
+                    (VP (VP-FOC (VV 用)
+                    (VP (ADVP (AD 非得))
+                    (VP (VV 成为)
+                    (NP-OBJ (NN 将军)
+                    (CC 或者)
+                    (NN 政治家)))))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 能)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 人们))
+                    (VP (VV 树碑立像)))))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    在 伦敦          
+                </arg>
+                <arg n="1">
+                    你          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <arg n="0">
+                    人们          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

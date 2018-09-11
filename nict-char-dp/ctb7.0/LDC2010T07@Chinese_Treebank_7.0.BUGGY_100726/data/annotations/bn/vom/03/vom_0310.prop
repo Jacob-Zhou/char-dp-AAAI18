@@ -1,0 +1,10 @@
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 0 7 gold 计划-v 计划.01 ----- 7:0-rel 0:3*8:1-ARG1 6:1-ARG0 8:2-ARG1
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 0 14 gold 恢复-v 恢复.01 ----- 14:0-rel 0:3*8:1-ARG0 9:1-ARGM-TMP 10:1-ARGM-LOC 15:1-ARG0
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 1 5 gold 中止-v 中止.01 ----- 5:0-rel 0:2-ARGM-TMP 4:1-ARG0 7:1-ARG1
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 1 21 gold 打死-v 打死.01 ----- 21:0-rel 9:1-ARGM-TMP 16:1-ARGM-LOC 19:2-ARG0 13:2*22:0*22:1-ARG1
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 2 14 gold 开会-v 开会.01 ----- 14:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 2:4-ARG0 10:1-ARGM-LOC
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 2 16 gold 决定-v 决定.01 ----- 16:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 2:4-ARG0 17:2-ARG1
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 2 18 gold 恢复-v 恢复.02 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 3 22 gold 击中-v 击中.01 ----- 22:0-rel 17:0*17:1*23:0*23:1-ARG1 19:2-ARG0
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 3 25 gold 死亡-v 死亡.01 ----- 25:0-rel 0:1-ARGM-ADV 1:1-ARGM-MNR 4:2-ARG1 7:1-ARGM-TMP 9:1-ARGM-LOC 17:3-ARGM-TMP
+bn/vom/03/vom_0310@0310@vom@bn@ch@on 4 9 gold 清楚-v 清楚.01 ----- 9:0-rel 0:4-ARG0 6:1-ARGM-TMP 7:1-ARGM-ADV 8:1-ARGM-ADV

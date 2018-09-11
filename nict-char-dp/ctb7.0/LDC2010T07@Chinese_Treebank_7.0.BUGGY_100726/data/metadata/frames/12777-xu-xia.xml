@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 许下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="promise/wish"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (PN 我))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 竞选)))
+                    (LC 时)))
+                    (VP (VV 许下)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 诺言))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 竞选 时          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 诺言          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

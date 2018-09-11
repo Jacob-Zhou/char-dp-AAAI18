@@ -1,0 +1,73 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 开房间 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-2 (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP (-NONE- *T*-1))
+                    (VP (PP-TMP (ADVP (AD 刚))
+                    (PP (P 在)
+                    (NP (NT ７月份))))
+                    (PP-ADV (P 和)
+                    (NP (NN 员警)))
+                    (VP (VV 离婚)))))
+                    (NP-PN (NR ａ)
+                    (NN 小姐)))
+                    (PU ，)
+                    (VP (VP (PP-MNR (P 在)
+                    (LCP (NP (DNP (NP (QP (CD 多少))
+                    (NP (NN 同学)))
+                    (DEG 的))
+                    (NP (NN 介绍)))
+                    (LC 之下)))
+                    (PP-ADV (P 和)
+                    (NP (DNP (NP-PN (NR 北头)
+                    (NN 分局))
+                    (DEG 的))
+                    (NP-PN (NR 王)
+                    (NN 姓))
+                    (NP (NN 员警))))
+                    (VP (VP (VV 前往)
+                    (NP-OBJ (NN ｐｕｂ)))
+                    (VP (VV 喝酒))))
+                    (PU ，)
+                    (VP (ADVP (AD 最后))
+                    (PP-MNR (P 在)
+                    (LCP (NP (CP-APP (IP (NP-SBJ (NN 全身))
+                    (VP (VV 无力)))
+                    (DEC 的))
+                    (NP (NN 情况)))
+                    (LC 下)))
+                    (PU ，)
+                    (VP (SB 被)
+                    (VP (VP (VV 带往)
+                    (NP-OBJ (NN ｋｔｖ)))
+                    (VP (VV 唱歌)))))
+                    (PU ，)
+                    (VP (ADVP (AD 再))
+                    (VP (SB 被)
+                    (VP (VP (VV 带到)
+                    (NP-OBJ (NP-PN (NR 北头))
+                    (DP (DT 某))
+                    (NP (NN 宾馆))))
+                    (VP (VV 开房间))))) 
+                    
+                </parse>
+                <arg n="0">
+                    刚 在 ７月份 和 员警 离婚 ａ小姐	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    再	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

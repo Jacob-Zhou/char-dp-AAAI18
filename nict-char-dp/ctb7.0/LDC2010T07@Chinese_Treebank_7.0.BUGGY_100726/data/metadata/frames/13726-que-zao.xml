@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 确凿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-LOC (NN 现场))
+                    (NP-SBJ (NN 罪证))
+                    (VP (VP (VV 确凿)) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    现场          
+                </arg>
+                <arg n="0">
+                    罪证          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

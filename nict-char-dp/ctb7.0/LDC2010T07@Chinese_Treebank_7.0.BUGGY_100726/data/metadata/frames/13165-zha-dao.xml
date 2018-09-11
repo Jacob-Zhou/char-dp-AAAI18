@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 炸到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity affected by explosion"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ-1 (PN 你))
+                    (VP (VC 是)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (DP (DT 什么))
+                    (NP (NN 东西)))
+                    (VP (VV 炸到)
+                    (NP-OBJ (-NONE- *-1)))))))
+                    (SP 的)
+                    (PU ？) 
+                    
+                </parse>
+                <arg n="1">
+                    你 -> *-1          
+                </arg>
+                <arg n="0">
+                    什么 东西          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

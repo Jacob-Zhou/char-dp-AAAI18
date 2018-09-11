@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 混血 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entities mix-breeding"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (IP-SBJ (NP-SBJ (ADJP (JJ 黑)
+                    (JJ 白)
+                    (JJ 黄))
+                    (NP (NN 种族)))
+                    (VP (VV 混血)))
+                    (VP (ADVP (AD 不))
+                    (VP (VA 稀奇)))) 
+                </parse>
+                <arg n="0">
+                    黑 白 黄 种族 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="列-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to rank, to label, to rate, to grade" group="1">
+<commentary>
+</commentary>
+<examples>
+东道主 河北队 共 夺得 ９ 枚 金牌 ， 列 金牌 总数 第一
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to list, to enumerate" group="1">
+<commentary>
+</commentary>
+<examples>
+（ 丁 ） 如果 藉 以 取得 居留权 的 来源 是 父亲 ， 则 该 儿童 必 是 《 基本法 》 第二十四 条 第二 款 第一 项 或 第二 项 所 列 居民 所 生 的 婚生 子女 或 获 确立 婚生 地位 子女
+香港 的 财政 政策 经已 列 在 香港 特别 行政区 的 小宪法 －－ 基本法 内
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="a list, a row, a line, a group (of people,
+objects, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+连 香港 天后级 影星 梅艳芳 也 在 参拜 之 列
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to line up" group="1">
+<commentary>
+</commentary>
+<examples>
+在 人性化 的 小 班 上 ， 老师 凭 几 而 坐 ， 生徒 手 捧 简册 ， 分 列 左右
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

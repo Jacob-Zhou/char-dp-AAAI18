@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="00173-bian-li-n 便利-n">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+
+
+
+
+
+
+<sense n="1" type="" name="便利, convenience," group="">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+<examples>
+
+
+
+为了便利居民， 新建了一个百货商店。
+
+A new general store has been built for the convenience of the residents.
+
+
+
+
+
+便利商店。
+
+Convenience store.
+
+
+
+</examples>
+
+<mappings>
+
+
+
+<wn version="2.0">
+
+
+
+</wn>
+
+
+
+
+
+<omega>
+
+
+
+</omega>
+
+
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="便利, 便当，convenient, facilitate, accommodate,  " group="">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+<examples>
+
+
+
+
+
+为对方建立使馆提供便利。
+
+Provide the other side with facilities for the establishment of its embassy.
+
+
+
+
+
+交通便利。
+
+Have convenient communivations.
+
+
+
+</examples>
+
+
+
+
+
+<mappings>
+
+
+
+<wn version="2.0">
+
+
+
+</wn>
+
+
+
+
+
+<omega>
+
+
+
+</omega>
+
+
+
+
+
+<pb>
+
+</pb>
+
+
+
+</mappings>
+
+
+
+
+
+<SENSE_META clarity="" />
+
+
+
+</sense>
+
+
+
+
+
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+
+
+</inventory>
+

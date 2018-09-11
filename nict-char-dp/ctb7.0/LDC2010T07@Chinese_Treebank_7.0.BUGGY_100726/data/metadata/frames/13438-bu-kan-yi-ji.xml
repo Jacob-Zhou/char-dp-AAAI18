@@ -1,0 +1,63 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不堪一击 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 科尔)
+                    (NN 驱逐舰))
+                    (PU ，)
+                    (CC 和)
+                    (NP (DNP (NP (NN 舰上))
+                    (DEG 的))
+                    (QP (CD ３５０)
+                    (CLP (M 名)))
+                    (NP (NN 官兵))))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (QP (CD 一)
+                    (CLP (M 个)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 繁忙)))
+                    (DEC 的)))
+                    (NP (NN 港口)))
+                    (LC 里)))
+                    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 碰上)
+                    (NP-OBJ (DNP (NP (QP (CD 一)
+                    (CLP (M 艘)))
+                    (ADJP (JJ 小))
+                    (NP (NN 船)))
+                    (DEG 的))
+                    (NP (NN 攻击)))))
+                    (LC 时))
+                    (PU ，)
+                    (VP (VC 是)
+                    (VP (DVP (ADVP (AD 那么))
+                    (DEV 的))
+                    (VP (VV 不堪一击)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    科尔 驱逐舰 ， 和 舰上 的 ３５０ 名 官兵          
+                </arg>
+                <arg n="m" f="loc">
+                    在 一 个 繁忙 的 港口 里          
+                </arg>
+                <arg n="m" f="tmp">
+                    碰上 一 艘 小 船 的 攻击 时          
+                </arg>
+                <arg n="m" f="adv">
+                    那么 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

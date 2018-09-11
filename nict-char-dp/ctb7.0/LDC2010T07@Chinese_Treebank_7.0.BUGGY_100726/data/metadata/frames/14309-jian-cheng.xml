@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 兼称 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing declared"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-PN-SBJ (NR 苏建何))
+                    (VP (VV 兼称)
+                    (PU ：)
+                    (CP-OBJ (IP (NP-SBJ (PN 他们))
+                    (VP (VC 是)
+                    (VP (VA 无辜))))
+                    (SP 的)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    苏建何          
+                </arg>
+                <arg n="1">
+                    他们 是 无辜 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

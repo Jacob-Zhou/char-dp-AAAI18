@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="显示-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to demonstrate, to show" group="1">
+<commentary>
+</commentary>
+<examples>
+一九九七年 实际 利用 外资 增幅 再次 位居 全 省 第一 ， 显示 了 强劲 的 增长 后劲
+中国 已经 向 全 世界 显示 ， 解决 社会 困苦 问题 的 战略 在于 作出 理智 的 规划 ， 把 力量 集中 到 有 合理 成功 希望 的 任务 上
+据 法国 出版界 专业 刊物 《 图书 周刊 》 最近 的 一 项 调查 显示
+根据 在 ２５号 寻获 罹难 官兵 所 留下 的 纸条 显示 ， “ 库尔斯克号 ” 上 １１８ 名 罹难 的 官兵 中 至少 有 ２３ 人 不 是 立即 死亡
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to display" group="1">
+<commentary>
+</commentary>
+<examples>
+依然 显示 出 国际 大 都会 的 活力 与 风采
+电脑 的 日期 显示 方式 似乎 大同小异
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="167" ann_1_2_agreement="0.976047904192" />
+</inventory>

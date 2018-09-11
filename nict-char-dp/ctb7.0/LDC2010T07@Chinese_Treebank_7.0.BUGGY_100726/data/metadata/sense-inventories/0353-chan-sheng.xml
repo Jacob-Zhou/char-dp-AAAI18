@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="产生-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="cause to exist" group="1">
+<commentary>
+</commentary>
+<examples>
+台湾 一 经济学家 指出 “ 戒急用忍 ” 将 产生 诸多 弊端
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to have (e.g. used as a light verb)" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 １００ 条 新闻 中 有 一 条 是 假 的 ， 读者 对 另外 ９９ 条 也 会 产生 怀疑 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to generate, to prodcue" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 在 那个 大陆 的 部分 ， 大家 只是 希望 能够 去 发展 ， 在 那边 有利 的 条件 ， 那么 产生 整体 的 竞争力 呢 ， 事实 上 还是 希望 尽量 能够 达到 根留 台湾 的 一 个 目的
+台南市 文化局 局长 萧琼瑞 则 说 ， 经由 层层 把关 、 一定 程序 所 产生 的 公共 艺术 ， 大多 有 一定 水准 ， 也 深 获 民众 好评
+本 世纪 最后 一 位 “ 世界 小姐 ” ３０号 在 英国 伦敦 产生
+核查 工作 中 产生 的 争端 和 分歧
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="125" ann_1_2_agreement="0.656" />
+</inventory>

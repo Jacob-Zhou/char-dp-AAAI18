@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 主攻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity worked on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 主攻)
+                    (NP-OBJ (QP (CD ７)
+                    (CLP (M 个)))
+                    (NP (NN 科学)
+                    (NN 研究)
+                    (NN 领域))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    ７ 个 科学 研究 领域          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

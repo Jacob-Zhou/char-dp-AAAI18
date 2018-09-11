@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="帮助-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to help, to assist" group="1">
+<commentary>
+</commentary>
+<examples>
+大家 应 帮助 没有 饭 吃 的 小孩
+国际 社会 应 本 着 发展 合作 的 精神 ， 采取 切实 可行 的 措施 ， 帮助 这些 发展中 国家 解决 这些 问题
+开发 计划署 几 年 来 一如既往 地 支持 图们江 开发 ， 并 帮助 搞 开发 项目 的 可行性 研究
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="help (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+他们 发言 表示 这 项 提案 对于 消灭 各 国 电子 数位 落差 有 很 大 的 帮助
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="174" ann_1_2_agreement="0.85632183908" />
+</inventory>

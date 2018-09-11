@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="全-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to be complete, without any missing item" group="1">
+<commentary>
+</commentary>
+<examples>
+成为 国内 运输 方式 最 全 的 港口
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="entire, all, whole" group="1">
+<commentary>
+</commentary>
+<examples>
+占 全 国 进出口 总值 的 比重 由 上 年 的 百分之三十七 提高 到 百分之三十九
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="completely, totally" group="1">
+<commentary>
+</commentary>
+<examples>
+「 老婆 不 在 心 发慌 ， 坐立 不 住 窗 外 看 ； 日 呆 风 蠢 全 无味 ， 傻瓜 牵手 最 好玩 。 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="106" ann_1_2_agreement="0.905660377358" />
+</inventory>

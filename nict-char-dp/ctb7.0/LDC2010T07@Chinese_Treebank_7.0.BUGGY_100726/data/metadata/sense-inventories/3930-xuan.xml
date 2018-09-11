@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="选-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to select, to pick out, to choose" group="1">
+<commentary>
+</commentary>
+<examples>
+把 办公 地点 选 在 楼价 每 平米 超过 二千七百 美元 的 上海 证券 大厦
+申请人 必须 自行 负责 办理 入读 所 选 院校 的 一切 申请 手续 ， 并 符合 该 校的 入学 条件
+而 土地 征收 向来 是 开发案 中 的 焦点 ， 所以 政府 在 从事 重大 建设 时 ， 总是 「 先 选 土 ， 后 选 水 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to vote, to elect" group="1">
+<commentary>
+</commentary>
+<examples>
+「 所有 候选人 对 政见 都 是 『 行礼如仪 』 ， 因为 是 选 总统 ， 要 有 治国 蓝图
+选 世界 小姐 ， 越 漂亮 越 好
+竟然 选 了 三 门 课
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="election" group="1">
+<commentary>
+</commentary>
+<examples>
+使得 选 后 台湾 政党 势力 与 政治 生态 的 重组 几乎 成为 必然 。
+这 次 大选 三 强 鼎立
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="choice, selection" group="1">
+<commentary>
+</commentary>
+<examples>
+资料 表明 ， 金川 公司 可 回收 的 有价 元素 已 由 原来 的 七 种 增加 到 十四 种 ， 镍 的 选 、 冶 回收率 净 增 百分之二十六点五 ， 贵 金属 的 冶炼 回收率 提高 十多 倍 。
+而且 ， 国有 企业 不 再 是 人们 的 首 选
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="59" ann_1_2_agreement="0.745762711864" />
+</inventory>

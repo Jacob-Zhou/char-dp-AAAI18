@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="卖-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to sell" group="1">
+<commentary>
+</commentary>
+<examples>
+不 强调 卖 产品 ， 光 靠 「 拉人头 」 为 奖金 来源 的 ， 则 有 老鼠会 的 嫌疑
+我 不 怕 菜 卖 不 出去 ， 就 怕 它 长 不 出来
+台湾 的 产品 会 卖 不 进去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to betray, to sell out" group="1">
+<commentary>
+</commentary>
+<examples>
+阿扁 去 谈判 ， 绝 没有 人 会 质疑 他 卖 台
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="1.0" />
+</inventory>

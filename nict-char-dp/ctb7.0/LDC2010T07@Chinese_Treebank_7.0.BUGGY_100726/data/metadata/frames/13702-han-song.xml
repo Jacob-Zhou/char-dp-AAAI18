@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 函送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="sender"/>
+        <role argnum="1" argrole="entity sent"/>
+        <role argnum="2" argrole="location"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 于是))
+                    (VP (VP (VV 函送)
+                    (NP-OBJ (NN 济检署)))
+                    (VP (VV 侦办))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    于是          
+                </arg>
+                <arg n="2">
+                    济检署           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

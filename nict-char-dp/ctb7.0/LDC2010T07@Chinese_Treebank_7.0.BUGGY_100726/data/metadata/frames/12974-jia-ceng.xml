@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加层 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity added to"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 擅自))
+                    (VP (VCD (VV 加层)
+                    (VV 施工)))))
+                    (DEC 的)))
+                    (ADJP (JJ 私人))
+                    (NP (NN 建筑物))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 私人 建筑物          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

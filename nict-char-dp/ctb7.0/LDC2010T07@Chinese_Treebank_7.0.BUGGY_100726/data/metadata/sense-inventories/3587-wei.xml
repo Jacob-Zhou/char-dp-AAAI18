@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="未-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="not, not yet, have not" group="1">
+<commentary>
+</commentary>
+<examples>
+叶进泰 每 晚 八点半 准时 上床 ， 四点 天 未 亮 就 起身
+而 这 个 从 未 安定 下来 的 家 ， 竟然 还 包括 一 座 通风 透雨 、 不 堪 住人 的 防空洞
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="11" ann_1_2_agreement="1.0" />
+</inventory>

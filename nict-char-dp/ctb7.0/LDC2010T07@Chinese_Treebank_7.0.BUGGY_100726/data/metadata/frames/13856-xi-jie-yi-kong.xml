@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 洗劫一空 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="robber"/>
+        <role argnum="1" argrole="thing robbed"/>
+        <role argnum="2" argrole="victim"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 赖俊明))
+                    (VP (VP (VV 盯上)
+                    (NP-OBJ (-NONE- *-1)))
+                    (PU ，)
+                    (VP (VP (VV 持)
+                    (NP (NN 枪)))
+                    (VP (VV 抢夺)
+                    (NP-OBJ (-NONE- *-1))))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-2 (DNP (LCP (NP (NN 店))
+                    (LC 内))
+                    (DEG 的))
+                    (NP (NN 手机)))
+                    (VP (VV 洗劫一空)
+                    (NP-OBJ (-NONE- *-2))))) 
+                    
+                </parse>
+                <arg n="0">
+                    赖俊明          
+                </arg>
+                <arg n="1">
+                    店 内 的 手机 -> *-2          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

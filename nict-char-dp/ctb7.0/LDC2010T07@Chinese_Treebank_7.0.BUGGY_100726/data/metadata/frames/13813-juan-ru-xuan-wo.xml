@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 卷入漩涡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 如果))
+                    (IP (NP-SBJ (NN 军队))
+                    (VP (VP (VV 卷入漩涡)) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    如果          
+                </arg>
+                <arg n="1">
+                    军队          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

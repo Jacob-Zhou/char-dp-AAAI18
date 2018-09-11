@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一犯再犯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 嫌犯))
+                    (VP (ADVP (AD 居然))
+                    (VP (VV 能够)
+                    (VP (VV 一犯再犯))))) 
+                    
+                </parse>
+                <arg n="0">
+                    嫌犯          
+                </arg>
+                <arg n="m" f="adv">
+                    居然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

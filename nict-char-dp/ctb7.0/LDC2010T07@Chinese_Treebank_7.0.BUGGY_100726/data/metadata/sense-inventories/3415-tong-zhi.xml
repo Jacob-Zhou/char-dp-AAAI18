@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="通知-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to notify, to tell and inform" group="1">
+<commentary>
+</commentary>
+<examples>
+他 将 以上 信息 通知 了 全体 球员 。
+开户 单位 动用 大额 资金 特别是 动用 存 在 中 小 金融 机构 的 大额 资金 ， 应 提前 通知 开户 金融 机构
+二 、 在 中华 人民 共和国 政府 另行 通知 前 ， 《 准予 就业 最低 年龄 公约 》暂 不 适用于 中华 人民 共和国 香港 特别 行政区 。
+医院 也 将 根据 急救卡 上 的 有关 内容 及时 通知 当地 区 县 保险 公司 前往 急救 医院 提供 保险 服务
+然而 行员 相当 机警 ， 趁着 歹徒 不 注意 的 时候 偷偷 按 铃 通知 警方
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="notice" group="1">
+<commentary>
+</commentary>
+<examples>
+海基会 还 没有 接获 大陆 海协会 通知
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="52" ann_1_2_agreement="0.942307692308" />
+</inventory>

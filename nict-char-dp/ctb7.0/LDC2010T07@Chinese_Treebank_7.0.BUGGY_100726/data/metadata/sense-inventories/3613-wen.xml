@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="问-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to ask, to inquire" group="1">
+<commentary>
+</commentary>
+<examples>
+记者 问 他 何时 再 给 国外 输送 警犬
+有 记者 问 ： 八月 二十三日 美国 总统 签署 了 “ 九五 财年 海外 活动 拨款 法 ” ， 其中 规定 美 向 联合国 人口 基金 提供 的 任何 捐款 不 得 用于 中国 ， 对 此 你 有 何 看法 ？
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to inquire after, to ask about the condition or
+health of someone or something" group="1">
+<commentary>
+</commentary>
+<examples>
+以前 他 看 六十 岁 的 父母 ， 觉得 他们 「 好 老 」 ， 十足 是 含饴弄孙 、 不问世事 的 年岁
+宋朝 的 〈 问 喘 图 〉 里 ， 汉宣帝 丞相 丙吉 外出 时 ， 见到 春阳 煦煦 下 闲步 的 牛儿 却 气喘吁吁 ， 因而 殷殷 相询 ， 莫非 自然 失序 ？
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="54" ann_1_2_agreement="1.0" />
+</inventory>

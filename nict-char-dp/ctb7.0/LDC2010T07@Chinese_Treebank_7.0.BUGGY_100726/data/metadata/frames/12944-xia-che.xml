@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 下车 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-PN (NR 吴))
+                    (NP (NN 姓)))
+                    (NP (NN 女子)))
+                    (VP (VP (ADVP (AD 先))
+                    (VP (VC 是)
+                    (VP (PP-LOC (P 在)
+                    (NP-PN (NR 高雄)))
+                    (VP (VP (VV 买)
+                    (NP-OBJ (NN 票)))
+                    (VP (VV 坐上)
+                    (NP-OBJ (NN 巴士)))))))
+                    (PU ，)
+                    (VP (ADVP (AD 结果))
+                    (NP-LOC (NN 中途))
+                    (VP (VP (VSB (VV 借顾)
+                    (VV 下车)))
+                    (PU ，)
+                    (VP (ADVP (AD 再))
+                    (VP (VP (PP-ADV (P 和)
+                    (NP-PN (NR 杨正发)))
+                    (VP (VV 会合)))
+                    (VP (VV 搭上)
+                    (NP-OBJ (NN 计程车)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    吴 姓 女子          
+                </arg>
+                <arg n="m" f="adv">
+                    结果          
+                </arg>
+                <arg n="m" f="loc">
+                    中途          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,308 @@
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 0 2 gold 审议-v 审议.01 ----- 2:0-rel 0:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 0 10 gold 迈向-v 迈向.01 ----- 10:0-rel 4:2-ARG0 11:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 9 gold 结束-v 结束.01 ----- 9:0-rel 0:2-ARG1 6:1-ARGM-TMP 5:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 18 gold 达-v 达.01 ----- 18:0-rel 17:1-ARGM-ADV 19:1-ARG1 15:0*16:0*22:2-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 24 gold 审议-v 审议.01 ----- 24:0-rel 22:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 27 gold 通过-v 通过.01 ----- 27:0-rel 11:1-ARG0 12:1-ARGM-MNR 26:1-ARGM-ADV 28:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 33 gold 创下-v 创下.01 ----- 33:0-rel 32:1-ARG0 34:6-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 39 gold 审议-v 审议.01 ----- 39:0-rel 34:3-ARGM-TMP 38:1-ARG0 40:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 42 gold 多-v 多.03 ----- 42:0-rel 34:3-ARGM-TMP 38:1-ARG0 39:1-ARG0 41:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 1 44 gold 纪录-n 纪录.01 ----- 44:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 5 gold 说-v 说.02 ----- 5:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 9 gold 表现-n 表现.01 ----- 9:0-rel 7:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 10 gold 尽心尽力-v 尽心尽力.01 ----- 10:0-rel 0:2-ARGM-ADV 7:3-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 15 gold 讲-v 讲.02 ----- 15:0-rel 13:1-ARG0 16:3-ARG1 14:1-ARGM-DIS 12:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 21 gold 包括-v 包括.01 ----- 21:0-rel 20:1-ARG0 22:7-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 24 gold 支给-v 支给.01 ----- 24:0-rel 22:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 28 gold 发展-v 发展.01 ----- 28:0-rel 27:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 33 gold 安定-n 安定.01 ----- 33:0-rel 31:0,32:0-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 35 gold 设置-n 设置.01 ----- 35:0-rel 31:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 37 gold 管理-n 管理.01 ----- 37:0-rel 31:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 42 gold 通过-n 通过.01 ----- 42:0-rel 22:5-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 2 49 gold 批评-n 批评.01 ----- 49:0-rel 20:2-ARGM-ADV 44:1-ARG1 45:1-ARGM-DIS 46:0-rel-Sup 47:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 6 gold 有-v 有.05 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 8 gold 涉嫌-v 涉嫌.01 ----- 8:0-rel 7:1-ARG0 9:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 10 gold 关说-v 关说.01 ----- 10:0-rel 9:1-ARG0 11:0*15:2-ARG1 12:0*17:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 14 gold 施压-v 施压.01 ----- 14:0-rel 9:1-ARG0 11:0*15:2-ARG1 12:0*17:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 18 gold 投资-v 投资.01 ----- 18:0-rel 17:1-ARG0 19:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 25 gold 让-v 让.02 ----- 25:0-rel 0:1-ARGM-DIS 1:3-ARGM-TMP 5:4-ARG0 24:1-ARGM-ADV 26:3-ARG1 29:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 3 30 gold 大伤-v 大伤.01 ----- 30:0-rel 29:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 6 gold 质疑-v 质疑.01 ----- 6:0-rel 0:0*0:0*1:0*1:0-ARG1 2:1-ARGM-ADV 5:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 11 gold 是-v 是.01 ----- 11:0-rel 0:3-ARG0 10:1-ARGM-DIS 12:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 13 gold 受到-v 受到.01 ----- 13:0-rel 12:1-ARG0 14:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 17 gold 冲击-n 冲击.01 ----- 17:0-rel 12:1*19:2-ARG1 13:0-rel-Sup 14:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 27 gold 营造-v 营造.01 ----- 27:0-rel 19:2-ARG0 28:1-ARG1 24:1-ARGM-BNF 22:2-ARGM-ADV 21:1-ARGM-ADV 12:2-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 31 gold 成为-v 成为.01 ----- 31:0-rel 30:1-ARG0 32:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 4 36 gold 角力-v 角力.01 ----- 36:0-rel 33:1-ARG0 32:1*35:1*38:1-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 5 6 gold 通过-v 通过.01 ----- 6:0-rel 2:1-ARG0 3:2-ARGM-TMP 1:0*7:0*10:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 5 11 gold 造成-v 造成.01 ----- 11:0-rel 1:3-ARG0 0:1*12:1*14:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 5 18 gold 引起-v 引起.01 ----- 18:0-rel 17:1-ARG0 16:1*19:1*21:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 5 22 gold 包括-v 包括.01 ----- 22:0-rel 0:4-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 6 12 gold 补助-n 补助.01 ----- 12:0-rel 9:0-ARG2 10:0,11:0-ARG4
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 6 35 gold 缩小-v 缩小.01 ----- 35:0-rel 2:3-ARG0 36:6-ARG1 16:1-ARGM-ADV 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 6 60 gold 通过-v 通过.01 ----- 60:0-rel 58:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 6 63 gold 增加-v 增加.01 ----- 63:0-rel 58:4-ARGM-TMP 62:1-ARG0 57:0*64:0*67:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 6 75 gold 增加-v 增加.02 ----- 75:0-rel 56:1-ARGM-ADV 57:3-ARG1 69:1-ARGM-ADV 70:1-ARG3 77:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 2 gold 引起-v 引起.01 ----- 2:0-rel 0:2-ARG0 3:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 7 gold 减薪-v 减薪.01 ----- 7:0-rel 3:0*4:0*13:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 14 gold 反弹-n 反弹.01 ----- 14:0-rel 3:3-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 20 gold 说明-v 说明.01 ----- 20:0-rel 17:2-ARG0 21:4-ARG1 16:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 37 gold 沟通-v 沟通.01 ----- 37:0-rel 21:2-ARG1 23:1-ARG0 24:1-ARGM-TMP 29:1-ARGM-ADV 30:1-ARGM-ADV 31:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 52 gold 反对-v 反对.01 ----- 52:0-rel 40:4-ARG0 46:1-ARG1 51:1-ARGM-ADV 50:1-ARGM-DIS 39:1-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 60 gold 待-v 待.01 ----- 60:0-rel 54:3-ARG0 61:1-ARG1 59:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 7 61 gold 观察-n 观察.01 ----- 61:0-rel 54:3-ARG1 60:0-rel-Sup
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 4 gold 促进-v 促进.01 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 6 gold 参与-v 参与.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 8 gold 建设-n 建设.01 ----- 8:0-rel 7:1-ARGM-PRP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 14 gold 包括-v 包括.01 ----- 14:0-rel 12:1*13:1*26:1-ARG0 15:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 17 gold 开发-n 开发.01 ----- 17:0-rel 15:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 33 gold 规划-v 规划.01 ----- 33:0-rel 0:1-ARGM-DIS 2:1-ARGM-TPC 28:1-ARGM-ADV 30:1-ARG0 12:3*34:0*36:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 35 gold 兴建-v 兴建.01 ----- 35:0-rel 0:1-ARGM-DIS 2:1-ARGM-MNR 28:1-ARGM-ADV 30:1-ARG0 12:3*34:0*36:0*39:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 38 gold 营运-v 营运.01 ----- 38:0-rel 0:1-ARGM-DIS 2:1-ARGM-TPC 28:1-ARGM-ADV 30:1-ARG0 12:3*36:0*39:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 42 gold 移转-v 移转.01 ----- 42:0-rel 0:1-ARGM-DIS 2:1-ARGM-MNR 12:3-ARG1 28:1-ARGM-ADV 41:1-ARGM-ADV 43:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 50 gold 优惠-n 优惠.01 ----- 50:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 56 gold 协助-v 协助.02 ----- 56:0-rel 46:1-ARGM-ADV 53:2-ARG0 55:1-ARGM-ADV 57:1-ARG1 59:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 61 gold 突破-v 突破.01 ----- 61:0-rel 59:1-ARG0 60:1-ARGM-ADV 62:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 65 gold 投资-v 投资.01 ----- 65:0-rel 59:1-ARG0 66:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 73 gold 办理-v 办理.01 ----- 73:0-rel 59:1-ARG0 69:1-ARGM-DIS 70:2-ARGM-ADV 74:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 75 gold 征收-n 征收.01 ----- 75:0-rel 74:0-ARGM-MNR
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 78 gold 投资-v 投资.01 ----- 78:0-rel 77:1-ARG0 79:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 81 gold 建设-n 建设.01 ----- 81:0-rel 79:1-ARGM-ADV 80:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 85 gold 发行-v 发行.01 ----- 85:0-rel 82:1-ARG0 86:1-ARG1 83:1-ARGM-ADV 77:2-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 8 90 gold 筹集-v 筹集.01 ----- 90:0-rel 77:2-ARGM-ADV 82:1-ARG0 83:1-ARGM-ADV 91:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 1 gold 举-n 举.01 ----- 1:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 4 gold 兴建-n 兴建.01 ----- 4:0-rel 7:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 16 gold 受阻-v 受阻.01 ----- 16:0-rel 13:1*14:1*18:1-ARG0 15:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 20 gold 带来-v 带来.01 ----- 20:0-rel 0:2-ARG0 21:1-ARG1 2:1-ARGM-ADV 3:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 24 gold 发行-v 发行.01 ----- 24:0-rel 23:1-ARG0 25:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 29 gold 申请-v 申请.01 ----- 29:0-rel 23:1-ARG0 30:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 31 gold 贷款-n 贷款.01 ----- 31:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 33 gold 筹资-n 筹资.01 ----- 33:0-rel 34:0-ARGM-MNR
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 34 gold 计画-n 计画.01 ----- 34:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 37 gold 有-v 有.01 ----- 37:0-rel 23:3-ARG0 36:1-ARGM-ADV 38:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 49 gold 规划-v 规划.01 ----- 49:0-rel 43:1-ARG0 45:1-ARGM-LOC 42:0*50:0*54:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 57 gold 突破-v 突破.01 ----- 57:0-rel 56:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 9 63 gold 成形-v 成形.01 ----- 63:0-rel 42:3-ARG0 62:1-ARGM-ADV 61:1-ARGM-ADV 60:1-ARGM-ADV 55:1-ARGM-TMP 41:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 10 3 gold 有-v 有.05 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-ADV 4:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 10 5 gold 痛批-v 痛批.01 ----- 5:0-rel 4:1-ARG0 6:5-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 10 10 gold 立法-n 立法.01 ----- 10:0-rel 6:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 10 12 gold 粗糙-v 粗糙.01 ----- 12:0-rel 6:3-ARG0 11:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 10 20 gold 牟利-v 牟利.01 ----- 20:0-rel 14:1-ARG0 15:1-ARGM-ADV 16:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 7 gold 认为-v 认为.01 ----- 7:0-rel 0:3-ARG0 9:4-ARG1 6:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 10 gold 让-v 让.02 ----- 10:0-rel 9:1-ARG0 11:1-ARG1 14:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 15 gold 取得-v 取得.01 ----- 15:0-rel 14:1-ARG0 16:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 17 gold 征收-n 征收.01 ----- 17:0-rel 16:0-ARGM-MNR
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 22 gold 兼顾-v 兼顾.01 ----- 22:0-rel 9:2-ARG1 23:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 30 gold 影响-v 影响.01 ----- 30:0-rel 27:1-ARGM-DIS 28:1*31:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 36 gold 摆-v 摆.01 ----- 36:0-rel 33:1-ARGM-TMP 34:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 11 42 gold 不断-v 不断.01 ----- 42:0-rel 40:1-ARG0 41:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 5 gold 安定-n 安定.01 ----- 5:0-rel 3:0,4:0-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 7 gold 设置-v 设置.01 ----- 7:0-rel 3:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 9 gold 管理-v 管理.01 ----- 9:0-rel 3:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 16 gold 护盘-v 护盘.01 ----- 16:0-rel 13:1-ARG0 14:1-ARGM-BNF
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 18 gold 有-v 有.01 ----- 18:0-rel 0:1-ARGM-DIS 2:1-ARGM-TPC 13:2-ARG0 17:1-ARGM-ADV 19:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 23 gold 订-v 订.03 ----- 23:0-rel 21:1-ARG0 24:4-ARG1 22:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 25 gold 安定-n 安定.01 ----- 25:0-rel 24:0-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 26 gold 受-v 受.01 ----- 26:0-rel 24:1-ARG0 27:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 27 gold 威胁-n 威胁.01 ----- 27:0-rel 24:1-ARG1 26:0-rel-Sup
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 38 gold 移动-v 移动.01 ----- 38:0-rel 35:1-ARG1 37:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 42 gold 影响-v 影响.01 ----- 42:0-rel 40:1-ARG0 43:1-ARG1 41:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 12 49 gold 动用-v 动用.01 ----- 49:0-rel 47:1-ARG0 50:2-ARG1 24:3-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 14 gold 痛批-v 痛批.01 ----- 14:0-rel 3:4-ARG0 0:2*16:1-ARG1 16:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 15 gold 为-v 为.03 ----- 15:0-rel 0:2*16:0-ARG0 16:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 18 gold 扭转-v 扭转.01 ----- 18:0-rel 0:2*16:0-ARG0 17:1-ARGM-ADV 19:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 26 gold 担任-v 担任.01 ----- 26:0-rel 24:1-ARG0 27:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 31 gold 交易-n 交易.01 ----- 31:0-rel 30:0-ARGM-MNR
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 35 gold 免-v 免.01 ----- 35:0-rel 30:1-ARG1 32:1-ARGM-ADV 33:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 40 gold 让-v 让.02 ----- 40:0-rel 37:1-ARGM-ADV 38:1-ARG0 39:1-ARGM-ADV 41:2-ARG1 45:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 46 gold 得利-v 得利.01 ----- 46:0-rel 45:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 49 gold 变成-v 变成.01 ----- 49:0-rel 48:1-ARG1 50:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 13 52 gold 安定-n 安定.01 ----- 52:0-rel 51:0-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 7 gold 认为-v 认为.01 ----- 7:0-rel 1:3-ARG0 9:4-ARG1 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 13 gold 受-v 受.01 ----- 13:0-rel 9:2-ARG0 14:3-ARG1 12:1-ARGM-ADV 11:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 18 gold 大-v 大.01 ----- 18:0-rel 9:2-ARG0 11:1-ARGM-ADV 12:1-ARGM-DIS 13:1-ARG0 17:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 23 gold 使-v 使.01 ----- 23:0-rel 20:2-ARG0 24:1-ARG1 25:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 28 gold 面临-v 面临.01 ----- 28:0-rel 27:1-ARG0 29:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 37 gold 投入-v 投入.01 ----- 37:0-rel 36:1-ARG1 38:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 39 gold 进行-v 进行.01 ----- 39:0-rel 25:1-ARG0 26:1-ARGM-TMP 35:1-ARGM-MNR 40:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 41 gold 操作-n 操作.01 ----- 41:0-rel 25:1*24:1-ARG0 26:1-ARGM-TMP 35:1-ARGM-MNR 39:0-rel-Sup 40:0-ARGM-PRP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 14 43 gold 有助于-v 有助于.01 ----- 43:0-rel 20:2-ARG0 44:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 12 gold 落实-v 落实.01 ----- 12:0-rel 0:1-ARGM-DIS 2:2-ARGM-TPC 11:1-ARG0 13:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 15 gold 一元化-v 一元化.01 ----- 15:0-rel 13:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 17 gold 确立-v 确立.01 ----- 17:0-rel 0:1-ARGM-DIS 2:2-ARGM-TPC 11:1-ARG0 18:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 19 gold 国家化-v 国家化.01 ----- 19:0-rel 18:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 22 gold 领军-v 领军.01 ----- 22:0-rel 21:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 25 gold 开启-v 开启.01 ----- 25:0-rel 0:1-ARGM-DIS 2:2-ARGM-TPC 11:1-ARG0 26:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 15 27 gold 现代化-v 现代化.01 ----- 27:0-rel 26:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 2 gold 设-v 设.01 ----- 2:0-rel 0:2-ARG0 3:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 5 gold 作战-n 作战.01 ----- 5:0-rel 4:0-ARGM-LOC
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 10 gold 改编-v 改编.01 ----- 10:0-rel 8:1-ARG1 12:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 18 gold 运作-n 运作.01 ----- 18:0-rel 16:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 20 gold 为-v 为.01 ----- 20:0-rel 16:2-ARG0 0:5-ARGM-TMP 15:1-ARGM-TMP 22:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 25 gold 负责-v 负责.01 ----- 25:0-rel 22:1-ARG0 26:1-ARG1 24:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 30 gold 负责-v 负责.01 ----- 30:0-rel 28:2-ARG0 31:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 39 gold 作战-n 作战.01 ----- 39:0-rel 40:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 44 gold 统合于-v 统合于.01 ----- 44:0-rel 33:3-ARG1 42:1-ARGM-TMP 45:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 52 gold 产生-v 产生.02 ----- 52:0-rel 49:1-ARG0 53:1-ARG1 51:1-ARGM-ADV 48:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 62 gold 设-v 设.01 ----- 62:0-rel 55:1-ARG3 57:1-ARGM-TMP 58:1-ARGM-ADV 60:1-ARGM-ADV 61:1-ARGM-ADV 63:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 66 gold 待-v 待.01 ----- 66:0-rel 55:2-ARG0 67:1-ARG1 65:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 16 67 gold 观察-n 观察.01 ----- 67:0-rel 55:2-ARG1 66:0-rel-Sup
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 17 4 gold 表示-v 表示.01 ----- 4:0-rel 1:2-ARG0 6:4-ARG1 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 17 9 gold 是-v 是.01 ----- 9:0-rel 6:3-ARG0 10:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 17 15 gold 融为-v 融为.01 ----- 15:0-rel 10:1-ARG1 11:1-ARG1 16:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 17 16 gold 一体-n 一体.01 ----- 16:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 18 14 gold 确立-v 确立.01 ----- 14:0-rel 2:2-ARG0 15:5-ARG1 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 18 21 gold 为-v 为.01 ----- 21:0-rel 15:3-ARG0 22:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 18 25 gold 专责-v 专责.01 ----- 25:0-rel 24:1-ARG0 26:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 18 29 gold 查缉-v 查缉.01 ----- 29:0-rel 28:1-ARG0 30:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 18 30 gold 走私-n 走私.01 ----- 30:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 1 gold 有-v 有.05 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 3 gold 批评-v 批评.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 9 gold 合-v 合.02 ----- 9:0-rel 7:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 12 gold 再造-v 再造.01 ----- 12:0-rel 11:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 15 gold 精简-v 精简.01 ----- 15:0-rel 14:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 28 gold 高-v 高.01 ----- 28:0-rel 21:5-ARG0 30:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 33 gold 为-v 为.01 ----- 33:0-rel 4:2-ARGM-TPC 6:1-ARGM-ADV 21:6-ARG0 32:1-ARGM-ADV 34:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 19 37 gold 少有-v 少有.01 ----- 37:0-rel 34:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 20 10 gold 变成-v 变成.01 ----- 10:0-rel 2:3-ARG1 11:3-ARG2 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 20 26 gold 窝-v 窝.01 ----- 26:0-rel 17:3-ARG0 24:1-ARGM-ADV 28:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 20 36 gold 叫-v 叫.01 ----- 36:0-rel 34:1-ARG0 35:1-ARGM-ADV 37:2-ARG1 40:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 20 42 gold 平-v 平.02 ----- 42:0-rel 40:1-ARG0 41:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 2 gold 认为-v 认为.01 ----- 2:0-rel 1:1-ARG0 4:5-ARG1 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 7 gold 工作-n 工作.01 ----- 7:0-rel 6:0-ARGM-LOC
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 8 gold 关系-v 关系.01 ----- 8:0-rel 4:3-ARG0 10:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 19 gold 争议-n 争议.01 ----- 19:0-rel 13:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 30 gold 视-v 视.02 ----- 30:0-rel 21:1-ARG0 31:1-ARG1 22:1-ARGM-ADV 24:1-ARGM-ADV 25:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 34 gold 兼顾-v 兼顾.01 ----- 34:0-rel 21:1-ARG0 35:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 36 gold 维护-v 维护.01 ----- 36:0-rel 35:1-ARG0 37:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 48 gold 成立-v 成立.01 ----- 48:0-rel 46:1-ARG0 49:4-ARG1 47:1-ARGM-ADV 45:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 51 gold 一体-v 一体.01 ----- 51:0-rel 49:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 68 gold 工作-n 工作.01 ----- 68:0-rel 66:0,67:0-ARGM-LOC
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 21 69 gold 合一-v 合一.01 ----- 69:0-rel 45:1-ARGM-DIS 46:1-ARG1 59:4-ARG0 56:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 5 gold 重建-v 重建.01 ----- 5:0-rel 3:1-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 13 gold 作为-v 作为.01 ----- 13:0-rel 0:1-ARGM-DIS 2:1-ARGM-TPC 10:2-ARG1 12:1-ARGM-ADV 14:3-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 17 gold 衔接-v 衔接.01 ----- 17:0-rel 16:1-ARG1 18:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 19 gold 命令-n 命令.01 ----- 19:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 23 gold 重建-n 重建.01 ----- 23:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 27 gold 定-v 定.01 ----- 27:0-rel 0:1-ARGM-DIS 2:1-ARGM-TPC 10:2-ARG0 26:1-ARGM-ADV 28:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 30 gold 设置-v 设置.01 ----- 30:0-rel 28:1-ARG0 31:2-ARG1 35:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 32 gold 重建-n 重建.01 ----- 32:0-rel 31:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 37 gold 补助-v 补助.01 ----- 37:0-rel 36:1-ARG0 38:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 22 40 gold 用-n 用.01 ----- 40:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 2 gold 重建-v 重建.01 ----- 2:0-rel 0:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 3 gold 适用-v 适用.01 ----- 3:0-rel 0:2-ARG1 4:2-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 5 gold 更新-n 更新.01 ----- 5:0-rel 4:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 12 gold 超过-v 超过.01 ----- 12:0-rel 0:4-ARGM-TMP 9:1-ARG0 11:1-ARGM-ADV 13:5-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 24 gold 给予-v 给予.01 ----- 24:0-rel 23:1-ARG0 25:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 26 gold 奖励-n 奖励.01 ----- 26:0-rel 23:1-ARG0 24:0-rel-Sup 25:0-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 29 gold 即-v 即.01 ----- 29:0-rel 28:1-ARG0 30:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 23 35 gold 提供-v 提供.01 ----- 35:0-rel 23:1-ARG0 36:1-ARG2 37:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 3 gold 规定-v 规定.01 ----- 3:0-rel 0:2-ARG0 5:5-ARG1 2:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 11 gold 造成-v 造成.01 ----- 11:0-rel 9:1-ARG0 12:2-ARG1 6:0*7:0*17:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 15 gold 死亡-v 死亡.01 ----- 15:0-rel 12:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 19 gold 得-v 得.01 ----- 19:0-rel 6:3-ARG0 20:1*22:1*5:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 23 gold 救助-n 救助.01 ----- 23:0-rel 22:0-ARG0 24:0-ARGM-MNR
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 30 gold 管理-v 管理.01 ----- 30:0-rel 27:2-ARG1 26:0*29:0*33:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 32 gold 持有-v 持有.01 ----- 32:0-rel 27:2-ARG1 26:1*29:1*33:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 37 gold 设立-v 设立.01 ----- 37:0-rel 5:3-ARGM-MNR 26:3-ARG0 35:1-ARGM-BNF 38:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 41 gold 存放-v 存放.01 ----- 41:0-rel 5:3-ARG1 26:3-ARG0 42:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 45 gold 指定-v 指定.01 ----- 45:0-rel 44:1-ARG0 43:1*46:1*48:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 50 gold 设立-v 设立.01 ----- 50:0-rel 5:3-ARGM-TPC 26:3-ARG0 51:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 57 gold 为-v 为.01 ----- 57:0-rel 53:2-ARG0 56:1-ARGM-ADV 58:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 59 gold 教养-v 教养.01 ----- 59:0-rel 58:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 61 gold 需要-n 需要.01 ----- 61:0-rel 58:2-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 64 gold 支用-v 支用.01 ----- 64:0-rel 53:2-ARG1 62:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 69 gold 成年-v 成年.01 ----- 69:0-rel 68:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 24 70 gold 为止-v 为止.01 ----- 70:0-rel 66:1-ARG1 67:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 7 gold 赈灾-n 赈灾.01 ----- 7:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 8 gold 毁损-v 毁损.01 ----- 8:0-rel 2:2-ARG1 6:1-ARGM-PRP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 12 gold 认定-v 认定.01 ----- 12:0-rel 2:2-ARG1 10:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 21 gold 办理-v 办理.01 ----- 21:0-rel 15:2-ARG1 17:1-ARGM-TMP 14:0*22:0*24:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 24 gold 担保-n 担保.01 ----- 24:0-rel 25:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 25 gold 借款-n 借款.01 ----- 25:0-rel
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 34 gold 展延-v 展延.01 ----- 34:0-rel 33:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 25 43 gold 摊还-v 摊还.01 ----- 43:0-rel 33:4-ARG1 38:1-ARGM-TMP 42:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 26 7 gold 减免-v 减免.01 ----- 7:0-rel 0:2-ARGM-LOC 2:1-ARG1 5:1-ARGM-ADV 8:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 26 20 gold 长-v 长.02 ----- 20:0-rel 18:1-ARG0 19:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 27 3 gold 争议-n 争议.01 ----- 3:0-rel 1:2-ARGM-ADV 5:1,6:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 27 8 gold 有-v 有.07 ----- 8:0-rel 0:2-ARG0 7:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 8 gold 污染-n 污染.01 ----- 8:0-rel 4:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 15 gold 污染-v 污染.01 ----- 15:0-rel 14:1-ARG0 16:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 26 gold 致-v 致.01 ----- 26:0-rel 23:1*24:1*31:1-ARG0 27:1-ARG1 28:2-ARG1 25:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 30 gold 死-n 死.01 ----- 30:0-rel 28:1*27:1-ARG0 29:0-rel-Sup
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 35 gold 处-v 处.01 ----- 35:0-rel 23:3-ARG1 33:1-ARGM-ADV 34:1-ARGM-ADV 36:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 43 gold 设-v 设.01 ----- 43:0-rel 39:1-ARG0 44:4-ARG1 42:1-ARGM-ADV 41:1-ARGM-ADV 40:1-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 48 gold 污染-n 污染.01 ----- 48:0-rel 44:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 49 gold 整治-n 整治.01 ----- 49:0-rel 44:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 55 gold 整治-v 整治.01 ----- 55:0-rel 54:1-ARG0 56:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 58 gold 受-v 受.01 ----- 58:0-rel 56:1*57:1*61:1-ARG0 59:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 28 59 gold 污染-n 污染.01 ----- 59:0-rel 57:1*61:1-ARG1 58:0-rel-Sup
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 9 gold 受损-v 受损.01 ----- 9:0-rel 5:1-ARGM-TMP 7:1-ARG0 4:0*4:0*8:0*8:0*10:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 11 gold 回复-v 回复.02 ----- 11:0-rel 4:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 16 gold 扩大-v 扩大.01 ----- 16:0-rel 0:3-ARG0 17:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 24 gold 受-v 受.01 ----- 24:0-rel 23:1-ARG0 25:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 31 gold 申请-v 申请.01 ----- 31:0-rel 19:1-ARGM-TMP 21:1-ARG0 22:1-ARGM-PRP 30:1-ARGM-MNR 18:0*32:0*34:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 35 gold 赔偿-n 赔偿.01 ----- 35:0-rel 34:0-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 36 gold 适用-v 适用.01 ----- 36:0-rel 18:3-ARG0 17:1*37:1*38:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 41 gold 订-v 订.03 ----- 41:0-rel 0:3-ARG0 42:4-ARG1 40:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 46 gold 为-v 为.01 ----- 46:0-rel 42:3-ARG0 47:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 49 gold 修正-v 修正.01 ----- 49:0-rel 47:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 54 gold 受-v 受.02 ----- 54:0-rel 42:3-ARG0 53:1-ARGM-ADV 55:4-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 59 gold 定-v 定.01 ----- 59:0-rel 56:1-ARG0 55:0*60:0*62:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 29 64 gold 限制-v 限制.01 ----- 64:0-rel 55:3-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 9 gold 增定-v 增定.01 ----- 9:0-rel 0:1-ARG2 7:1-ARGM-DIS 8:1-ARGM-DIS 10:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 12 gold 羁押-v 羁押.01 ----- 12:0-rel 11:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 20 gold 犯-v 犯.01 ----- 20:0-rel 18:1*19:1*34:1-ARG0 21:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 26 gold 为-v 为.01 ----- 26:0-rel 23:3-ARG0 27:3-ARG1 21:0*22:0*33:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 40 gold 停止-v 停止.01 ----- 40:0-rel 38:1-ARG0 37:1*39:1*43:1-ARGM-TMP 41:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 42 gold 保外就医-v 保外就医.01 ----- 42:0-rel 38:1-ARG0 37:1*39:1*43:1-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 47 gold 从事-v 从事.01 ----- 47:0-rel 45:1-ARG0 48:2-ARG1 46:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 54 gold 保外就医-v 保外就医.01 ----- 54:0-rel 53:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 55 gold 无关-v 无关.01 ----- 55:0-rel 50:1*51:1*57:1-ARG0 52:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 57 gold 活动-n 活动.01 ----- 57:0-rel 45:1-ARG0 46:1-ARGM-ADV 47:0-rel-Sup 48:1,51:2-ARGM-LOC
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 30 60 gold 回复-v 回复.02 ----- 60:0-rel 45:1-ARG0 46:1-ARGM-DIS 59:1-ARGM-ADV 61:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 4 gold 保护-v 保护.01 ----- 4:0-rel 3:1-ARG0 5:4-ARG1 13:2-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 8 gold 检肃-v 检肃.01 ----- 8:0-rel 7:1-ARG0 9:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 17 gold 作证-v 作证.01 ----- 17:0-rel 16:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 19 gold 致-v 致.01 ----- 19:0-rel 13:1-ARG0 14:1-ARGM-ADV 15:1-ARGM-PRP 20:1-ARG1 27:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 28 gold 遭受-v 遭受.01 ----- 28:0-rel 27:1-ARG0 29:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 29 gold 损害-n 损害.01 ----- 29:0-rel 27:1*20:1-ARG1 28:0-rel-Sup
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 36 gold 获-v 获.01 ----- 36:0-rel 2:3-ARG0 37:2-ARG1 35:1-ARGM-ADV 0:1-ARGM-DIS
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 31 40 gold 通过-v 通过.01 ----- 40:0-rel 37:1-ARG1 38:2-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 3 gold 通过-v 通过.01 ----- 3:0-rel 0:1*1:1*5:1-ARG1 2:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 9 gold 获-v 获.01 ----- 9:0-rel 0:3-ARG0 10:2-ARG1 8:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 12 gold 通过-v 通过.01 ----- 12:0-rel 10:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 19 gold 改为-v 改为.01 ----- 19:0-rel 14:3-ARG1 18:1-ARGM-ADV 20:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 31 gold 生-v 生.01 ----- 31:0-rel 24:4-ARG0 23:0*32:0*34:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 38 gold 取得-v 取得.01 ----- 38:0-rel 39:2-ARG1 22:1-ARGM-TMP 23:3-ARG0 36:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 32 44 gold 落实-v 落实.01 ----- 44:0-rel 43:1-ARG0 45:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 8 gold 管理-n 管理.01 ----- 8:0-rel 5:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 12 gold 规定-v 规定.01 ----- 12:0-rel 0:4-ARG0 13:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 21 gold 涉及-v 涉及.01 ----- 21:0-rel 14:2-ARG0 22:2-ARG1 19:1-ARGM-ADV 18:1-ARGM-ADV 13:1-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 25 gold 妨害-v 妨害.01 ----- 25:0-rel 24:1-ARG0 26:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 30 gold 查获-v 查获.01 ----- 30:0-rel 28:1-ARG0 31:2-ARG1 29:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 33 gold 上课-n 上课.01 ----- 33:0-rel 34:0-ARGM-TMP
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 36 gold 由-v 由.01 ----- 36:0-rel 31:1-ARG0 32:1-ARGM-TMP 35:1-ARGM-ADV 37:1-ARG1 39:2-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 33 40 gold 进入-v 进入.01 ----- 40:0-rel 39:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 15 gold 修复-n 修复.01 ----- 15:0-rel 13:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 16 gold 提出-v 提出.01 ----- 16:0-rel 11:1-ARG0 12:1-ARGM-DIR 17:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 22 gold 损及-v 损及.01 ----- 22:0-rel 20:1-ARG0 21:1-ARGM-ADV 23:3-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 29 gold 采用-v 采用.01 ----- 29:0-rel 17:1-ARG0 30:2-ARG1 19:1-ARGM-LOC
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 35 gold 增加-v 增加.01 ----- 35:0-rel 17:1-ARG1 19:1-ARGM-MNR 36:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 37 gold 防震-v 防震.01 ----- 37:0-rel 36:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 39 gold 防灾-v 防灾.01 ----- 39:0-rel 36:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 41 gold 防蛀-v 防蛀.01 ----- 41:0-rel 36:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 34 54 gold 列为-v 列为.01 ----- 54:0-rel 0:3-ARGM-TPC 10:1-ARGM-ADV 46:1-ARGM-TMP 47:3-ARG1 52:1-ARGM-ADV 55:1-ARG2
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 7 gold 防治-n 防治.01 ----- 7:0-rel 5:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 14 gold 包括-v 包括.01 ----- 14:0-rel 13:1-ARG0 15:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 31 gold 进口-v 进口.01 ----- 31:0-rel 0:5-ARGM-TPC 13:2-ARGM-ADV 28:1-ARG0 29:1-ARGM-ADV 30:1-ARGM-ADV 32:4-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 34 gold 适用-v 适用.01 ----- 34:0-rel 32:1*33:1*35:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 39 gold 治疗-v 治疗.01 ----- 39:0-rel 38:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 41 gold 维持-v 维持.01 ----- 41:0-rel 38:1-ARG0 42:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 35 44 gold 需-v 需.01 ----- 44:0-rel 38:2-ARG0 37:0*45:0*48:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 36 7 gold 浓厚-v 浓厚.01 ----- 7:0-rel 4:1-ARGM-DIS 5:1-ARG0
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 36 13 gold 说-v 说.01 ----- 13:0-rel 10:1-ARG0 11:2-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 36 17 gold 通过-v 通过.01 ----- 17:0-rel 16:1-ARG0 15:0*18:0*20:1-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 36 23 gold 多-v 多.03 ----- 23:0-rel 15:3-ARG0 21:1-ARG0 22:1-ARGM-ADV
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 36 36 gold 发展-n 发展.01 ----- 36:0-rel 27:1-ARGM-TMP 28:2-ARG1
+mz/sinorama/10/chtb_1008@1008@sinorama@mz@ch@on 36 39 gold 有-v 有.03 ----- 39:0-rel 0:2-ARGM-TMP 4:2-ARGM-ADV 9:1-ARGM-DIS 10:2-ARGM-ADV 25:1-ARG0 38:1-ARGM-ADV 40:3-ARG1

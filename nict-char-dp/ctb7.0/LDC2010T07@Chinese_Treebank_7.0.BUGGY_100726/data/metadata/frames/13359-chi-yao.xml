@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 吃药 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 现在))
+                    (DP-ADV (DT 每)
+                    (CLP (M 天)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 还))
+                    (VP (VV 需)
+                    (VP (VP (VV 吃药)) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="m" f="adv">
+                    每 天          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    还          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

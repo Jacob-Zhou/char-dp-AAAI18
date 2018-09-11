@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="介绍-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to introduce, introduction, to present, presentation" group="1">
+<commentary>
+</commentary>
+<examples>
+进出口 银行 通过 书面 介绍 、 实地 考察 等 形式 向 日本 公社债 研究所 全面 介绍 了 今年 来 中国 金融 体制 改革 的 情况 、 银行 成立 的 背景 、 银行 管理 和 运营 机制 、 银行 业务 发展 现状 以及 以后 的 发展 目标 ， 使 之 对 中国 进出口 银行 有 了 较 深 的 了解
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to recommend (for hiring)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="28" ann_1_2_agreement="1.0" />
+</inventory>

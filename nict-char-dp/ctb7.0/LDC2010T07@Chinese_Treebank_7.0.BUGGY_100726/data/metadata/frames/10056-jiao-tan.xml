@@ -1,0 +1,80 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 交谈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="people talking"/>
+        <role argnum="1" argrole="content of conversation"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (LCP-LOC (NP (NN 闽南人))
+                    (LC 之间))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 可以)
+                    (VP (DVP (VP (ADVP (AD 很))
+                    (VP (VA 自然)))
+                    (DEV 的))
+                    (VP (VP (VV 用)
+                    (NP-OBJ (NN 闽南语)))
+                    (VP (VV 交谈)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	
+                </arg>
+                <arg n="m" f="adv">
+                    很 自然 的 	
+                </arg>
+                <arg n="m" f="loc">
+                    闽南人 之间 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 人))
+                    (VP (ADVP (AD 真的))
+                    (VP (VV 去)
+                    (VP (PP-ADV (P 跟)
+                    (NP (NN 人)))
+                    (VP (VV 交谈)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-LOC (P 在)
+                    (NP (PN 他们)
+                    (NN 内心)))
+                    (VP (VV 发生))))
+                    (DEC 的)))
+                    (NP (NN 事情))))))))))) 
+                    
+                </parse>
+                <arg n="0" f="crd">
+                    人	
+                </arg>
+                <arg n="m" f="adv">
+                    真的	
+                </arg>
+                <arg n="0" f="crd">
+                    跟 人	
+                </arg>
+                <arg n="1">
+                    在 他们 内心 发生 的 事情	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

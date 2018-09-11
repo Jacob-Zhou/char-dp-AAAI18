@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 自认为 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 thinks"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VV 自认为)
+                    (IP-OBJ (NP-SBJ (PN 自己))
+                    (VP (ADVP (AD 并不))
+                    (VP (VC 是)
+                    (NP-PRD (NN 异议人士))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="1">
+                    自己 并不 是 异议人士          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

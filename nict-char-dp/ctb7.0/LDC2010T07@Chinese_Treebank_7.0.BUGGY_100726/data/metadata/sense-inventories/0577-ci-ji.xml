@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="刺激-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stimulate, to incite, to excite" group="1">
+<commentary>
+</commentary>
+<examples>
+而 电子 商务 的 发展 将 使 消费者 更 快 地 获得 物美价廉 的 商品 和 劳务 ， 同时 促进 贸易 、 刺激 创新 和 竞争 ， 并 创造 更 多 的 就业 机会 。
+而 刺激 台湾 改变 的 正 是 中共 近年 来 针对 台湾 的 积极 军事 部署
+比 传统 健身 中心 更 酷 、 更 刺激 、 更 有趣
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to provoke, to irritate" group="1">
+<commentary>
+</commentary>
+<examples>
+台湾 不 刺激 中共 、 不 主动 挑起 战争
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="shock, stimulus, excitation" group="1">
+<commentary>
+need to seperate into 2 senses??
+</commentary>
+<examples>
+如此 对 积极 由 近海 防御 发展 成 远洋 防御 的 中共 来 说 ， 刺激 太 大
+现场 看到 、 闻到 、 摸到 这么 多 商品 等 感官 刺激
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

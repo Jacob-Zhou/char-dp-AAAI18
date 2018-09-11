@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="明-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="bright, light" group="1">
+<commentary>
+</commentary>
+<examples>
+灯 不 明
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="next (in time, e.g. day, year)" group="1">
+<commentary>
+</commentary>
+<examples>
+再次 调低 了 它 对 今 明 两 年 全球 经济 增长 速度 的 预测
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="the Ming dynasty" group="1">
+<commentary>
+</commentary>
+<examples>
+在 明 清 海禁 时代 ， 澳门 是 西 达 南亚 、 非洲 和 欧洲 ， 东 达 日本 、 东南亚 和 南美 「 海上 丝绸 之 路 」 的 重要 据点
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="clear, evident, open, overt" group="1">
+<commentary>
+</commentary>
+<examples>
+政府 为 股市 护盘 将 有 法源 ， 明 订 国家 安定 受 威胁 时 ―― 如 国内外 重大 事件 、 国际 资金 大幅 移动 ， 显著 影响 资本 市场 时 ， 得 动用 五千亿 基金
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="clear-sighted, to understand, to know" group="1">
+<commentary>
+</commentary>
+<examples>
+「 索索 以为 能 ， 察察 以为 明 」 ， 指 的 是 治国者 不 要 以为 再 小 的 事 他 都 知道 ， 就 以为 自己 很 聪明
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="abbreviation of a proper name" group="1">
+<commentary>
+</commentary>
+<examples>
+加快 以 日 （ 照 ） 东 （ 明 ） 线 为主 的 “ 一 纵 三 横 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

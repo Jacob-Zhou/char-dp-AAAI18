@@ -1,0 +1,25 @@
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 0 7 gold 遭到-v 遭到.01 ----- 7:0-rel 0:3-ARG0 6:1-ARGM-TMP 8:1-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 0 21 gold 是-v 是.01 ----- 21:0-rel 18:1-ARGM-DIS 19:1-ARG0 20:1-ARGM-DIS 22:5-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 0 30 gold 发生-v 发生.01 ----- 30:0-rel 22:2-ARG1 24:4-ARG0 29:1-ARGM-ADV
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 1 1 gold 眼看-v 眼看.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 1 3 gold 四起-v 四起.01 ----- 3:0-rel 2:1-ARG0
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 1 7 gold 奋力-v 奋力.01 ----- 7:0-rel
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 1 9 gold 爬上-v 爬上.01 ----- 9:0-rel 0:2-ARGM-ADV 5:1-ARG0 7:2-ARGM-ADV 10:2-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 1 13 gold 敲碎-v 敲碎.01 ----- 13:0-rel 0:2-ARGM-ADV 5:1-ARG0 7:2-ARGM-ADV 14:1-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 1 16 gold 进入-v 进入.01 ----- 16:0-rel 0:2-ARGM-ADV 5:1-ARG0 17:2-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 2 1 gold 发生-v 发生.01 ----- 1:0-rel 0:1-ARG0 2:1-ARGM-TMP
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 2 12 gold 是-v 是.01 ----- 12:0-rel 11:1-ARG0 13:4-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 2 21 gold 在-v 在.01 ----- 21:0-rel 18:1-ARG0 19:1-ARGM-TMP 20:1-ARGM-ADV 22:2-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 3 5 gold 紧闭-v 紧闭.01 ----- 5:0-rel 1:4-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 3 8 gold 造成-v 造成.01 ----- 8:0-rel 0:1-ARG0 9:5-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 3 11 gold 抢救-v 抢救.01 ----- 11:0-rel 9:1-ARG0
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 4 14 gold 受困-v 受困.01 ----- 14:0-rel 12:1*13:1*15:1-ARG0
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 4 26 gold 发挥-v 发挥.01 ----- 26:0-rel 17:1-ARGM-ADV 18:3-ARG0 22:1-ARGM-TMP 28:1-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 4 38 gold 有-v 有.01 ----- 38:0-rel 34:1-ARGM-ADV 35:1-ARG0 36:1-ARGM-ADV 37:1-ARGM-ADV 39:3-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 4 41 gold 轻微-v 轻微.01 ----- 41:0-rel 39:0*39:1*40:0*40:1*44:1-ARG0
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 5 2 gold 停-v 停.01 ----- 2:0-rel 3:1-ARGM-LOC 0:0*1:0*6:3-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 5 15 gold 烧-v 烧.01 ----- 15:0-rel 0:3-ARG1 14:1-ARG2 17:1-ARGM-EXT
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 5 22 gold 调查-v 调查.01 ----- 22:0-rel 19:1-ARGM-DIS 20:1-ARG0 21:1-ARGM-ADV 23:3-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 5 27 gold 是-v 是.01 ----- 27:0-rel 23:2-ARG0 26:1-ARGM-ADV 30:3-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 5 29 gold 是-v 是.01 ----- 29:0-rel 23:2-ARG0 26:1-ARGM-ADV 30:3-ARG1
+bn/cts/00/cts_0046@0046@cts@bn@ch@on 5 33 gold 引起-v 引起.01 ----- 33:0-rel 30:2-ARG0

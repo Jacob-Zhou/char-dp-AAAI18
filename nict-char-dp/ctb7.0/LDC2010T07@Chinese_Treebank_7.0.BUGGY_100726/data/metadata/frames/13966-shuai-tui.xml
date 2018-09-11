@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 衰颓 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-TPC (NR 南斯拉夫))
+                    (LCP (QP (CD 多)
+                    (CLP (M 年)))
+                    (LC 来))
+                    (NP-SBJ-2 (NN 经济))
+                    (VP (VP (VV 衰颓)) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    南斯拉夫          
+                </arg>
+                <arg n="m" f="tmp">
+                    多 年 来          
+                </arg>
+                <arg n="0" f="pse">
+                    经济          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

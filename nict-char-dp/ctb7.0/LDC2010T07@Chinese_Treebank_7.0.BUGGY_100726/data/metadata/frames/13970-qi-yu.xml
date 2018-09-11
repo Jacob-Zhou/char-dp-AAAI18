@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 齐与 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 建立)
+                    (NP-OBJ (NP-PN (NR 中国))
+                    (ADJP (JJ 反邪教))
+                    (NP (NN 协会))))
+                    (PU ，)
+                    (VP (VV 齐与)
+                    (NP (NN 民间)
+                    (NN 力量))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    民间力量          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

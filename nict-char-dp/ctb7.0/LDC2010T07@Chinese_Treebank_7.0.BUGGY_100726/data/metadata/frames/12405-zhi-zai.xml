@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 旨在 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="purpose"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (QP (CD 两)
+                    (CLP (M 项))))
+                    (NP (NN 人权)
+                    (NN 公约)))
+                    (VP (VV 旨在)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 改善)
+                    (NP-OBJ (NP (NN 政治)
+                    (PU 、)
+                    (NN 社会)
+                    (CC 和)
+                    (NN 经济))
+                    (NP (NN 权力))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 两 项 人权 公约          
+                </arg>
+                <arg n="1">
+                    改善 政治 、 社会 和 经济 权力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

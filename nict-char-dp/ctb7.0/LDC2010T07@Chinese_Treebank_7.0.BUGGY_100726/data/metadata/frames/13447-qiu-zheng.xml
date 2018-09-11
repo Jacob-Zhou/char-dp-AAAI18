@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 求证 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 finds out about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 嫌犯))
+                    (VP (VP (VV 打)
+                    (NP-OBJ (NN 电话)))
+                    (VP (VV 到)
+                    (NP-OBJ (NN 银行)))
+                    (VP (VV 去)
+                    (VP (VV 求证))) 
+                    
+                </parse>
+                <arg n="0">
+                    嫌犯           	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (VP (VV 让)
+                    (NP-OBJ (PN 你))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 去)
+                    (VP (VV 求证)
+                    (NP-OBJ-2 (-NONE- *T*-1))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*      	  
+                </arg>
+                <arg n="1">
+                    *T*-1   	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

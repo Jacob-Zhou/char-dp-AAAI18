@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 阑珊 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-HLN (NP-SBJ (DP (DT 那))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 却))
+                    (VP (PP-PRD (P 在)
+                    (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (NN 灯火))
+                    (VP (VV 阑珊))))
+                    (NP (NN 处))))))) 
+                </parse>
+                <arg n="0">
+                    灯火 
+                </arg>
+                <arg n="m" f="loc">
+                    *T*-1 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

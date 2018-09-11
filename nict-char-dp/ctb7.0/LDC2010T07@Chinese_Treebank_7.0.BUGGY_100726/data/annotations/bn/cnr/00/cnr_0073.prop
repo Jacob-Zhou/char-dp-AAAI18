@@ -1,0 +1,10 @@
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 12 gold 受贿-v 受贿.01 ----- 12:0-rel 7:3-ARG0
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 18 gold 明-v 明.01 ----- 18:0-rel 7:3-ARG0 14:3-ARG0 17:1-ARGM-ADV
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 22 gold 受贿-v 受贿.01 ----- 22:0-rel 20:1-ARG0
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 24 gold 贪污-v 贪污.01 ----- 24:0-rel 21:1-ARG0
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 35 gold 明-v 明.01 ----- 35:0-rel 31:3-ARG0 34:1-ARGM-ADV
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 39 gold 作出-v 作出.01 ----- 39:0-rel 0:2-ARG0 5:1-ARGM-TMP 40:1,43:5-ARG1
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 49 gold 判处-v 判处.01 ----- 49:0-rel 43:2-ARG1 47:1-ARGM-ADV 50:3-ARG2
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 58 gold 执行-v 执行.01 ----- 58:0-rel
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 62 gold 处-v 处.02 ----- 62:0-rel 61:1-ARG1 63:2-ARG2
+bn/cnr/00/cnr_0073@0073@cnr@bn@ch@on 0 64 gold 没收-v 没收.01 ----- 64:0-rel 63:1-ARG0 65:2-ARG1

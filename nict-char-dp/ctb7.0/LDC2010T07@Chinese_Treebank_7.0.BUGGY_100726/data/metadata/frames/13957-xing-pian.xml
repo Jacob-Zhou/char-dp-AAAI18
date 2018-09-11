@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 行骗 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="scammer"/>
+        <role argnum="1" argrole="party scammed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 歹徒))
+                    (VP (PP-MNR (P 拿着)
+                    (NP (NN 伪钞)))
+                    (ADVP (AD 到处))
+                    (VP (VV 行骗)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    歹徒          
+                </arg>
+                <arg n="m" f="mnr">
+                    拿着 伪钞          
+                </arg>
+                <arg n="m" f="adv">
+                    到处          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

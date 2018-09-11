@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 翻到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="destination"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (DP (DT 这)
+                    (CLP (M 名)))
+                    (NP (NN 男子)))
+                    (DEG 的))
+                    (NP (NN 汽车)))
+                    (VP (VP (VV 翻到)
+                    (NP-OBJ (NN 路边))) 
+                    
+                </parse>
+                <arg n="1">
+                    这 名 男子 的 汽车          
+                </arg>
+                <arg n="2">
+                    路边          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

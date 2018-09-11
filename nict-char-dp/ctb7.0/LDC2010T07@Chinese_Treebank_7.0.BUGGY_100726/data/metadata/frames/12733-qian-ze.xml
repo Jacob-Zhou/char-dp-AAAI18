@@ -1,0 +1,47 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遣责 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 blames"/>
+        <role argnum="2" argrole="thing arg0 blames arg1 about"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 只是))
+                    (VP (VV 遣责)
+                    (NP-OBJ (NN 肇事者))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VC 是)
+                    (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 怯懦)))
+                    (DEC 的)))
+                    (NP (NN 亡命之徒)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    只是          
+                </arg>
+                <arg n="1">
+                    肇事者          
+                </arg>
+                <arg n="2">
+                    是 怯懦 的 亡命之徒          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

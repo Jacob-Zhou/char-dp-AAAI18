@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 肝胆相照 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 中国)
+                    (NN 共产党))
+                    (CC 与)
+                    (NP (DP (DT 各))
+                    (NP (NN 民族)
+                    (NN 党派))))
+                    (VP (VP (VV 风雨同舟))
+                    (PU 、)
+                    (VP (VV 肝胆相照)) 
+                    
+                </parse>
+                <arg n="0">
+                    中国 共产党 与 各 民族 党派          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

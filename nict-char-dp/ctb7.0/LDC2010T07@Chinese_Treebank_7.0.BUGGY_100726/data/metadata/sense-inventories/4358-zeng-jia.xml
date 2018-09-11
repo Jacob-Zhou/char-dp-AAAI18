@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="增加-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to increase something (an abstract or concrete entity)" group="1">
+<commentary>
+</commentary>
+<examples>
+另外 ， 一九九四年 ， 通用 在 中国 购买 了 四千多万 美元 的 产品 ， 并 计划 在 今后 两 年 增加 对 中国 产品 的 购买量
+但 外商 独资 企业 却 增加 了 百分之四点一二
+摩托罗拉 公司 一九九二年 在 天津 投资 一点二亿 美元 ， 到 一九九五年 已 增加 投
+资 到 十二亿 美元
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="noun usage, growth or increase " group="1">
+<commentary>
+</commentary>
+<examples>
+货币 回笼 的 增加 ， 为 平抑 全 区 物价 发挥 了 作用 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to add something in a domain, to become existent" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 地学界 有关 人士 称 这 一 发现 对 如何 确定 地质 年代 增加 了 新 的 依据。
+它 不仅 为 原始 鸟类 增加 了 新 的 成员 ， 而且 扩大 了 最早期 鸟类 的 地理 分布 ， 尤其 对 当今 争论 持久 的 鸟类 起源 的 各 种 假说 提出 了 新 的 挑战 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="317" ann_1_2_agreement="0.940063091483" />
+</inventory>

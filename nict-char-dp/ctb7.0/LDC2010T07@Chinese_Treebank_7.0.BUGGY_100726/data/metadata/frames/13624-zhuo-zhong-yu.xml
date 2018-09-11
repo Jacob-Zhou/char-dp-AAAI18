@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 着重于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="thing arg0 stresses for arg1"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-PN (NR 台湾))
+                    (NP (NN 政府)))
+                    (DEG 的))
+                    (NP (NP (QP (CD 两))
+                    (NP (NN 岸)))
+                    (NP (NN 关系)))
+                    (NP (NN 政策)))
+                    (PU ，)
+                    (VP (VV 着重于)
+                    (NP-OBJ (ADJP (JJ 积极))
+                    (NP (NN 交流))))) 
+                    
+                </parse>
+                <arg n="1">
+                    台湾 政府 的 两 岸 关系 政策          
+                </arg>
+                <arg n="2">
+                    积极 交流          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

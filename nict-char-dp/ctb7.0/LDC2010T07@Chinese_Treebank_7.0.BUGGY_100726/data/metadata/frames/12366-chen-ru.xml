@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 沉入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing that sinks"/>
+        <role argnum="1" argrole="location or body of water that arg0 sinks into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 艘)))
+                    (NP (NN 潜艇)))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 经历)
+                    (AS 了)
+                    (NP-OBJ (QP (CD 两)
+                    (CLP (M 次)))
+                    (NP (NN 舱内)
+                    (NN 爆炸)))))
+                    (LC 之后)))
+                    (PU ，)
+                    (VP (VV 沉入)
+                    (NP-OBJ (NN 海底)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 艘 潜艇          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 经历 了 两 次 舱内 爆炸之后          
+                </arg>
+                <arg n="1">
+                    海底          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

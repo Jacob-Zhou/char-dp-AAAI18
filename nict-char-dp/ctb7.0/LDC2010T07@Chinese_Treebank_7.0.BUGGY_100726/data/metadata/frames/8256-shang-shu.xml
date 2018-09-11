@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 上书 </id>
+    <frameset id="f1" edef="no example">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="target"/>
+        <role argnum="2" argrole="case, preposition"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN-APP (NR 何祚庥)
+                    (PU ，)
+                    (NR 陆佑楣))
+                    (QP (CD 两)
+                    (CLP (M 位)))
+                    (NP (NN 院士)))
+                    (VP (VV 上书)
+                    (NP-OBJ (NN 中央)
+                    (NN 高层))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 开发)
+                    (NP-OBJ (NP-PN (NR 怒江))
+                    (NP (NN 水电))))) 
+                    
+                </parse>
+                <arg n="0">
+                    何祚庥 ， 陆佑楣 两 位 院士	  
+                </arg>
+                <arg n="1">
+                    中央 高层	  
+                </arg>
+                <arg n="2">
+                    开发 怒江 水电	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

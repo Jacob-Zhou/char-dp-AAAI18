@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 同住 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-TMP (NT 现在))
+                    (PP-ADV (P 与)
+                    (NP (NN 妹妹)
+                    (CC 和)
+                    (NN 妈妈)))
+                    (VP (VV 同住)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    现在          
+                </arg>
+                <arg n="0" f="crd">
+                    与 妹妹 和 妈妈          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

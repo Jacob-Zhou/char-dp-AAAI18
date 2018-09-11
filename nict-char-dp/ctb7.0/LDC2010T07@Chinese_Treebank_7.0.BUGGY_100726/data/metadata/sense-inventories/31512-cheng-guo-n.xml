@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="31512-cheng-guo-n 成果-n">
+
+
+<commentary>
+
+
+</commentary>
+
+
+
+
+
+<sense n="1" type="" name="result 成果,结果" group="1">
+
+
+<commentary>
+
+
+</commentary>
+
+
+<examples>
+
+
+
+
+经营成果
+
+
+business result
+
+
+
+财务成果
+
+
+financial result
+
+
+
+
+</examples>
+
+
+<mappings>
+
+
+<wn version="2.0"></wn>
+
+
+<omega></omega>
+
+
+<pb></pb>
+
+
+</mappings>
+
+
+<SENSE_META clarity=""/>
+
+
+</sense>
+
+
+
+
+
+<sense n="2" type="" name="fruit, achievement, 成果,收获" group="1">
+
+
+<commentary>
+
+
+</commentary>
+
+
+<examples>
+
+
+
+
+他们的劳动成果
+
+
+the fruit of their labor
+
+
+
+
+科研成果。
+
+Achievements in scientific research.
+
+
+
+</examples>
+
+
+<mappings>
+
+
+<wn version="2.0"></wn>
+
+
+<omega></omega>
+
+
+<pb></pb>
+
+
+</mappings>
+
+
+<SENSE_META clarity=""/>
+
+
+</sense>
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+</inventory>

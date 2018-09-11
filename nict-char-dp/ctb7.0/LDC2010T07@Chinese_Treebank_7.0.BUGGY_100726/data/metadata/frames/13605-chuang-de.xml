@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闯得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="obstacle"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 因此))
+                    (IP-SBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 修)
+                    (NP-OBJ (NN 法))))
+                    (VP (VV 要)
+                    (VP (VV 闯得)
+                    (NP-OBJ (QP (OD 第一))
+                    (NP (NN 关)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    因此          
+                </arg>
+                <arg n="0">
+                    修 法          
+                </arg>
+                <arg n="1">
+                    第一 关          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="集中-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to focus, to concentrate, to rivet (effort, attention, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+区 内 企业 把 发展 重点 主要 集中 在 光电子 、 计算机 、 新 材料 、 生物 工程
+等 具有 一定 科研 实力 的 领域 。
+回答 这 个 问题 ， 你 应该 把 焦点 集中 在 「 市场 区隔 」
+把 力量 集中 到 有 合理 成功 希望 的 任务 上
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to mass, to form a mass (often used to describe objective reality)" group="1">
+<commentary>
+</commentary>
+<examples>
+据 统计 ， 这 一 区域 现在 仅 高耗能 工业 一 项 就 已 集中 了 约 三百 家 大中型 企业
+再说 ， 富士 的 风景 也 不 都 集中 在 山顶 呀
+东莞 也 是 全 大陆 台商 最 集中 的 地区
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to collect, to centralize (while the focused area is not obvious)" group="1">
+<commentary>
+</commentary>
+<examples>
+企业 产权 转让 的 收入 ， 除 用 于 安置 职工 外 ， 要 集中 起来 再 投资
+民主 集中制
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="5" ann_1_2_agreement="0.6" />
+</inventory>

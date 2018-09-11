@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 延年益寿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="beneficiary"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 愉快)))
+                    (DEC 的)))
+                    (NP (NN 婚姻)))
+                    (VP (VV 可以)
+                    (VP (VV 延年益寿)))) 
+                    
+                </parse>
+                <arg n="0">
+                    愉快的婚姻          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

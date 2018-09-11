@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 自封 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="status/rank"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 歪曲)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NN 宗教))
+                    (DEG 的))
+                    (NP (NN 上帝观))))
+                    (PU ，)
+                    (VP (VCP (VV 自封)
+                    (VC 为))
+                    (NP-OBJ (NN 创世主))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    创世主          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

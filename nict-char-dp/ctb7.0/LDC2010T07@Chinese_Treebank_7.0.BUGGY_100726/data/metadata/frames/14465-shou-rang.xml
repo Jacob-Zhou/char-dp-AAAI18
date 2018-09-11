@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 受让 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 融资)
+                    (NN 融券)
+                    (NN 受信)
+                    (NN 机构))
+                    (VP (VV 可)
+                    (VP (VP (PP-ADV (P 与)
+                    (NP (NN 投资人)))
+                    (VP (VSB (VV 协议)
+                    (VV 受让))
+                    (NP-OBJ (NN 标地)
+                    (NN 证券)
+                    (CC 或)
+                    (NN 占用款)
+                    (NN 处分)))) 
+                    
+                </parse>
+                <arg n="0">
+                    融资 融券 受信 机构          
+                </arg>
+                <arg n="0" f="crd">
+                    与 投资人          
+                </arg>
+                <arg n="1">
+                    标地 证券 或 占用款 处分          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

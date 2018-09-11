@@ -1,0 +1,13 @@
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 0 12 gold 举行-v 举行.01 ----- 12:0-rel 0:4-ARG0 7:1-ARGM-TMP 9:1-ARGM-LOC 13:3-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 0 20 gold 卸任-v 卸任.01 ----- 20:0-rel 16:1-ARG0 17:1-ARGM-TMP
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 0 36 gold 结束-v 结束.01 ----- 36:0-rel 0:4-ARG0 29:1-ARGM-ADV 30:1-ARGM-TMP 38:3-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 3 gold 结束-v 结束.01 ----- 3:0-rel 2:1-ARG0 4:3-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 17 gold 搭乘-v 搭乘.01 ----- 17:0-rel 0:1-ARG0 1:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-TMP 19:2-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 24 gold 飞往-v 飞往.01 ----- 24:0-rel 0:1-ARG0 1:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-TMP 25:1-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 26 gold 访问-v 访问.01 ----- 26:0-rel 0:1-ARG0 1:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-TMP
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 30 gold 是-v 是.01 ----- 30:0-rel 0:1-ARG0 28:1-ARGM-DIS 29:1-ARGM-ADV 31:2-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 37 gold 结束-v 结束.01 ----- 37:0-rel 36:1-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 39 gold 前往-v 前往.01 ----- 39:0-rel 35:1-ARGM-TMP 40:1-ARG1 33:0*33:1*34:0*34:1*44:1-ARG0
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 41 gold 访问-v 访问.01 ----- 41:0-rel 35:1-ARGM-TMP 33:0*33:1*34:0*34:1*44:1-ARG0
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 47 gold 预计-v 预计.01 ----- 47:0-rel 46:1-ARG0 48:2-ARG1
+bn/cbs/00/cbs_0087@0087@cbs@bn@ch@on 1 49 gold 访问-v 访问.01 ----- 49:0-rel 48:1-ARG0 50:1-ARG1 51:1-ARGM-TMP

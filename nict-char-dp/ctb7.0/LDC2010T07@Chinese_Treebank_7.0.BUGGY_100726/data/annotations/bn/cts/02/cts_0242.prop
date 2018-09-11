@@ -1,0 +1,23 @@
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 0 7 gold 有-v 有.03 ----- 7:0-rel 0:1,5:1-ARG0 6:1-ARGM-TMP 9:3-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 0 11 gold 重大-v 重大.01 ----- 11:0-rel 10:1*13:1*9:1-ARG0
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 1 gold 经过-v 经过.01 ----- 1:0-rel 0:1-ARG0 3:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 5 gold 思考-v 思考.01 ----- 5:0-rel 3:1-ARG0 4:1-ARGM-ADV
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 10 gold 决定-v 决定.01 ----- 10:0-rel 0:2-ARGM-ADV 7:2-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 12 gold 要-v 要.05 ----- 12:0-rel 11:1-ARG0 13:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 14 gold 控告-v 控告.01 ----- 14:0-rel 13:1-ARG0 15:3-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 22 gold 报道-v 报道.01 ----- 22:0-rel 21:1-ARG0 23:1-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 1 26 gold 产生-v 产生.01 ----- 26:0-rel 16:1-ARG0 27:0*29:1-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 2 4 gold 前往-v 前往.01 ----- 4:0-rel 0:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV 5:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 2 7 gold 去-v 去.01 ----- 7:0-rel
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 2 10 gold 控告-v 控告.01 ----- 10:0-rel 0:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV 11:1-ARG1 15:2-ARG2
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 3 7 gold 居中-v 居中.01 ----- 7:0-rel
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 3 8 gold 协调-v 协调.01 ----- 8:0-rel 9:3-ARG1 19:1*5:0*5:1*6:0*6:1-ARG0
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 3 25 gold 声明-v 声明.01 ----- 25:0-rel 0:1-ARGM-DIS 1:1-ARGM-TMP 2:1-ARGM-TMP 5:3-ARG0 20:1-ARGM-DIS 21:1-ARGM-LOC 24:1-ARGM-ADV 27:4-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 3 31 gold 终止-v 终止.01 ----- 31:0-rel 27:2-ARG1 30:1-ARGM-ADV
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 3 37 gold 宣告-v 宣告.01 ----- 37:0-rel 34:1-ARG1 35:1-ARG0 36:1-ARGM-ADV 38:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 3 39 gold 破裂-v 破裂.01 ----- 39:0-rel 38:1-ARG0
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 4 2 gold 决定-v 决定.01 ----- 2:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 4 4 gold 要-v 要.05 ----- 4:0-rel 3:1-ARG0 5:2-ARG1
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 4 6 gold 控告-v 控告.01 ----- 6:0-rel 5:1-ARG0
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 4 13 gold 严阵以待-v 严阵以待.01 ----- 13:0-rel 8:1-ARG0
+bn/cts/02/cts_0242@0242@cts@bn@ch@on 4 18 gold 做出-v 做出.01 ----- 18:0-rel 8:1-ARG0 15:1-ARGM-ADV 16:1-ARGM-TMP 19:1-ARG1

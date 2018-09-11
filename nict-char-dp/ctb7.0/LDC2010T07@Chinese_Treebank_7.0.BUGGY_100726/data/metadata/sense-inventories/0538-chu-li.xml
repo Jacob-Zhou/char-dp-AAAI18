@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="处理-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to punish, to discipline, to penalize" group="1">
+<commentary>
+</commentary>
+<examples>
+索珠乡 丁拉村 村支书 与 村委 主任 私 分 公款 的 情况 ， 在 财务 帐目 公开 时 被 群众 发现 后 ， 及时 挽回 了 损失 ， 依法 处理 了 当事人 ， 推选 更为 合适 的 村委 主任 人选 。
+对 直接 责任人 和 主管 领导人 ， 不论 工作 是否 变动 ， 都 要 追究 责任 并 严肃 处理 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to deal with, to handle, to process" group="1">
+<commentary>
+</commentary>
+<examples>
+外交部 驻港 特派员 公署 致力 协助 特区 政府 处理 经 授权 的 对 外 事务
+举凡 涉及 世界 和平 与 安全 的 重大 事件 ， 只有 安理会 才 有 权 决定 如何 处理
+只要 「 包装 」 好 一点 ， 处理 成 流行 趋势 、 理财 资讯 ， 不 要 太 像 广告 ， 一般 民众 大概 看 不 出来 新闻 後面 的 商业 利益
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="44" ann_1_2_agreement="0.931818181818" />
+</inventory>

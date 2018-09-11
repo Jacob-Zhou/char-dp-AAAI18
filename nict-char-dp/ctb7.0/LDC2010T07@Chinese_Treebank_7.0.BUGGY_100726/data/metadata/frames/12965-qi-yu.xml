@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="originated from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 根据)
+                    (NP (NN 报道)))
+                    (NP-SBJ (NN 倒塌))
+                    (VP (VV 起于)
+                    (IP-OBJ (NP-SBJ (QP (CD 一)
+                    (CLP (M 层)))
+                    (NP (NN 平房)
+                    (NN 商铺)))
+                    (VP (VP (VV 加盖)
+                    (QP-OBJ (CD 三)
+                    (CLP (M 层))))
+                    (PU ，)
+                    (VP (PP-PRP (P 因为)
+                    (IP (NP-SBJ (NN 重量))
+                    (VP (VV 过重))))
+                    (VP (VV 影响)
+                    (NP-OBJ (NN 结构))))
+                    (VP (MSP 而)
+                    (VP (VV 导致)
+                    (NP-OBJ (NN 意外)))))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    根据 报道          
+                </arg>
+                <arg n="0">
+                    倒塌           
+                </arg>
+                <arg n="1">
+                    一 层 平房 商铺 加盖 三 层 ， 因为 重量 过重 影响 结构 而 导致 意外          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

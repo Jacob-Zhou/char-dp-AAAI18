@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="清楚-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="clear, distinct" group="1">
+<commentary>
+</commentary>
+<examples>
+事实 清楚
+李 小弟弟 仍然 清楚 记得 当时 摔下 的 过程
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to understand" group="1">
+<commentary>
+</commentary>
+<examples>
+我 最 清楚
+坊间 补习 班 似乎 也 很 清楚 这 个 现象
+台湾 的 乐迷 或许 不 很 清楚 《 狼 》 制作 幕后 的 故事
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be conscious, aware, sharp" group="1">
+<commentary>
+</commentary>
+<examples>
+而 张家荣 本人 意识 也 相当 清楚 ， 也 知道 是 两 名 歹徒 从 背后 用 西瓜 刀 袭击 他 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="137" ann_1_2_agreement="0.861313868613" />
+</inventory>

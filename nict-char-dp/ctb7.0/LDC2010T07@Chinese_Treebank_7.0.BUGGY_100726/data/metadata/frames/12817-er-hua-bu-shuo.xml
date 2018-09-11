@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 二话不说 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 两)
+                    (CLP (M 名)))
+                    (NP (NN 嫌犯)))
+                    (VP (VP (ADVP (AD 居然))
+                    (VP (VV 二话不说))) 
+                    
+                </parse>
+                <arg n="0">
+                    两 名 嫌犯           
+                </arg>
+                <arg n="m" f="adv">
+                    居然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

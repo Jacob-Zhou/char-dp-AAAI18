@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="包-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to wrap, to bundle, to package" group="1">
+<commentary>
+</commentary>
+<examples>
+五 个 包 孩子 的 婴儿 被子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to charter, to hire, to book" group="1">
+<commentary>
+</commentary>
+<examples>
+哥国 香蕉 为 契约 作物 ， 早 就 包 给 大盘商
+报导 一 位 香港人 在 大陆 「 包 二奶 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to undertake, to assume responsibility for" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to assure, to guarantee" group="1">
+<commentary>
+</commentary>
+<examples>
+把 我 买回 家 ， 包 你 招财 进宝 一路 发
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="a package, a parcel" group="1">
+<commentary>
+</commentary>
+<examples>
+过年 时 ， 才 有 能力 大 包 、 小 包 地 往 家 里 买
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="a bag, a sack" group="1">
+<commentary>
+</commentary>
+<examples>
+我 仔细 一 看 ， 才 找到 包 底 缝合处 有 一 小 缺口
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="classifier, a pack of" group="1">
+<commentary>
+</commentary>
+<examples>
+因为 以前 农民 做田 时 都 习惯 塞 一 包 香烟 在 口袋 里
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

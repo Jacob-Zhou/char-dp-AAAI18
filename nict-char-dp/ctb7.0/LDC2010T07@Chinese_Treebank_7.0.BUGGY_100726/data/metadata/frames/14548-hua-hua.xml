@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 画画 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (QP (CD ６０)
+                    (CLP (M 岁)))
+                    (DEG 的))
+                    (NP (PN 他)))
+                    (VP (VP (VV 才华洋溢))
+                    (PU ，)
+                    (VP (VV 会)
+                    (VP (VP (VV 拉)
+                    (NP-OBJ (NN 小提琴)))
+                    (PU ，)
+                    (VP (VV 弹)
+                    (NP-OBJ (NN 钢琴)))))
+                    (PU ，)
+                    (VP (ADVP (AD 也))
+                    (VP (VV 会)
+                    (VP (VV 画画)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    ６０ 岁 的 他 才华洋溢          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逆反 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 然而))
+                    (IP-CND (NP-PN-SBJ (NR 加滕))
+                    (VP (ADVP (CS 若))
+                    (VP (VV 率领)
+                    (NP-OBJ (NP (PN 其)
+                    (NN 派系))
+                    (NP (NN 议员)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 采取)
+                    (NP-OBJ (DP (DT 某)
+                    (CLP (M 种)))
+                    (NP (NN 行动))))))))
+                    (PU ，)
+                    (NP-SBJ (NN 结果))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 可能)
+                    (VP (VV 逆反))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    然而          
+                </arg>
+                <arg n="m" f="cnd">
+                    加滕 若 率领 其 派系 议员 采取 某 种 行动          
+                </arg>
+                <arg n="0">
+                    结果          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="33011-dong-xi-n 东西-n">
+
+
+<commentary>
+
+
+</commentary>
+
+
+
+
+
+<sense n="1" type="" name="east, west 东西" group="1">
+
+
+<commentary>
+
+
+</commentary>
+
+
+<examples>
+
+
+
+
+他常常分不清东西南北。
+
+
+He often cannot distinguish east, west, south and north.
+
+
+
+
+这地方东西三公里。
+
+This district is three kilometres across from east to west.
+
+
+
+</examples>
+
+
+<mappings>
+
+
+<wn version="2.0"></wn>
+
+
+<omega></omega>
+
+
+<pb></pb>
+
+
+</mappings>
+
+
+<SENSE_META clarity=""/>
+
+
+</sense>
+
+
+
+
+
+<sense n="2" type="" name="thing 东西" group="1">
+
+
+<commentary>
+
+
+</commentary>
+
+
+<examples>
+
+
+
+
+你拿的那个东西是什么？
+
+
+What is that thing you are carrying?
+
+
+
+
+
+没有东西可吃。
+
+
+There wasn't a thing to eat.
+
+
+
+
+</examples>
+
+
+<mappings>
+
+
+<wn version="2.0"></wn>
+
+
+<omega></omega>
+
+
+<pb></pb>
+
+
+</mappings>
+
+
+<SENSE_META clarity=""/>
+
+
+</sense>
+
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+</inventory>
+
+

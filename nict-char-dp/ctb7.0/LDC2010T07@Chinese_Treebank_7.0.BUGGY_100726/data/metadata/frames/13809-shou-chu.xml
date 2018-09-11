@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 收出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 大盘))
+                    (VP (PP-TMP (P 在)
+                    (NP (NT 今天)))
+                    (ADVP (CS 虽然))
+                    (VP (VC 是)
+                    (VP (VV 收出)
+                    (NP-OBJ (NN 长红旺))))) 
+                    
+                </parse>
+                <arg n="0">
+                    大盘          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 今天          
+                </arg>
+                <arg n="m" f="dis">
+                    虽然          
+                </arg>
+                <arg n="1">
+                    长红旺          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

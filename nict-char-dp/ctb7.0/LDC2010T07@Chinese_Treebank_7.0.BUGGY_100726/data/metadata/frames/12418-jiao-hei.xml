@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 焦黑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity descrbied"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VP (ADVP (AD 已经))
+                    (ADVP (AD 全身))
+                    (VP (VA 焦黑))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="m" f="adv">
+                    全身          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

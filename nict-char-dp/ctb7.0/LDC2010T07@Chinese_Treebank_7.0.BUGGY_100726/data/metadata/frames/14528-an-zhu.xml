@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 按住 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity hold down"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-MNR (P 用)
+                    (NP (DP (DT 这)
+                    (CLP (M 包)))
+                    (NP (NN 强奸)
+                    (NN 药片))))
+                    (FLR (DEC 的))
+                    (VP (VP (VV 按住)
+                    (NP-OBJ (-NONE- *RNR*-1)))
+                    (VP (VV 逼)
+                    (NP-OBJ-1 (PN 对方))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 吃下)))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    *RNR*-1 -> 对方           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="03670-xi-tong-n-n 系统-n">
+
+<commentary>
+
+</commentary>
+
+
+
+
+
+
+
+<sense n="1" type="" name="系统, system, " group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+灌溉系统
+
+irrigation system
+
+
+
+
+
+系统工程
+
+systems engineering
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="系统, 机构，organization, department, " group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+财贸系统
+
+departments of trade and finance
+
+
+
+
+
+
+
+附属系统
+
+affiliated organizations
+
+
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+
+
+<sense n="3" type="" name="系统, 渠道，channels, " group="">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+
+
+
+
+通过组织系统
+
+Through organizational channels.
+
+
+
+
+
+
+
+他通过秘密渠道得到消息.
+
+He gets his information through secret channels.
+
+
+
+
+
+
+
+examples>
+
+</examples>
+
+<mappings>
+
+<wn version="2.0">
+
+</wn>
+
+
+
+<omega>
+
+</omega>
+
+
+
+<pb>
+
+</pb>
+
+</mappings>
+
+
+
+<SENSE_META clarity="" />
+
+</sense>
+
+
+
+
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-" />
+
+</inventory>
+

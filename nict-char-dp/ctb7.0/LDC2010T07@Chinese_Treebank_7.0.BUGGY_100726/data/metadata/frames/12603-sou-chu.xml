@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搜出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme that arg0 finds"/>
+        <role argnum="2" argrole="location that arg0 finds arg1"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警方))
+                    (VP (ADVP (AD 还))
+                    (PP-LOC (P 在)
+                    (NP (NN 嫌犯)
+                    (NN 住处)))
+                    (VP (VV 搜出)
+                    (NP-OBJ (NP-APP (NN 安非他命)
+                    (ETC 等))
+                    (NP (NN 毒品)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="2">
+                    在 嫌犯 住处          
+                </arg>
+                <arg n="1">
+                    安非他命 等 毒品          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,60 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 准许 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="allower"/>
+        <role argnum="1" argrole="party allowed"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                 
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (NP (NT ９月))
+                    (LC 底))
+                    (NP-PN-SBJ (NR 美国)
+                    (NN 移民局))
+                    (VP (VP (VV 拒绝)
+                    (NP-OBJ (DNP (NP-PN (NR 张宏宝))
+                    (DEG 的))
+                    (NP (NN 政治)
+                    (NN 庇护))
+                    (NP (NN 要求))))
+                    (PU ，)
+                    (VP (ADVP (AD 但))
+                    (VP (VV 准许)
+                    (NP-OBJ (PN 他))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 留)
+                    (PP (P 在)
+                    (NP-PN (NR 关岛))))
+                    (VP (VV 寻求)
+                    (NP-OBJ (NN 上诉))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    ９月 底          
+                </arg>
+                <arg n="0">
+                    美国 移民局          
+                </arg>
+                <arg n="m" f="dis">
+                    但          
+                </arg>
+                <arg n="1">
+                    他          
+                </arg>
+                <arg n="2">
+                    留 在 关岛 寻求上诉          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="反-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to go against, oppose" group="1">
+<commentary>
+</commentary>
+<examples>
+澳门 的 华人 绝 不 「 反 中国 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="turn around" group="1">
+<commentary>
+</commentary>
+<examples>
+反 过来 跟 母厂 竞争
+反 观 台湾
+让 白冰冰 饰演 一 反 苦毒 小孩 刻板印象 的 后母
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="return" group="1">
+<commentary>
+</commentary>
+<examples>
+戴胜通 反 问
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="on the contrary" group="1">
+<commentary>
+</commentary>
+<examples>
+不但 不 气馁 反 更 坚决
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="rebel" group="1">
+<commentary>
+</commentary>
+<examples>
+官 逼 民 反
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="revserse" group="1">
+<commentary>
+</commentary>
+<examples>
+穿 反 了 衣服 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="infer" group="1">
+<commentary>
+</commentary>
+<examples>
+举 一 反 三
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="105" ann_1_2_agreement="0.942857142857" />
+</inventory>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 并入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing included"/>
+        <role argnum="2" argrole="include into"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ６)
+                    (CLP (M 所)))
+                    (NP (NN 成人)
+                    (NN 高校)))
+                    (VP (VV 并入)
+                    (NP-OBJ (QP (CD ５)
+                    (CLP (M 所)))
+                    (ADJP (JJ 普通))
+                    (NP (NN 高校)))) 
+                    
+                </parse>
+                <arg n="1">
+                    ６ 所 成人 高校          
+                </arg>
+                <arg n="2">
+                    ５ 所 普通 高校          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

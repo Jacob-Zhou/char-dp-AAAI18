@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 递出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing handed out/proposed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADJP (JJ 在野))
+                    (NP (NN 党)))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 可能)
+                    (VP (VV 递出)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 背戈)
+                    (NP-OBJ (ADJP (JJ 总))
+                    (NP (NN 预算))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    在野党          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    背戈 总 预算          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

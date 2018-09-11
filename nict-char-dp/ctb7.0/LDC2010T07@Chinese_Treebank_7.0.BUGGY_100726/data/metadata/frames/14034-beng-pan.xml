@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 崩盘 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 菲律宾))
+                    (NP (NN 经济)))
+                    (VP (VV 会)
+                    (VP (PP-PRP (P 因为)
+                    (IP (NP-TMP (NT 目前))
+                    (NP-SBJ (NN 政治))
+                    (VP (VA 不安))))
+                    (VP (MSP 而)
+                    (VP (VV 崩盘))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    菲律宾 经济          
+                </arg>
+                <arg n="m" f="prp">
+                    因为 目前 政治 不安          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

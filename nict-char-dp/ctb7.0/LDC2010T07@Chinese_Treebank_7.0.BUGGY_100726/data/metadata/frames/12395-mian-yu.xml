@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 免于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing that arg0 avoids"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (LCP (NP (NN 林区))
+                    (LC 内))
+                    (DNP (QP (ADVP (AD 将近))
+                    (QP (CD ５０００)
+                    (CLP (M 英亩))))
+                    (DEG 的))
+                    (NP (NN 红木)))
+                    (VP (VV 可以)
+                    (VP (VV 免于)
+                    (NP-OBJ (CP-APP (IP (NP-SBJ-1 (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VV 砍伐)
+                    (NP-OBJ (-NONE- *-1)))))
+                    (DEC 的))
+                    (NP (NN 威胁))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    林区 内 将近 ５０００ 英亩 的 红木          
+                </arg>
+                <arg n="1">
+                    被 砍伐 的 威胁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

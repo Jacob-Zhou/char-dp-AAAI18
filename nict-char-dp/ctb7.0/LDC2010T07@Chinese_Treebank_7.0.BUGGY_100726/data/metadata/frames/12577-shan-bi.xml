@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 闪避 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-2 (-NONE- *T*-1))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 货车))
+                    (VP (VV 撞毁)
+                    (NP-OBJ (-NONE- *-2))))))
+                    (DEC 的)))
+                    (DP (DT 这)
+                    (CLP (M 家)))
+                    (NP (NN 民宅)))
+                    (DEG 的))
+                    (NP (NN 主人)))
+                    (VP (VV 闪避)
+                    (ADVP (AD 及时)))) 
+                    
+                </parse>
+                <arg n="0">
+                    被 货车 撞毁 的 这 家 民宅 的 主人          
+                </arg>
+                <arg n="m" f="adv">
+                    及时          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

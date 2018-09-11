@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 应映 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 reponds to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 应映)
+                    (NP-OBJ (DNP (UCP (NP (NN 三通))
+                    (PU ，)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 开放)
+                    (IP-OBJ (NP-SBJ (NN 大陆)
+                    (NN 人士))
+                    (VP (VP (VV 来)
+                    (NP-PN-OBJ (NR 台)))
+                    (VP (VV 观光)))))))
+                    (DEC 的))
+                    (NP (NN 冲击)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    三通 ， 开放 大陆 人士 来 台 观光 的 冲击          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 测定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing measured"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 印度))
+                    (NP (NN 地震)
+                    (NN 部门)))
+                    (VP (VV 测定)))) 
+                    
+                </parse>
+                <arg n="0">
+                    印度 地震 部门          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

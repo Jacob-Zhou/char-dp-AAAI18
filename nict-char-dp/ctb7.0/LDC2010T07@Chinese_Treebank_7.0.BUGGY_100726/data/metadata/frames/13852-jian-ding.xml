@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 建订 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme established"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NN 司务部)
+                    (PU 、)
+                    (NN 司法院))
+                    (VP (ADVP (AD 紧速))
+                    (VP (VP (VV 建立)
+                    (NP-OBJ (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (-NONE- *T*-2))
+                    (VP (VV 淘汰)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 不))
+                    (VP (VA 适任)))))
+                    (NP (NN 法官))))))
+                    (DEC 的)))
+                    (NP (NN 机制))))
+                    (PU ，)
+                    (VP (VV 建订)
+                    (NP-OBJ (PU 《)
+                    (NN 法官)
+                    (NN 法))
+                    (PU 》)) 
+                    
+                </parse>
+                <arg n="0">
+                    司务部 、 司法院          
+                </arg>
+                <arg n="m" f="adv">
+                    紧速          
+                </arg>
+                <arg n="1">
+                    《 法官 法 》           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

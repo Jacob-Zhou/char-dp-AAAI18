@@ -1,0 +1,90 @@
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 0 3 gold 规定-v 规定.01 ----- 3:0-rel 0:2-ARG0 5:6-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 0 7 gold 欠缴-v 欠缴.01 ----- 7:0-rel 8:1-ARG1 5:0*6:0*9:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 0 13 gold 得-v 得.01 ----- 13:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 0 14 gold 出境-v 出境.01 ----- 14:0-rel 5:5-ARG0 12:1-ARGM-ADV
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 2 4 gold 欠缴-v 欠缴.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 2 8 gold 持续-v 持续.01 ----- 8:0-rel 0:2-ARGM-TMP 3:2-ARG0 9:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 2 9 gold 增加-v 增加.01 ----- 9:0-rel 0:2-ARGM-TMP 3:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 2 12 gold 危及-v 危及.01 ----- 12:0-rel 0:2-ARGM-TMP 3:2-ARG0 11:1-ARGM-ADV 14:3-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 2 13 gold 到-v 到.01 ----- 13:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 2 17 gold 平衡-n 平衡.01 ----- 17:0-rel 14:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 10 gold 接受-v 接受.01 ----- 10:0-rel 9:1-ARG0 11:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 12 gold 采访-n 采访.01 ----- 12:0-rel 9:1*3:3-ARG1 10:0-rel-Sup 11:0-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 14 gold 强调-v 强调.01 ----- 14:0-rel 0:1-ARGM-TPC 3:3-ARG0 8:1-ARGM-TMP 16:4-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 19 gold 纳税-v 纳税.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-MNR
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 20 gold 是-v 是.01 ----- 20:0-rel 16:2-ARG0 21:3-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 25 gold 应-v 应.01 ----- 25:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 26 gold 尽-v 尽.01 ----- 26:0-rel 22:2-ARG0 21:0*27:0*29:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 35 gold 没有-v 没有.02 ----- 35:0-rel 36:2-ARG1 33:0*34:0*44:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 40 gold 欠缴-v 欠缴.01 ----- 40:0-rel 39:1-ARGM-ADV 41:1-ARG1 33:0*34:0*44:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 55 gold 规定-n 规定.01 ----- 55:0-rel 50:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 3 59 gold 采取-v 采取.01 ----- 59:0-rel 46:1-ARG0 48:1-ARGM-ADV 49:1-ARGM-MNR 57:1-ARGM-DIR 60:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 4 3 gold 阻止-v 阻止.02 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV 4:3-ARG1 10:2-ARG2
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 4 6 gold 欠缴-v 欠缴.01 ----- 6:0-rel 7:1-ARG1 4:0*5:0*9:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 4 11 gold 出境-v 出境.01 ----- 11:0-rel 10:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 5 2 gold 介绍-v 介绍.01 ----- 2:0-rel 1:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 5 12 gold 努力-n 努力.01 ----- 12:0-rel 5:4-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 5 23 gold 提前-v 提前.01 ----- 23:0-rel 22:1-ARG1 24:1-ARG2
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 5 27 gold 完成-v 完成.01 ----- 27:0-rel 0:1-ARGM-MNR 4:1-ARGM-MNR 14:2-ARG1 21:1-ARGM-ADV 22:2-ARGM-ADV 26:1-ARGM-ADV
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 5 32 gold 好-v 好.01 ----- 32:0-rel 0:1-ARGM-MNR 29:1-ARG0 31:1-ARGM-ADV
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 6 2 gold 欠缴-v 欠缴.01 ----- 2:0-rel 1:1-ARG0 3:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 6 7 gold 严重-v 严重.01 ----- 7:0-rel 0:1-ARGM-DIS 1:4-ARG0 6:1-ARGM-ADV
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 6 11 gold 欠缴-v 欠缴.01 ----- 11:0-rel 10:1-ARG0 12:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 6 22 gold 突出-v 突出.01 ----- 22:0-rel 9:1-ARGM-DIS 10:4-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 6 25 gold 影响-v 影响.01 ----- 25:0-rel 9:1-ARGM-DIS 10:4-ARG0 24:1-ARGM-ADV 27:4-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 6 34 gold 完成-n 完成.01 ----- 34:0-rel 27:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 7 8 gold 欠缴-v 欠缴.01 ----- 8:0-rel 5:3-ARG0 4:0*9:0*11:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 7 14 gold 达到-v 达到.01 ----- 14:0-rel 0:1-ARGM-TMP 4:3-ARG0 13:1-ARGM-ADV 16:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 7 22 gold 欠缴-v 欠缴.01 ----- 22:0-rel 21:1-ARG0 20:0*23:0*24:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 7 29 gold 达-v 达.01 ----- 29:0-rel 19:1-ARGM-ADV 20:3-ARG0 28:1-ARGM-ADV 30:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 1 gold 要求-v 要求.02 ----- 1:0-rel 0:1-ARG0 2:2-ARG1 6:2-ARG2
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 7 gold 必须-v 必须.01 ----- 7:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 9 gold 执行-v 执行.01 ----- 9:0-rel 6:1-ARG0 8:1-ARGM-ADV 10:3-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 15 gold 征收-n 征收.01 ----- 15:0-rel 14:0-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 16 gold 管理-n 管理.01 ----- 16:0-rel 14:0,15:0-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 21 gold 规定-n 规定.01 ----- 21:0-rel 10:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 8 27 gold 加征-v 加征.01 ----- 27:0-rel 6:1-ARG0 23:1-ARG2 26:1-ARGM-ADV 28:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 4 gold 有-v 有.03 ----- 4:0-rel 5:2-ARG1 2:0*3:0*11:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 7 gold 需要-v 需要.01 ----- 7:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 8 gold 缓缴-v 缓缴.01 ----- 8:0-rel 9:1-ARG1 2:0*3:0*11:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 13 gold 要-v 要.03 ----- 13:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 17 gold 审批-v 审批.01 ----- 17:0-rel 0:1-ARG0 1:1-ARG1 14:1-ARGM-MNR 16:1-ARGM-ADV
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 22 gold 满-v 满.02 ----- 22:0-rel 21:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 27 gold 补缴-v 补缴.01 ----- 27:0-rel 1:1-ARG0 20:1-ARGM-TMP 24:1-ARGM-ADV 26:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 28 gold 入库-v 入库.01 ----- 28:0-rel 20:1-ARGM-TMP 24:1-ARGM-ADV 26:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 32 gold 允许-v 允许.01 ----- 32:0-rel 0:1-ARG0 1:1-ARG1 30:1-ARGM-ADV 31:1-ARGM-ADV 33:2-ARG2
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 36 gold 为-v 为.02 ----- 36:0-rel 33:1-ARG0 34:1-ARG2 37:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 9 39 gold 拖欠-v 拖欠.01 ----- 39:0-rel 33:1-ARG0 38:1-ARGM-ADV 40:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 1 gold 要-v 要.03 ----- 1:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 4 gold 清理-v 清理.01 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 8 gold 返还-n 返还.01 ----- 8:0-rel 7:0-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 11 gold 退税-n 退税.01 ----- 11:0-rel 10:0-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 18 gold 征-v 征.01 ----- 18:0-rel 14:3-ARG2 17:1-ARGM-ADV 13:0*19:0*20:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 24 gold 工作-n 工作.01 ----- 24:0-rel 3:3-ARGM-LOC
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 26 gold 结合-v 结合.02 ----- 26:0-rel 0:1-ARG0 3:4-ARG1 25:1-ARGM-ADV
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 10 27 gold 起来-v 起来.01 ----- 27:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 2 gold 强调-v 强调.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 4:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 6 gold 保证-v 保证.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 17 gold 欠缴-v 欠缴.01 ----- 17:0-rel 16:1-ARGM-ADV 18:1-ARG1 14:0*15:0*20:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 22 gold 要-v 要.03 ----- 22:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 28 gold 规定-n 规定.01 ----- 28:0-rel 24:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 30 gold 阻止-v 阻止.02 ----- 30:0-rel 4:1-ARGM-PRP 11:1-ARG0 12:1-ARG1 23:1-ARGM-MNR 31:1-ARG1 33:2-ARG2
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 34 gold 出境-v 出境.01 ----- 34:0-rel 33:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 37 gold 要-v 要.03 ----- 37:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 38 gold 采取-v 采取.01 ----- 38:0-rel 4:1-ARGM-PRP 11:1-ARG0 36:1-ARGM-ADV 39:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 44 gold 通知-v 通知.02 ----- 44:0-rel 4:1-ARGM-PRP 11:1-ARG0 36:1-ARGM-ADV 43:1-ARGM-ADV 45:3-ARG1 52:2-ARG2
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 54 gold 停-v 停.01 ----- 54:0-rel 52:1-ARG0 53:1-ARGM-ADV 55:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 56 gold 支付-v 支付.01 ----- 56:0-rel 55:1-ARG0 57:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 60 gold 相当于-v 相当于.01 ----- 60:0-rel 61:1-ARG1 58:0*59:0*63:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 69 gold 没有-v 没有.02 ----- 69:0-rel 70:2-ARG1 67:0*68:0*78:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 74 gold 欠缴-v 欠缴.01 ----- 74:0-rel 73:1-ARGM-ADV 75:1-ARG1 67:0*68:0*78:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 81 gold 要-v 要.03 ----- 81:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 84 gold 采取-v 采取.01 ----- 84:0-rel 4:1-ARGM-PRP 11:1-ARG0 82:1-ARGM-DIR 85:4-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 87 gold 扣押-v 扣押.01 ----- 87:0-rel 85:1-ARG0 86:1-ARGM-ADV 88:0*91:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 90 gold 查封-v 查封.01 ----- 90:0-rel 85:1-ARG0 86:1-ARGM-ADV 91:2-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 102 gold 期满-v 期满.01 ----- 102:0-rel 101:1-ARG0
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 105 gold 没有-v 没有.01 ----- 105:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 106 gold 缴纳-v 缴纳.01 ----- 106:0-rel 98:0*99:0-ARG0 100:1-ARGM-TMP 104:1-ARGM-ADV 107:1-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 111 gold 要-v 要.03 ----- 111:0-rel
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 11 114 gold 拍卖-v 拍卖.01 ----- 114:0-rel 4:1-ARGM-PRP 110:1-ARG0 112:1-ARGM-MNR 98:3*115:0-ARG1
+nw/xinhua/00/chtb_0083@0083@xinhua@nw@ch@on 12 1 gold 完-v 完.01 ----- 1:0-rel

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="寻求-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to search for" group="1">
+<commentary>
+</commentary>
+<examples>
+为 此 ， 必须 培育 新型 的 安全观 ， 寻求 维护 和平 的 新 方法
+其中 二十 个 项目 已 寻求 到 合作 伙伴
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to try to" group="1">
+<commentary>
+</commentary>
+<examples>
+一些 大型 专业性 外贸 公司 亦 从 去年 底 开始 ， 抓紧 派遣 推销 小组 、 展销团 等 进入 俄罗斯 ， 寻求 扩大 业务
+部长 严庆章 表示 ， 相信 多 家 金融 机构 会 寻求 合并
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="63" ann_1_2_agreement="0.809523809524" />
+</inventory>

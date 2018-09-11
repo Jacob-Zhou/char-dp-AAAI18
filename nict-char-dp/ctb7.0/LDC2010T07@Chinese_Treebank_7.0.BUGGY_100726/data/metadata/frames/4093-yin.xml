@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 阴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="sky, weather, etc. described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 南京))
+                    (VP (VP (VA 阴)) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    南京	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

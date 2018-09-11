@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="希望-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to hope, to hope for" group="1">
+<commentary>
+</commentary>
+<examples>
+他们 希望 的 是 一 种 休戚与共 、 真诚 合作 的 夥伴 关系
+他 同时 希望 台湾 当局 顺应 历史 发展 潮流 ， 把握 时机 ， 就 两 岸 政治 谈判 作出 积极 回应 和 明智 选择 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="hope, noun usage" group="1">
+<commentary>
+</commentary>
+<examples>
+以色列 总理 巴拉克 １３号 在 美国 芝加哥 会见 旅美 犹太人 领袖 时 ， 向 在场 的 犹太人 领袖 勾勒 出 他 重建 中东 和平 的 蓝图 ， 同时 表达 他 终止 以 、 巴 之间 长 达 ７ 个 多 星期 血腥 攻击 的 希望
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="stand a chance, noun usage" group="1">
+<commentary>
+</commentary>
+<examples>
+在 法院 判案 的 时候 ， 当事人 委托 你 的 时候 ， 他 问 你 ‘ 你 认为 我 有 希望 吗
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="617" ann_1_2_agreement="0.969205834684" />
+</inventory>

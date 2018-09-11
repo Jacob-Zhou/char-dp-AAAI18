@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 授于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="giver"/>
+        <role argnum="1" argrole="theme given"/>
+        <role argnum="2" argrole="receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-1 (NP (QP (CD ２０００))
+                    (NP (NN 年度)))
+                    (NP-PN (NR 诺贝尔))
+                    (NP (NN 物理学)
+                    (NN 奖)))
+                    (VP (VV 授于)
+                    (NP-IO (NP (NP-APP (NP-PN (NR 俄罗斯))
+                    (NP (NN 科学家)))
+                    (NP-PN (NR 哲罗斯阿尔费罗夫)))
+                    (PU ，)
+                    (NP (NP-APP (NP-PN (NR 美国))
+                    (NP (NN 科学家)))
+                    (NP-PN (NR 郝伯特)
+                    (PU ，)
+                    (NR 克勒莫)
+                    (CC 和)
+                    (NR 捷克杰尔比))))
+                    (NP-OBJ (-NONE- *-1))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          	  	  
+                </arg>
+                <arg n="2">
+                    俄罗斯 科学家 哲罗斯阿尔费罗夫 ， 美国 科学家 郝伯特 ， 克勒莫 和 捷克杰尔比          	  	  
+                </arg>
+                <arg n="1">
+                    ２０００ 年度 诺贝尔 物理学 奖 -> *-1          	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,15 @@
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 0 5 gold 报道-v 报道.01 ----- 5:0-rel 0:3-ARG0 3:1-ARGM-DIR 7:3-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 0 11 gold 离开-v 离开.01 ----- 11:0-rel 7:2-ARG0 10:1-ARGM-TMP 12:3-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 0 16 gold 抵达-v 抵达.01 ----- 16:0-rel 7:2-ARG0 10:1-ARGM-TMP 17:3-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 0 22 gold 访问-v 访问.01 ----- 22:0-rel 7:2-ARG0 10:1-ARGM-TMP
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 5 gold 举行-v 举行.01 ----- 5:0-rel 2:3-ARG0 1:1*6:1-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 13 gold 说-v 说.01 ----- 13:0-rel 0:1-ARGM-LOC 12:1-ARG0 15:3-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 16 gold 欢迎-v 欢迎.01 ----- 16:0-rel 15:1-ARG0 17:3-ARG1 21:2-ARG2
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 22 gold 加强-v 加强.01 ----- 22:0-rel 21:1-ARG0 23:1-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 26 gold 使-v 使.01 ----- 26:0-rel 25:1-ARG0 27:3-ARG1 32:2-ARG2
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 36 gold 新-v 新.01 ----- 36:0-rel 34:0*34:1*35:0*35:1*38:1-ARG0
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 39 gold 得到-v 得到.01 ----- 39:0-rel 32:1-ARG0 33:1-ARGM-TMP 40:3-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 1 42 gold 新-v 新.01 ----- 42:0-rel 40:0*40:1*41:0*41:1*46:1-ARG0
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 2 3 gold 前往-v 前往.01 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-TMP 2:1-ARGM-DIS 4:2-ARG1
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 2 7 gold 驻-v 驻.01 ----- 7:0-rel 8:1-ARG1 5:0*5:1*6:0*6:1*9:1-ARG0
+bn/cnr/01/cnr_0117@0117@cnr@bn@ch@on 2 10 gold 看望-v 看望.01 ----- 10:0-rel 0:1-ARG0 1:1-ARGM-TMP 2:1-ARGM-ADV 12:2-ARG1

@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 怎么样 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (CS 不管))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 怎么样)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不管          	  
+                </arg>
+                <arg n="0">
+                    *pro*          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity" />
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (DFL (AD 也))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 也))
+                    (ADVP (AD 不))
+                    (VP (VV 能)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ-1 (PN 你))
+                    (VP (VV 怎么样)
+                    (NP-OBJ (-NONE- *-1)))))))
+                    (PU 。))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*           
+                </arg>
+                <arg n="m" f="adv">
+                    也            
+                </arg>
+                <arg n="m" f="adv">
+                    不           
+                </arg>
+                <arg n="1">
+                    *-1 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

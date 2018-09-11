@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 有所为 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 科技)
+                    (NN 创新))
+                    (LC 上)))
+                    (VP (VV 扬长避短)))
+                    (PU ，)
+                    (VP (VV 有取有舍))
+                    (PU ，)
+                    (VP (VV 有所为))
+                    (VP (VV 有所不为)) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

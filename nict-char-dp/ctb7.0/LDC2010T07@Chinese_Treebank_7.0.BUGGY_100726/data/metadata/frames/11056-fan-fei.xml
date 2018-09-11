@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 翻飞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity flying up and down"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 稻浪))
+                    (VP (VV 翻飞))) 
+                </parse>
+                <arg n="0">
+                    稻浪 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

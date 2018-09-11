@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="下降-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="decline" group="1">
+<commentary>
+</commentary>
+<examples>
+亚洲 产品 生产 成本 下降
+人均 国民 生产 总值 比 ９７年 下降 百分之三十三点五
+人口 出生率 和 人口 自然 增长率 下降 到 较 低 的 水平
+美国 明年 的 经济 增长率 将 从 今年 的 百分之三点八 下降 到 百分之二点四
+在 昨天 它 的 溪水 暴涨 ， 造成 了 严重 灾情 ， 今天 虽然 它 已经 趋于 平息 ， 水位 下降
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to get worse" group="1">
+<commentary>
+</commentary>
+<examples>
+湖南 医科 大学 中国 医学 遗传学 国家 重点 实验室 成功 克隆 了 以 高频性 听力 下降 为 主要 特征 的 神经性 耳聋 疾病 基因 ， 并 在 国际 学术 权威 杂志 Ｎature Ｇenetics 上 公布 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to lower" group="1">
+<commentary>
+</commentary>
+<examples>
+进展号 将 把 “ 和平号 ” 下降 到 ８０ 公里 的 轨道
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="87" ann_1_2_agreement="0.873563218391" />
+</inventory>

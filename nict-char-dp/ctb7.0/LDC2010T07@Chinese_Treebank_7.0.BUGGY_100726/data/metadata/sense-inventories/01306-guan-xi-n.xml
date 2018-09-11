@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="01306-guan-xi-n 关系-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="relation 关系" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+他研究工资与物价的关系。
+
+He studies the relation between wages and prices.
+
+
+
+因果关系
+
+causal relation
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="relationship 关系, 关联, 联系" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+这个老师和学生门关非常好。
+
+This teacher has a very good relationship with his/her students.
+
+
+
+他不能和同事建立良好的关系。
+
+He cannot build a relationship with his colleagues.
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="CandiceCheung" sample_score="-"/>
+
+</inventory>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

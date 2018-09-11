@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 给付 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="giver"/>
+        <role argnum="1" argrole="thing given"/>
+        <role argnum="2" argrole="receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 给付)
+                    (NP-OBJ (PP (P 对)
+                    (NP-PN (NR 联合国)))
+                    (NP (NN 债款)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    对 联合国 债款          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

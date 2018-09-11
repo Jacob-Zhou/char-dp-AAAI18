@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扒光 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="ripped off from"/>
+        <role argnum="2" argrole="thing ripped off"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NN 其中))
+                    (QP (CD 一些))
+                    (NP (NN 尸体)))
+                    (VP (SB 被)
+                    (VP (VV 扒光)
+                    (AS 了)
+                    (NP-OBJ (NN 衣服))))) 
+                    
+                </parse>
+                <arg n="1">
+                    其中一些 尸体          
+                </arg>
+                <arg n="2">
+                    衣服          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="31317-chan-ye-n 产业-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="estate, property, 产业, 房地产, 财产, 遗产" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+他对森林产业有很大的兴趣。
+
+He has great interest in forest estate.
+
+
+
+他乡下的产业包括一片大的树林。
+
+His country estate includes a large forest.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="industry,产业" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+你知道现在的主导产业是什么吗？
+
+Do you know what the leading industry is nowadays?
+
+
+
+知识产业
+
+knowledge industry
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

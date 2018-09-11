@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 卓有成效 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 同时))
+                    (PU ，)
+                    (PP-MNR (P 在)
+                    (LCP (IP (NP-SBJ (NP (NP-PN (NR 中国))
+                    (NP (NN 政府)))
+                    (CC 和)
+                    (NP (NP (DP (DT 全))
+                    (NP (NN 国)))
+                    (NP (NN 人民))))
+                    (VP (ADVP (AD 大力))
+                    (VP (VV 支持))))
+                    (LC 下))
+                    (PU ，))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-PN-SBJ (NR 北京市))
+                    (VP (PP-PRP (P 为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 申奥))))
+                    (VP (MSP 所)
+                    (VP (VV 做)
+                    (NP-OBJ (-NONE- *T*-1))))))
+                    (DEC 的)))
+                    (QP (CD 大量))
+                    (NP (NN 工作)))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 卓有成效)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    同时          
+                </arg>
+                <arg n="m" f="mnr">
+                    在 中国 政府 和 全 国 人民 大力 支持 下          
+                </arg>
+                <arg n="0">
+                    北京市 为 申奥 所 做 的 大量 工作          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

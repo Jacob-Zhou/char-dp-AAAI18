@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 多谢 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person expressing thanks"/>
+        <role argnum="1" argrole="entity arg0 expresses thanks to/for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (IP-TMP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 临走)))
+                    (PU ，)
+                    (ADVP (AD 还))
+                    (DVP (VP (ADVP (AD 一迭))
+                    (VP (VV 带笑)))
+                    (DEV 的))
+                    (VP (VV 多谢)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  
+                </arg>
+                <arg n="m" f="adv">
+                    一迭 带笑 的 	  
+                </arg>
+                <arg n="m" f="adv">
+                    还 	  
+                </arg>
+                <arg n="m" f="tmp">
+                    *PRO* 临走 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 多谢)
+                    (IP-OBJ (NP-SBJ (PN 各位))
+                    (VP (VV 关心))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  
+                </arg>
+                <arg n="1">
+                    各位 关心	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

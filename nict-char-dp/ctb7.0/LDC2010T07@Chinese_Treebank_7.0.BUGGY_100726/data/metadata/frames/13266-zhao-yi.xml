@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 招医 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (NP (NP-PN (NR 林))
+                    (NP (NN 姓)))
+                    (NP (NN 女子)))
+                    (VP (VP (NP-TMP (NT 昨天)
+                    (NT 下午))
+                    (VP (SB 被)
+                    (VP (VP (VV 送来)
+                    (NP-OBJ (-NONE- *-1)))
+                    (VP (VV 招医))))) 
+                    
+                </parse>
+                <arg n="0">
+                    林 姓 女子          
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天 下午          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

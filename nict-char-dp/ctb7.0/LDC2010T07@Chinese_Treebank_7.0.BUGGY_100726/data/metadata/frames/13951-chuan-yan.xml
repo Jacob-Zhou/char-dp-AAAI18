@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 传言 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="information"/>
+        <role argnum="2" argrole="domain"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-PRP (P 由于)
+                    (IP (NP-SBJ (NN 加权)
+                    (NN 指数))
+                    (VP (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 一))
+                    (VP (VV 开盘))))
+                    (ADVP (AD 就))
+                    (VP (VV 暴跌)
+                    (AS 了)
+                    (NP-EXT (QP (CD ３００)
+                    (CLP (NN 点))))))))
+                    (PU ，)
+                    (NP-SBJ (NN 市场))
+                    (VP (VV 传言)
+                    (IP-OBJ (NP-SBJ (NN 国安)
+                    (NN 基金))
+                    (VP (VP (VV 动用)
+                    (NP-OBJ (NP (NN 新台币))
+                    (QP (ADVP (AD 上))
+                    (QP (CD 百亿)
+                    (CLP (M 元))))))
+                    (VP (VCD (VV 进场)
+                    (VV 拉台)))))) 
+                    
+                </parse>
+                <arg n="m" f="prp">
+                    由于 加权 指数 一 开盘 就 暴跌 了 ３００ 点          	  
+                </arg>
+                <arg n="2">
+                    市场          	  
+                </arg>
+                <arg n="1">
+                    国安 基金 动用 新台币 上 百亿 元 进场 拉台          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

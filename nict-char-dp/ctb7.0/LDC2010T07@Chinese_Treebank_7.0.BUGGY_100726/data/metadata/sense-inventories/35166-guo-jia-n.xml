@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="35166-guo-jia-n-n 国家-n">
+<commentary></commentary>
+<sense n="1" name="国家, country,state" group="" type="">
+<commentary>An area of land that forms an independent political unit with its own government.</commentary><examples>第三世界国家。
+Third World countries
+
+沿海国家。
+coastal state
+
+有关国家
+state concerned
+
+友好国家。
+friendly country
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="国家, nation, national ,government" group="" type="">
+<commentary>The offices, departments, and groups of people that control a country, state, city, or other political unit.</commentary><examples>国家大事。
+national affairs
+
+国家尊严。
+national dignity
+
+国家投资
+government investment
+
+国家机关
+government offices
+</examples>
+<mappings>
+<wn version="2.0"></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+</inventory>

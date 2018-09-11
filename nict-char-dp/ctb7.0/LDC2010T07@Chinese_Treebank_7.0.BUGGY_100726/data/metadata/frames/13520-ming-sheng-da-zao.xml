@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 名声大噪 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 经过)
+                    (NP (DP (DT 这)
+                    (CLP (M 次)))
+                    (NP (NP-PN (NR 伦敦))
+                    (NP (NN 市长)))
+                    (NP (NN 选举))))
+                    (ADVP (AD 就))
+                    (ADVP (AD 更))
+                    (VP (VC 是)
+                    (VP (VV 名声大噪))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    经过 这 次 伦敦 市长 选举          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    更          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

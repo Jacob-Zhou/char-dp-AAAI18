@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 遮 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity covered"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 都))
+                    (VP (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 脸))
+                    (VP (VV 遮)
+                    (DER 得)
+                    (CP-EXT (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VA 紧紧)))
+                    (SP 的))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们           
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="1">
+                    脸          
+                </arg>
+                <arg n="m" f="ext">
+                    紧紧 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

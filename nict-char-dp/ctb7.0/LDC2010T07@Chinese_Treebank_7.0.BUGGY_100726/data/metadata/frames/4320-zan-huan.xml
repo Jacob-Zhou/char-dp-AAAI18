@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暂缓 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing deferred"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-OBJ (PU “)
+                    (IP (NP-SBJ (NN 陈欠))
+                    (VP (VV 暂缓)))
+                    (PU 、)
+                    (IP (NP-SBJ (ADJP (JJ 新))
+                    (NP (NN 税)))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 欠))))
+                    (PU 、)
+                    (IP (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 挂)
+                    (NP-OBJ (NN 税))))
+                    (VP (VV 免)
+                    (NP-OBJ (NN 罚))))
+                    (PU 、)
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (ADVP (AD 逐年))
+                    (VP (VV 缴清))))
+                    (PU ”)) 
+                </parse>
+                <arg n="0">
+                    陈欠 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 急救 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 邻居))
+                    (VP (ADVP (AD 紧急))
+                    (VP (VP (VV 送往)
+                    (NP-OBJ (NN 医院)))
+                    (VP (VV 急救))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    邻居          
+                </arg>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

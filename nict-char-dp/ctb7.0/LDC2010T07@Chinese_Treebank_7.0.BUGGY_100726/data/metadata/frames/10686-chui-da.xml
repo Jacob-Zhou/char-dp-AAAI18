@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 槌打 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+        <role argnum="2" argrole="entity arg0 hammers arg1 into being"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="ext" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 猪肉))
+                    (VP (VP (VV 切成)
+                    (NP-OBJ (NN 小块)))
+                    (PU ，)
+                    (VP (VV 搅拌))
+                    (PU 、)
+                    (VP (VRD (VV 槌打)
+                    (VV 成))
+                    (NP-OBJ (NN 浆))))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <arg n="1">
+                    猪肉 
+                </arg>
+                <arg n="2">
+                    浆 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

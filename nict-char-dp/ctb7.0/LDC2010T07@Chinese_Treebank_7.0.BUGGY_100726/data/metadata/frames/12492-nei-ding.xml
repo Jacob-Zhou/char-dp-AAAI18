@@ -1,0 +1,66 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 内定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person that arg0 decides on"/>
+        <role argnum="2" argrole="position or appointment"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 内定)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (ADJP (JJ 新任))
+                    (NP (NN 行政院长))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="2">
+                    *T*-1 -> 行政院长          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VRD (VV 内定)
+                    (VC 为))
+                    (NP-OBJ (NP (NP (ADJP (JJ 小))
+                    (NP-PN (NR 布什)))
+                    (ADJP (JJ 新))
+                    (NP (NN 政府)))
+                    (NP (NN 副国务卿)))))
+                    (DEC 的)))
+                    (NP-PN (NR 阿米迪奇))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1 -> 阿米迪奇          
+                </arg>
+                <arg n="2">
+                    小 布什 新 政府 副国务卿          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

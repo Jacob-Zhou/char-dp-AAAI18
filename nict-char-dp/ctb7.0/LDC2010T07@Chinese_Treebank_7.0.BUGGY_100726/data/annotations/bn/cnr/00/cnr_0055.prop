@@ -1,0 +1,14 @@
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 0 7 gold 报道-v 报道.01 ----- 7:0-rel 0:3-ARG0 9:3-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 0 19 gold 落下-v 落下.01 ----- 19:0-rel 9:2-ARG0 16:1-ARGM-TMP 17:1-ARGM-LOC 20:1-ARG0
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 1 14 gold 超过-v 超过.01 ----- 14:0-rel 0:2-ARG0 3:1-ARGM-LOC 13:1-ARGM-ADV 15:2-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 2 2 gold 来自-v 来自.01 ----- 2:0-rel 3:2-ARG1 0:0*0:1*1:0*1:1*9:1-ARG0
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 2 11 gold 签定-v 签定.01 ----- 11:0-rel 0:3-ARG0 10:1-ARGM-ADV 13:3-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 2 28 gold 成交-v 成交.01 ----- 28:0-rel 0:3-ARG0 10:1-ARGM-ADV 30:3-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 5 gold 控股-v 控股.01 ----- 5:0-rel 2:1-ARG0 0:0*0:1*1:0*1:1*7:2-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 15 gold 合作-v 合作.01 ----- 15:0-rel 0:3-ARG0 12:1-ARG0
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 17 gold 涉足-v 涉足.01 ----- 17:0-rel 0:3-ARG0 16:1-ARGM-ADV 18:3-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 24 gold 斥-v 斥.01 ----- 24:0-rel 0:3-ARG0 25:1-ARG1 26:3-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 29 gold 订购-v 订购.01 ----- 29:0-rel 0:3-ARG0 30:2-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 36 gold 发展-v 发展.01 ----- 36:0-rel 0:3-ARG0 37:3-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 42 gold 打破-v 打破.01 ----- 42:0-rel 0:3-ARG0 44:5-ARG1
+bn/cnr/00/cnr_0055@0055@cnr@bn@ch@on 3 50 gold 垄断-v 垄断.01 ----- 50:0-rel 44:2*51:1-ARG2 48:1-ARG0

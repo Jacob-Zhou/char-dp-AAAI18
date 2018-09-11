@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 自成一格 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 你))
+                    (VP (VV 自成一格))) 
+                    
+                </parse>
+                <arg n="0">
+                    你          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

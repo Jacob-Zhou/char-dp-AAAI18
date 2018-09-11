@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 在押 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="location where arg0 is taken into custody"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 在押)
+                    (NP-OBJ (NN 精神)
+                    (NN 病院))))
+                    (DEC 的)))
+                    (NP (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-4 (-NONE- *T*-3))
+                    (VP (SB 被)
+                    (VP (VV 取缔)
+                    (NP-OBJ (-NONE- *-4)))))
+                    (DEC 的)))
+                    (NP-PN (NR 法轮功)))
+                    (NP (NN 信徒)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 被 取缔 的 法轮功 信徒          
+                </arg>
+                <arg n="1">
+                    精神 病院          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

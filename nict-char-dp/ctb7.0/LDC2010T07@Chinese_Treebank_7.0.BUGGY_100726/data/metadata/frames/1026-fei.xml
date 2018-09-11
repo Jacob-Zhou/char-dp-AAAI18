@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 飞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="flier"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP (NP-WH (PN 谁))
+                    (NP (NN 家)))
+                    (NP (NN 玉笛)))
+                    (VP (ADVP (AD 暗))
+                    (VP (VV 飞)
+                    (NP-OBJ (NN 声))))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    谁 家 玉笛 	  	  
+                </arg>
+                <arg n="0" f="pse">
+                    声 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    暗 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="aircraft"/>
+        <role argnum="2" argrole="destination"/>
+        <role argnum="3" argrole="pessenger"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-DIR (P 从)
+                    (NP-PN (NR 檀香山)))
+                    (VP (VV 飞)
+                    (NP-PN-OBJ (NR 马尼拉)))))
+                    (DEC 的)))
+                    (QP (CD 一)
+                    (CLP (M 架)))
+                    (NP-PN (NR 菲律宾)
+                    (NN 航空)
+                    (NN 公司))
+                    (NP (NN 班机))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1 -> 班机	  	  
+                </arg>
+                <arg n="2">
+                    马尼拉	  	  
+                </arg>
+                <arg n="m" f="dir">
+                    从 檀香山	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 忠实于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 is faithful to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 不再))
+                    (VP (VV 忠实于)
+                    (NP-OBJ (NP-APP (NP-PN (NR 南斯拉夫))
+                    (NP (NN 总统)))
+                    (NP-PN (NR 米洛舍维奇)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    不再          
+                </arg>
+                <arg n="1">
+                    南斯拉夫 总统 米洛舍维奇          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

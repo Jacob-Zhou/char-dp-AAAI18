@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 狂贺 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="congratulator"/>
+        <role argnum="1" argrole="person being congratulated"/>
+         
+        <role argnum="2" argrole="thing being congratulated for"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 狂贺))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

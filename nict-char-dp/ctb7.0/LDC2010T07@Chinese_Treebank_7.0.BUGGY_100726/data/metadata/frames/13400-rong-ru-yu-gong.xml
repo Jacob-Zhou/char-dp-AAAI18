@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 荣辱与共 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 长期))
+                    (VP (VV 共存)))
+                    (PU 、)
+                    (VP (ADVP (AD 互相))
+                    (VP (VV 监督)))
+                    (PU 、)
+                    (VP (VV 肝胆相照))
+                    (PU 、)
+                    (VP (VV 荣辱与共)) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 畅快 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 让)
+                    (NP-OBJ (NN 身体))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP-FOC (VV 呼吸))
+                    (VP (VA 畅快)))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <arg n="0" f="prd">
+                    呼吸 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

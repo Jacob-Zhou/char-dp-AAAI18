@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 窜来窜去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 大批))
+                    (NP (NN 人马)))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 车阵))
+                    (LC 当中)))
+                    (VP (VV 窜来窜去)))) 
+                    
+                </parse>
+                <arg n="0">
+                    大批 人马          
+                </arg>
+                <arg n="m" f="loc">
+                    在 车阵 当中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

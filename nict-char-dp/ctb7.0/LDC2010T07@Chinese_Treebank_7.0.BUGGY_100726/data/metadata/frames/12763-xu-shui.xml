@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 蓄水 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="amount of water arg0 contains"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 目前))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 小浪底)
+                    (NN 水库))
+                    (VP (VP-FOC (VV 蓄水)
+                    (QP-EXT (CD ４７．５亿)
+                    (CLP (M 立方米)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <arg n="0">
+                    小浪底 水库          
+                </arg>
+                <arg n="1">
+                    ４７．５亿 立方米          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

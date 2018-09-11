@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="顺-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+顺 著 这 股 创作 风气 ， 一直 到 七○ 年代 民歌 的 末期 突然 出现 一些 大 受 欢迎 的 国语 摇滚 乐团 ， 如 「 丘丘 合唱团 」 、 「 红 蚂蚁 合唱团 」 、 薛岳 与 其 所 属 乐团 等等
+风 不 调 雨 不 顺 ， 影响 百姓 生活
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

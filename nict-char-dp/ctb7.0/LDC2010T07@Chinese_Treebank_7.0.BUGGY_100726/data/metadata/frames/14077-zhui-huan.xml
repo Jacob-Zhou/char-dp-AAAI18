@@ -1,0 +1,64 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 追还 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing taken back"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (QP (CD 一)
+                    (CLP (M 年)))
+                    (LC 来))
+                    (NP-SBJ (NN 审计)
+                    (NN 部门))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-DIR (P 对)
+                    (NP (QP (CD １０万多)
+                    (CLP (M 个)))
+                    (NP (NN 单位))))
+                    (VP (VV 进行)
+                    (NP-OBJ (NN 审计)))))
+                    (LC 以后)))
+                    (PU ，)
+                    (VP (VP (VV 追还)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (SB 被)
+                    (VP (VP (VV 侵占)
+                    (NP-OBJ (-NONE- *-2)))
+                    (CC 和)
+                    (VP (VV 挪用)
+                    (NP-OBJ (-NONE- *-2)))))))
+                    (NP (NN 资金)))
+                    (QP-EXT (CD １９０多亿)
+                    (CLP (M 元)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    一 年 来          
+                </arg>
+                <arg n="0">
+                    审计 部门          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 对 １０万多 个 单位 进行 审计 以后          
+                </arg>
+                <arg n="1">
+                    被 侵占 和 挪用 资金          
+                </arg>
+                <arg n="1" f="qty">
+                    １９０多亿 元          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

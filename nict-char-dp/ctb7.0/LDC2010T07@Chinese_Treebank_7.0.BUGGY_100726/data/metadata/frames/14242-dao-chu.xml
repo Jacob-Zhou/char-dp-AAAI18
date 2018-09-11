@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 倒出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing poured"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-DIR (P 面对)
+                    (NP (QP (CD ２５００)
+                    (CLP (M 名)))
+                    (NP (NN 幕僚)
+                    (CC 和)
+                    (NN 支持者))))
+                    (NP-PN-SBJ (NR 克林顿))
+                    (VP (VV 倒出)
+                    (AS 了)
+                    (NP-OBJ (NN 心里话)))) 
+                    
+                </parse>
+                <arg n="m" f="dir">
+                    面对 ２５００ 名 幕僚 和 支持者           
+                </arg>
+                <arg n="0">
+                    克林顿          
+                </arg>
+                <arg n="1">
+                    心里话          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

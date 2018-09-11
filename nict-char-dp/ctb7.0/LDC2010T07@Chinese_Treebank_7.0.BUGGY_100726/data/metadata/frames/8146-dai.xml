@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 呆 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (IP (NP-SBJ (NN 日))
+                    (VP (VA 呆)))
+                    (IP (NP-SBJ (NN 风))
+                    (VP (VA 蠢)))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 全))
+                    (VP (VA 无味))))) 
+                    
+                </parse>
+                <arg n="0">
+                    日 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location arg0 stays at"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 她))
+                    (VP (DP-ADV (DT 每)
+                    (CLP (M 天)))
+                    (ADVP (AD 都))
+                    (VP (VV 呆)
+                    (PP (P 在)
+                    (NP (NN 树上)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    她	  
+                </arg>
+                <arg n="m" f="adv">
+                    每 天	  
+                </arg>
+                <arg n="m" f="adv">
+                    都	  
+                </arg>
+                <arg n="1">
+                    在 树上	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

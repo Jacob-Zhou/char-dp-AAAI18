@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 羞于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing arg0 is ashamed of"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 都))
+                    (VP (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 脸))
+                    (VP (VV 遮)
+                    (DER 得)
+                    (CP-EXT (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VA 紧紧)))
+                    (SP 的)))))
+                    (VP (VV 羞于)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 见)
+                    (NP-OBJ (NN 人)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们           
+                </arg>
+                <arg n="m" f="adv">
+                    都           
+                </arg>
+                <arg n="1">
+                    见 人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

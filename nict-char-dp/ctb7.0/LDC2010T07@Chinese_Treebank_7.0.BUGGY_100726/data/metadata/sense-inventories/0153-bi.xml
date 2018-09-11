@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="必-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="surely, certainly, indicating the logical
+probability or positive speculation (synonymous to bi-ran)" group="1">
+<commentary>
+</commentary>
+<examples>
+东亚 国家 间 的 协调 合作 在 不久 的 将来 必 将 展现 更加 美好 的 前景
+誓言 必 将 竭尽 个人 的 心力
+真的 是 卖座 必 好 片 吗
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="have to, must, to need, used to express a command,
+request or the necessity of the proposition (synonymous to bi-xu)" group="1">
+<commentary>
+</commentary>
+<examples>
+煮上 一 锅 东北 过 年 必 吃 的 酸 白菜 火锅
+不 必 经过 立法院 投票 通过
+而 台商 谈 生意 不 必 冗长 的 契约 过程
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

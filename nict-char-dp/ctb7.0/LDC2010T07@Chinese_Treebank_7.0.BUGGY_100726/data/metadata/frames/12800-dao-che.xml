@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 倒车 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-2))
+                    (NP-TMP (NT 今天))
+                    (VP (VP (VV 开)
+                    (AS 着)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 进口)))
+                    (DEC 的)))
+                    (NP-PN (NR 富豪))
+                    (NP (NN 轿车))))
+                    (VP (PP-LOC (P 在)
+                    (NP (NN 路边)))
+                    (VP (VV 倒车))))))
+                    (DEC 的)))
+                    (NP (NN 时候))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    今天          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-2 -> 时候          
+                </arg>
+                <arg n="m" f="loc">
+                    在 路边          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

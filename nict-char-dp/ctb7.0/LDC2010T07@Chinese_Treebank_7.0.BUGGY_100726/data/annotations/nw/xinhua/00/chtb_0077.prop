@@ -1,0 +1,97 @@
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 0 9 gold 发展-v 发展.01 ----- 9:0-rel 3:2-ARG1 2:0*7:0-ARGM-TMP 8:1-ARGM-ADV
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 1 5 gold 访谈-n 访谈.01 ----- 5:0-rel 1:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 5 gold 通过-v 通过.01 ----- 5:0-rel 0:1-ARG0 2:1-ARGM-TMP 7:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 16 gold 强调-v 强调.01 ----- 16:0-rel 15:1-ARG0 17:4-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 28 gold 表示-v 表示.01 ----- 28:0-rel 15:1-ARG0 29:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 30 gold 要-v 要.03 ----- 30:0-rel
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 32 gold 促进-v 促进.01 ----- 32:0-rel 29:1-ARG0 31:1-ARGM-ADV 33:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 40 gold 援助-n 援助.02 ----- 40:0-rel 33:1-ARG0 39:0-ARG2
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 44 gold 交流-n 交流.01 ----- 44:0-rel 33:1-ARG0 34:1-ARGM-LOC
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 3 46 gold 合作-n 合作.01 ----- 46:0-rel 33:1-ARG0 34:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 6 gold 专访-v 专访.01 ----- 6:0-rel 3:1-ARG0 4:1-ARGM-LOC 7:4-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 16 gold 请-v 请.01 ----- 16:0-rel 3:1-ARG0 17:1-ARG1 18:2-ARG2
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 19 gold 评价-v 评价.02 ----- 19:0-rel 18:1-ARG0 20:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 26 gold 合作-n 合作.01 ----- 26:0-rel 20:2-ARGM-TMP 24:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 33 gold 迟疑-v 迟疑.01 ----- 33:0-rel
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 35 gold 说-v 说.01 ----- 35:0-rel 0:1-ARGM-TMP 2:1-ARGM-TMP 30:1-ARG0 31:3-ARGM-ADV 37:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 53 gold 合作-n 合作.01 ----- 53:0-rel 38:1-ARG0 48:1-ARGM-LOC
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 57 gold 取得-v 取得.01 ----- 57:0-rel 38:3-ARG2 54:1-ARGM-TMP 56:1-ARGM-ADV 59:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 61 gold 显著-v 显著.01 ----- 61:0-rel 59:0*60:0*63:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 4 63 gold 发展-n 发展.01 ----- 63:0-rel 38:3-ARG1 54:1-ARGM-TMP 56:1-ARGM-ADV 57:0-rel-Sup 59:2-ARGM-DGR
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 6 gold 论证-v 论证.01 ----- 6:0-rel 5:1-ARG0 7:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 11 gold 列举-v 列举.01 ----- 11:0-rel 1:2-ARG0 4:1-ARGM-PRP 0:0*12:0*14:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 15 gold 是-v 是.01 ----- 15:0-rel 0:3-ARG0 16:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 18 gold 令-v 令.01 ----- 18:0-rel 16:0*17:0-ARG0 19:1-ARG1 20:2-ARG2
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 21 gold 信服-v 信服.01 ----- 21:0-rel 20:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 32 gold 有-v 有.03 ----- 32:0-rel 24:2-ARGM-TMP 28:3-ARG0 34:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 39 gold 频繁-v 频繁.01 ----- 39:0-rel 36:1-ARGM-ADV 38:1-ARGM-ADV 34:0*35:0*41:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 42 gold 互访-n 互访.01 ----- 42:0-rel 35:3-ARGM-FRQ 41:0-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 52 gold 进行-v 进行.01 ----- 52:0-rel 24:2-ARGM-TMP 44:1-ARGM-LOC 49:1-ARG0 50:1-ARG0 54:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 57 gold 好-v 好.01 ----- 57:0-rel 56:1-ARGM-ADV 54:0*55:0*59:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 5 59 gold 合作-n 合作.01 ----- 59:0-rel 44:1-ARG1 49:1-ARG0 50:1-ARG0 52:0-rel-Sup 54:2-ARGM-MNR
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 9 gold 发挥-v 发挥.01 ----- 9:0-rel 2:1-ARG0 3:1-ARGM-LOC 11:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 14 gold 积极-v 积极.01 ----- 14:0-rel 13:1-ARGM-ADV 11:0*12:0*16:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 21 gold 期待-v 期待.02 ----- 21:0-rel 0:1-ARGM-DIS 18:3-ARG0 23:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 30 gold 举行-v 举行.01 ----- 30:0-rel 26:1-ARGM-TMP 28:1-ARGM-LOC 24:0*25:0*34:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 40 gold 会晤-v 会晤.01 ----- 40:0-rel 23:1-ARG0 24:4-ARGM-LOC 37:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 44 gold 加入-v 加入.01 ----- 44:0-rel 43:1-ARG0 45:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 55 gold 进行-v 进行.01 ----- 55:0-rel 0:1-ARGM-DIS 42:1-ARGM-LOC 52:1-ARG0 53:1-ARG0 57:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 59 gold 频繁-v 频繁.01 ----- 59:0-rel 57:0*58:0*63:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 61 gold 积极-v 积极.01 ----- 61:0-rel 57:0*58:0*63:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 63 gold 对话-n 对话.01 ----- 63:0-rel 42:1-ARGM-LOC 52:1-ARG0 53:1-ARG0 55:0-rel-Sup 58:3-ARGM-MNR
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 66 gold 取得-v 取得.01 ----- 66:0-rel 0:1-ARGM-DIS 42:1-ARG2 52:1-ARG0 68:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 71 gold 大-v 大.01 ----- 71:0-rel 70:1-ARGM-ADV 68:0*69:0*73:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 73 gold 进展-n 进展.01 ----- 73:0-rel 42:1-ARG0 66:0-rel-Sup 69:3-ARGM-DGR
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 84 gold 访-v 访.01 ----- 84:0-rel 83:1-ARG0 85:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 95 gold 加入-v 加入.01 ----- 95:0-rel 94:1-ARG0 96:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 99 gold 进行-v 进行.01 ----- 99:0-rel 0:1-ARGM-DIS 75:1-ARGM-TMP 78:3-ARG0 83:3-ARGM-TMP 87:1-ARG0 92:1-ARGM-ADV 101:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 104 gold 有-v 有.03 ----- 104:0-rel 103:1-ARGM-ADV 105:1-ARG1 101:0*102:0*107:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 107 gold 对话-n 对话.01 ----- 107:0-rel 75:1-ARGM-TMP 78:3-ARG0 83:3-ARGM-TMP 87:1-ARG0 92:1-ARGM-DIS 93:1-ARGM-LOC 99:0-rel-Sup 102:3-ARGM-MNR
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 6 115 gold 达成-v 达成.01 ----- 115:0-rel 109:1-ARG0 110:1-ARGM-LOC 117:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 6 gold 加入-v 加入.01 ----- 6:0-rel 5:1-ARG0 7:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 10 gold 谈判-n 谈判.01 ----- 10:0-rel 1:1-ARG0 4:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 12 gold 进入-v 进入.01 ----- 12:0-rel 0:1-ARGM-TMP 1:2-ARG0 11:1-ARGM-ADV 13:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 19 gold 进行-v 进行.01 ----- 19:0-rel 0:1-ARGM-TMP 16:1-ARG0 17:1-ARGM-ADV 18:1-ARGM-ADV 20:4-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 23 gold 对话-n 对话.01 ----- 23:0-rel 16:1-ARG0 17:1-ARGM-ADV 18:1-ARGM-MNR 19:0-rel-Sup 20:2-ARGM-LOC
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 27 gold 贸易-n 贸易.01 ----- 27:0-rel 25:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 28 gold 增长-v 增长.01 ----- 28:0-rel 0:1-ARGM-TMP 25:2-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 35 gold 投资-n 投资.01 ----- 35:0-rel 30:1-ARG0 31:1-ARG1 34:1-ARGM-ADV
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 37 gold 保持-v 保持.01 ----- 37:0-rel 0:1-ARGM-TMP 30:2-ARG1 36:1-ARGM-ADV 39:4-ARG2
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 40 gold 增长-v 增长.01 ----- 40:0-rel 39:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 47 gold 决定-v 决定.01 ----- 47:0-rel 0:1-ARGM-TMP 44:1-ARG0 46:1-ARGM-TMP 48:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 53 gold 提议-v 提议.01 ----- 53:0-rel 48:1-ARG0 49:1-ARG2 54:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 7 68 gold 排除-v 排除.01 ----- 68:0-rel 54:1-ARG0 56:1-ARG1 57:1-ARGM-DIR
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 1 gold 表明-v 表明.01 ----- 1:0-rel 0:1-ARG2 2:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 3 gold 认识-v 认识.02 ----- 3:0-rel 2:1-ARG0 5:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 4 gold 到-v 到.01 ----- 4:0-rel
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 11 gold 发展-v 发展.01 ----- 11:0-rel 5:2-ARG1 7:1-ARGM-ADV 8:1-ARG3
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 15 gold 是-v 是.01 ----- 15:0-rel 13:1-ARG0 14:1-ARGM-ADV 16:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 20 gold 提供-v 提供.01 ----- 20:0-rel 18:1-ARG2 21:2-ARG1 16:0*17:0*25:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 36 gold 合作-n 合作.01 ----- 36:0-rel 31:1-ARG0 33:1-ARG0 37:0-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 40 gold 提供-v 提供.01 ----- 40:0-rel 29:1-ARGM-TMP 31:1-ARG0 32:1-ARGM-LOC 28:0*41:0*43:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 45 gold 超过-v 超过.01 ----- 45:0-rel 28:3-ARG0 46:1-ARG1 48:1-ARGM-ADV
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 52 gold 合-v 合.01 ----- 52:0-rel 49:1-ARG0 51:1-ARGM-ADV 53:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 8 57 gold 是-v 是.01 ----- 57:0-rel 28:3-ARG0 58:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 9 3 gold 告诉-v 告诉.01 ----- 3:0-rel 0:2-ARG0 4:1-ARG2 6:5-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 9 12 gold 进行-v 进行.01 ----- 12:0-rel 7:1-ARGM-TMP 8:1-ARG0 11:1-ARGM-ADV 6:0*13:0*15:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 9 15 gold 合作-n 合作.01 ----- 15:0-rel 8:1-ARG0 12:0-rel-Sup
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 9 17 gold 有-v 有.03 ----- 17:0-rel 6:3-ARG1 18:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 9 27 gold 新-v 新.01 ----- 27:0-rel 25:0*26:0*29:1-ARG0
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 9 30 gold 签署-v 签署.01 ----- 30:0-rel 21:1-ARG0 22:1-ARGM-ADV 32:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 10 1 gold 透露-v 透露.01 ----- 1:0-rel 0:1-ARG0 3:4-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 10 10 gold 合作-n 合作.01 ----- 10:0-rel 4:1-ARG0 6:1-ARGM-TMP 7:1-ARG0 11:0-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 10 13 gold 计划-v 计划.01 ----- 13:0-rel 4:1-ARG0 5:1-ARGM-LOC 14:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 10 15 gold 提供-v 提供.01 ----- 15:0-rel 14:1-ARG0 3:0*16:0*18:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 10 20 gold 保持-v 保持.01 ----- 20:0-rel 3:3-ARG1 19:1-ARGM-ADV 21:3-ARG2
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 11 2 gold 谈到-v 谈到.01 ----- 2:0-rel 1:1-ARG0 3:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 11 15 gold 说-v 说.01 ----- 15:0-rel 0:1-ARGM-TMP 13:1-ARG0 17:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 11 20 gold 有-v 有.05 ----- 20:0-rel 17:1-ARGM-TMP 18:1-ARG0 19:1-ARGM-ADV 21:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 11 24 gold 访问-v 访问.01 ----- 24:0-rel 21:2-ARG0 25:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 1 gold 预计-v 预计.01 ----- 1:0-rel 0:1-ARG0 2:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 15 gold 加强-v 加强.01 ----- 15:0-rel 2:1-ARGM-TMP 9:2-ARG1 13:1-ARGM-ADV 14:1-ARGM-ADV
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 21 gold 继续-v 继续.01 ----- 21:0-rel 17:1-ARG1 20:1-ARGM-ADV 22:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 22 gold 增长-v 增长.01 ----- 22:0-rel 2:1-ARGM-TMP 17:1-ARG0 20:1-ARGM-ADV
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 27 gold 加入-v 加入.01 ----- 27:0-rel 26:1-ARG0 28:2-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 31 gold 谈判-n 谈判.01 ----- 31:0-rel 24:1-ARG0 25:1-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 12 33 gold 取得-v 取得.01 ----- 33:0-rel 2:1-ARGM-TMP 24:2-ARG2 32:1-ARGM-ADV 34:3-ARG1
+nw/xinhua/00/chtb_0077@0077@xinhua@nw@ch@on 13 1 gold 完-v 完.01 ----- 1:0-rel

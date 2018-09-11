@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 连发 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity shot"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 可以)
+                    (VP (VP (QP-ADV (CD ３６０)
+                    (CLP (M 度)))
+                    (VP (VP (VV 单发)
+                    (NP-OBJ (-NONE- *RNR*-1)))
+                    (CC 或者)
+                    (VP (VV 连发)
+                    (NP-OBJ-1 (ADJP (JJ 催泪))
+                    (NP (NN 瓦斯弹))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    ３６０ 度          
+                </arg>
+                <arg n="1">
+                    催泪 瓦斯弹          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

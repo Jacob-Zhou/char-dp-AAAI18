@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 盼到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing waited for"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 盼)
+                    (AS 了)
+                    (QP-EXT (CD ５)
+                    (PU 、)
+                    (CD ６)
+                    (CLP (M 年)))))
+                    (NP-SBJ (NN 国内)
+                    (NN 旅行)
+                    (NN 业者))
+                    (VP (ADVP (AD 终于))
+                    (VP (VV 盼到)
+                    (IP-OBJ (NP-SBJ (NN 政府))
+                    (VP (VV 宣布)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (LCP-TMP (NP (NT 明年)
+                    (NT ６月))
+                    (LC 前))
+                    (VP (VV 开放)
+                    (IP-OBJ (NP-SBJ (NP (NN 大陆))
+                    (NP (NN 人民)))
+                    (VP (VP (VV 来)
+                    (NP-PN-OBJ (NR 台湾)))
+                    (VP (VV 观光))))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    盼 了 ５ 、 ６ 年          
+                </arg>
+                <arg n="0">
+                    国内 旅行 业者          
+                </arg>
+                <arg n="m" f="adv">
+                    终于          
+                </arg>
+                <arg n="1">
+                    政府 宣布 明年 ６月 前 开放 大陆人民 来 台湾 观光          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

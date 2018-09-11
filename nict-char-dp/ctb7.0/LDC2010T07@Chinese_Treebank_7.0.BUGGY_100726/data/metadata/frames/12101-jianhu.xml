@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 监护 </id>
+    <frameset id="f1" edef="guard">
+        <role argnum="0" argrole="agent, the guardian"/>
+        <role argnum="1" argrole="the entiry that Arg0 guards" />
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 还))
+                    (VP (VE 有)
+                    (NP-OBJ (CP (IP (NP-SBJ (NN 亲戚)
+                    (NN 邻居))
+                    (VP (VV 监护)
+                    (NP-OBJ (PN 他))))
+                    (DEC 的))))))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 叫)
+                    (NP-OBJ (NP (NN 邻居)
+                    (NN 亲戚))
+                    (NP (NN 监护)))))
+                    (PU ，)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 还))
+                    (VP (VE 有)
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 种)))
+                    (ADJP (JJ 自我))
+                    (NP (NN 监护))))))
+                    (PU 。))) 
+                    
+                </parse>
+                <arg n="0">
+                    亲戚邻居          
+                </arg>
+                <arg n="1">
+                    他          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

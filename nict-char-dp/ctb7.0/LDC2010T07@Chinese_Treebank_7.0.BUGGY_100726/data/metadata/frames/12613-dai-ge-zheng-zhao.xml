@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逮个正着 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agnt"/>
+        <role argnum="1" argrole="theme arg0 catches"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VP (ADVP (AD 急忙))
+                    (VP (VSB (VV 回去)
+                    (VV 拿))))
+                    (PU ，)
+                    (VP (ADVP (AD 结果))
+                    (ADVP (AD 正好))
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 警方))
+                    (VP (VV 逮个正着))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    结果          
+                </arg>
+                <arg n="m" f="adv">
+                    正好          
+                </arg>
+                <arg n="0">
+                    警方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

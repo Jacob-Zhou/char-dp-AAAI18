@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 还以 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing given"/>
+        <role argnum="2" argrole="receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 以军))
+                    (VP (ADVP (AD 则))
+                    (VP (VC 是)
+                    (VP (VV 还以)
+                    (NP-OBJ (NN 催泪弹)
+                    (PU 、)
+                    (NN 橡皮)
+                    (NN 子弹)
+                    (CC 甚至是)
+                    (NN 实弹)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    以军           
+                </arg>
+                <arg n="m" f="dis">
+                    则          
+                </arg>
+                <arg n="1">
+                    催泪弹 、 橡皮 子弹甚至是 实弹           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

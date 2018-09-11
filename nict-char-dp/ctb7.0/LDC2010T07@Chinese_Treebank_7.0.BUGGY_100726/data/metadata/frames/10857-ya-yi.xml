@@ -1,0 +1,82 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 讶异 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="person described"/>
+        <role argnum="1" argrole="theme arg0 is surprised about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (DP (DT 那)
+                    (QP (CD 一)
+                    (CLP (M 张张))))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 沈睡)
+                    (AS 了)
+                    (QP-EXT (CD 三千多)
+                    (CLP (M 年)))))
+                    (DEC 的)))
+                    (ADJP (JJ 陌生))
+                    (NP (NN 面容)))
+                    (PU ，)
+                    (VP (VV 让)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 在场)))
+                    (DEC 的)))
+                    (NP (NN 人)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (DVP (VP (VV 讶异))
+                    (DEV 地))
+                    (VP (VP (VPT (VV 说)
+                    (AD 不)
+                    (VV 出))
+                    (NP (NN 话)))
+                    (VP (VV 来))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 很))
+                    (VP (VV 讶异)
+                    (IP-OBJ (NP-SBJ (PN 自己))
+                    (VP (VV 能够)
+                    (VP (VV 获得)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 项)))
+                    (NP (NN 桂冠)
+                    (NN 殊荣))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他	
+                </arg>
+                <arg n="m" f="adv">
+                    很	
+                </arg>
+                <arg n="1">
+                    自己 能够 获得 这 项 桂冠 殊荣	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

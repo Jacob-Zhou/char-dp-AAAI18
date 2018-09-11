@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 加勉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="praiser"/>
+        <role argnum="1" argrole="party praised"/>
+        <role argnum="2" argrole="predicate"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 加勉)
+                    (NP-OBJ (PN 他们))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-BNF (P 为)
+                    (NP (NN 国)))
+                    (VP (VV 争光))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    他们          
+                </arg>
+                <arg n="2">
+                    为 国 争光          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

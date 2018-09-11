@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="走出-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="create a new path" group="1">
+<commentary>
+</commentary>
+<examples>
+以 木业 加工业 在 天津 起步 福津 木业 公司 ， 近年 先后 对 祖国 大陆 二十多 家 国有 企业 进行 嫁接 改造 ， 走出 一 条 低 成本 扩张 ， 快速 发展 的 道路
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to walk out of something" group="1">
+<commentary>
+</commentary>
+<examples>
+国际 联络 小组 提出 新 的 建议 ， 以便 走出 死胡同
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="38" ann_1_2_agreement="0.947368421053" />
+</inventory>

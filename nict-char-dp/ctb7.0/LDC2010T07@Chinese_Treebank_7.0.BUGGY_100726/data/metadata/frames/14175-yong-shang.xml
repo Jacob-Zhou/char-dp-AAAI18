@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 涌上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 至少))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 台北市)))
+                    (NP-SBJ (QP (CD 很多))
+                    (NP (NN 人)))
+                    (VP (VC 是)
+                    (VP (ADVP (AD 的确))
+                    (VP (VV 涌上)
+                    (AS 了)
+                    (NP-OBJ (NN 街头)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    至少          
+                </arg>
+                <arg n="m" f="loc">
+                    在 台北市          
+                </arg>
+                <arg n="0">
+                    很多 人          
+                </arg>
+                <arg n="m" f="adv">
+                    的确          
+                </arg>
+                <arg n="1">
+                    街头          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 提防 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 bewares of"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 提防)
+                    (IP-OBJ (NP-SBJ (NN 宗教)
+                    (NN 团体))
+                    (VP (VRD (VV 发展)
+                    (VC 为))
+                    (NP-OBJ (PP (P 象)
+                    (NP-PN (NR 法轮功)
+                    (ETC 等)))
+                    (ADJP (JJ 反抗))
+                    (NP (NN 组织)))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

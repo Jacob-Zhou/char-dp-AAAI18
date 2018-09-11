@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 潜入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place arg0 enters"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 救难)
+                    (NN 人员))
+                    (VP (ADVP (AD 分别))
+                    (VP (VP (VV 坐)
+                    (PP (P 在)
+                    (LCP (NP (NN 橡皮筏))
+                    (LC 上))))
+                    (CC 以及)
+                    (VP (VV 潜入)
+                    (NP-OBJ (NN 水中))))) 
+                    
+                </parse>
+                <arg n="0">
+                    救难 人员          
+                </arg>
+                <arg n="m" f="adv">
+                    分别          
+                </arg>
+                <arg n="1">
+                    水中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-ADV (P 和)
+                    (NP (NN 同伙)))
+                    (VP (VP (VV 潜入)
+                    (NP-OBJ (NN 大楼)))
+                    (VP (VV 偷窃))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="0" f="crd">
+                    和 同伙          
+                </arg>
+                <arg n="1">
+                    大楼          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

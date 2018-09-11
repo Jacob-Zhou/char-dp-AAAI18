@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 以求 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing pursued"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 参加)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (DP (DT 下)
+                    (CLP (M 个)))
+                    (NP (NT 星期一)))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 埃及)))
+                    (VP (VV 举行))))
+                    (DEC 的)))
+                    (NP-PN (NR 中东))
+                    (NP (NN 首脑)
+                    (NN 会议))))
+                    (PU ，)
+                    (VP (VV 以求)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 了结)
+                    (NP-OBJ (DNP (LCP (QP (CD 多)
+                    (CLP (M 日)))
+                    (LC 来))
+                    (DEG 的))
+                    (NP (NN 暴力)
+                    (NN 冲突))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    了结 多 日 来 的 暴力 冲突          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

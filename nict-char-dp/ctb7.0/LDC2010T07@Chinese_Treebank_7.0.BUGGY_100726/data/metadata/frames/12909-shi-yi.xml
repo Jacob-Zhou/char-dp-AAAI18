@@ -1,0 +1,77 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 示意 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="message"/>
+        <role argnum="2" argrole="message receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (NP-TMP (NT 当时))
+                    (PP-LOC (P 在)
+                    (NP (NN 事发)
+                    (NN 现场)))
+                    (PU ，)
+                    (ADVP (AD 曾经))
+                    (VP (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 沾满)
+                    (NP-OBJ (NN 鲜血))))
+                    (DEC 的)))
+                    (QP (CD 双))
+                    (NP (NN 手)))
+                    (VP (VV 伸)
+                    (PP (P 向)
+                    (NP (NN 空中))))))
+                    (PU ，)
+                    (VP (PP-DIR (P 向)
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 疯狂)))
+                    (DEC 的)))
+                    (NP (NN 暴民们))))
+                    (VP (VV 示意)
+                    (PU ，)
+                    (IP-OBJ (NP-SBJ-3 (NP-PN (NR 以色列))
+                    (NP (NN 士兵)))
+                    (VP (ADVP (AD 已经))
+                    (VP (SB 被)
+                    (VP (VV 杀死)
+                    (AS 了)
+                    (NP-OBJ (-NONE- *-3))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 个 人          
+                </arg>
+                <arg n="m" f="tmp">
+                    当时          
+                </arg>
+                <arg n="m" f="loc">
+                    在 事发 现场          
+                </arg>
+                <arg n="m" f="adv">
+                    曾经          
+                </arg>
+                <arg n="2">
+                    向 疯狂 的 暴民们          
+                </arg>
+                <arg n="1">
+                    以色列 士兵 已经 被 杀死 了          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

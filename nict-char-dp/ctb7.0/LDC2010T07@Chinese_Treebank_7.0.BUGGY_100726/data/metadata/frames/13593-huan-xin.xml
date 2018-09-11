@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 欢心 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="entity experienced"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 工作))
+                    (VP (ADVP (AD 都))
+                    (ADVP (AD 很))
+                    (VP (VA 欢心))) 
+                    
+                </parse>
+                <arg n="1">
+                    工作          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

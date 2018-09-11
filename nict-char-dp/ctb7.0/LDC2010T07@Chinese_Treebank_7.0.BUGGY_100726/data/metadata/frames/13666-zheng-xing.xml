@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 正行 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="activity"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (PP-TMP (P 于)
+                    (NP (NT １１月)
+                    (NP (NT １８号)
+                    (CC 到)
+                    (NT ２６号))))
+                    (QP (OD 第四)
+                    (CLP (M 次)))
+                    (PP-DIR (P 对)
+                    (NP-PN (NR 中国)))
+                    (VP (VV 正行)
+                    (NP-OBJ (ADJP (JJ 正式))
+                    (NP (NN 访问))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="tmp">
+                    于 １１月 １８号 到 ２６号          
+                </arg>
+                <arg n="m" f="adv">
+                    第四 次          
+                </arg>
+                <arg n="1" f="psr">
+                    对 中国          
+                </arg>
+                <arg n="1" f="pse">
+                    正式 访问          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

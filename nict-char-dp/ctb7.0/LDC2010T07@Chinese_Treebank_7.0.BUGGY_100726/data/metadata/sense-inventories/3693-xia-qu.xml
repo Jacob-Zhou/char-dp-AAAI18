@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="下去-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to continue" group="1">
+<commentary>
+</commentary>
+<examples>
+长期 这样 下去 ， 将 给 珍稀 野生 动物 带来 灭顶 之 灾
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="verb particle indicating continuation, direction" group="1">
+<commentary>
+When there are 继续 and 持续 in the instance, it's likely to be this sense.
+</commentary>
+<examples>
+七十九 年 股市 暴跌 时 把 所有 积蓄 「 全部 砸 下去 」
+虽然 较 前 一 年 进步 三 名 ， 但 排名 年年 变动 ， 稍微 一 不 小心 ， 就 会 被 比 了 下去 。
+要 让 「 统派 看 得 过去 ， 独派 咽 得 下去 ， 民进党 找到 出口 ， 中共 又 不 反胃 」 ， 实在 不 容易
+没 想到 杨 姓 少年 居然 拿出 这 把 水果刀 当场 朝 被害人 的 胸口 刺 下去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to go down" group="1">
+<commentary>
+</commentary>
+<examples>
+下去 楼下
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="64" ann_1_2_agreement="0.9375" />
+</inventory>

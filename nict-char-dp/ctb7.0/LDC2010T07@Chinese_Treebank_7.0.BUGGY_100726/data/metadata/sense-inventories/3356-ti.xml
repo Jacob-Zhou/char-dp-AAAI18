@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="题-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to write an inscription, to inscribe" group="1">
+<commentary>
+</commentary>
+<examples>
+江泽民 、 李鹏 、 乔石 、 刘华清 等 还 为 中国 红十字会 成立 九十 周年 暨 第六 次 全 国 代表 大会 题 了 词
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="subject, topic, title, to entitle, to name" group="1">
+<commentary>
+</commentary>
+<examples>
+世界 银行 题 为 《 在 中国 的 餐桌 上 》 的 专题 报告
+《 香港 商报 》 题 为 《 终止 英制 架构 体现 主权 民意 》 的 社评 认为 ， 人大 常委会 的 决定 ， 挫败 了 港 英 当局 在 政制 问题 上 搞乱 人心 的 企图
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="1" ann_1_2_agreement="1.0" />
+</inventory>

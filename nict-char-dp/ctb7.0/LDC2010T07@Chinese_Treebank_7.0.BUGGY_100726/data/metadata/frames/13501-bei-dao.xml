@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 被盗 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity stolen"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 暗标)
+                    (PU 、)
+                    (NN 浮标)
+                    (PU 、)
+                    (NN 定停)
+                    (CC 及)
+                    (NN 灯器))
+                    (VP (VV 被盗))) 
+                    
+                </parse>
+                <arg n="0">
+                    暗标  浮标 、 定停 及 灯器          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

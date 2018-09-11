@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="断-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="not continuous" group="1">
+<commentary>
+</commentary>
+<examples>
+赛事 不 断
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to stop" group="1">
+<commentary>
+</commentary>
+<examples>
+国家 环境 保护 总局 要求 太湖 沿岸 各 级 环境 监理 部门 加大 执法 力度 ， 积极 配合 有关 部门 对 关闭 、 停产 企业 断 水 断 电 ， 吊销 工商 执照
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to snap, to cut off" group="1">
+<commentary>
+</commentary>
+<examples>
+兄弟 齐心 ， 其 利 断 金
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="absolutely" group="1">
+<commentary>
+</commentary>
+<examples>
+都 断 无 连任 失利 的 道理
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="6" ann_1_2_agreement="0.666666666667" />
+</inventory>

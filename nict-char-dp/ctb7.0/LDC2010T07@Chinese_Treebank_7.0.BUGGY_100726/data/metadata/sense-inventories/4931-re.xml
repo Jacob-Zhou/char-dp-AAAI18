@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="热-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="active" group="1">
+<commentary>
+</commentary>
+<examples>
+当时 国内 蓄积 多 年 的 经济力 开始 爆发 ， 连年 钜幅 的 外贸 出超 ， 导致 台币 升值 、 热 钱 涌入
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be popular" group="1">
+<commentary>
+</commentary>
+<examples>
+李安 的 电影 《 卧虎藏龙 》 的 配乐 再度 捧 热 了 他 的 知名度
+这 是 造成 现在 一窝蜂 大陆 投资 热 的 主要 原因 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="enthusiastic" group="1">
+<commentary>
+</commentary>
+<examples>
+大陆 官方 高层 对 「 小 三通 」 不但 热 不 起来 ， 还 大肆 抨击
+市场 对 乐团 的 反应 不 热
+骨子 里 奔流 着 新闻 热 血
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="heat" group="1">
+<commentary>
+</commentary>
+<examples>
+设计者 采用 一 种 热 交换 装置 来 进行 水 的 循环 ， 这样子 既 能够 储存 水 中 的 热量 供 以后 使用 ， 也 可以 对 水温 进行 冷却
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="warm (metaphorical)" group="1">
+<commentary>
+</commentary>
+<examples>
+虽然 充电 管道 增多 ， 但 其中 却 有 冷 热 之 别 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="hot (in termperature)" group="1">
+<commentary>
+</commentary>
+<examples>
+许多 母亲 在 为 孩子 煮 玻璃 奶瓶 时 ， 奶瓶 会 因 过 热 而 破裂
+热 得 近乎 窒息 的 埃及
+长年 湿 热 的 兰屿岛
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="sympathethic" group="1">
+<commentary>
+</commentary>
+<examples>
+在 侯孝贤 的 《 悲情 城市 》 令 观众 掩面 叹息 时 ， 张艺谋 的 《 活 着 》 同样 勾起 很多 台湾人 的 热 泪
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="to heat up (usu. food)" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="9" type="" name="fever" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="10" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="56" ann_1_2_agreement="0.821428571429" />
+</inventory>

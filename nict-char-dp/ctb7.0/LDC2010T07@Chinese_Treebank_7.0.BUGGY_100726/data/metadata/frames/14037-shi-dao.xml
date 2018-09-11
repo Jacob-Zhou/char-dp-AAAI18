@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 驶到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/driver"/>
+        <role argnum="1" argrole="vehicle"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 艘)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 平常))
+                    (VP (VV 接)
+                    (NP-OBJ (NN 缆绳)))))
+                    (DEC 的)))
+                    (NP (NN 橡皮艇)))
+                    (VP (VV 驶到)
+                    (NP-OBJ (NN 旁边)))) 
+                    
+                </parse>
+                <arg n="1">
+                    一 艘 平常 接 缆绳 的 橡皮艇          
+                </arg>
+                <arg n="2">
+                    旁边          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

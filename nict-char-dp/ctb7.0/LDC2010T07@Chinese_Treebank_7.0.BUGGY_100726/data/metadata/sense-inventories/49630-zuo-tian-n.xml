@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="zuo-tian,   昨天-n">
+<commentary></commentary>
+<sense n="1" name="昨天, yesterday, last," group="" type="">
+<commentary>On the day before this day.</commentary><examples>昨天晚上
+last night.
+
+我昨天打电话给他。
+I called him yesterday.
+
+他昨天来了。
+He came yesterday.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="昨天， 过去，past" group="" type="">
+<commentary>The period before and until, but not including, the present time.</commentary><examples>今是昨非
+realize how one has heen wrong in the past.
+
+他从不谈他的过去。
+He never talks about his past.
+
+过去这里有很多店铺。
+In the past, there were many stores here.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

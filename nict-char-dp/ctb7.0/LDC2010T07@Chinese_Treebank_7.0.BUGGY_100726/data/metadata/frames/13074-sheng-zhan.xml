@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 胜战 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 伊斯兰))
+                    (VP (VV 胜战))) 
+                    
+                </parse>
+                <arg n="0">
+                    伊斯兰          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 高超 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-PN-TPC (NR 唐玄宗))
+                    (NP-SBJ (NN 球艺))
+                    (VP (VA 高超))) 
+                </parse>
+                <arg n="0" f="psr">
+                    唐玄宗 
+                </arg>
+                <arg n="0" f="pse">
+                    球艺 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

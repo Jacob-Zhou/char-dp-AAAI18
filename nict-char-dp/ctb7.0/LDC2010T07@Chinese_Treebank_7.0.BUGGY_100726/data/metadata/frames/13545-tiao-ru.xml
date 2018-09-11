@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 跳入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place jumped into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 另外)
+                    (QP (CD 两)
+                    (CLP (M 名))))
+                    (NP (NN 歹徒)))
+                    (VP (VP (VV 戴)
+                    (AS 着)
+                    (NP-OBJ (NN 安全帽)))
+                    (VP (VV 持)
+                    (NP-OBJ (NN 刀)))
+                    (VP (VP (VV 跳入)
+                    (NP-OBJ (NN 柜台))) 
+                    
+                </parse>
+                <arg n="0">
+                    另外 两 名 歹徒           
+                </arg>
+                <arg n="1">
+                    柜台           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

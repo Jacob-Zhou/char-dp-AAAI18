@@ -1,0 +1,131 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 分隔 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing divided"/>
+        <role argnum="2" argrole="instrument"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-TMP (NN 改革)
+                    (NN 开放)
+                    (NN 初期))
+                    (PU ，)
+                    (NP-SBJ (DNP (NP (PN 这里))
+                    (DEG 的))
+                    (NP (NN 公路)))
+                    (VP (LB 被)
+                    (CP-OBJ (WHNP-2 (-NONE- *OP*))
+                    (IP (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 星罗棋布)))
+                    (DEC 的)))
+                    (NP (NN 渡口)))
+                    (VP (VV 分隔)
+                    (NP-OBJ (-NONE- *T*-2))))))) 
+                    
+                </parse>
+                <arg n="2">
+                    *OP* *T*-1 星罗棋布 的 渡口 	  	  
+                </arg>
+                <arg n="1">
+                    这里 的 公路 	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    改革 开放 初期 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing divided"/>
+        <role argnum="2" argrole="instrument"/>
+        <role argnum="3" argrole="entity arg1 is divided into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg3"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-TPC (-NONE- *T*-1))
+                    (NP-SBJ (PN 双方))
+                    (VP (ADVP (AD 最))
+                    (VP (VV 相持不下))))
+                    (DEC 的)))
+                    (NP-PN (NR 耶路撒冷)))
+                    (VP (VP (VV 一分而二))
+                    (PU ，)
+                    (VP (VRD (VV 分隔)
+                    (VC 为))
+                    (NP-OBJ (NP (NN 阿拉伯人)
+                    (CC 和)
+                    (NN 犹太人))
+                    (QP (CD 两))
+                    (ADJP (JJ 大))
+                    (NP (NN 居住区)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  	  
+                </arg>
+                <arg n="1">
+                    双方 最 相持不下 的 耶路撒冷 	  	  
+                </arg>
+                <arg n="3">
+                    阿拉伯人 和 犹太人 两 大 居住区	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing divided"/>
+        <role argnum="2" argrole="recipient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 软体)
+                    (NN 程式))
+                    (VP (VRD (VV 分隔)
+                    (VV 给))
+                    (NP-OBJ (NN 大陆)
+                    (NN 研究室)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  	  
+                </arg>
+                <arg n="1">
+                    软体 程式	  	  
+                </arg>
+                <arg n="2">
+                    大陆 研究室	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

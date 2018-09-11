@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 借给 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="lender"/>
+        <role argnum="1" argrole="borrower"/>
+        <role argnum="2" argrole="thing"/>
+        <role argnum="3" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg3"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这些))
+                    (NP (NN 侦防车)))
+                    (VP (VP (VE 有)
+                    (NP-OBJ (NN 可能)))
+                    (VP (VC 是)
+                    (VP (VV 借给)
+                    (NP-OBJ (NN 外人))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 使用)))))))) 
+                    
+                </parse>
+                <arg n="2">
+                    这些 侦防车          
+                </arg>
+                <arg n="1">
+                    外人          
+                </arg>
+                <arg n="3">
+                    使用          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

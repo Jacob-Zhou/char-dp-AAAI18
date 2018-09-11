@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拖过 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing dragged"/>
+        <role argnum="2" argrole="time frame"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 总))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 会)
+                    (VP (VV 拖过)
+                    (QP-EXT (CD 一)
+                    (CLP (M 年))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    总          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="2">
+                    一 年          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

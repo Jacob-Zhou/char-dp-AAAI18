@@ -1,0 +1,78 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拉起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing set up"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (ADVP (AD 将近))
+                    (QP (CD １００)
+                    (CLP (M 个))))
+                    (NP (NN 受害者)))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (DNP (NP (NN 铁工厂))
+                    (DEG 的))
+                    (NP (NN 门口))))
+                    (VP (VV 拉起)
+                    (NP-OBJ (NN 布条))) 
+                    
+                </parse>
+                <arg n="0">
+                    将近 １００ 个 受害者          
+                </arg>
+                <arg n="1">
+                    布条          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 heaves"/>
+        <role argnum="2" argrole="source"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 救难)
+                    (NN 人员))
+                    (VP (VP (VP (VV 花)
+                    (AS 了)
+                    (NP-OBJ (QP (QP (CD 两)
+                    (CLP (M 个)))
+                    (ADVP (AD 多)))
+                    (NP (NN 小时))))
+                    (VP (VV 搜寻)))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 拉起)
+                    (AS 了)
+                    (NP-OBJ (NN 轿车)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    救难 人员          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <arg n="1">
+                    轿车          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

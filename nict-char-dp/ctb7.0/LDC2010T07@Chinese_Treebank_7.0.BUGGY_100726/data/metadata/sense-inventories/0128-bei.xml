@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="背-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to do something behind someone's back, to hide the truth" group="1">
+<commentary>
+</commentary>
+<examples>
+背 着 对方
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="with the back toward, behind" group="1">
+<commentary>
+</commentary>
+<examples>
+是 凯达格兰族 居住 地 名 之 音译 ， 位 於 台湾 西北端 ， 西北 临 台湾 海峡 ， 东南 背 观音山 ， 东北 隔 淡水河 与 淡水镇 对望
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to and learn and recite something from memory" group="1">
+<commentary>
+</commentary>
+<examples>
+连 背 剧本 的 时间
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to carry on the back" group="1">
+<commentary>
+</commentary>
+<examples>
+仔细 看看 人家 店 里 、 家 里 的 弥勒佛 ， 背 上 常常 背 著 圆鼓鼓 的 大 布袋
+就 可 看到 身 背 彩带 写 着 「 通宝 巴士 」 字样 的 小姐
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to bear, to shoulder (responsibility, etc)" group="1">
+<commentary>
+</commentary>
+<examples>
+身 上 的 重担 越 背 越 多
+商业片 背 了 黑锅
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="back (of the body or things)" group="1">
+<commentary>
+</commentary>
+<examples>
+还 很 怀念 背 上 被 帛琉 阳光 晒 出来 的 泳装 痕迹
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="the backside, the reverse side" group="1">
+<commentary>
+</commentary>
+<examples>
+晶片 只 是 工具 ， 不 可能 靠 出售 晶片 赚 大 钱 ， 背 后 的 研发 才 是 重点
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="4" ann_1_2_agreement="1.0" />
+</inventory>

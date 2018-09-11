@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 腾做 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme used"/>
+        <role argnum="2" argrole="used as"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (LCP (NP (NP (DNP (NP (NN 军方))
+                    (DEG 的))
+                    (NP (NN 协助)))
+                    (PU ，)
+                    (CC 以及)
+                    (NP (NP (NN 县政府))
+                    (ADJP (JJ 全力))
+                    (NP (NN 支援))))
+                    (LC 下)))
+                    (PU ，)
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 间)))
+                    (NP (NN 公寓)))
+                    (VP (VP (VV 腾做)
+                    (NP-OBJ (QP (CD １３)
+                    (CLP (M 间)))
+                    (NP (NN 教室)))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    在 军方 的 协助 ， 以及 县政府 全力 支援 下          
+                </arg>
+                <arg n="1">
+                    一 间 公寓          
+                </arg>
+                <arg n="2">
+                    １３ 间 教室          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

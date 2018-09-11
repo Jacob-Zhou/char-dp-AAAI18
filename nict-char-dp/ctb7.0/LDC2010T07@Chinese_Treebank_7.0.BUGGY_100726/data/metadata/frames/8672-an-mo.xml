@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 按摩 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person arg0 massages"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 购买)
+                    (NP-OBJ (NN 香油)))
+                    (VP (VV 按摩)
+                    (PU 、)
+                    (VV 燃香)))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

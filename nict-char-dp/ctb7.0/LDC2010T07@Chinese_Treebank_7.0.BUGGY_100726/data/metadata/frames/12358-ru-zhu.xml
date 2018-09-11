@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 入主 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="place"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 究竟))
+                    (NP-SBJ (PN 谁))
+                    (VP (VV 能够)
+                    (VP (VV 入主)
+                    (NP-PN-OBJ (NR 白宫))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    究竟          
+                </arg>
+                <arg n="0">
+                    谁          
+                </arg>
+                <arg n="1">
+                    白宫          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

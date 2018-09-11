@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 断断续续 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 雨势))
+                    (VP (ADVP (AD 还))
+                    (VP (VC 是)
+                    (VP (VV 断断续续))) 
+                    
+                </parse>
+                <arg n="0">
+                    雨势          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

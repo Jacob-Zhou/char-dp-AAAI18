@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="改-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+後来 由於 担心 年迈 的 父母 太过 劳累 ， 他 说服 父母 改 在 他 家 围炉
+东 、 西沙岛 将 改 由 海岸 巡防 总署 驻守
+再 谈起 统 独 、 政治 ， 吴建乐 却 一 改 坦率
+他 露出 狼子野心 ， 篡位 登基 、 改 国号 为 「 新 」 朝
+青山 不 改
+绿岛 ， 因 岛屿 为 火山岩 ， 早年 被 称为 「 火烧岛 」 ， 民国 三十八 年 改 以 岛 上 终年 牧草 长青 而 命名 「 绿岛 」
+他 改 过来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

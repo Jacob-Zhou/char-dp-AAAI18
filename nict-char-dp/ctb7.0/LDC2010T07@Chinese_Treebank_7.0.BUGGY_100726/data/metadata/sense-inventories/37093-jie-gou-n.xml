@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="37093-jie-gou-n 结构-n">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+
+
+<sense n="1" type="" name="structure, architecture, construction, 结构,构造" group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+反常结构
+
+
+
+anomalous structure
+
+
+
+
+
+
+
+精密机械结构
+
+
+
+accurate machine construction
+
+
+
+
+
+
+
+联邦行政系统的结构
+
+
+
+the architecture of the federal bureaucracy
+
+
+
+
+
+
+
+小说的庞大结构
+
+
+
+the broad architecture of a novel
+
+
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+
+
+<sense n="2" type="" name="mix, setup, makeup, 结构," group="1">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+<examples>
+
+
+
+
+
+产品结构
+
+pruduct mix
+
+
+
+产业结构
+
+setup of production
+
+
+
+技术结构
+
+technological makeup.
+
+
+
+</examples>
+
+
+
+<mappings>
+
+
+
+<wn version="2.0"></wn>
+
+
+
+<omega></omega>
+
+
+
+<pb></pb>
+
+
+
+</mappings>
+
+
+
+<SENSE_META clarity=""/>
+
+
+
+</sense>
+
+
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

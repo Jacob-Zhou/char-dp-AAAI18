@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 浩浩荡荡 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 游行)
+                    (NN 队伍))
+                    (VP (VP (PP-DIR (P 从)
+                    (LCP (NP (NN 校园))
+                    (LC 里)))
+                    (VP (VV 出发)))
+                    (PU ，)
+                    (VP (PP-LOC (P 沿着)
+                    (NP (NP-PN (NR 东门))
+                    (NP-PN (NR 园环一路))))
+                    (VP (VP (VV 浩浩荡荡)) 
+                    
+                </parse>
+                <arg n="0">
+                    游行 队伍          
+                </arg>
+                <arg n="m" f="loc">
+                    沿着 东门 园环一路          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

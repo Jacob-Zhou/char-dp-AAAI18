@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查证 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 investigages"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (NP (NT 今后))
+                    (NP-PN-SBJ (NN 刑事组))
+                    (VP (VP (PP-MNR (P 透过)
+                    (NP (ADJP (JJ 私人))
+                    (NP (NN 管道))))
+                    (VP (VV 查证))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="m" f="tmp">
+                    今后          
+                </arg>
+                <arg n="0">
+                    刑事组          
+                </arg>
+                <arg n="m" f="mnr">
+                    
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

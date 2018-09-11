@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 表扬 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="praiser"/>
+        <role argnum="1" argrole="party praised"/>
+        <role argnum="2" argrole="preposition"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 表扬)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-DIR (P 对)
+                    (NP (NN 世界)))
+                    (VP (VE 有)
+                    (NP-OBJ (NN 贡献)))))
+                    (DEC 的)))
+                    (ADJP (JJ 杰出))
+                    (NP (NN 学者)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    对世界 有 贡献 的 杰出 学者          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

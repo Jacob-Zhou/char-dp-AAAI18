@@ -1,0 +1,38 @@
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 3 gold 抗议-v 抗议.01 ----- 3:0-rel 1:1*2:1*7:1-ARG0 4:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 5 gold 高涨-v 高涨.01 ----- 5:0-rel 4:1-ARG0
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 10 gold 笼罩-v 笼罩.01 ----- 10:0-rel 1:4-ARG0
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 17 gold 坚持-v 坚持.01 ----- 17:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 18 gold 说-v 说.01 ----- 18:0-rel 0:1-ARGM-LOC 13:3-ARG0 16:1-ARGM-TMP 19:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 21 gold 会-v 会.01 ----- 21:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 22 gold 让-v 让.02 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-ADV 23:2-ARG1 25:2-ARG2
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 26 gold 受-v 受.01 ----- 26:0-rel 25:1-ARG0 27:3-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 32 gold 说-v 说.01 ----- 32:0-rel 31:1-ARG0 33:3-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 38 gold 高涨-v 高涨.01 ----- 38:0-rel 37:1-ARG0
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 40 gold 愤怒-v 愤怒.01 ----- 40:0-rel 35:1-ARG0 36:1-ARGM-PRP 39:0-ARGM-DIS
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 41 gold 感到-v 感到.01 ----- 41:0-rel 33:1-ARG0 42:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 43 gold 同情-v 同情.01 ----- 43:0-rel 42:1-ARG0
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 48 gold 没有-v 没有.02 ----- 48:0-rel 45:1-ARGM-DIS 46:1-ARG0 47:1-ARGM-ADV 49:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 51 gold 让-v 让.02 ----- 51:0-rel 45:1-ARGM-DIS 46:1-ARG0 52:1-ARG1 53:2-ARG2
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 56 gold 停顿-v 停顿.01 ----- 56:0-rel 53:1-ARG0 54:1-ARGM-DIS
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 0 57 gold 下来-v 下来.02 ----- 57:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 4 gold 抗议-v 抗议.01 ----- 4:0-rel 2:1*3:1*7:1-ARG0 5:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 15 gold 举-v 举.02 ----- 15:0-rel 0:1-ARGM-TMP 2:3-ARG0 8:1-ARGM-LOC 16:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 17 gold 示威-v 示威.01 ----- 17:0-rel 0:1-ARGM-TMP 2:3-ARG0 8:1-ARGM-LOC
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 19 gold 让-v 让.02 ----- 19:0-rel 0:1-ARGM-TMP 2:3-ARG0 20:2-ARG1 22:3-ARG2
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 24 gold 是-v 是.01 ----- 24:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 25 gold 瘫痪-v 瘫痪.01 ----- 25:0-rel 22:1-ARG1 23:1-ARGM-ADV
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 35 gold 停止-v 停止.01 ----- 35:0-rel 28:2-ARG0 30:1-ARGM-TMP 37:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 41 gold 威胁-v 威胁.01 ----- 41:0-rel 28:2-ARG0 40:1-ARGM-DIS 42:1-ARG1 43:3-ARG2
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 50 gold 降低-v 降低.01 ----- 50:0-rel 44:1-ARG0 45:1-ARGM-ADV 46:1-ARGM-TMP 51:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 54 gold 会-v 会.01 ----- 54:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 60 gold 领导-v 领导.01 ----- 60:0-rel 58:1*59:1*65:1-ARG0 61:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 71 gold 表示-v 表示.01 ----- 71:0-rel 58:3-ARG0 69:1-ARGM-TMP 73:3-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 1 77 gold 降低-v 降低.01 ----- 77:0-rel 73:1-ARGM-DIS 74:1-ARGM-TMP 75:1-ARG0 76:1-ARGM-ADV 78:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 3 gold 报道-v 报道.01 ----- 3:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 4 gold 说-v 说.01 ----- 4:0-rel 0:3-ARG0 6:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 7 gold 取消-v 取消.01 ----- 7:0-rel 6:1-ARG0 9:4-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 10 gold 预定-v 预定.01 ----- 10:0-rel 9:1-ARG0 11:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 15 gold 前往-v 前往.01 ----- 15:0-rel 11:1-ARG0 12:3-ARGM-TMP 16:1-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 23 gold 处理-v 处理.02 ----- 23:0-rel 6:1-ARG0 21:1-ARGM-ADV 22:1-ARGM-ADV 24:2-ARG1
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 27 gold 可能-v 可能.01 ----- 27:0-rel
+bn/cbs/00/cbs_0047@0047@cbs@bn@ch@on 2 28 gold 发生-v 发生.01 ----- 28:0-rel 26:1-ARG1 25:1*29:1-ARG0

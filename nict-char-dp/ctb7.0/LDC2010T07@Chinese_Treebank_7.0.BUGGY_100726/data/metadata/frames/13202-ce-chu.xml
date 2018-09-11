@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 测出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing measured"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 台北市)
+                    (NN 教育局))
+                    (NP (PN 这样))
+                    (NP (NN 测验)))
+                    (VP (VP (ADVP (AD 并))
+                    (ADVP (AD 无法))
+                    (DVP (VP (VA 有效))
+                    (DEV 的))
+                    (VP (VV 测出)
+                    (NP-OBJ (DNP (NP (NN 学生))
+                    (DEG 的))
+                    (NP (NN 程度))))) 
+                    
+                </parse>
+                <arg n="0">
+                    台北市 教育局 这样 测验          
+                </arg>
+                <arg n="m" f="adv">
+                    并          
+                </arg>
+                <arg n="m" f="adv">
+                    无法          
+                </arg>
+                <arg n="m" f="adv">
+                    有效 的          
+                </arg>
+                <arg n="1">
+                    学生 的 程度          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 置疑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 questions about"/>
+        <role argnum="2" argrole="question, assumption"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 难怪))
+                    (NP-SBJ (QP (ADVP (AD 越来越))
+                    (QP (CD 多)))
+                    (NP (NN 人)))
+                    (VP (VV 置疑)
+                    (NP-OBJ (NP (NN 高中))
+                    (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 多元))
+                    (VP (VV 入学))))
+                    (DEC 的))
+                    (NP (NN 公平性))))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    难怪          
+                </arg>
+                <arg n="0">
+                    越来越 多 人          
+                </arg>
+                <arg n="1">
+                    高中 多元 入学 的 公平性          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 因此))
+                    (NP-SBJ (NN 市议员))
+                    (VP (VP (VV 置疑)
+                    (IP-OBJ (NP-SBJ (DP (DT 这些))
+                    (NP (NN 侦防车)))
+                    (VP (VP (VE 有)
+                    (NP-OBJ (NN 可能)))
+                    (VP (VC 是)
+                    (VP (VV 借给)
+                    (NP-OBJ (NN 外人))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 使用)))))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    因此          
+                </arg>
+                <arg n="0">
+                    市议员          
+                </arg>
+                <arg n="2">
+                    这些 侦防车 有可能 是 借给外人 使用          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

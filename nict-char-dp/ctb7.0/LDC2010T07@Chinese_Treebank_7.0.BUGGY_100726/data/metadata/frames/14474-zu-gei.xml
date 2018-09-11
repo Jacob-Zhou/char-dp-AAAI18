@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 租给 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party renting from arg0"/>
+        <role argnum="2" argrole="theme rented"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 美香)
+                    (CC 和)
+                    (NR 天天))
+                    (VP (VC 是)
+                    (VP (PP-MNR (P 作为)
+                    (NP (IP-APP (NP-PN-SBJ (NR 中)
+                    (NR 美))
+                    (VP (VSB (VV 合作)
+                    (VV 研究))
+                    (NP-OBJ (NN 大熊猫))))
+                    (NP (NN 项目))))
+                    (VP (VV 租给)
+                    (NP-PN-IO (NR 华盛顿)
+                    (NN 国家)
+                    (NN 动物园))))) 
+                    
+                </parse>
+                <arg n="2">
+                    美香 和 天天          
+                </arg>
+                <arg n="m" f="mnr">
+                    作为 中 美 合作 研究 大熊猫项目          
+                </arg>
+                <arg n="1">
+                    华盛顿 国家 动物园          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

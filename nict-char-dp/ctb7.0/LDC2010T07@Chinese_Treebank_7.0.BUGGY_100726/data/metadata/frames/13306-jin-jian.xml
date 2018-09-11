@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 进监 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="prisoner"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NP-PN (NR 新竹市))
+                    (NP (NN 议会))
+                    (NP (NN 议长)))
+                    (NP-PN (NR 郑成光)))
+                    (VP (LCP-TMP (QP (CD １０)
+                    (CLP (M 天)))
+                    (LC 前))
+                    (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 涉嫌)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 侵占)
+                    (NP-OBJ (NT ９・２１)
+                    (NN 捐款))
+                    (QP-EXT (CD ３００万)
+                    (CLP (M 元))))))))
+                    (PU ，)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 检察官))
+                    (VP (VCD (VV 收押)
+                    (VV 进监))
+                    (QP-EXT (CD １０)
+                    (CLP (M 天)))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    新竹市 议会 议长 郑成光          
+                </arg>
+                <arg n="m" f="tmp">
+                    １０ 天 前          
+                </arg>
+                <arg n="m" f="prp">
+                    涉嫌侵占 ９・２１ 捐款 ３００万 元          
+                </arg>
+                <arg n="0">
+                    检察官          
+                </arg>
+                <arg n="m" f="ext">
+                    １０ 天          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

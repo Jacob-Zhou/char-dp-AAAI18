@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="突破-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to break through (an obstacle)" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 能 在 困难 最 严重 、 矛盾 最 集中 的 纺织 行业 重点 突破 ， 率先 扭转 困难 局面
+尽管 房改 的 步伐 在 加快 ， 但 福利 分 房 的 老 办法 仍 未 突破
+保证 在 欧元区 内 通胀 指标 不 被 突破
+对 一些 阻碍 新 体制 建立 的 体制 因素 ， 将 有 计划 地 重点 突破 ， 以 加速 实现 资源 配置 市场化 ， 福利 分配 货币化 ， 公共 服务 社会化 ， 经济 运行 法制化 ， 开创 经济 体制 改革 的 新 局面
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to exceed, to be more than" group="1">
+<commentary>
+</commentary>
+<examples>
+上海 外资 金融 机构 突破 二百 家
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="breakthrough (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+他 的 得奖 同时 也 是 中国 作家 在 “ 诺贝尔 文学 奖 ” 的 零 的 突破
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="113" ann_1_2_agreement="0.504424778761" />
+</inventory>

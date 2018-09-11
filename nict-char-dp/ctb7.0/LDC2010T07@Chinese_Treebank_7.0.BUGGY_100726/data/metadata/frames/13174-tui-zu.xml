@@ -1,0 +1,57 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 退租 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole=""/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 据)
+                    (NP (NN 了解)))
+                    (NP-TPC-2 (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP (NN 特区))
+                    (NP (NN 政府)))
+                    (VP (ADVP (AD 原来))
+                    (ADVP (AD 临时))
+                    (VP (MSP 所)
+                    (VP (VV 使用)
+                    (NP-OBJ (-NONE- *T*-1))))))
+                    (DEC 的)))
+                    (NP-PN (NR 宋裕生)
+                    (NN 广场))
+                    (ADJP (JJ 办公用))
+                    (NP (NN 房)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 将))
+                    (ADVP (AD 尽快))
+                    (VP (VP (VV 退租)
+                    (NP-OBJ (-NONE- *T*-2)))
+                    (VP (VV 交还)
+                    (NP-OBJ (NN 业主))))) 
+                    
+                </parse>
+                <arg n="m" f="mnr">
+                    据 了解          
+                </arg>
+                <arg n="1">
+                    特区 政府 原来 临时 所 使用 的 宋裕生 广场 办公用 房 -> *T*-2          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    将          
+                </arg>
+                <arg n="m" f="adv">
+                    尽快          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

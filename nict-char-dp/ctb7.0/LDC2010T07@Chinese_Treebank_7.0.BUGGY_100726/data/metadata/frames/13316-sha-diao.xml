@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 杀掉 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="killer"/>
+        <role argnum="1" argrole="entity killed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (BA 把)
+                    (IP (NP-SBJ-1 (PN 我))
+                    (VP (VV 杀掉)
+                    (NP-OBJ (-NONE- *-1)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    我 -> *-1          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

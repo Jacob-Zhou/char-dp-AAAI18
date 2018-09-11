@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 报有 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing kept"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 原本))
+                    (VP (VV 遭到)
+                    (NP-OBJ (NN 停职)))))
+                    (DEC 的)))
+                    (NP (NN 法官)))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 复职)))
+                    (LC 后)))
+                    (ADVP (AD 依然))
+                    (VP (VV 报有)
+                    (NP-OBJ (DNP (NP (NN 法官)
+                    (NN 终身制))
+                    (DEG 的))
+                    (NP (NN 待遇))))) 
+                    
+                </parse>
+                <arg n="0">
+                    原本 遭到 停职 的 法官          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 复职 后          
+                </arg>
+                <arg n="m" f="adv">
+                    依然          
+                </arg>
+                <arg n="1">
+                    法官 终身制的待遇          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

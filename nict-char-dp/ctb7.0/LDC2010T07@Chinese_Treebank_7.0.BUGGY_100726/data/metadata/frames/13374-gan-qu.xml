@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赶去 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT 清晨))
+                    (VP (VV 赶去))))
+                    (DEC 的)))
+                    (NP (NN 中部)
+                    (NN 民众))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 中部 民众          
+                </arg>
+                <arg n="m" f="tmp">
+                    清晨          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

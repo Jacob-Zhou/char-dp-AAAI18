@@ -1,0 +1,42 @@
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 3 gold 到-v 到.01 ----- 3:0-rel 0:1-ARG1 1:1-ARGM-ADV 2:1-ARGM-ADV
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 8 gold 过-v 过.02 ----- 8:0-rel 0:2-ARGM-TMP 4:2-ARG0 6:1-ARGM-DIS 7:1-ARGM-ADV 11:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 10 gold 了-v 了.01 ----- 10:0-rel
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 15 gold 有-v 有.05 ----- 15:0-rel 14:1-ARG0 16:3-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 20 gold 撑-v 撑.01 ----- 20:0-rel 16:2-ARG0 19:1-ARGM-DIS
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 22 gold 过去-v 过去.01 ----- 22:0-rel
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 25 gold 倒闭-v 倒闭.01 ----- 25:0-rel 16:2-ARG0 24:1-ARGM-ADV
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 37 gold 有-v 有.05 ----- 37:0-rel 36:1-ARG0 38:4-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 43 gold 失业-v 失业.01 ----- 43:0-rel 41:0*41:1*42:0*42:1*45:1-ARG0
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 47 gold 到-v 到.01 ----- 47:0-rel 38:3-ARG0 46:1-ARGM-TMP 48:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 49 gold 抗议-v 抗议.01 ----- 49:0-rel 38:3-ARG0 46:1-ARGM-TMP
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 0 54 gold 没-v 没.02 ----- 54:0-rel 52:1-ARG0 53:1-ARGM-ADV 55:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 1 4 gold 到-v 到.01 ----- 4:0-rel 0:3-ARG0 5:3-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 1 12 gold 抗议-v 抗议.01 ----- 12:0-rel 0:3-ARG0 10:2-ARGM-ADV 13:2-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 1 14 gold 没有-v 没有.02 ----- 14:0-rel 13:1-ARG0 15:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 2 4 gold 漆上-v 漆上.01 ----- 4:0-rel 0:3-ARG2 6:4-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 2 27 gold 达-v 达.01 ----- 27:0-rel 25:1-ARG0 26:1-ARGM-ADV 28:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 2 31 gold 说-v 说.01 ----- 31:0-rel 30:1-ARG0
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 2 33 gold 说-v 说.01 ----- 33:0-rel 30:1-ARG0
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 2 37 gold 起来-v 起来.01 ----- 37:0-rel
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 10 gold 以为-v 以为.01 ----- 10:0-rel 0:1-ARG0 9:1-ARGM-ADV 11:2-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 14 gold 没有-v 没有.01 ----- 14:0-rel 11:1-ARG0 12:1-ARG0 15:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 18 gold 会-v 会.01 ----- 18:0-rel
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 19 gold 有-v 有.03 ----- 19:0-rel 11:1-ARG0 17:1-ARGM-ADV 20:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 23 gold 想到-v 想到.01 ----- 23:0-rel 0:1-ARG0 22:1-ARGM-ADV 24:5-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 29 gold 携-v 携.01 ----- 29:0-rel 24:3-ARGM-TMP 28:1-ARG0 30:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 32 gold 消失-v 消失.01 ----- 32:0-rel 24:3-ARGM-TMP 28:1-ARG0 31:1-ARGM-ADV 34:1-ARGM-EXT
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 39 gold 倒闭-v 倒闭.01 ----- 39:0-rel 36:1-ARG0 37:1-ARGM-ADV 38:1-ARGM-ADV
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 49 gold 失业-v 失业.01 ----- 49:0-rel 44:1-ARG0 45:1-ARGM-DIS 46:1-ARGM-ADV 47:1-ARGM-ADV 48:1-ARGM-ADV
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 53 gold 有-v 有.05 ----- 53:0-rel 51:1-ARG0 52:1-ARGM-ADV 54:3-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 58 gold 受害-v 受害.01 ----- 58:0-rel 54:2-ARG0
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 62 gold 有-v 有.05 ----- 62:0-rel 60:1-ARG0 61:1-ARGM-DIS 63:4-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 67 gold 失业-v 失业.01 ----- 67:0-rel 66:1-ARG0
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 69 gold 找-v 找.01 ----- 69:0-rel 63:3-ARG0 66:3-ARGM-TMP 72:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 71 gold 到-v 到.01 ----- 71:0-rel
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 74 gold 捡-v 捡.01 ----- 74:0-rel 63:3-ARG0 66:3-ARGM-TMP 73:1-ARGM-ADV 75:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 3 76 gold 为生-v 为生.01 ----- 76:0-rel 63:3-ARG0 66:3-ARG1 73:1-ARGM-ADV
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 4 1 gold 成立-v 成立.01 ----- 1:0-rel 0:1-ARG0 2:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 4 4 gold 希望-v 希望.02 ----- 4:0-rel 0:1-ARG0 5:2-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 4 6 gold 拿出-v 拿出.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bn/cts/01/cts_0181@0181@cts@bn@ch@on 4 8 gold 解决-v 解决.01 ----- 8:0-rel 5:1-ARG0 9:2-ARG1

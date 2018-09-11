@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="02658-qi-n 期-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="period期,時期" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+(疾病的)潜伏期
+
+latent period
+
+
+
+生殖期
+
+breeding period
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="phase,stage期,時期,阶段" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+疾病的危险期
+
+the critical phase of an illness
+
+
+
+病在早期已被发现。
+
+The disease was discovered in an early phase/stage.
+
+
+
+成年期
+
+adult stage
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="3" type="" name="term期,期间,期限" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+任期
+
+a term of office
+
+
+
+长期的监禁联邦行政系统的结构
+
+a long term of imprisonment
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="CandiceCheung" sample_score="-"/>
+
+</inventory>
+

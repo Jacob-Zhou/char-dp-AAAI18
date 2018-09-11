@@ -1,0 +1,51 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 冒用 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 embezzles"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NN 凶嫌))
+                    (NP-PN (NR 王利恒)))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 杀害)
+                    (NP-OBJ (NP-APP (NN 男子))
+                    (NP-PN (NR 何利华)))))
+                    (LC 之后)))
+                    (ADVP (AD 还))
+                    (DVP (ADVP (AD 大胆))
+                    (DEV 的))
+                    (VP (VP (VV 冒用)
+                    (NP-OBJ (DNP (NP (NN 死者))
+                    (DEG 的))
+                    (NP (NN 信用卡)))) 
+                    
+                </parse>
+                <arg n="0">
+                    凶嫌 王利恒          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 杀害 男子 何利华 之后          
+                </arg>
+                <arg n="m" f="dis">
+                    还          
+                </arg>
+                <arg n="m" f="adv">
+                    大胆 的          
+                </arg>
+                <arg n="1">
+                    死者 的 信用卡          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

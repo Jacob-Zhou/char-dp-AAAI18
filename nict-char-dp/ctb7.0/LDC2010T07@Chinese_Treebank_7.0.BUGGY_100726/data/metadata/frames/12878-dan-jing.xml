@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 担惊 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 九份))
+                    (DEG 的))
+                    (NP (NN 居民)))
+                    (VP (VCD (VV 担惊)
+                    (VV 害怕)))) 
+                    
+                </parse>
+                <arg n="0">
+                    九份 的 居民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

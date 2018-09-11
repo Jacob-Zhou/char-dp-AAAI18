@@ -1,0 +1,108 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 保护 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="protector"/>
+        <role argnum="1" argrole="thing protected"/>
+        <role argnum="2" argrole="thing arg1 is protected against"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (PP-TMP (P 截至)
+                    (NP (NT 目前)))
+                    (PU ，)
+                    (NP-SBJ (NP-PN (NR 天津市))
+                    (NP (NN-SHORT 人大)
+                    (CC 和)
+                    (NN 政府)))
+                    (VP (VV 保护)
+                    (NP-OBJ (NP (NP (NN 中外))
+                    (NP (NN 投资者)
+                    (CC 及)
+                    (NN 员工)))
+                    (ADJP (JJ 合法))
+                    (NP (NN 权益)))))) 
+                    
+                </parse>
+                <arg n="M" f="TMP">
+                    截至 目前 
+                </arg>
+                <arg n="0">
+                    天津市 人大 和 政府 
+                </arg>
+                <V/>
+                <arg n="1">
+                    中外 投资者 及 员工 合法 权益 
+                </arg>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (NP (IP-APP (NP-SBJ (-NONE- *PRO*))
+                    (VP (NP-ADV (PN 自我))
+                    (VP (VV 保护))))
+                    (NP (NN 意识)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <arg n="M" f="ADV">
+                    自我 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="ipobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 保护)
+                    (NP-OBJ (NP (NP (NN 南部))
+                    (NP-PN (NR 实业派))
+                    (NP (NN 穆斯林)))
+                    (CC 和)
+                    (NP (NP (NN 北部))
+                    (NP (NN 库尔泽人))))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 免受)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 巴格达))
+                    (NP (NN 军队)))
+                    (VP (VV 可能)
+                    (VP (VV 发动)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 进攻))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*         
+                </arg>
+                <arg n="1">
+                    南部 实业派 穆斯林 和 北部 库尔泽人        
+                </arg>
+                <arg n="2">
+                    免受 巴格达 军队 可能发动 的 进攻        
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

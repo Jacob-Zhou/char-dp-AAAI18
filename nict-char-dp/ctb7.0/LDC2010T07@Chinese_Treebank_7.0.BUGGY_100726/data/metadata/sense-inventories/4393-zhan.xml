@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="占-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="constitute" group="1">
+<commentary>
+</commentary>
+<examples>
+按 建筑物 落成 後 用途 分析 ， 住宅 楼宇 （ 包括 商 住 两 用 楼宇 ） 工程 ， 占 地盘 完成 工程 名义 总值 最大 比例
+在 新增 的 储蓄 存款 中 ， 定期 存款 占 百分之七十二点一五
+在 沪 外资 金融 机构 已 突破 二百 家 ， 占 中国 总数 的 三分之一强
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to occupy" group="1">
+<commentary>
+</commentary>
+<examples>
+防止 乱 占 耕地
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be in a position or status" group="1">
+<commentary>
+</commentary>
+<examples>
+美国 佛罗里达州 州务卿 延续 ３ 个 民主党 占 优势 的 郡 采用 人工 记票
+三 方 若 都 由 鹰派 占 上风
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to practice divination" group="1">
+<commentary>
+</commentary>
+<examples>
+占卜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to take advantage of" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 可能 是 他们 占 小 便宜 ， 一方面 一些 百姓 都 没 办法 配合 。 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="346" ann_1_2_agreement="0.973988439306" />
+</inventory>

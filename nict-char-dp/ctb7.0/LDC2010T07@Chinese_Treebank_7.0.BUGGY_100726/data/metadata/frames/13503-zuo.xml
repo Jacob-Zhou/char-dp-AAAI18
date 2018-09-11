@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 座 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="theme"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                 
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 桃园社))
+                    (NP (DP (DT 这)
+                    (CLP (M 家)))
+                    (NP (NN 色情)
+                    (NN 美容院))))
+                    (VP (VP (VV 座)
+                    (PP (P 在)
+                    (NP (DNP (NP (NP-PN (NR 三明路))
+                    (NP (NN 消防局)))
+                    (DEG 的))
+                    (NP (NN 正对面))))) 
+                    
+                </parse>
+                <arg n="0">
+                    桃园社 这 家 色情 美容院          
+                </arg>
+                <arg n="1">
+                    在 三明路消防局 的 正对面          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

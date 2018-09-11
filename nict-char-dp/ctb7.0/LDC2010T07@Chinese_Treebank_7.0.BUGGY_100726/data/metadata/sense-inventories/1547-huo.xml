@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="获-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to obtain, to receive, to gain, to win" group="1">
+<commentary>
+</commentary>
+<examples>
+共 获 气田 八十六 个
+中国 进出口 银行 在 日本 获 债券 信用 高等级
+香港 特别 行政区 今日 （ 星期二 ） 获 中华 人民 共和国 中央 人民 政府 送赠 一 份 金碧辉煌 的 礼物
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,18 @@
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 0 gold 好-v 好.01 ----- 0:0-rel
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 7 gold 属于-v 属于.01 ----- 7:0-rel 4:1-ARGM-TMP 5:2-ARG0 8:1-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 15 gold 强-v 强.01 ----- 15:0-rel 10:1-ARGM-DIS 11:1-ARG0 12:1-ARGM-ADV 13:1-ARGM-ADV 14:1-ARGM-ADV
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 20 gold 是-v 是.01 ----- 20:0-rel
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 21 gold 会-v 会.01 ----- 21:0-rel
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 22 gold 有-v 有.05 ----- 22:0-rel 17:1-ARGM-TMP 18:1-ARG0 19:1-ARGM-ADV 23:3-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 25 gold 产生-v 产生.02 ----- 25:0-rel 23:2-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 31 gold 要-v 要.06 ----- 31:0-rel 27:1-ARGM-ADV 28:3-ARG0 32:3-ARGM-ADV
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 0 34 gold 留意-v 留意.01 ----- 34:0-rel 27:1-ARGM-DIS 28:3-ARG0 32:2-ARGM-ADV
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 4 gold 是-v 是.01 ----- 4:0-rel
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 5 gold 发生-v 发生.01 ----- 5:0-rel 0:1-ARGM-LOC 2:1-ARGM-TMP 3:1-ARG1 7:2-ARG0
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 19 gold 新建-v 新建.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-LOC 15:1*20:1*24:1-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 32 gold 吹进-v 吹进.01 ----- 32:0-rel 15:3-ARG0 26:1-ARGM-PRP 30:2-ARGM-MNR 33:3-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 39 gold 冲撞-v 冲撞.01 ----- 39:0-rel 14:1-ARGM-PRP 37:1-ARG0 38:1-ARGM-ADV 41:3-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 40 gold 上-v 上.01 ----- 40:0-rel
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 49 gold 避风-v 避风.01 ----- 49:0-rel 46:1-ARGM-ADV 47:1-ARGM-LOC 44:0*45:0*51:1-ARG0
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 1 58 gold 有-v 有.05 ----- 58:0-rel 55:1-ARGM-DIS 56:1-ARG0 57:1-ARGM-DIS 59:3-ARG1
+bn/cts/01/cts_0105@0105@cts@bn@ch@on 2 3 gold 有-v 有.05 ----- 3:0-rel 0:1-ARGM-DIS 1:1-ARG0 2:1-ARGM-DIS 4:3-ARG1

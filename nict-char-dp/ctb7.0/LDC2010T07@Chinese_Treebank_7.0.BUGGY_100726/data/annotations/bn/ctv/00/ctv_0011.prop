@@ -1,0 +1,19 @@
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 7 gold 批准-v 批准.01 ----- 7:0-rel 5:2-ARG0
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 28 gold 进行-v 进行.01 ----- 28:0-rel 0:1-ARGM-MNR 4:1-ARGM-MNR 9:1-ARG0 30:1-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 39 gold 利用-v 利用.01 ----- 39:0-rel 32:1-ARG0 34:1-ARGM-ADV 40:3-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 43 gold 帮助-v 帮助.02 ----- 43:0-rel 32:1-ARG0 34:1-ARGM-MNR 44:2-ARG1 48:2-ARG2
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 49 gold 上市-v 上市.01 ----- 49:0-rel 48:1-ARG0
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 51 gold 支持-v 支持.01 ----- 51:0-rel 32:1-ARG0 34:1-ARGM-MNR 53:2-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 52 gold 参与-v 参与.01 ----- 52:0-rel 32:1-ARG0 34:1-ARGM-ADV 53:2-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 54 gold 购买-v 购买.01 ----- 54:0-rel 53:1-ARG0 55:2-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 60 gold 获利-v 获利.01 ----- 60:0-rel 32:1-ARG0 34:1-ARGM-MNR 58:1-ARGM-ADV 59:1-ARGM-ADV 61:1-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 65 gold 巨大-v 巨大.01 ----- 65:0-rel 64:1-ARG0
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 70 gold 侵害-v 侵害.01 ----- 70:0-rel 67:1-ARG0 69:1-ARGM-ADV 72:5-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 80 gold 造成-v 造成.01 ----- 80:0-rel 67:1-ARG0 82:3-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 84 gold 恶劣-v 恶劣.01 ----- 84:0-rel 82:0*82:1*83:0*83:1*86:1-ARG0
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 90 gold 构成-v 构成.01 ----- 90:0-rel 67:1-ARG0 89:1-ARGM-ADV 91:2-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 98 gold 建议-v 建议.01 ----- 98:0-rel 94:2-ARG0 99:1-ARG2 100:2-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 101 gold 撤消-v 撤消.01 ----- 101:0-rel 100:1-ARG0 102:2-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 112 gold 给予-v 给予.01 ----- 112:0-rel 100:1-ARG0 113:1-ARG2 114:3-ARG1
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 124 gold 批准-v 批准.01 ----- 124:0-rel 123:1-ARG0
+bn/ctv/00/ctv_0011@0011@ctv@bn@ch@on 0 125 gold 撤消-v 撤消.01 ----- 125:0-rel 120:1-ARG0 121:1-ARGM-ADV 126:2-ARG1

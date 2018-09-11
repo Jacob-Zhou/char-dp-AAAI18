@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 请辞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="position that arg0 resigns from"/>
+        <role argnum="2" argrole="person that arg0 submits resignation to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 唐飞))
+                    (VP (VV 请辞)))) 
+                    
+                </parse>
+                <arg n="0">
+                    唐飞          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

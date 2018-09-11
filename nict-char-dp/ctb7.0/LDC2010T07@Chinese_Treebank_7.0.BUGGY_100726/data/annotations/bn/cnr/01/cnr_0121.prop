@@ -1,0 +1,6 @@
+bn/cnr/01/cnr_0121@0121@cnr@bn@ch@on 0 6 gold 表示-v 表示.01 ----- 6:0-rel 0:4-ARG0 5:1-ARGM-TMP 8:4-ARG1
+bn/cnr/01/cnr_0121@0121@cnr@bn@ch@on 0 14 gold 结束-v 结束.01 ----- 14:0-rel 8:2-ARG1 13:1-ARGM-ADV
+bn/cnr/01/cnr_0121@0121@cnr@bn@ch@on 0 18 gold 应当-v 应当.01 ----- 18:0-rel
+bn/cnr/01/cnr_0121@0121@cnr@bn@ch@on 0 19 gold 致力于-v 致力于.01 ----- 19:0-rel 16:1-ARG0 17:1-ARGM-TMP 20:2-ARG1
+bn/cnr/01/cnr_0121@0121@cnr@bn@ch@on 0 21 gold 达成-v 达成.01 ----- 21:0-rel 20:1-ARG0 22:2-ARG1
+bn/cnr/01/cnr_0121@0121@cnr@bn@ch@on 0 28 gold 确定-v 确定.01 ----- 28:0-rel 16:1-ARG0 17:1-ARGM-TMP 27:1-ARGM-ADV 29:3-ARG1

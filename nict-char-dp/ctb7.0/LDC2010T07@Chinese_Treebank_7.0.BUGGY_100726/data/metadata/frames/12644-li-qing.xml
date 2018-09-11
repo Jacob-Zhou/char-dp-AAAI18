@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 理清 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 sorts out"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 目前))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 枪械)
+                    (CC 跟)
+                    (NN 皮包))
+                    (VP (VV 送交)
+                    (NP-OBJ (NN 县)
+                    (NN 市))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 比对)
+                    (NP-OBJ (NN 指纹)))))))
+                    (VP (MSP 以)
+                    (VP (VV 理清)
+                    (NP-OBJ (NN 案情))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    目前          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    案情          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

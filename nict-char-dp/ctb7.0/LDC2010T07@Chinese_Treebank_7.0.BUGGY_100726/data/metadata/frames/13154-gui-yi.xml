@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 诡异 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 情况))
+                    (VP (DVP (ADVP (AD 相当))
+                    (DEV 的))
+                    (VP (VA 诡异))))) 
+                    
+                </parse>
+                <arg n="0">
+                    情况          
+                </arg>
+                <arg n="m" f="adv">
+                    相当 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

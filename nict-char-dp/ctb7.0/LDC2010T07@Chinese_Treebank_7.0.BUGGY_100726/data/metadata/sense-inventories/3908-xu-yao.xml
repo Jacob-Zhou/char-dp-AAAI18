@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="需要-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to need, to require" group="1">
+<commentary>
+</commentary>
+<examples>
+委内瑞拉 要 发展 经济 ， 进行 改革 都 需要 中国 支持
+这 次 罕见 的 重大 天文 现象 需要 全球 作 连续 监测
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="needs, neccessities" group="1">
+<commentary>
+</commentary>
+<examples>
+依据 经济 发展 和 海外 投资商 的 需要
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="456" ann_1_2_agreement="0.964912280702" />
+</inventory>

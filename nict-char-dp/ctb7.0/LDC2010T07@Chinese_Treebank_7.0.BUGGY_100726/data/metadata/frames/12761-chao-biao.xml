@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 超标 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 亚硝酸盐)
+                    (NN 含量))
+                    (VP (VV 超标)
+                    (QP-EXT (CD ７００多)
+                    (CLP (M 倍))))) 
+                    
+                </parse>
+                <arg n="0">
+                    亚硝酸盐 含量          
+                </arg>
+                <arg n="m" f="ext">
+                    ７００多 倍          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

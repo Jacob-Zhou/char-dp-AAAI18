@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 假戏真作 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 死者))
+                    (VP (VV 假戏真作)))) 
+                    
+                </parse>
+                <arg n="0">
+                    死者          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

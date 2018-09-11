@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 卷定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="domain/location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 起落架))
+                    (VP (VV 卷定)
+                    (AS 了)
+                    (NP-OBJ (NN 轮胎械)))) 
+                    
+                </parse>
+                <arg n="1">
+                    起落架          
+                </arg>
+                <arg n="2">
+                    轮胎械          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

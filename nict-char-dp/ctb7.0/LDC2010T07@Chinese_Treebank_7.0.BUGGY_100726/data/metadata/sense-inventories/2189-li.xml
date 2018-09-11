@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="离-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to leave, to be away from, to part from" group="1">
+<commentary>
+</commentary>
+<examples>
+参加 抢救 的 近 三十 名 医护 人员 眼睛 几乎 是 时刻 不 离 保温箱 的 监护仪
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="from, between (indicating the distance between
+objects, locations, events, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+富士山 离 东京 只有 ８０ 公里
+离 欧元 启动 仅 剩 九 天
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be without, to be lacking" group="1">
+<commentary>
+</commentary>
+<examples>
+残疾人 体育 事业 发展 的 每 一 步 都 离 不 开 党 和 政府 的 关心 支持
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="11" ann_1_2_agreement="0.909090909091" />
+</inventory>

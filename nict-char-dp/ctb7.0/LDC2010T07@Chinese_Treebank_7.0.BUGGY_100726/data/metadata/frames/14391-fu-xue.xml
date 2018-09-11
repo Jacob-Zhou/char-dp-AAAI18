@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 复学 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-PN (NR 南港)
+                    (NR 内湖))
+                    (NP (NN 灾区)))
+                    (NP (NN 中小学)))
+                    (VP (VV 复学))) 
+                    
+                </parse>
+                <arg n="0">
+                    南港 内湖 灾区 中小学          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

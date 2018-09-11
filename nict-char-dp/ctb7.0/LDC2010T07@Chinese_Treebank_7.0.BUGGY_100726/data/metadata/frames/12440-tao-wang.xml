@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逃往 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VP (VV 取道)
+                    (NP-OBJ-PN (NR 尼泊尔)))
+                    (VP (VV 逃往)
+                    (NP (NR 印度)))))
+                    (DEC 的)))
+                    (QP (CD 一些))
+                    (NP-PN (NR 中国))
+                    (NP (NN 西藏人))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 ->  一些 中国 西藏人          
+                </arg>
+                <arg n="1">
+                    印度          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

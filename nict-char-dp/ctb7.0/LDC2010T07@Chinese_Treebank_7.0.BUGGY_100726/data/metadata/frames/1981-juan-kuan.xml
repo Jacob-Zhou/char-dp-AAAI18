@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 捐款 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="donor"/>
+        <role argnum="1" argrole="amount donoted"/>
+        <role argnum="2" argrole="receipient of the donation"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    ( (IP (NP-TMP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 抗日))))
+                    (DEC 的)))
+                    (NP (NN 时候)))
+                    (PU ，)
+                    (NP-SBJ (PN 他))
+                    (VP (VP (ADVP (AD 非常))
+                    (VP (VA 爱国)))
+                    (PU ，)
+                    (VP (VV 带)
+                    (NP-OBJ (NN 人))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VSB (VV 出去)
+                    (VV 游行)))))
+                    (PU ，)
+                    (VP (ADVP (AD 还))
+                    (FLR (PN 这个)
+                    (IJ 哦)
+                    (PN 这个))
+                    (VP (VV 捐款)
+                    (NP-OBJ (NN 抗日))))
+                    (ETC 等等))
+                    (FLR (PU （)
+                    (NN ０)
+                    (PU ）))
+                    (PU 。))) 
+                    
+                </parse>
+                <arg n="0">
+                    他	  
+                </arg>
+                <arg n="m" f="PRP">
+                    抗日          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

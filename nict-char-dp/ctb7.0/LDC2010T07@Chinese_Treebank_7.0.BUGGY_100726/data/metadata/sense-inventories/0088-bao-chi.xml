@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="保持-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to continue a certain state" group="1">
+<commentary>
+</commentary>
+<examples>
+今年 一 至 二月份 中国 对 外 贸易 进出口 继续 保持 增长 势头
+贵州省 粮食 总 产量 已 连续 三 年 保持 在 一千万 吨 以上 ， 今年 达到 一千一百万 吨
+相信 这 种 关系 在 今后 相当 长 的 时期 内 会 继续 保持 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to try to maintain a state" group="1">
+<commentary>
+</commentary>
+<examples>
+今年 ， 中国 计划 通过 保持 投资 、 消费 和 出口 适度 稳定 增长 ， 对 经济 成长 形成 有效 拉力 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to maintain (a person's physical or psychological state,or social status)" group="1">
+<commentary>
+</commentary>
+<examples>
+我们 还是 保持 一 个 正面 肯定 的 一 个 态度
+愿意 花 钱 保持 或 雕塑 身材
+李光耀 得以 在 两 岸 间 保持 一 种 特殊 身
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to keep (in touch)" group="1">
+<commentary>
+</commentary>
+<examples>
+我方 也 一直 和 对方 保持 联系
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="remain (silent)" group="1">
+<commentary>
+</commentary>
+<examples>
+中国 的 媒体 对 高行健 获奖 一 事 几乎 保持 沉默
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="241" ann_1_2_agreement="0.56846473029" />
+</inventory>

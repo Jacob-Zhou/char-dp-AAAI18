@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 送人 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="giver"/>
+        <role argnum="1" argrole="entity given"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (ADVP (AD 连))
+                    (NP (NN 狗)))
+                    (VP (ADVP (AD 都))
+                    (VP (VV 送人)))) 
+                    
+                </parse>
+                <arg n="1">
+                    连 狗          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

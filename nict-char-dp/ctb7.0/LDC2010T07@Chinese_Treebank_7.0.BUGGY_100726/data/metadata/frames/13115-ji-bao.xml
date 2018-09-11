@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 挤爆 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity that crams"/>
+        <role argnum="1" argrole="place arg0 crams in"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这)
+                    (CLP (M 场)))
+                    (NP (NN 影友会)))
+                    (VP (ADVP (AD 当场))
+                    (VP (VV 挤爆)
+                    (AS 了)
+                    (NP-OBJ (NP-PN (NR 华视))
+                    (NP (NN 大厅))))) 
+                    
+                </parse>
+                <arg n="0">
+                    这 场 影友会          
+                </arg>
+                <arg n="m" f="adv">
+                    当场          
+                </arg>
+                <arg n="1">
+                    华视 大厅          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

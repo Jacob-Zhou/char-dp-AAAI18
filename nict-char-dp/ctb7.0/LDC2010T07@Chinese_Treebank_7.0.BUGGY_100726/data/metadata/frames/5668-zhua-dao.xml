@@ -1,0 +1,65 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 抓到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 catches"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (QP (CD 一)
+                    (CLP (M 面)))
+                    (NP (NN 国旗)))
+                    (VP (VV 表示)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 抓到)
+                    (NP-OBJ (QP (CD 一万)
+                    (CLP (M 尾)))
+                    (NP (NN 乌鱼))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	
+                </arg>
+                <arg n="1">
+                    一万 尾 乌鱼 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 catches"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-ADV (ADVP (CS 即使))
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VV 抓到)
+                    (NP-OBJ (NN 警察局)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*	
+                </arg>
+                <arg n="2">
+                    警察局 	
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

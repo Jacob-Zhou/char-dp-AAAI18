@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 穿孔 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing pierced"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 潜水员))
+                    (VP (VP (ADVP (AD 已经))
+                    (VP (VV 开始)
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 潜艇)
+                    (NN 外壳))
+                    (LC 上)))
+                    (VP (VV 穿孔))))) 
+                    
+                </parse>
+                <arg n="0">
+                    潜水员          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="1">
+                    在 潜艇外壳 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

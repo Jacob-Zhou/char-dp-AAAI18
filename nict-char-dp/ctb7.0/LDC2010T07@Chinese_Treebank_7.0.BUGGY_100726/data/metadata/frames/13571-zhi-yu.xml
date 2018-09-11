@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 至于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="level reached"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (DNP (NP-PN (NR 陈)
+                    (NN 总统))
+                    (DEG 的))
+                    (NP (NN 行为)))
+                    (VP (ADVP (AD 也))
+                    (ADVP (AD 不))
+                    (VP (VV 至于)
+                    (NP-OBJ (CP-APP (IP (NP-SBJ-1 (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VV 罢免)
+                    (NP-OBJ (-NONE- *-1)))))
+                    (DEC 的))
+                    (NP (NN 地步)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    陈 总统 的 行为          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="1">
+                    被 罢免 的 地步          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 诈财 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party that arg0 scams"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 假))
+                    (VP (VV 投资)))
+                    (VP (ADVP (AD 真))
+                    (VP (VV 诈财)))))
+                    (DEC 的))
+                    (NP (NN 案件)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

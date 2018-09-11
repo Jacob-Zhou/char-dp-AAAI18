@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 安家 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP-OBJ (NR 日本)))
+                    (DVP (VP (ADVP (AD 更))
+                    (VP (VA 好)))
+                    (DEV 的))
+                    (VP (VP (VV 繁衍)
+                    (NP-OBJ (NN 后代)))
+                    (PU ，)
+                    (VP (VCD (VV 安家)
+                    (VV 落户))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="loc">
+                    在 日本          
+                </arg>
+                <arg n="m" f="adv">
+                    更 好 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

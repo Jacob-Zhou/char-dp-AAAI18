@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="长-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to grow" group="1">
+<commentary>
+</commentary>
+<examples>
+一般 的 白玉兰 都 是 春天 开 花 ， 花 谢 后 长 叶 ， 花 叶 不 同期
+如果 长 得 不 好看
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to grow older, to grow up, to grow to maturity" group="1">
+<commentary>
+</commentary>
+<examples>
+却 反而 叫 我们 渐 长 的 女孩 在 一 旁 观看 学习
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="long (of distance or time)" group="1">
+<commentary>
+</commentary>
+<examples>
+生产 周期 长
+典范 长 存
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to measure, length" group="1">
+<commentary>
+</commentary>
+<examples>
+所 用 的 太阳能 电池板 长 ３０ 米
+朝野 立委 长 达 一 周 的 挑灯 审议
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="a strong point, good qualities" group="1">
+<commentary>
+</commentary>
+<examples>
+以 我 为主 、 博 采 众 长
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="an elder, a commissioner (of government departments)" group="1">
+<commentary>
+</commentary>
+<examples>
+将 大幅 提高 县 （ 市 ） 、 乡镇 （ 市 ） 长 地方 民代 的 支给 费用
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="38" ann_1_2_agreement="0.868421052632" />
+</inventory>

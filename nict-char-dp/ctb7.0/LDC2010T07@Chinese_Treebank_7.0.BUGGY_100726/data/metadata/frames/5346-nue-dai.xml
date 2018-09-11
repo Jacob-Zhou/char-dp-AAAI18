@@ -1,0 +1,81 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 虐待 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="person arg0 ill-treats"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (DP-ADV (DT 每)
+                    (CLP (M 天)))
+                    (VP (VV 看到)
+                    (NP-PN-OBJ (NR 张玉燕))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (LB 被)
+                    (CP-OBJ (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (NN 婆婆))
+                    (VP (VV 虐待)
+                    (NP-OBJ (-NONE- *T*-1)))))))))) 
+                </parse>
+                <arg n="0">
+                    婆婆 
+                </arg>
+                <arg n="1">
+                    *PRO* 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (ADVP (AD 好像))
+                    (NP-SBJ (PN 她))
+                    (VP (VC 是)
+                    (NP-PRD (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 虐待)
+                    (NP-OBJ (NN 儿童))))
+                    (DEC 的)))
+                    (NP (NN 巫婆))))) 
+                </parse>
+                <arg n="0">
+                    *T*-1 
+                </arg>
+                <arg n="1">
+                    儿童 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 後母))
+                    (VP (VCD (VV 苦毒)
+                    (VV 虐待)))) 
+                </parse>
+                <arg n="0">
+                    後母 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

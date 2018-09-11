@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 困 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="thing trapped"/>
+         
+        <role argnum="2" argrole="place arg0 is trapped in"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (SB 被)
+                    (VP (VV 困)
+                    (PP (P 在)
+                    (LCP (NP (NN 车厢))
+                    (LC 里))))))
+                    (DEC 的)))
+                    (NP (NN 乘客)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *T*-1 -> 乘客          	  
+                </arg>
+                <arg n="2">
+                    在 车厢 里          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2" edef="sleepy">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 清晨))
+                    (IP-ADV (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 一))
+                    (VP (VV 看))))
+                    (LCP-LOC (NP (NN 马路))
+                    (LC 上))
+                    (NP-SBJ (DP (DT 这些))
+                    (NP (NN 兵)))
+                    (VP (VA 困)
+                    (DER 的)
+                    (VP (ADVP (AD 就))
+                    (VP (VV 在)
+                    (LCP-OBJ (NP (PN 我们)
+                    (NN 墙))
+                    (LC 上)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    清晨     	  
+                </arg>
+                <arg n="m" f="adv">
+                    一 看  	  
+                </arg>
+                <arg n="m" f="loc">
+                    马路 上	  
+                </arg>
+                <arg n="0">
+                    这些 兵	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

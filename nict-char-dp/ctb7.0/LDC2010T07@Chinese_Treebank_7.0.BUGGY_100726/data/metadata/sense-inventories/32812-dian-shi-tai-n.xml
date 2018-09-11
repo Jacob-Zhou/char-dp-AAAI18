@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="dian-shi-tai, 电视台-n">
+<commentary></commentary>
+<sense n="1" name="电视台, station, television," group="" type="">
+<commentary>TV broadcast station or telecasting.</commentary><examples>广播电视台。
+broadcastiong station.
+
+电视（台）工程
+television engineering
+
+电台方位。
+bearing of station.
+
+电视采访。
+television interview.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="电台, 电视， studio, station, television, radio，" group="" type="">
+<commentary>Aequipped place where radio programs or music recordings or television programs are made.</commentary><examples>电台播送室。
+a radio studio.
+
+电台呼号
+radio station call sign.
+
+电台采访。
+radio station interview.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

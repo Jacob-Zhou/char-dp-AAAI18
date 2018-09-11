@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 相谈欢 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (PP-MNR (P 靠着)
+                    (NP (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VA 简单)))
+                    (DEC 的)))
+                    (NP (NN 肢体)
+                    (NN 动作))))
+                    (PU ，)
+                    (NP-SBJ (QP (CD 两)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (ADVP (AD 可))
+                    (VP (VC 是)
+                    (VP (VV 相谈欢))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="m" f="mnr">
+                    靠着 简单 的 肢体 动作          
+                </arg>
+                <arg n="0">
+                    两 个 人          
+                </arg>
+                <arg n="m" f="dis">
+                    可          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

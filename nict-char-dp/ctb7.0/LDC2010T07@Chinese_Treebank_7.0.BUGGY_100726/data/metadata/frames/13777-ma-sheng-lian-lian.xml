@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 骂声连连 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-LOC (NP (NN 国事)
+                    (NN 论坛))
+                    (LC 上))
+                    (NP-SBJ (NP (ADJP (JJ 在野))
+                    (NP (NN 党)))
+                    (NP (NN 立委)))
+                    (VP (VP (VC 是)
+                    (VP (VV 骂声连连))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    国事 论坛 上          
+                </arg>
+                <arg n="0">
+                    在野 党立委          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

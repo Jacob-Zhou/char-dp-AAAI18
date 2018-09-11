@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 选送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 先后))
+                    (VP (VV 选送)
+                    (NP-OBJ (QP (CD 十多)
+                    (CLP (M 名)))
+                    (ADJP (JJ 优秀))
+                    (NP (NN 干部)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VSB (VV 外出)
+                    (VV 攻读))
+                    (NP-OBJ (NN 博士)
+                    (PU 、)
+                    (NN 硕士)
+                    (NN 研究生)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    先后          
+                </arg>
+                <arg n="1">
+                    十多 名 优秀 干部          
+                </arg>
+                <arg n="2">
+                    外出 攻读 博士 、 硕士 研究生          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 言说 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="speaker"/>
+        <role argnum="1" argrole="thing spoken"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VP (VV 可)
+                    (VP (VV 言说)))
+                    (VP (ADVP (AD 而))
+                    (VP (VP (ADVP (AD 非))
+                    (VP (VV 说)))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 可))))))))
+                    (DEC 的)))
+                    (NP (NN 时候)))) 
+                    
+                </parse>
+                <arg n="1">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    *T*-1 -> 时候          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

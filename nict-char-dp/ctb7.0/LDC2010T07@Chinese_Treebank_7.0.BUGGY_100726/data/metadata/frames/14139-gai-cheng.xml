@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 改称 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity called"/>
+        <role argnum="2" argrole="name arg1 is called"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NN 军舰)
+                    (NN 重建)
+                    (NN 委员会))
+                    (VP (VV 改称)
+                    (NP-PN-OBJ (NP (NN 金融))
+                    (ADJP (JJ 特任))
+                    (NP (NN 大臣)))) 
+                    
+                </parse>
+                <arg n="1">
+                    军舰 重建 委员会          
+                </arg>
+                <arg n="2">
+                    金融 特任大臣          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

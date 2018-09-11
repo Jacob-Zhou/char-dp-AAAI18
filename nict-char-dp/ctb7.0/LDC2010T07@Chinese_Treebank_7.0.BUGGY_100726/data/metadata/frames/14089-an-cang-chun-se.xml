@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暗藏春色 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 但是))
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (ADVP (AD 这样))
+                    (VP (VA 优美))))
+                    (DEC 的)))
+                    (NP (NN 风景)))
+                    (VP (ADVP (AD 却))
+                    (VP (VC 是)
+                    (VP (VV 暗藏春色)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    但是          
+                </arg>
+                <arg n="0">
+                    这样 优美 的 风景          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

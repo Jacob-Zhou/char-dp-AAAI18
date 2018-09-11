@@ -1,0 +1,55 @@
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 0 3 gold 欢迎-v 欢迎.01 ----- 3:0-rel 2:1-ARG0 4:2-ARG2
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 0 5 gold 收看-v 收看.01 ----- 5:0-rel 4:1-ARG0 6:3-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 15 gold 发生-v 发生.01 ----- 15:0-rel 0:2-ARG1 12:2-ARGM-TMP 17:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 22 gold 猛烈-v 猛烈.01 ----- 22:0-rel 19:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 24 gold 让-v 让.02 ----- 24:0-rel 19:1-ARG0 25:3-ARG1 35:2-ARG2
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 28 gold 密集-v 密集.01 ----- 28:0-rel 26:0*26:1*27:0*27:1*30:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 33 gold 有-v 有.03 ----- 33:0-rel 32:1-ARGM-ADV 34:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 37 gold 陷入-v 陷入.01 ----- 37:0-rel 35:1-ARG0 36:1-ARGM-ADV 39:4-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 42 gold 波及-v 波及.01 ----- 42:0-rel 41:1-ARG0 39:1*43:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 65 gold 扑灭-v 扑灭.01 ----- 65:0-rel 47:1-ARGM-ADV 48:1-ARGM-MNR 58:1-ARGM-TMP 57:1*66:0*66:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 69 gold 没有-v 没有.01 ----- 69:0-rel 68:1-ARG0 70:2-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 71 gold 伤亡-v 伤亡.01 ----- 71:0-rel 70:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 1 81 gold 付之一炬-v 付之一炬.01 ----- 81:0-rel 73:1-ARGM-DIS 74:2-ARG1 78:1-ARGM-DIS 79:1-ARGM-ADV 80:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 25 gold 蔓延-v 蔓延.01 ----- 25:0-rel 15:1-ARG0 16:1-ARGM-DIR 20:1-ARGM-DIR 24:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 30 gold 吞噬-v 吞噬.01 ----- 30:0-rel 15:1-ARG0 27:2-ARGM-ADV 29:1-ARGM-ADV 32:2-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 31 gold 掉-v 掉.01 ----- 31:0-rel
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 43 gold 冒出-v 冒出.01 ----- 43:0-rel 36:1-ARG0 37:1-ARGM-DIS 38:1-ARGM-ADV 39:1-ARG1 41:1-ARGM-DIR
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 58 gold 伴随-v 伴随.01 ----- 58:0-rel 54:1-ARGM-LOC 55:1-ARG0 56:1-ARGM-ADV 57:1-ARGM-ADV 60:4-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 80 gold 烧-v 烧.01 ----- 80:0-rel 73:2-ARG1 78:1-ARGM-ADV 82:3-ARGM-EXT
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 85 gold 下来-v 下来.01 ----- 85:0-rel
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 88 gold 是-v 是.01 ----- 88:0-rel 87:1-ARG0 89:3-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 93 gold 接到-v 接到.01 ----- 93:0-rel 89:1-ARG0 90:1-ARGM-TMP 94:2-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 100 gold 位于-v 位于.01 ----- 100:0-rel 101:1-ARG1 106:1*98:0*98:1*99:0*99:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 107 gold 发生-v 发生.01 ----- 107:0-rel 96:3-ARG1 108:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 112 gold 进行-v 进行.01 ----- 112:0-rel 110:1-ARG0 113:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 115 gold 拿-v 拿.01 ----- 115:0-rel 110:1-ARG0 117:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 118 gold 穿过-v 穿过.01 ----- 118:0-rel 110:1-ARG0 119:3-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 121 gold 狭小-v 狭小.01 ----- 121:0-rel 119:0*119:1*120:0*120:1*130:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 124 gold 是-v 是.01 ----- 124:0-rel 123:1-ARGM-ADV 125:2-ARG1 119:0*120:0*130:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 2 131 gold 进行-v 进行.01 ----- 131:0-rel 110:1-ARG0 132:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 6 gold 猛烈-v 猛烈.01 ----- 6:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 13 gold 前来-v 前来.01 ----- 13:0-rel
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 14 gold 支援-v 支援.01 ----- 14:0-rel 8:3-ARG0 12:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 21 gold 穿梭-v 穿梭.01 ----- 21:0-rel 16:4-ARG0 22:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 33 gold 猛-v 猛.01 ----- 33:0-rel 29:1-ARGM-DIS 30:1-ARG0 31:1-ARGM-ADV 32:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 42 gold 蔓延-v 蔓延.01 ----- 42:0-rel 35:2-ARG0 38:1-ARGM-DIR
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 53 gold 笼罩-v 笼罩.01 ----- 53:0-rel 44:2*54:1-ARG1 50:1-ARGM-ADV 52:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 59 gold 是-v 是.01 ----- 59:0-rel
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 60 gold 布满-v 布满.01 ----- 60:0-rel 56:1-ARG0 58:1-ARGM-DIS 62:3-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 64 gold 看-v 看.02 ----- 64:0-rel 62:1*63:1-ARG0 65:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 72 gold 出动-v 出动.01 ----- 72:0-rel 69:1-ARGM-ADV 70:1-ARG0 71:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 75 gold 挤-v 挤.01 ----- 75:0-rel 69:1-ARGM-ADV 70:1-ARG0 76:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 80 gold 狭长-v 狭长.01 ----- 80:0-rel 79:1-ARGM-ADV 77:0*77:1*78:0*78:1*82:1-ARG0
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 85 gold 发射-v 发射.01 ----- 85:0-rel 69:1-ARGM-ADV 70:1-ARG0 83:1-ARG2 86:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 87 gold 进行-v 进行.01 ----- 87:0-rel 69:1-ARGM-ADV 70:1-ARG0 88:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 94 gold 控制-v 控制.01 ----- 94:0-rel 90:1*96:1-ARG1 91:1-ARGM-ADV 92:1-ARGM-ADV
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 95 gold 下来-v 下来.01 ----- 95:0-rel
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 99 gold 继续-v 继续.01 ----- 99:0-rel 90:1*96:1-ARG1 98:1-ARGM-ADV 100:2-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 3 105 gold 燃烧-v 燃烧.01 ----- 105:0-rel 90:1*96:1-ARG0 98:1-ARGM-ADV 100:1-ARGM-DIR
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 4 5 gold 扑灭-v 扑灭.01 ----- 5:0-rel 0:1-ARGM-TMP 3:1-ARGM-ADV 2:1*6:0*6:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 4 14 gold 烧毁-v 烧毁.01 ----- 14:0-rel 8:1-ARGM-DIS 11:1-ARGM-DIS 12:1-ARGM-ADV 15:0*15:1*9:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 4 20 gold 造成-v 造成.01 ----- 20:0-rel 17:1-ARGM-ADV 18:1-ARG0 19:1-ARGM-ADV 21:2-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 4 22 gold 伤亡-v 伤亡.01 ----- 22:0-rel 21:1-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 4 29 gold 有待-v 有待.01 ----- 29:0-rel 24:1-ARG0 28:1-ARGM-ADV 30:2-ARG1
+bn/cnr/01/cnr_0132@0132@cnr@bn@ch@on 4 32 gold 调查-v 调查.01 ----- 32:0-rel 30:1-ARG0 31:1-ARGM-ADV

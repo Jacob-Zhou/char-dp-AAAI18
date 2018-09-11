@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 买刀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="buyder"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (VV 来)
+                    (VP (VV 买刀))))
+                    (DEC 的)))
+                    (NP (NN 原著民))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 -> 原著民          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

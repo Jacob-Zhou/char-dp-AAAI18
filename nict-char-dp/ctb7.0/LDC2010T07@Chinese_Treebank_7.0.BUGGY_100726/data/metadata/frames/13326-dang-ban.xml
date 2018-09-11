@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 当班 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (DNP (QP (CD ４４)
+                    (CLP (M 岁)))
+                    (DEG 的))
+                    (NP (NN 大陆)
+                    (NN 凶嫌)
+                    (NN 渔工)))
+                    (VP (ADVP (AD 正好))
+                    (ADVP (AD 在))
+                    (VP (VV 当班)))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 ４４ 岁 的 大陆 凶嫌 渔工          
+                </arg>
+                <arg n="m" f="adv">
+                    正好          
+                </arg>
+                <arg n="m" f="adv">
+                    在          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

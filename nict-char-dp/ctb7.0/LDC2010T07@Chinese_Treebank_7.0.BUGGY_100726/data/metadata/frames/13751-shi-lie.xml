@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 施烈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (NP-TMP (NT 以往))
+                    (ADVP (AD 总))
+                    (PP-DIR (P 向)
+                    (NP (NN 坏人)))
+                    (VP (VV 施烈))))
+                    (DEC 的)))
+                    (NP-PN (NR 基努・里维))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 基努・里维          
+                </arg>
+                <arg n="m" f="tmp">
+                    以往          
+                </arg>
+                <arg n="m" f="adv">
+                    总          
+                </arg>
+                <arg n="1">
+                    向 坏人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

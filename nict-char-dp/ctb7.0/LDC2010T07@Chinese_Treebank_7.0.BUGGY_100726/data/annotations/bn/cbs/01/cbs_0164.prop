@@ -1,0 +1,14 @@
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 0 4 gold 签署-v 签署.01 ----- 4:0-rel 0:3-ARG0 3:1-ARGM-TMP 5:1-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 0 12 gold 取代-v 取代.01 ----- 12:0-rel 0:3-ARG0 6:1-ARG2 13:3-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 0 20 gold 采用-v 采用.01 ----- 20:0-rel 14:4-ARG0 13:1*21:1*29:1-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 0 26 gold 没有-v 没有.01 ----- 26:0-rel 24:1*25:1-ARG1 27:1-ARG0
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 1 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 2:5-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 1 4 gold 签署-v 签署.01 ----- 4:0-rel 3:1-ARG0 2:0*2:1*5:0*5:1*7:1-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 1 9 gold 送交-v 送交.01 ----- 9:0-rel 2:3-ARG1 10:2-ARG2 19:2-ARGM-ADV
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 1 17 gold 公布-v 公布.01 ----- 17:0-rel 2:3-ARG1 8:1-ARGM-ADV 15:1-ARGM-TMP
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 1 26 gold 开始-v 开始.01 ----- 26:0-rel 19:1-ARGM-TMP 20:2-ARG0 23:1-ARGM-DIS 24:2-ARGM-ADV 27:1-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 1 27 gold 使用-v 使用.01 ----- 27:0-rel 19:1-ARGM-TMP 20:2-ARG1 23:1-ARGM-ADV 24:2-ARGM-ADV
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 2 3 gold 同意-v 同意.02 ----- 3:0-rel 0:1-ARG0 1:1-ARGM-ADV 2:1-ARGM-DIS 4:2-ARG1
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 2 15 gold 为-v 为.02 ----- 15:0-rel 4:1-ARG0 5:1-ARGM-MNR 16:3-ARGM-PRD
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 2 27 gold 为-v 为.02 ----- 27:0-rel 4:1-ARG0 20:1-ARGM-MNR 28:3-ARGM-PRD
+bn/cbs/01/cbs_0164@0164@cbs@bn@ch@on 2 39 gold 获得-v 获得.01 ----- 39:0-rel 32:2-ARG0 34:1-ARGM-TMP 41:4-ARG1

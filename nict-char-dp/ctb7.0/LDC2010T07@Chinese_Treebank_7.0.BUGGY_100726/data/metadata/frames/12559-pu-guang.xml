@@ -1,0 +1,58 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暴光 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 exposes"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 被害人))
+                    (VP (VP-FOC (VP (PP-TMP (P 趁)
+                    (NP (CP (WHPP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (PN 她))
+                    (VP (PP-TMP (-NONE- *T*-1))
+                    (VP (VV 坐车))))
+                    (DEC 的)))
+                    (NP (NN 时候))))
+                    (VP (VV 逃跑)))
+                    (PU ，)
+                    (VP (PP-DIR (P 向)
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 路过)))
+                    (DEC 的)))
+                    (NP (NN 巡逻)
+                    (NN 员警))))
+                    (VP (VV 求救))))
+                    (VP (ADVP (AD 这))
+                    (ADVP (AD 才))
+                    (VP (VV 暴光)
+                    (AS 了)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 件)))
+                    (NP (NN 挟持案)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    被害人          
+                </arg>
+                <arg n="m" f="tmp">
+                    这          
+                </arg>
+                <arg n="m" f="adv">
+                    才          
+                </arg>
+                <arg n="1">
+                    这 件 挟持案          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

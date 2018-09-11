@@ -1,0 +1,16 @@
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 0 2 gold 举办-v 举办.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-ADV 3:2-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 2 4 gold 荟萃-v 荟萃.01 ----- 4:0-rel 5:1-ARG0 2:0*3:0*9:1-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 2 28 gold 举行-v 举行.01 ----- 28:0-rel 0:2-ARG1 18:1-ARGM-ADV 19:1-ARGM-TMP 25:1-ARGM-LOC
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 3 1 gold 是-v 是.01 ----- 1:0-rel 0:1-ARG0 2:3-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 3 10 gold 结束-v 结束.01 ----- 10:0-rel 7:1-ARGM-TMP 8:1-ARGM-LOC 5:0*6:0*18:1-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 3 18 gold 筹备-n 筹备.01 ----- 18:0-rel 12:2-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 3 19 gold 工作-n 工作.01 ----- 19:0-rel 18:0-ARGM-LOC
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 3 22 gold 获悉-v 获悉.01 ----- 22:0-rel 3:1-ARG0 4:1-ARG2 2:0*23:0-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 4 5 gold 大-v 大.01 ----- 5:0-rel 4:1-ARG0 2:0*3:0*10:1-ARG0
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 4 8 gold 高-v 高.01 ----- 8:0-rel 7:1-ARG0 2:0*3:0*10:1-ARG0
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 4 45 gold 主办-v 主办.01 ----- 45:0-rel 13:1-ARG0 44:1-ARGM-ADV 0:2*46:0-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 5 3 gold 为-v 为.01 ----- 3:0-rel 0:1-ARG0 4:3-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 5 23 gold 辐射-n 辐射.01 ----- 23:0-rel 22:1-ARGM-MNR
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 6 5 gold 成立-v 成立.01 ----- 5:0-rel 0:1-ARG0 1:2-ARGM-LOC 4:1-ARGM-ADV 7:3-ARG1
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 6 33 gold 组成-v 组成.01 ----- 33:0-rel 9:1-ARG1 7:0*8:0*35:1-ARG0
+nw/xinhua/02/chtb_0230@0230@xinhua@nw@ch@on 7 1 gold 完-v 完.01 ----- 1:0-rel

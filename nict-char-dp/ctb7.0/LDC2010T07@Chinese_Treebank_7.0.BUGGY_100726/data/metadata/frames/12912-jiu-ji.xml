@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 纠集 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity mustered"/>
+        <role argnum="2" argrole="thing arg1 is mustered to do"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-PN-SBJ (NR 朝鲜)
+                    (NN 战争))
+                    (VP (VV 爆发)))
+                    (LC 以后))
+                    (PU ，)
+                    (NP-PN-SBJ (NR 美国))
+                    (VP (VP (VV 纠集)
+                    (NP-OBJ (DNP (ADJP (JJ 所谓))
+                    (DEG 的))
+                    (NP (NN 联合国军)))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-LOC (P 在)
+                    (NP (NP-PN (NR 朝鲜))
+                    (NP (NN 西)
+                    (NN 海岸))
+                    (NP-PN (NR 仁川))))
+                    (VP (VV 登陆))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    朝鲜 战争 爆发 以后          
+                </arg>
+                <arg n="0">
+                    美国          
+                </arg>
+                <arg n="1">
+                    所谓 的 联合国军          
+                </arg>
+                <arg n="2">
+                    在 朝鲜 西 海岸 仁川 登陆          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

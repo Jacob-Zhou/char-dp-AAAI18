@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="倒-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to fail, to collapse, to be overthrown (eg. of a goverment)" group="1">
+<commentary>
+</commentary>
+<examples>
+越 辅 越 倒
+铁 打 的 衙门 倒 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to fall, to topple" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to close down, to go out of business" group="1">
+<commentary>
+</commentary>
+<examples>
+亏 的 亏 ， 倒 的 倒
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to pour out, to empty" group="1">
+<commentary>
+</commentary>
+<examples>
+当 他们 进入 申亚乡 一 村 牧民 索次 家 时 ， ４５ 岁 的 主人 倒 酥油茶 招待 大家 。
+卖 不 完 再 把 货 「 倒 」 回 公司
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to reverse (order, direction)" group="1">
+<commentary>
+</commentary>
+<examples>
+三 年级 後 倒 过来
+西元 一千年 ， 倒 推 回去 ， 可 说 是 历史 上 的 第二 个 千禧年
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to place upside down" group="1">
+<commentary>
+</commentary>
+<examples>
+倒 金字塔 管理
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="on the contrary, indicating the opposite of expecation" group="1">
+<commentary>
+</commentary>
+<examples>
+倒 还 可以 慢慢 调整
+中兴新村 所在 的 南投 及 中部 一带 ， 县 市 百官 络绎于途 ， 倒 也 使得 中部 地区 不 会 太 寂寞
+成书 后 心情 倒 也 轻松 快活
+这 「 长 痛 不 如 短 痛 」 的 道理 ， 倒 亏 了 马汀娜 来 「 再 教育 」 我们 。
+偷渡 的 「 宝塔 」 倒 是 来 了 不少
+等 他 满头大汗 地 烤好 肉 ， 年轻人 倒 是 闻 香 而 来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="0.857142857143" />
+</inventory>

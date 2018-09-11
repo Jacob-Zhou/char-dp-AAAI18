@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 扯断 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme broken"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 辆)))
+                    (NP (NN 吊车)))
+                    (VP (PP-LOC (P 在)
+                    (NP (DNP (NP-PN (NR 苗丽))
+                    (DEG 的))
+                    (NP-PN (NR 后隆))))
+                    (VP (VV 扯断)
+                    (AS 了)
+                    (NP-OBJ (NN 电车线)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 辆 吊车          
+                </arg>
+                <arg n="m" f="loc">
+                    在 苗丽 的 后隆          
+                </arg>
+                <arg n="1">
+                    电车线          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

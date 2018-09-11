@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 上吊 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 李松明))
+                    (VP (PP-MNR (P 以)
+                    (NP (NN 衣裤)))
+                    (VP (VV 上吊)
+                    (PP (P 在)
+                    (LCP (NP (DNP (NP (NN 床头))
+                    (DEG 的))
+                    (ADJP (NN 铁))
+                    (NP (NN 栏杆)))
+                    (LC 上)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    李松明          
+                </arg>
+                <arg n="m" f="mnr">
+                    以 衣裤          
+                </arg>
+                <arg n="m" f="loc">
+                    在 床头 的 铁 栏杆 上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

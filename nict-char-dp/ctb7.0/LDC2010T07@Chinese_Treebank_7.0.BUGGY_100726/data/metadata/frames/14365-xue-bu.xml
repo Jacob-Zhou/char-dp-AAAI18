@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 学步 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="learner"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-3 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-3))
+                    (VP (ADVP (AD 刚))
+                    (VP (VV 学步))))
+                    (DEC 的)))
+                    (NP (NN 小朋友)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-3 ->  小朋友          
+                </arg>
+                <arg n="m" f="adv">
+                    刚          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

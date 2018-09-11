@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 阳春白雪 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 高行健))
+                    (DEG 的))
+                    (NP (NN 作品)))
+                    (VP (DVP (ADVP (AD 相当))
+                    (DEV 的))
+                    (VP (VV 阳春白雪)))) 
+                    
+                </parse>
+                <arg n="0">
+                    高行健 的 作品          
+                </arg>
+                <arg n="m" f="adv">
+                    相当 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

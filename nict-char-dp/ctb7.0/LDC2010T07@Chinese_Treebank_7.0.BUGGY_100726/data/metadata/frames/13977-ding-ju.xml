@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 定局 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 南斯拉夫))
+                    (NP (NN 总统)
+                    (NN 选举)))
+                    (VP (ADVP (AD 本来))
+                    (ADVP (AD 已经))
+                    (VP (VV 定局)))) 
+                    
+                </parse>
+                <arg n="0">
+                    南斯拉夫 总统选举          
+                </arg>
+                <arg n="m" f="adv">
+                    本来           
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

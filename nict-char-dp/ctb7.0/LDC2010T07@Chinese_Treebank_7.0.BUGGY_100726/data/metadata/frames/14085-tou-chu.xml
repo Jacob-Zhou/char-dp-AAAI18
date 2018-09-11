@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 投出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing thrown out/pitched"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 查维斯))
+                    (VP (VP (VV 代表)
+                    (NP-PN-OBJ (NR 委内瑞拉)))
+                    (VP (VP (VV 投出))
+                    (AS 了)
+                    (NP-OBJ (QP (OD 第一)
+                    (CLP (M 个)))
+                    (NP (NN 球)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    查维斯          
+                </arg>
+                <arg n="1">
+                    第一 个 球          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

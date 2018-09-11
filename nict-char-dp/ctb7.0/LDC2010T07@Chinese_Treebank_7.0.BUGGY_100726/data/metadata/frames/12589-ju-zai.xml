@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拒载 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity arg0 refuses to take"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 公车))
+                    (VP (VV 拒载)
+                    (NP-OBJ (NN 老人)))) 
+                    
+                </parse>
+                <arg n="0">
+                    公车          
+                </arg>
+                <arg n="1">
+                    老人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

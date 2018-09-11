@@ -1,0 +1,90 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 敲 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 hits, knocks on"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (VP (VV 吹)
+                    (AS 着)
+                    (NP-OBJ (NN 口哨)))
+                    (PU ，)
+                    (VP (VV 敲)
+                    (AS 着)
+                    (NP-OBJ (ADJP (JJ 小))
+                    (NP (NN 鼓)))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="1">
+                    小 鼓          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 breaks"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (PP-PRP (P 由于)
+                    (IP (NP-SBJ (NN 店面))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (PP-MNR (P 由)
+                    (NP (NN 铁皮)))
+                    (VP (VV 搭盖)))))))
+                    (PU ，)
+                    (ADVP (AD 因此))
+                    (NP-SBJ (NN 消防)
+                    (NN 人员))
+                    (VP (VP (VV 必须)
+                    (VP (ADVP (AD 先))
+                    (VP (VRD (VV 敲)
+                    (VV 破))
+                    (NP-OBJ (DNP (ADJP (JJ 重重))
+                    (DEG 的))
+                    (NP (NN 铁皮)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="m" f="prp">
+                    由于 店面 都 是 由 铁皮 搭盖          
+                </arg>
+                <arg n="m" f="dis">
+                    因此          
+                </arg>
+                <arg n="0">
+                    消防 人员          
+                </arg>
+                <arg n="m" f="adv">
+                    先          
+                </arg>
+                <arg n="1">
+                    重重 的 铁皮          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

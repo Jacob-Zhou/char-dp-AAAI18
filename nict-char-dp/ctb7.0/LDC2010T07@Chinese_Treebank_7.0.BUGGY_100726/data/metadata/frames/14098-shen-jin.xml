@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 伸进 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing extended/stretched"/>
+        <role argnum="2" argrole="location extended into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 昨天)
+                    (NT 深夜))
+                    (NP-SBJ (NP-APP (NN 嫌犯))
+                    (NP-PN (NR 温采福)))
+                    (VP (ADVP (AD 又))
+                    (VP (VP (VV 故技重施))
+                    (PU ，)
+                    (VP (PP-MNR (P 趁)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 四下))
+                    (VP (VE 无)
+                    (NP (NN 人))))))
+                    (VP (VP (PP-MNR (P 用)
+                    (NP (NN 口香糖)))
+                    (VP (VV 伸进)
+                    (NP-OBJ (NN 功德箱)
+                    (NN 里面))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    昨天 深夜          
+                </arg>
+                <arg n="0">
+                    嫌犯 温采福          
+                </arg>
+                <arg n="1">
+                    用 口香糖          
+                </arg>
+                <arg n="2">
+                    功德箱 里面          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

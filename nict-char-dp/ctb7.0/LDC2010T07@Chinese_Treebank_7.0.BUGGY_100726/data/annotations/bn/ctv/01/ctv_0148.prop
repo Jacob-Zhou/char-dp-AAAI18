@@ -1,0 +1,16 @@
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 4 gold 发生-v 发生.01 ----- 4:0-rel 0:2-ARG1 3:1-ARGM-TMP 5:2-ARG0
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 12 gold 发生-v 发生.01 ----- 12:0-rel 11:1-ARG0 13:1-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 24 gold 造成-v 造成.01 ----- 24:0-rel 11:1-ARG0 12:1-ARG0 25:3-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 31 gold 受伤-v 受伤.01 ----- 31:0-rel 25:2-ARG0
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 34 gold 说-v 说.01 ----- 34:0-rel 33:1-ARG0 36:4-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 38 gold 有-v 有.05 ----- 38:0-rel 36:2-ARG0 39:3-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 42 gold 可能-v 可能.01 ----- 42:0-rel
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 43 gold 是-v 是.01 ----- 43:0-rel 39:2-ARG0 44:3-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 46 gold 安放-v 安放.01 ----- 46:0-rel 47:1-ARG1 44:0*45:0*49:1-ARG0
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 56 gold 名叫-v 名叫.01 ----- 56:0-rel 54:1*55:1*59:1-ARG0 57:1-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 63 gold 是-v 是.01 ----- 63:0-rel 52:2-ARG0 64:2-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 73 gold 散发-v 散发.01 ----- 73:0-rel 72:1-ARG0 74:4-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 75 gold 反对-v 反对.01 ----- 75:0-rel 74:1-ARG0 76:1-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 0 80 gold 袭击-v 袭击.01 ----- 80:0-rel 72:1-ARG0 81:1-ARG1
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 1 1 gold 综合-v 综合.01 ----- 1:0-rel 0:1-ARG0
+bn/ctv/01/ctv_0148@0148@ctv@bn@ch@on 1 3 gold 报道-v 报道.01 ----- 3:0-rel 0:1-ARG0

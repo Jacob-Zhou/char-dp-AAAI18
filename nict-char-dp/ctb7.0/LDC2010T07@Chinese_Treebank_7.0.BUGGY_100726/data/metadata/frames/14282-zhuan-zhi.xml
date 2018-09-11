@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 专制 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-LOC (NP (NN 政治))
+                    (LC 上))
+                    (NP-PN-SBJ (NR 中共))
+                    (VP (VP (ADVP (AD 依然))
+                    (VP (VV 可以)
+                    (VP (VV 专制)))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    政治 上          
+                </arg>
+                <arg n="0">
+                    中共          
+                </arg>
+                <arg n="m" f="adv">
+                    依然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

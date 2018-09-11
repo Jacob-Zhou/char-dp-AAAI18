@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="表示-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to express, to show, to manifest (followed by an expression such as anger, happiness, etc.) " group="1">
+<commentary>VV</commentary>
+<examples>
+我谨代表公司向你们表示欢迎。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to indicate, to signify (followed by an explanation) " group="1">
+<commentary>VV</commentary>
+<examples>
+总统在接受记者访问时表示,目前国家的经济发展情况良好。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="expression, manifestation, indication " group="1">
+<commentary>NN</commentary>
+<examples>
+向人打招呼是一种友好的表示。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="19" ann_1_2_agreement="0.789473684211" />
+</inventory>

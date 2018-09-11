@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="旅-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to reside" group="1">
+<commentary>
+</commentary>
+<examples>
+旅 欧 多 年 ， 最近 才 应 马英九 之 邀 ， 即将 担任 台北市 文化局 局长 的 作家 龙应台
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="a trip, to travel, to journey" group="1">
+<commentary>
+</commentary>
+<examples>
+陈水扁 总统 在 八月 二十四日 结束 第一 次 的 外交 之 旅
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="7" ann_1_2_agreement="0.857142857143" />
+</inventory>

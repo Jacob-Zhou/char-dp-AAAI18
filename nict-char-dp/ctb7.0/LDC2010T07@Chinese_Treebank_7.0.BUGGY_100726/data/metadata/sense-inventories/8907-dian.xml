@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="电-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+除了 办 说明会 、 放映 幻灯片 外 ， 五月 中旬 ， 护溪队 在 大坪溪 沿岸 设立 告示牌 ， 希望 当地 与 外地 的 朋友 ， 不 要 在 大坪溪 从事 毒 鱼 、 电 鱼 、 网 鱼 的 行为
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

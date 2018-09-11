@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起因于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity that arg0 is caused by"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 爆炸))
+                    (VP (VP (VC 是)
+                    (VP (VV 起因于)
+                    (NP-OBJ (DNP (NP (DNP (NP-PN (NR 科尔号))
+                    (DEG 的))
+                    (NP (NN 旁边)))
+                    (DEG 的))
+                    (DP (DT 那)
+                    (CLP (M 艘)))
+                    (ADJP (JJ 小))
+                    (NP (NN 船))))) 
+                    
+                </parse>
+                <arg n="0">
+                    爆炸           
+                </arg>
+                <arg n="1">
+                    科尔号 的 旁边 的 那 艘 小 船          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

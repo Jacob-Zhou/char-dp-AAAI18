@@ -1,0 +1,39 @@
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 6 gold 到-v 到.01 ----- 6:0-rel 0:2-ARG0 2:1-ARG0 4:1-ARGM-TMP 7:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 13 gold 查获-v 查获.01 ----- 13:0-rel 0:2-ARG0 2:1-ARG0 4:1-ARGM-TMP 10:1-ARGM-ADV 11:1-ARGM-LOC 15:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 19 gold 按摩-v 按摩.01 ----- 19:0-rel 15:2-ARG0 17:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 24 gold 要求-v 要求.02 ----- 24:0-rel 22:1-ARG0 23:1-ARGM-ADV 25:3-ARG1 30:2-ARG2
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 27 gold 按摩-v 按摩.01 ----- 27:0-rel 25:0*25:1*26:0*26:1*29:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 31 gold 离开-v 离开.01 ----- 31:0-rel 30:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 40 gold 障碍-v 障碍.01 ----- 40:0-rel 39:1-ARG0 37:0*37:1*38:0*38:1*41:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 47 gold 按摩-v 按摩.01 ----- 47:0-rel 45:0*45:1*46:0*46:1*49:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 0 50 gold 处以-v 处以.01 ----- 50:0-rel 21:1-ARGM-ADV 33:1-ARG0 34:1-ARGM-ADV 35:1-ARGM-MNR 44:1-ARG2 51:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 4 gold 加上-v 加上.01 ----- 4:0-rel 3:1-ARG2 5:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 23 gold 有-v 有.05 ----- 23:0-rel 22:1-ARG0 24:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 25 gold 指出-v 指出.01 ----- 25:0-rel 24:1-ARG0 26:4-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 30 gold 有-v 有.05 ----- 30:0-rel 26:3-ARG0 31:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 1 35 gold 按摩-v 按摩.01 ----- 35:0-rel 31:2-ARG0 33:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 4 gold 走进-v 走进.01 ----- 4:0-rel 0:1-ARGM-ADV 1:2-ARG0 3:1-ARGM-ADV 5:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 10 gold 查获-v 查获.01 ----- 10:0-rel 0:1-ARGM-ADV 1:2-ARG0 8:1-ARGM-ADV 9:1-ARGM-ADV 11:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 20 gold 按摩-v 按摩.01 ----- 20:0-rel 15:1-ARG0 18:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 2 27 gold 告诫-v 告诫.01 ----- 27:0-rel 24:1-ARG0 25:1-ARGM-ADV 26:1-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 3 gold 让-v 让.02 ----- 3:0-rel 0:3-ARG0 4:3-ARG1 10:2-ARG2
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 7 gold 按摩-v 按摩.01 ----- 7:0-rel 6:1-ARGM-ADV 4:0*4:1*5:0*5:1*9:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 11 gold 吓-v 吓.01 ----- 11:0-rel 10:1-ARG1 13:2-ARGM-FRQ
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 14 gold 跳-v 跳.01 ----- 14:0-rel 13:1-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 18 gold 得-v 得.01 ----- 18:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 19 gold 乖乖-v 乖乖.01 ----- 19:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 3 21 gold 拿出-v 拿出.01 ----- 21:0-rel 10:1-ARG0 17:1-ARGM-DIS 19:2-ARGM-ADV 22:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 1 gold 解释-v 解释.01 ----- 1:0-rel 0:1-ARG0 4:2-ARG3
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 2 gold 说-v 说.01 ----- 2:0-rel 0:1-ARG0 4:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 9 gold 障碍-v 障碍.01 ----- 9:0-rel 8:1-ARG0 10:1*6:0*6:1*7:0*7:1-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 16 gold 得-v 得.01 ----- 16:0-rel
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 4 19 gold 按摩-v 按摩.01 ----- 19:0-rel 4:1-ARGM-MNR 13:2-ARG0 15:1-ARGM-ADV 17:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 5 8 gold 要-v 要.05 ----- 8:0-rel 1:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-ADV 9:2-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 5 10 gold 来-v 来.05 ----- 10:0-rel 1:1-ARGM-ADV 6:1-ARG0 7:1-ARGM-DIS 9:1-ARGM-ADV 11:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 5 11 gold 执法-v 执法.01 ----- 11:0-rel 1:1-ARG0 7:1-ARGM-ADV 9:1-ARGM-ADV
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 6 10 gold 发现-v 发现.01 ----- 10:0-rel 0:1-ARGM-DIS 1:1-ARG0 3:1-ARGM-LOC 9:1-ARGM-DIS 11:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 6 15 gold 挂牌-v 挂牌.01 ----- 15:0-rel 11:2-ARG0
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 6 16 gold 等候-v 等候.01 ----- 16:0-rel 11:2-ARG0 17:3-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 7 5 gold 查获-v 查获.01 ----- 5:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:2-ARGM-ADV 6:1-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 7 11 gold 决定-v 决定.01 ----- 11:0-rel 0:2-ARGM-ADV 9:1-ARG0 10:1-ARGM-ADV 12:2-ARG1
+bn/cts/00/cts_0079@0079@cts@bn@ch@on 7 18 gold 处以-v 处以.01 ----- 18:0-rel 12:1-ARG0 13:1-ARGM-MNR 15:1-ARG2 19:1-ARG1

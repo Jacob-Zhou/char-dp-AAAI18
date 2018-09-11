@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 求刑 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="prosecutor"/>
+        <role argnum="1" argrole="party prosecuted"/>
+        <role argnum="2" argrole="penalty"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (IP (NP-SBJ (NP-APP (NP-PN (NR 新竹市))
+                    (NP (NN 议会))
+                    (NP (NN 议长)))
+                    (NP-PN (NR 郑成光)))
+                    (VP (LCP-TMP (QP (CD １０)
+                    (CLP (M 天)))
+                    (LC 前))
+                    (PP-PRP (P 因为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 涉嫌)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 侵占)
+                    (NP-OBJ (NT ９・２１)
+                    (NN 捐款))
+                    (QP-EXT (CD ３００万)
+                    (CLP (M 元))))))))
+                    (PU ，)
+                    (VP (LB 被)
+                    (IP-OBJ (NP-SBJ (NN 检察官))
+                    (VP (VCD (VV 收押)
+                    (VV 进监))
+                    (QP-EXT (CD １０)
+                    (CLP (M 天))))))))
+                    (LC 后))
+                    (PU ，)
+                    (NP-TMP (NT 上午))
+                    (NP-SBJ (NN 地检署))
+                    (VP (VP (PP-DIR (P 对)
+                    (NP (PN 他)))
+                    (VP (VV 提起)
+                    (NP-OBJ (NN 公诉))))
+                    (PU ，)
+                    (VP (ADVP (AD 并且))
+                    (VP (VV 求刑)
+                    (QP-OBJ (CD 三)
+                    (CLP (M 年)))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    新竹市 议会 议长 郑成光１０ 天 前 因为 涉嫌 侵占 ９・２ 捐款 ３００万 元 ， 被 检察官 收押 进监 １０ 天 后          	  
+                </arg>
+                <arg n="m" f="tmp">
+                    上午          	  
+                </arg>
+                <arg n="0">
+                    地检署          	  
+                </arg>
+                <arg n="m" f="tmp">
+                    并且          	  
+                </arg>
+                <arg n="2">
+                    三 年           	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,22 @@
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 0 15 gold 分-v 分.01 ----- 15:0-rel 0:2-ARGM-DIS 3:1-ARG0 4:2-ARGM-TMP 6:1-ARGM-ADV 8:3-ARG1 16:1-ARG2
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 0 19 gold 到-v 到.01 ----- 19:0-rel
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 0 23 gold 使-v 使.01 ----- 23:0-rel 0:2-ARGM-DIS 3:1-ARG0 24:4-ARG1 30:2-ARG2
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 0 31 gold 得到-v 得到.01 ----- 31:0-rel 30:1-ARG0 33:3-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 0 35 gold 妥善-v 妥善.01 ----- 35:0-rel 33:0*33:1*34:0*34:1*37:1-ARG0
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 5 gold 遭受-v 遭受.01 ----- 5:0-rel 0:1-ARGM-MNR 3:1-ARG0 4:1-ARGM-TMP 8:3-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 6 gold 到-v 到.01 ----- 6:0-rel
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 12 gold 罕见-v 罕见.01 ----- 12:0-rel 14:1*8:1*9:1-ARG0 10:2-ARGM-LOC
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 21 gold 受灾-v 受灾.01 ----- 21:0-rel 16:3-ARG0 20:1-ARGM-ADV
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 29 gold 收-v 收.05 ----- 29:0-rel 23:2-ARG0 25:2-ARGM-ADV 28:1-ARGM-ADV 31:2-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 42 gold 使-v 使.01 ----- 42:0-rel 40:2-ARG0 43:3-ARG1 48:2-ARG2
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 49 gold 遭受-v 遭受.01 ----- 49:0-rel 48:1-ARG0 50:2-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 1 56 gold 陷入-v 陷入.01 ----- 56:0-rel 53:2-ARG0 55:1-ARG0 57:1-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 10 gold 储备-v 储备.01 ----- 10:0-rel 0:1-ARGM-MNR 3:1-ARG0 5:1-ARGM-TMP 6:1-ARGM-ADV 7:1-ARGM-LOC 12:3-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 26 gold 安排-v 安排.01 ----- 26:0-rel 18:1-ARG0 20:1-ARGM-DIS 21:1-ARGM-ADV 22:1-ARGM-TMP 27:2-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 31 gold 用-v 用.01 ----- 31:0-rel 18:1-ARG0 20:1-ARGM-ADV 21:1-ARGM-ADV 22:1-ARGM-TMP 32:1-ARG2
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 34 gold 解决-v 解决.01 ----- 34:0-rel 33:1-ARG0 35:1-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 41 gold 要-v 要.06 ----- 41:0-rel 18:1-ARG0 39:1-ARGM-ADV 40:1-ARGM-ADV 42:2-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 43 gold 组织-v 组织.01 ----- 43:0-rel 42:1-ARG0 45:4-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 44 gold 开展-v 开展.01 ----- 44:0-rel 42:1-ARG0 45:4-ARG1
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 50 gold 生产-v 生产.01 ----- 50:0-rel
+bn/cnr/01/cnr_0124@0124@cnr@bn@ch@on 2 51 gold 自救-v 自救.01 ----- 51:0-rel 49:1-ARG0

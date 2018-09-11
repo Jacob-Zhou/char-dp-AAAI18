@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 躲闪 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing skipped"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHPP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 克林顿))
+                    (NP (NN 政府)))
+                    (VP (PP-PRP (-NONE- *T*-2))
+                    (PP-LOC (P 在)
+                    (LCP (NP (NP (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-ADV (P 同)
+                    (NP-PN (NR 俄罗斯)))
+                    (VP (VV 签署)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (ADJP (JJ 秘密))
+                    (NP (NN 协议)))
+                    (NP (NN 问题)))
+                    (LC 上)))
+                    (ADVP (AD 一直))
+                    (VP (VV 回避)
+                    (PU 、)
+                    (VV 躲闪))))
+                    (DEC 的)))
+                    (NP (NN 原因))) 
+                    
+                </parse>
+                <arg n="0">
+                    克林顿 政府          
+                </arg>
+                <arg n="m" f="prp">
+                    *T*-2 -> 原因          
+                </arg>
+                <arg n="1">
+                    在 同 俄罗斯 签署 的 秘密 协议 问题上          
+                </arg>
+                <arg n="m" f="adv">
+                    一直          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

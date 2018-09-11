@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 倒戈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 谁))
+                    (VP (VP (ADVP (AD 全力))
+                    (VP (VV 推动)
+                    (NP (VV 罢免))))
+                    (CC 还是)
+                    (VP (ADVP (AD 专心))
+                    (VP (VV 倒戈)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    谁          
+                </arg>
+                <arg n="m" f="adv">
+                    专心          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

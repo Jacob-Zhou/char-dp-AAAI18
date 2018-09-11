@@ -1,0 +1,23 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 朦胧 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 曙色))
+                    (VP (VV 朦胧))) 
+                </parse>
+                <arg n="0">
+                    曙色 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 串联 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent, cause"/>
+        <role argnum="1" argrole="entities arg0 connects"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 将))
+                    (VP (VP (VV 串联)
+                    (NP-OBJ (ADJP (JJ 小))
+                    (NP (NN 股东)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          	  
+                </arg>
+                <arg n="m" f="adv">
+                    将          	  
+                </arg>
+                <arg n="1">
+                    小 股东          	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

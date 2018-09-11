@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 减为 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="end point"/>
+        <role argnum="3" argrole="original point"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="dir" trg="arg3"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 美国))
+                    (DNP (PP (P 对)
+                    (NP (NP-SBJ (NR 联合国))
+                    (NP (IP-APP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 维持)
+                    (NP-OBJ (NN 和平))))
+                    (NP (NN 任务)))
+                    (NP (NN 经费))))
+                    (DEG 的))
+                    (NP (NN 分摊)
+                    (NN 比例)))
+                    (VP (PP-DIR (P 从)
+                    (QP (CD ３１％)))
+                    (VP (VV 减为)
+                    (QP-OBJ (CD ２６％)
+                    (CC 或)
+                    (CD ２７％)))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    美国 对 联合国 维持 和平 任务 经费 的 分摊 比例          
+                </arg>
+                <arg n="3">
+                    从 ３１％          
+                </arg>
+                <arg n="2">
+                    ２６％ 或 ２７％          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

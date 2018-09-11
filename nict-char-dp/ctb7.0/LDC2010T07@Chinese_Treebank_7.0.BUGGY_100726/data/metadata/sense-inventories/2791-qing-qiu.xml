@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="请求-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to make an official request" group="1">
+<commentary>
+</commentary>
+<examples>
+知识 产权 所有人 请求 海关 查处 侵权 货物 时 ， 应 对 进出口 货物 构成 侵权 行为 承担 举证 责任 ， 协助 海关 开展 查缉 工作 并 支付 有关 货物 的 鉴定 、 调查 以及 其他 相关 费用 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to nicely and politely ask for" group="1">
+<commentary>
+</commentary>
+<examples>
+大 地震 之后 ， 萨尔瓦多 总统 佛洛瑞斯 宣布 全 国 进入 紧急 状态 ， 全力 抢救 受困 民众 ， 同时 请求 各 国 伸出 援手
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="request (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+原告 提出 的 诉讼 请求
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

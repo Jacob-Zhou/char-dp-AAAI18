@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 展大 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme expanded"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-MNR (P 以)
+                    (NP (NN 合作)))
+                    (VP (VP (MSP 来)
+                    (VP (VV 替代)
+                    (NP-OBJ (NN 对抗))))
+                    (PU ，)
+                    (VP (MSP 来)
+                    (VP (VV 展大)
+                    (NP-OBJ (NN 胸心))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="m" f="mnr">
+                    以 合作          
+                </arg>
+                <arg n="1">
+                    胸心          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

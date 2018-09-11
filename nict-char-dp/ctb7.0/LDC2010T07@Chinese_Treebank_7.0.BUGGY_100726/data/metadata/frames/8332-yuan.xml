@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 缘 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 trims"/>
+        <role argnum="2" argrole="thing arg1 is trimmed with"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NN 饰金))
+                    (VP (VV 缘)
+                    (NP-OBJ (NN 边)))) 
+                </parse>
+                <arg n="1">
+                    边 
+                </arg>
+                <arg n="2">
+                    饰金 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 抢走 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 takes away by force"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VP (PP-MNR (P 假借)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 要)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 借)
+                    (NP-OBJ (NN 厕所)))))))
+                    (VP (VV 侵入)
+                    (NP-OBJ (DNP (NP (NN 被害人))
+                    (DEG 的))
+                    (NP (NN 家中)))))
+                    (VP (VV 抢走)
+                    (NP-OBJ (NN 提包))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="1">
+                    提包          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

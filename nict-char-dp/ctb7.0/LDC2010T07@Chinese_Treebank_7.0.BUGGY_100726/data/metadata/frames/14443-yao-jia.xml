@@ -1,0 +1,68 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 要价 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="price asked for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (QP (CD 一)
+                    (CLP (M 名)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-LOC (P 在)
+                    (NP (NP-PN (NR 新竹))
+                    (NP (NN 科学)
+                    (NN 园区))))
+                    (VP (VV 工作))))
+                    (DEC 的)))
+                    (NP (NN 年青人)))
+                    (PP-PRP (P 为了)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 解决)
+                    (NP-OBJ (NN 燃眉之急)))))
+                    (PU ，)
+                    (NP-SBJ (PN 他))
+                    (VP (VP (VV 异想天开))
+                    (PU ，)
+                    (VP (ADVP (AD 竟然))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 网路))
+                    (LC 上)))
+                    (ADVP (AD 公开))
+                    (VP (VP (VV 卖)
+                    (NP-OBJ (NN 肾)))
+                    (VP (VV 要价)
+                    (QP-EXT (CD １５０万))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 在 新竹 科学 园区 工作 的 年青人 -> 他          
+                </arg>
+                <arg n="m" f="prp">
+                    为了 解决 燃眉之急          
+                </arg>
+                <arg n="m" f="adv">
+                    竟然          
+                </arg>
+                <arg n="m" f="loc">
+                    在 网路 上          
+                </arg>
+                <arg n="m" f="adv">
+                    公开          
+                </arg>
+                <arg n="1">
+                    １５０万          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

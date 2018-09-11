@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 记入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="thing documented"/>
+        <role argnum="2" argrole="record"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 记入)
+                    (LCP-OBJ (NP (NN 大选)
+                    (NN 总票数))
+                    (LC 中))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *PRO*          
+                </arg>
+                <arg n="2">
+                    大选 总票数 中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

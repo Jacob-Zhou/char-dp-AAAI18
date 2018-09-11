@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 现年 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="age"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 现年)
+                    (QP-OBJ (CD ６０)
+                    (CLP (M 岁)))))
+                    (DEC 的)))
+                    (NP-PN (NR 高行健))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 高行健          
+                </arg>
+                <arg n="1">
+                    ６０ 岁          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

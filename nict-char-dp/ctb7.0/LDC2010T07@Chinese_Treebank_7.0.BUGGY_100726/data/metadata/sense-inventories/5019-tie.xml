@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="贴-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stick" group="1">
+<commentary>
+</commentary>
+<examples>
+就 像 贴 在 布告栏 上 的 宣传品 ， 被 风 吹掉 了 ， 再 贴 一 张 就 好
+他 把 一 格格 样片 贴 在 墙 上 临摹 ， 画成 一 张张 的 动画 纸
+《 晴天 娃娃 》 才 贴 几 次 就 得到 意想不到 的 支持
+近千 名 来自 官方 和 民间 的 陶工 合力 完成 这些 需要 塑 、 堆 、 捏 、 贴 、 刻 、 画 的 陶俑
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to get close to" group="1">
+<commentary>
+</commentary>
+<examples>
+长满 茧 的 茶农 之 手 贴 着 茶叶 的 气息 过活 ， 去年 坪林 的 包种 茶 被 指定 为 「 总统 茶 」 而 更加 声名大噪 ， 茶农们 硬 是 杆直 了 腰 做 茶 ， 等 着 儿孙 回家 甲 一 杯 好 茶 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

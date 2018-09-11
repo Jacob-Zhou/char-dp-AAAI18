@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 往下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VNV (VV 要)
+                    (AD 不)
+                    (VV 要))
+                    (VP (ADVP (AD 再))
+                    (VP (VV 往下)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    再          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

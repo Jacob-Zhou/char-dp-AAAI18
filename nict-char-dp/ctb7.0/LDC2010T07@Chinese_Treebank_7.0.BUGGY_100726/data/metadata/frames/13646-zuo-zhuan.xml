@@ -1,0 +1,30 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 左转 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NN 前方))
+                    (DEG 的))
+                    (NP (NN 轿车)))
+                    (VP (ADVP (AD 突然))
+                    (VP (VV 左转))) 
+                    
+                </parse>
+                <arg n="0">
+                    前方 的 轿车          
+                </arg>
+                <arg n="m" f="adv">
+                    突然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

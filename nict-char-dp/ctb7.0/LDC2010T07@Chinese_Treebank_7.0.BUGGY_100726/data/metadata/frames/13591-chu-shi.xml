@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 处事 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 绪方)
+                    (NN 女士))
+                    (VP (VV 处事))) 
+                    
+                </parse>
+                <arg n="0">
+                    绪方 女士          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

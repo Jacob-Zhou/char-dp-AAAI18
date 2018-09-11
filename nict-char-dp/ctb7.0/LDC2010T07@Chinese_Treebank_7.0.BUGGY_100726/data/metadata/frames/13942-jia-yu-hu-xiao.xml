@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 家誉户晓 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-LOC (NN 东西方))
+                    (VP (VV 家誉户晓))))
+                    (DEC 的)))
+                    (ADJP (JJ 女))
+                    (NP (NN 主角)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 主角          
+                </arg>
+                <arg n="m" f="loc">
+                    东西方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

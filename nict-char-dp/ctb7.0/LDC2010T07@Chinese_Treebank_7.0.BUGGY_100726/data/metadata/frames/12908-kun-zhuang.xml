@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 捆装 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme bundled up"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-4 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (LCP-LOC (NP (NN 车厢))
+                    (LC 内))
+                    (ADVP (AD 违规))
+                    (VP (VV 捆装)
+                    (NP-OBJ (-NONE- *T*-4)))))
+                    (DEC 的)))
+                    (NP (NN 弹药)
+                    (NN 引线))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="loc">
+                    车厢 内          
+                </arg>
+                <arg n="m" f="adv">
+                    违规          
+                </arg>
+                <arg n="1">
+                    *T*-4 -> 弹药 引线          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

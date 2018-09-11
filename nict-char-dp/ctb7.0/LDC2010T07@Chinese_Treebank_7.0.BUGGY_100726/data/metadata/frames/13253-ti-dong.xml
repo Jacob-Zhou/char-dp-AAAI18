@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 提动 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 政府))
+                    (VP (VV 应该)
+                    (VP (ADVP (AD 紧速))
+                    (VP (VV 提动)
+                    (NP-OBJ (ADJP (JJ 中)
+                    (PU 、)
+                    (JJ 长程))
+                    (NP (NN 改革))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    政府          
+                </arg>
+                <arg n="1">
+                    中 、 长程 改革           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

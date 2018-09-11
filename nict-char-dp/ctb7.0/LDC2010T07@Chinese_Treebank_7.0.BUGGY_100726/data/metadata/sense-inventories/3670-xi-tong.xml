@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="系统-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="systematic, system, scheme" group="1">
+<commentary>
+</commentary>
+<examples>
+没有 系统 的 训练 和 足够 的 备战
+如此 政战 功能 将 产生 质变 ， 政战 系统 尔后 是否 能 再 单独 设 官科 ， 仍 待 观察
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="98" ann_1_2_agreement="1.0" />
+</inventory>

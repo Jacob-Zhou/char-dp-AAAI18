@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="想-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to use the mind in an active way to form connected ideas, figure out" group="1">
+<commentary>VV</commentary>
+<examples>
+她就爱想心事。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to consider, to weigh, to ponder" group="1">
+<commentary>VV</commentary>
+<examples>
+你想得真周到。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="suppose, think (something is true or will happen)" group="1">
+<commentary>VV</commentary>
+<examples>
+我想他买不到票了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="want to, would like to" group="1">
+<commentary>VV</commentary>
+<examples>
+她很想上大学。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="miss, long for, recall with fondness " group="1">
+<commentary>VV</commentary>
+<examples>
+梅大婶想孩子都想病了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="expect (used in negative way)" group="1">
+<commentary>VV</commentary>
+<examples>
+我曾把当时的想法告诉要好的同学，不想他大喜过望。
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="347" ann_1_2_agreement="0.740634005764" />
+</inventory>

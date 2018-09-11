@@ -1,0 +1,98 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 疏散 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 evacuates"/>
+        <role argnum="2" argrole="destination"/>
+        <role argnum="3" argrole="origin"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 院方))
+                    (VP (ADVP (AD 才))
+                    (ADVP (AD 紧急))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-1 (NN 病患))
+                    (VP (ADVP (AD 往外))
+                    (VP (VV 疏散)
+                    (NP-OBJ (-NONE- *-1)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    院方          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <arg n="m" f="dir">
+                    往外          
+                </arg>
+                <arg n="1">
+                    病患 -> *-1          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 医护)
+                    (NN 人员))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (NN 病患))
+                    (VP (VRD (VV 疏散)
+                    (VV 到))
+                    (NP-OBJ (NN 户外)
+                    (NN 走廊)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    医护 人员          
+                </arg>
+                <arg n="1">
+                    病患          
+                </arg>
+                <arg n="2">
+                    户外 走廊          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="dir" trg="arg3"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD ６０００))
+                    (NP (NN 人)))
+                    (VP (PP-DIR (P 从)
+                    (NP (NN 家中)))
+                    (VP (VV 疏散)))))) 
+                    
+                </parse>
+                <arg n="1">
+                    ６０００ 人          
+                </arg>
+                <arg n="3">
+                    从 家中          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

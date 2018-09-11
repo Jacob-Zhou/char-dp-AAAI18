@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 惨痛 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 惨痛)))
+                    (DEC 的)))
+                    (NP (NN 不幸)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 不幸          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

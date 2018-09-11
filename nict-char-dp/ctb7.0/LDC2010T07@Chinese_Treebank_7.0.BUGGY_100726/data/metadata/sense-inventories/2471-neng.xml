@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="能-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="can, be able to (modal verb), be capable of, may (indicating possibility)" group="1">
+<commentary>
+</commentary>
+<examples>
+大陆 民众 来 台湾 还是 不 能 借由 两 岸 直航 或是 中转 金 、 妈里岛 进入 台湾
+马若龙 能 说 流利 的 葡文
+小弟弟 能 走路了
+让 他们 在 岁暮 之时 也 能 享受 到 一点 人情 温暖
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="with ability" group="1">
+<commentary>
+</commentary>
+<examples>
+「 小 而 能 」 政府
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="should" group="1">
+<commentary>
+</commentary>
+<examples>
+你 不 能 这样 说 他
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="1258" ann_1_2_agreement="0.966613672496" />
+</inventory>

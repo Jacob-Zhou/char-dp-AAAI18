@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="没有-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="there is not, without, have not, not possess" group="1">
+<commentary>
+</commentary>
+<examples>
+东亚 各 国 间 并 非 完全 没有 矛盾 和 分歧
+美国 对 古巴 实行 的 禁运 是 “ 单方面 的 ” ， “ 对 法国 没有 约束力 ”
+没有 和平 环境 ， 任何 建设 事业 都 无从 谈起 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="not yet, have not, did not" group="1">
+<commentary>
+</commentary>
+<examples>
+运转 至今 ， 成交 药品 一亿多 元 ， 没有 发现 一 例 回扣
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="not so... as, less than" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="471" ann_1_2_agreement="0.908704883227" />
+</inventory>

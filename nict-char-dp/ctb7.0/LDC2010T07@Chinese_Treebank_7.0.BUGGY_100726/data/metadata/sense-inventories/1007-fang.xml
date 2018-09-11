@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="放-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to put, to place" group="1">
+<commentary>
+</commentary>
+<examples>
+地处 中国 内陆 中央 的 湖北省 武汉市 ， 将 把 今后 利用 外资 重点 放 在 高 科技 产业 、 基础 产业 和 基础 设施 、 农业 开发 等 领域 。
+刻有 传统 图案 的 一 对 藏柜 上 放 着 两 部 收录机
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to releaese, set free" group="1">
+<commentary>
+</commentary>
+<examples>
+放 和平鸽 的 仪式
+到 六十 岁 才 放 出来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to indulge, to let oneself go" group="1">
+<commentary>
+</commentary>
+<examples>
+不论是 汉印 的 横 平 竖 直 ， 或是 小篆 的 迂回 曲线 ， 都 能 工 能 放
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to light, to set off (e.g. fire, fireworks)" group="1">
+<commentary>
+</commentary>
+<examples>
+做出 陶器 後 在 露天 堆起 柴薪 ， 放 一 把 火 ， 一 次 烧成
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to play, to show (movie, music, record, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+许多 小 戏院 固定 放 著 印度 各 邦 的 方言 电影
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="to have, to take (holidays, vacations, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+放 寒假 前 谢从宾 刚 为 敦化 国小 学童 做完 超音波 检查
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="17" ann_1_2_agreement="0.764705882353" />
+</inventory>

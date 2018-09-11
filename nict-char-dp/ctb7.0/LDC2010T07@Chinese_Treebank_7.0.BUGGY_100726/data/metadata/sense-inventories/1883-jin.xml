@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="禁-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to forbid, to prohibit, to ban" group="1">
+<commentary>
+</commentary>
+<examples>
+悉尼 奥运会 将 禁 用 金属制 棒球棒
+层层 分包 屡 禁 不 止
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to endure, to bear, to stand" group="1">
+<commentary>
+</commentary>
+<examples>
+家 里 那麽 一 两 套 西装 ， 实在 禁 不 起 洗
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to restrain (usually in bu-jin)" group="1">
+<commentary>
+</commentary>
+<examples>
+柴松林 不 禁 眯起 眼睛 莞尔一笑
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

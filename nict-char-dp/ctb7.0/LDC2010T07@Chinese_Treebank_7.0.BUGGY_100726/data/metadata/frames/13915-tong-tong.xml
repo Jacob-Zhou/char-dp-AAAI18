@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 痛疼 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 胸部))
+                    (VP (VV 痛疼)))) 
+                    
+                </parse>
+                <arg n="0">
+                    胸部          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

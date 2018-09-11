@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 联署 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="document"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD １／４))
+                    (NP (NN 立委)))
+                    (VP (VP (VV 联署))
+                    (VP (ADVP (AD 接着))
+                    (VP (VV 请)
+                    (NP-OBJ (NN 总统))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 答辩))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    １／４ 立委          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

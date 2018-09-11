@@ -1,0 +1,75 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 偷拿 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing stolen"/>
+        <role argnum="2" argrole="party stolen from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (NP (NN 男子)))
+                    (VP (ADVP (AD 就))
+                    (PP-LOC (P 在)
+                    (LCP (NP (DNP (NP (NP-PN (NR 台北市))
+                    (NP-PN (NR 东区)))
+                    (DEG 的))
+                    (QP (CD 一)
+                    (CLP (M 间)))
+                    (NP (NN 公园))
+                    (ADJP (JJ 小))
+                    (NP (NN 庙)))
+                    (LC 里)))
+                    (PP-MNR (P 借)
+                    (NP (CP-APP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VCD (VV 上香)
+                    (VV 拜佛))))
+                    (DEC 的))
+                    (NP (NN 名义))))
+                    (PU ，)
+                    (PP-MNR (P 趁)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 四下))
+                    (VP (VE 无)
+                    (NP-OBJ (NN 人))))))
+                    (PU ，)
+                    (PP-DIR (P 向)
+                    (NP (NN 神明)))
+                    (VP (VV 偷拿)
+                    (NP-OBJ (NN 香油钱))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 名 男子          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="loc">
+                    在 台北市 东区 的 一 间 公园 小 庙 里          
+                </arg>
+                <arg n="m" f="mnr">
+                    借 上香 拜佛 的 名义          
+                </arg>
+                <arg n="m" f="mnr">
+                    趁 四下 无 人          
+                </arg>
+                <arg n="2">
+                    向 神明          
+                </arg>
+                <arg n="1">
+                    香油钱          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

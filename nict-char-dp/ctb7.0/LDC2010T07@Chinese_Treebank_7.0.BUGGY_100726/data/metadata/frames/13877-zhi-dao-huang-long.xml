@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 直捣黄龙 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警方))
+                    (VP (NP-TMP (NT 昨天)
+                    (NT 深夜))
+                    (VP (VP (VP (PP-LGS (P 由)
+                    (NP (NN 检察官)))
+                    (ADVP (AD 亲自))
+                    (VP (VV 率队)))
+                    (VP (VV 直捣黄龙))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方           
+                </arg>
+                <arg n="m" f="tmp">
+                    昨天 深夜          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

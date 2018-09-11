@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 押到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="patient escorted"/>
+        <role argnum="2" argrole="place escorted to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 就))
+                    (DVP (ADVP (AD 强行))
+                    (DEV 的))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 船长))
+                    (VP (VV 押到)
+                    (NP-OBJ (DNP (NP (DNP (NP (NN 驾驶座))
+                    (DEG 的))
+                    (NP (NN 后面)))
+                    (DEG 的))
+                    (NP (NN 机舱))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们           
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="m" f="adv">
+                    强行 的          
+                </arg>
+                <arg n="1">
+                    船长          
+                </arg>
+                <arg n="2">
+                    驾驶座 的 后面 的 机舱          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

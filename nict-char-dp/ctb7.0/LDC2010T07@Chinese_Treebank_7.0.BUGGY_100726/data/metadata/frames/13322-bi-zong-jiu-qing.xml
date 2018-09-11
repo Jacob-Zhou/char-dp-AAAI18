@@ -1,0 +1,42 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 避重就轻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TPC (IP-SBJ (NP-SBJ (QP (CD ３)
+                    (CLP (M 个)))
+                    (NP (NN 人)))
+                    (VP (VV 见面)))
+                    (VP (VV 是否)
+                    (VP (VV 要)
+                    (VP (VV 湮灭)
+                    (NP-OBJ (NN 证据))))))
+                    (NP-PN-SBJ (NR 祝本利))
+                    (VP (ADVP (AD 则))
+                    (VP (VC 是)
+                    (VP (VV 避重就轻))))) 
+                    
+                </parse>
+                <arg n="1">
+                    ３ 个 人 见面 是否 要 湮灭 证据          
+                </arg>
+                <arg n="0">
+                    祝本利          
+                </arg>
+                <arg n="m" f="dis">
+                    则          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

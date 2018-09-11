@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搬送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing awarded"/>
+        <role argnum="2" argrole="receiver"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-APP (NP-PN (NR 瑞典))
+                    (NP (NN 国王)))
+                    (NP-PN (NR 子斯塔夫)))
+                    (VP (VV 搬送)
+                    (NP-OBJ (-NONE- *T*-1))))
+                    (DEC 的)))
+                    (NP (NN 奖状)
+                    (PU 、)
+                    (NN 奖章))) 
+                    
+                </parse>
+                <arg n="0">
+                    瑞典 国王 子斯塔夫          
+                </arg>
+                <arg n="1">
+                    *T*-1 -> 奖状 、 奖章          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

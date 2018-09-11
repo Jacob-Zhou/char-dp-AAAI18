@@ -1,0 +1,113 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 知情 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity that is aware"/>
+        <role argnum="1" argrole="entity that arg0 is aware of"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP (PN 我))
+                    (NP-PN (NN 外交部)))
+                    (VP (VP (ADVP (AD 却))
+                    (ADVP (AD 完全))
+                    (ADVP (AD 未))
+                    (VP (VV 参与)
+                    (NP-OBJ (NN 来访)
+                    (NN 作业))))
+                    (PU ，)
+                    (VP (ADVP (AD 甚至))
+                    (LCP-TMP (NP (NN 事))
+                    (LC 前))
+                    (ADVP (AD 毫))
+                    (ADVP (AD 不))
+                    (VP (VV 知情))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我 外交部 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    不 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    毫 	  	  
+                </arg>
+                <arg n="m" f="tmp">
+                    事 前 	  	  
+                </arg>
+                <arg n="m" f="adv">
+                    甚至 	  	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-MNR (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 身为)
+                    (NP-OBJ (NP (NP (NN 国内))
+                    (ADJP (ADVP (AD 最))
+                    (ADJP (JJ 高)))
+                    (NP (NN 学术)
+                    (NN 研究)
+                    (NN 单位)))
+                    (NP (NN 负责人)))))
+                    (PU ，)
+                    (NP-SBJ (NP-APP (NP-PN (NN 中央)
+                    (NN 研究院))
+                    (NP (NN 院长)))
+                    (NP-PN (NR 李永哲)))
+                    (VP (PP-DIR (P 对)
+                    (NP (DNP (NP (ADJP (JJ 新))
+                    (NP (NN 政府)))
+                    (DEG 的))
+                    (NP (NN 决定))))
+                    (ADVP (AD 竟然))
+                    (ADVP (AD 事先))
+                    (ADVP (AD 也))
+                    (ADVP (AD 毫))
+                    (ADVP (AD 不))
+                    (VP (VV 知情)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    身为 国内 最 高 学术 研究 单位负责人 	  	  
+                </arg>
+                <arg n="0">
+                    中央 研究院 院长 李永哲	  
+                </arg>
+                <arg n="1">
+                    对 新 政府 的决定	  
+                </arg>
+                <arg n="m" f="adv">
+                    竟然	  
+                </arg>
+                <arg n="m" f="tmp">
+                    事先	  
+                </arg>
+                <arg n="m" f="dis">
+                    也	  
+                </arg>
+                <arg n="m" f="adv">
+                    毫	  
+                </arg>
+                <arg n="m" f="adv">
+                    不	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

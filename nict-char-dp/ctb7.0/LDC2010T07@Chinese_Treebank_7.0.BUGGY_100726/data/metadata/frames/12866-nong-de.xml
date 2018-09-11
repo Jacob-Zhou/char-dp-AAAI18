@@ -1,0 +1,43 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 弄得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme affected"/>
+        <role argnum="2" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="ext" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 我们))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NN 线))
+                    (VP (ADVP (AD 不))
+                    (VP (VV 要)
+                    (VP (VV 弄得)
+                    (VP-EXT (ADVP (AD 那么))
+                    (VP (VA 长))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    我们          
+                </arg>
+                <arg n="1">
+                    线          
+                </arg>
+                <arg n="m" f="adv">
+                    不          
+                </arg>
+                <arg n="2">
+                    那么 长          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查缴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="investigator"/>
+        <role argnum="1" argrole="entity investigated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 检调)
+                    (NN 单位))
+                    (VP (ADVP (AD 全力))
+                    (VP (VV 查缴)
+                    (NP-OBJ (NN 黑金)
+                    (NN 行动)
+                    (NN 中心))))) 
+                    
+                </parse>
+                <arg n="0">
+                    检调 单位          
+                </arg>
+                <arg n="m" f="adv">
+                    全力          
+                </arg>
+                <arg n="1">
+                    黑金 行动 中心          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,24 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 辣手摧花 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 自己))
+                    (VP (VP (VV 辣手摧花)) 
+                    
+                </parse>
+                <arg n="0">
+                    自己          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

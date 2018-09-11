@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 道出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 says"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-APP (NP-PN (NR 台北))
+                    (NP (NN 市长)))
+                    (NP-PN (NR 马英久)))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 道出)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (NN 球迷们))
+                    (DEG 的))
+                    (NP (NN 心声))))) 
+                    
+                </parse>
+                <arg n="0">
+                    台北 市长 马英久          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="1">
+                    球迷们 的 心声          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

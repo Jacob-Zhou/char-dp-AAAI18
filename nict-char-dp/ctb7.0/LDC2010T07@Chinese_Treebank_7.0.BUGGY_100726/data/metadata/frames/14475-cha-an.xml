@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 查案 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="investigator"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-APP (NN 税务)
+                    (PU 、)
+                    (NN 海关)
+                    (PU 、)
+                    (NN 银行)
+                    (PU 、)
+                    (NN 财政)
+                    (PU 、)
+                    (NN 工商)
+                    (PU 、)
+                    (NN 外经贸)
+                    (PU 、)
+                    (NN 外汇)
+                    (NN 管理)
+                    (PU 、)
+                    (NN 公安)
+                    (PU 、)
+                    (NN 纪检)
+                    (PU 、)
+                    (NN 监察)
+                    (ETC 等))
+                    (NN 部门))
+                    (CC 和)
+                    (NP (NN 检察院)
+                    (PU 、)
+                    (NN 法院)))
+                    (VP (VV 要)
+                    (VP (VP (VRD (VV 联合)
+                    (VV 起来)))
+                    (VP (VV 查案)
+                    (PU 、)
+                    (VV 办案)))) 
+                    
+                </parse>
+                <arg n="0">
+                    税务 、 海关 、 银行 、 财政 、 工商 、 外经贸 、 外汇 管理 、 公安 、 纪检 、 监察 等 部门 和 检察院 、 法院          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

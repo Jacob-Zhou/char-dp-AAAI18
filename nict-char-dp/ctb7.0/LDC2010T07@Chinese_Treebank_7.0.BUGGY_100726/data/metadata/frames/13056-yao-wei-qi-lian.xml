@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 摇尾乞怜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="0" argrole="entity ingratiated with "/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 李洪志))
+                    (CC 及)
+                    (PU “)
+                    (NP (NP-PN-APP (NR 法轮功))
+                    (PU ”)
+                    (NP (NN 邪教)
+                    (NN 组织))))
+                    (VP (VP (ADVP (AD 公然))
+                    (PP-ADV (P 与)
+                    (NP (NN 政府)
+                    (CC 和)
+                    (NN 法律)))
+                    (VP (VV 对抗)))
+                    (PU ，)
+                    (VP (DVP (VP (ADVP (AD 毫))
+                    (ADVP (AD 不))
+                    (VP (VV 掩饰)))
+                    (DEV 的))
+                    (VP (VV 站到)
+                    (NP-OBJ (DNP (NP (NN 祖国)
+                    (CC 和)
+                    (NN 人民))
+                    (DEG 的))
+                    (NP (NN 对立面)))))
+                    (PU ，)
+                    (VP (PP-DIR (P 向)
+                    (NP (NP (NN 西方))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 反)
+                    (NP-PN-OBJ (NR 华)))))
+                    (NP (NN 势力))))
+                    (VP (VV 摇尾乞怜))) 
+                    
+                </parse>
+                <arg n="0">
+                    李洪志 及 “ 法轮功 ” 邪教 组织          
+                </arg>
+                <arg n="1">
+                    向 西方 反 华 势力          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

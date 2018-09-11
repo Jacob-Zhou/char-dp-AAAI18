@@ -1,0 +1,69 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 移送 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="theme that arg0 transfers"/>
+        <role argnum="2" argrole="destination, recipient"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ-1 (NN 狗)
+                    (NN 主人))
+                    (VP (VV 要)
+                    (VP (PP-MNR (P 依)
+                    (NP (NN 动物)
+                    (NN 保护法)))
+                    (VP (BA 被)
+                    (VP (VV 移送)
+                    (NP-OBJ (-NONE- *-1))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    狗 主人 -> *-1          
+                </arg>
+                <arg n="m" f="mnr">
+                    依 动物 保护法          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-SBJ (DP (DT 整)
+                    (CLP (M 个)))
+                    (NP (NN 案子)))
+                    (VP (VP (ADVP (AD 已经))
+                    (VP (VRD (VV 移送)
+                    (VV 到))
+                    (NP-OBJ (NN 地检署))))
+                    (VP (LCP-PRD (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 等待)))
+                    (LC 当中)))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="1">
+                    整 个 案子          
+                </arg>
+                <arg n="2">
+                    地检署          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="关系-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to concern, to have to do with" group="1">
+<commentary>
+</commentary>
+<examples>
+朱（容加金旁）基 说 ， 做好 库区 移民 工作 ， 是 关系 三峡 工程 建设 进展 的 关键 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="relationship, relation" group="1">
+<commentary>
+</commentary>
+<examples>
+此 次 访问 的 目的 是 为了 改善 和 发展 两 国 关系
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="impact, consequence" group="1">
+<commentary>
+</commentary>
+<examples>
+吴淡如 说 ， 过去 男人 带 不 出去 没 关系 ， 现在 男友 的 重要 条件 是 要 能 带 得 出去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="relation, connection, correlation, bearing" group="1">
+<commentary>
+</commentary>
+<examples>
+近年 的 研究 发现 ， 脂肪 细胞 是 体内 能量 均衡 状态 的 调节者 ， 与 肥胖症 、 糖尿病 、 骨质疏松症 、 心 血管 疾病 有 密切 的 关系
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="130" ann_1_2_agreement="0.923076923077" />
+</inventory>

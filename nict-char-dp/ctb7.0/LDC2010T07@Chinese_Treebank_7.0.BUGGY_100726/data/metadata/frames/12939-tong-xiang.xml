@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 通向 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="location arg0 leads to"/>
+        <role argnum="2" argrole="location from which arg0 leads to arg1"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 通向)
+                    (NP-OBJ (NN 西部))))
+                    (DEC 的)))
+                    (NP (NN 桥头堡)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-1 -> 桥头堡          
+                </arg>
+                <arg n="1">
+                    西部          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

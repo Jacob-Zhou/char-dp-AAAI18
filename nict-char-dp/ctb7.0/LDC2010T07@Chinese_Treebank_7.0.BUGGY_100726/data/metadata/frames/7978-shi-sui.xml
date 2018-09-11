@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拾穗 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP (NP-PN (NR 米勒))
+                    (CP (WHNP-12 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-12))
+                    (VP (VSB (VV 弯腰)
+                    (VV 拾穗))))
+                    (DEC 的)))
+                    (NP (NN 农妇))) 
+                </parse>
+                <arg n="0">
+                    *T*-12 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

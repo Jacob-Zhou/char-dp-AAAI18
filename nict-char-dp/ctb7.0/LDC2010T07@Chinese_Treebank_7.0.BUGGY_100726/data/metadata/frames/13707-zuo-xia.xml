@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 做下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing done"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (QP-SBJ (CD ３)
+                    (CLP (M 件)))
+                    (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (DP (DT 同)
+                    (QP (CD 一)
+                    (CLP (M 栋))))
+                    (NP (NN 大楼)))
+                    (LC 里)))
+                    (VP (VV 做下))))) 
+                    
+                </parse>
+                <arg n="1">
+                    ３ 件          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <arg n="m" f="loc">
+                    在 同 一 栋 大楼 里          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 森严 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT 一大早))
+                    (NP-PN-LOC (NR 板桥)
+                    (NN 殡仪馆))
+                    (NP-SBJ (NN 警戒))
+                    (VP (VA 森严))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    一大早          
+                </arg>
+                <arg n="m" f="loc">
+                    板桥 殡仪馆          
+                </arg>
+                <arg n="0">
+                    警戒          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

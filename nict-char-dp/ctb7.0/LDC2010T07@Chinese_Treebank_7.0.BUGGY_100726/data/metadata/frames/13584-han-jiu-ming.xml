@@ -1,0 +1,52 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 喊救命 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (NP-TMP (NT 昨天)
+                    (NT 晚间))
+                    (NP-LOC (PN 这里))
+                    (ADVP (AD 突然))
+                    (VP (VV 传出))))
+                    (DEC 的)))
+                    (NP (NN 爆炸声)))
+                    (PU ，)
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 名)))
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (ADVP (AD 正在))
+                    (VP (VV 念)
+                    (NP-OBJ (NN 高一)))))
+                    (DEC 的)))
+                    (NP (NN 中学生)))
+                    (VP (DVP (VP (ADVP (AD 满脸))
+                    (VP (VC 是)
+                    (NP-PRD (NN 血))))
+                    (DEV 的))
+                    (VP (VV 喊救命))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    昨天 晚间 这里 突然 传出 的 爆炸声          
+                </arg>
+                <arg n="0">
+                    一 名 正在 念 高一 的 中学生          
+                </arg>
+                <arg n="m" f="adv">
+                    满脸 是 血 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

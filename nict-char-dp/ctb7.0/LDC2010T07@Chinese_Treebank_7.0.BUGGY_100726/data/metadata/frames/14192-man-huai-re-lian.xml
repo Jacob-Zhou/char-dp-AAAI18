@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 满怀热恋 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="lover"/>
+        <role argnum="1" argrole="entity loved"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="dir" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-DIR (P 对于)
+                    (NP-PN (NR 法国)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 却))
+                    (VP (VC 是)
+                    (VP (VV 满怀热恋))))) 
+                    
+                </parse>
+                <arg n="1">
+                    对于 法国          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

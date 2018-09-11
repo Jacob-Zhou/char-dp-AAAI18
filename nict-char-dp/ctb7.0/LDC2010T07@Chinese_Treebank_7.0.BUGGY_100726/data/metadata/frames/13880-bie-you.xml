@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 别有 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="theme/domain"/>
+        <role argnum="1" argrole="property"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 那))
+                    (NP-SBJ (NN 校友))
+                    (VP (VP-FOC (VV 回校))
+                    (VP (VV 别有)
+                    (NP-OBJ (DNP (QP (CD 一)
+                    (CLP (M 番)))
+                    (DEG 的))
+                    (NP (NN 感情)))))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    那          
+                </arg>
+                <arg n="0">
+                    校友          
+                </arg>
+                <arg n="0" f="prd">
+                    回校          
+                </arg>
+                <arg n="1">
+                    一番 的 感情          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

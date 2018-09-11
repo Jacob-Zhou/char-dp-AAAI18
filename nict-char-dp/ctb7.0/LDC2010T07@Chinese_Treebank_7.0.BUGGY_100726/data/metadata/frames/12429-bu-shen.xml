@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不慎 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 工人))
+                    (VP (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 操作)
+                    (NP-OBJ (NN 热熔机))))
+                    (LC 时)))
+                    (VP (VP-FOC (VV 用)
+                    (NP-OBJ (NN 电)))
+                    (VP (VA 不慎)))) 
+                    
+                </parse>
+                <arg n="0">
+                    工人           
+                </arg>
+                <arg n="m" f="tmp">
+                    在 操作热熔机 时          
+                </arg>
+                <arg n="1">
+                    用 电          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

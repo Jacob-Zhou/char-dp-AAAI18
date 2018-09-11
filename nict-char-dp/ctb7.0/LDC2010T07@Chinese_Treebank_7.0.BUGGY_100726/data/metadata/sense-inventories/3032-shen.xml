@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="深-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="intensive, deep (as contrasted to shallow)" group="1">
+<commentary>
+</commentary>
+<examples>
+来到 中国 我 感受 很 深
+使 之 对 中国 进出口 银行 有 了 较 深 的 了解
+联办 资源 开发 与 深 加工 以及 劳动 密集型 项目
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="abbreviation for Shen-zhen" group="1">
+<commentary>
+</commentary>
+<examples>
+香港 回归 后 ， 深 港 两 地 经贸 关系 得到 加强
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="deep (indicating the depth measurement)" group="1">
+<commentary>
+</commentary>
+<examples>
+然而 「 岁月 和 生活 在 她 枯干 脸 上 ， 留下 了 很 深 的 痕迹 」
+雾 重 云 深 ， 毁誉 交加
+多 位 萨国 民众 在 瞬间 被 深 埋 于 土石 里面
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="dark, deep (of colors)" group="1">
+<commentary>
+</commentary>
+<examples>
+身着 丝质 衬衫 、 深 咖啡色 底 配有 浅 细格 的 毛料 西装
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="profound, difficult" group="1">
+<commentary>
+</commentary>
+<examples>
+老师 也 可以 带 些 内容 较 深 的 有趣 故事 书 给 他们 看
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="20" ann_1_2_agreement="0.95" />
+</inventory>

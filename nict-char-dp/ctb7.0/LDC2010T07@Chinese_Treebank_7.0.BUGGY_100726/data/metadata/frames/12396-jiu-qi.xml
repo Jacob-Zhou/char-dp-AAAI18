@@ -1,0 +1,54 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 救起 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 saves"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 艘)))
+                    (NP-PN (NR 日本))
+                    (NP (NN 运油船)))
+                    (VP (ADVP (AD 曾经))
+                    (PP-LOC (P 从)
+                    (LCP (NP (QP (CD 一)
+                    (CLP (M 艘)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 载有)
+                    (NP-OBJ (QP (CD ８７)
+                    (CLP (M 名)))
+                    (NP (NN 船客)))))
+                    (DEC 的)))
+                    (NP (NN 船)))
+                    (LC 上)))
+                    (VP (VV 救起)
+                    (NP-OBJ (QP (CD ４)
+                    (CLP (M 名)))
+                    (NP (NN 生还者)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    一 艘 日本 运油船          
+                </arg>
+                <arg n="m" f="adv">
+                    曾经          
+                </arg>
+                <arg n="m" f="dir">
+                    从 一 艘 载有 ８７ 名 船客 的 船 上          
+                </arg>
+                <arg n="1">
+                    ４ 名生还者          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 难免 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing arg0 cannot avoid"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 一)
+                    (CLP (M 波波)))
+                    (DNP (NP (ADJP (JJ 不同))
+                    (NP (NN 立场)))
+                    (DEG 的))
+                    (NP (NN 抗议)))
+                    (PU ，)
+                    (VP (ADVP (AD 恐怕))
+                    (VP (VC 是)
+                    (VP (VV 难免))))) 
+                    
+                </parse>
+                <arg n="1">
+                    一 波波 不同 立场 的 抗议          
+                </arg>
+                <arg n="m" f="adv">
+                    恐怕          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

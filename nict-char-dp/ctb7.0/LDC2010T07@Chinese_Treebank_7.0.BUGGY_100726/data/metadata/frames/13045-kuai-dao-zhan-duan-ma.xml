@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 快刀斩断麻 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 所以))
+                    (NP-SBJ (PN 他))
+                    (VP (ADVP (AD 才))
+                    (VP (VV 会)
+                    (VP (VP (VV 快刀斩断麻)) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    所以          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="dis">
+                    才          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

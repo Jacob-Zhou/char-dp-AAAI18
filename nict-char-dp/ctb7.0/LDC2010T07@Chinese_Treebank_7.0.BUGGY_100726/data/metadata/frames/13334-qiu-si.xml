@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 求死 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP-ADV (ADVP (CS 虽然))
+                    (IP (NP-SBJ-1 (-NONE- *pro*))
+                    (VP (SB 被)
+                    (VP (VV 救出)
+                    (NP-OBJ (-NONE- *-1))))))
+                    (PU ，)
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 却))
+                    (ADVP (AD 还是))
+                    (ADVP (AD 一心))
+                    (VP (VV 求死)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    虽然 被 救出          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="adv">
+                    还是          
+                </arg>
+                <arg n="m" f="adv">
+                    一心          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

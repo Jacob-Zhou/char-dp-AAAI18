@@ -1,0 +1,155 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 游 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location toured"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (PN 她))
+                    (VP (VV 说)
+                    (PU ：)
+                    (IP-OBJ (PU “)
+                    (IP-SBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 游)
+                    (NP-PN-OBJ (NR 富士山))))
+                    (VP (ADVP (AD 并))
+                    (ADVP (AD 不))
+                    (VP (VV 意味)
+                    (AS 着)
+                    (NP-OBJ (NN 登山))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO* 	  
+                </arg>
+                <arg n="1">
+                    富士山 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="npobj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (LCP-SBJ (NP (QP (CD 一)
+                    (CLP (M 个个)))
+                    (NP (NN 水族箱)))
+                    (LC 里))
+                    (VP (VV 游)
+                    (AS 著)
+                    (NP-OBJ (NP (ADJP (JJ 进口))
+                    (ADJP (JJ 活))
+                    (NP (NN 鲑鱼)))
+                    (CC 和)
+                    (NP (ADJP (JJ 活跳))
+                    (NP (NN 龙虾)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    进口 活 鲑鱼 和 活跳 龙虾	  
+                </arg>
+                <arg n="m" f="loc">
+                    一 个个 水族箱 里	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f3">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="location"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 冒着)
+                    (NP (NN 生命)
+                    (NN 危险)))
+                    (VP (VRD (VV 游)
+                    (VV 过))
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 湍急)))
+                    (DEC 的)))
+                    (NP (NN 洪流)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <arg n="m" f="adv">
+                    冒着 生命 危险	  
+                </arg>
+                <arg n="1">
+                    湍急 的 洪流	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f4">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 然后))
+                    (ADVP (AD 就))
+                    (PP-DIR (P 从)
+                    (NP (NP (QP (OD 二))
+                    (NP (NN 楼)))
+                    (NP (NN 阳台))))
+                    (ADVP (AD 一路))
+                    (VP (VRD (VV 游)
+                    (VV 到))
+                    (NP-OBJ (PN 那边)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*	  
+                </arg>
+                <arg n="m" f="tmp">
+                    然后	  
+                </arg>
+                <arg n="m" f="adv">
+                    就	  
+                </arg>
+                <arg n="m" f="dir">
+                    从 二 楼 阳台	  
+                </arg>
+                <arg n="m" f="adv">
+                    一路	  
+                </arg>
+                <arg n="1">
+                    那边	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

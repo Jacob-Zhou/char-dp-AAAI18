@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 赶赴 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="traveler"/>
+        <role argnum="1" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-PN (NR 五角大楼))
+                    (PU 、)
+                    (NP-PN (NN 国务院))
+                    (CC 和)
+                    (NP-PN (NN 联邦)
+                    (NN 调查局)))
+                    (DEG 的))
+                    (NP (NN 官员)))
+                    (VP (VP (ADVP (AD 已经))
+                    (VP (VV 赶赴)
+                    (NP-PN-OBJ (NR 也门)))) 
+                    
+                </parse>
+                <arg n="0">
+                    五角大楼 、 国务院 和 联邦 调查局 的 官员          
+                </arg>
+                <arg n="m" f="adv">
+                    已经          
+                </arg>
+                <arg n="1">
+                    也门          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

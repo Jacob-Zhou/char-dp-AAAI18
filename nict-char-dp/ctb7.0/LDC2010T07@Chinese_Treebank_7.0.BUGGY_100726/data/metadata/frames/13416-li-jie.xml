@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 力戒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity taken precaution against"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VV 联系)
+                    (NP-OBJ (NN 实际)))
+                    (PU ，)
+                    (VP (VRD (VV 吃)
+                    (VA 透))
+                    (NP-OBJ (NN 精神)))
+                    (PU ，)
+                    (VP (VRD (VV 弄)
+                    (VA 准))
+                    (NP-OBJ (NN 情况)))
+                    (PU ，)
+                    (VP (ADVP (AD 狠))
+                    (VP (VV 抓)
+                    (NP-OBJ (NN 落实))))
+                    (PU ，)
+                    (VP (VV 力戒)
+                    (NP-OBJ (NN 形式主义)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    形式主义          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

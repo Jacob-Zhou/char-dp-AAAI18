@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="指责-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to charge, accuse (verb)" group="1">
+<commentary>
+</commentary>
+<examples>
+美国 今年 ８月 以来 多 次 提出 要 检查 朝鲜 的 所谓 “ 地下 核 设施 ” ， 指责 朝鲜 的 所谓 “ 导弹 威胁 ”
+事 发 后 ， 刚果 （ 布 ） 政府 指责 某 国 为 之 提供 了 基地
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="accusation, charge (noun)" group="1">
+<commentary>
+</commentary>
+<examples>
+反对党 可能 会 因此 受到 指责
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="68" ann_1_2_agreement="0.985294117647" />
+</inventory>

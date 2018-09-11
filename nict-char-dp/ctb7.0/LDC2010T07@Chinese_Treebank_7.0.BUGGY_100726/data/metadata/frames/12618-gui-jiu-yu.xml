@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 归咎于 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="party blamed on"/>
+        <role argnum="2" argrole="thing arg0 blames arg1 for"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg2"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 以色列))
+                    (NP (NN 官员)))
+                    (VP (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (NP (NT 星期四))
+                    (DNP (NP (NN 事态))
+                    (DEG 的))
+                    (ADJP (JJ 急剧))
+                    (NP (NN 恶化)))
+                    (VP (ADVP (AD 全部))
+                    (VP (VV 归咎于)
+                    (NP-OBJ (NP-APP (NP-PN (NR 巴勒斯坦))
+                    (NP (NN 领导人)))
+                    (NP-PN (NR 阿拉法特))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    以色列 官员          
+                </arg>
+                <arg n="2">
+                    星期四 事态 的 急剧 恶化          
+                </arg>
+                <arg n="m" f="adv">
+                    全部          
+                </arg>
+                <arg n="1">
+                    巴勒斯坦 领导人 阿拉法特          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 突袭 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="charger"/>
+        <role argnum="1" argrole="entity charged"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP-PN (NR 津巴布韦))
+                    (DEG 的))
+                    (NP (NP (NN 警察))
+                    (CC 和)
+                    (NP (NN 安全)
+                    (NN 部队))))
+                    (VP (VV 突袭)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP (QP (CD 一)
+                    (CLP (M 家)))
+                    (ADJP (JJ 独立))
+                    (NP (NN 电台)))
+                    (DEG 的))
+                    (NP (NN 播音室)))) 
+                    
+                </parse>
+                <arg n="0">
+                    津巴布韦 的 警察 和 安全 部队          
+                </arg>
+                <arg n="1">
+                    一家 独立 电台 的 播音室          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

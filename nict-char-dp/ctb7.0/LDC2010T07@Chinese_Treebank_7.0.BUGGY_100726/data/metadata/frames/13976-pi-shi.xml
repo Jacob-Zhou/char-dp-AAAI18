@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 批示 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="instruction"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="ipobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 市)
+                    (NN 领导))
+                    (VP (VV 批示)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 严肃))
+                    (VP (VV 处理)))
+                    (CC 并)
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (NN 媒体))
+                    (LC 上)))
+                    (VP (VV 曝光))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    市 领导          
+                </arg>
+                <arg n="1">
+                    严肃 处理 并 在 媒体上曝光          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

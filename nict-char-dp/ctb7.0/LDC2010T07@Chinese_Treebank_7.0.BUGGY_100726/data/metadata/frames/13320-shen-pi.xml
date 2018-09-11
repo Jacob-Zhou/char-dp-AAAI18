@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 身披 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="wearer"/>
+        <role argnum="1" argrole="clothing"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 仅))
+                    (VP (VV 挂)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-MNR (NP-APP (NN 珊瑚)
+                    (PU 、)
+                    (NN 玉石)
+                    (PU 、)
+                    (NN 玛瑙)
+                    (CC 和)
+                    (NN 天珠)
+                    (ETC 等))
+                    (ADJP (JJ 珍贵))
+                    (NP (NN 宝石)))
+                    (VP (VV 串成)
+                    (NP-OBJ (-NONE- *T*-1)))))
+                    (DEC 的)))
+                    (NP (NN 项链)))))
+                    (PU ，)
+                    (VP (VV 身披)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (NP-MNR (NN 金银))
+                    (VP (VV 制成)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (ADJP (JJ 腰式))
+                    (NP (NN 护身符)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    金银 制成 的 腰式 护身符          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="退-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to withdraw, to retreat" group="1">
+<commentary>
+</commentary>
+<examples>
+由于 过去 长期 围 湖 造 田 造成 洞庭湖 湖面 缩小 ， 调蓄 洪水 的 能力 减弱 ，湖南省 今年 将 大 规模 实行 平 垸 行 洪 、 退 田 还 湖
+矛盾 曾 说 「 进 一 步 ， 退 两 步 」 ， 意 指 咱们 先 进行 西化 ， 再 退 回来看 传统
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to refund, to return (e.g. money, goods, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+等到 产品 出口 核销 后 再 退 百分之九 的 税
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to recede, to ebb, to fade, to decline (e.g. the tide, color, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+等到 人潮 稍 退 之后 ， 再 来 与 兵马俑 好好 对看 一 番
+等 她 母性 稍 退 后 才 敢 将 蛋 取出
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to resign, to quit, to withdraw" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="2" ann_1_2_agreement="0.5" />
+</inventory>

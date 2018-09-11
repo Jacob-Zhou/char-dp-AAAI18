@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 逮逋 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="arrester"/>
+        <role argnum="1" argrole="party arrested"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他们))
+                    (VP (ADVP (AD 首次))
+                    (VP (VV 逮逋)
+                    (AS 了)
+                    (NP-OBJ (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 参与)
+                    (NP-OBJ (ADJP (JJ 有组织))
+                    (NP (ADJP (JJ 野生))
+                    (NP (NN 动物)))
+                    (NP (NN 走私)
+                    (NN 贸易)))))
+                    (DEC 的)))
+                    (NP (NN 人))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他们          
+                </arg>
+                <arg n="m" f="adv">
+                    首次          
+                </arg>
+                <arg n="1">
+                    参与 有组织 野生 动物 走私 贸易 的 人          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

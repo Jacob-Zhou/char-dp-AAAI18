@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 跌倒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity falling"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NT 九二一)
+                    (NN 震灾))
+                    (VP (VV 让)
+                    (NP-OBJ (NN 同胞))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VCD (VV 受伤)
+                    (VV 跌倒)))))) 
+                </parse>
+                <arg n="0">
+                    *PRO* 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

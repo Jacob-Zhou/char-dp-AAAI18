@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 收押 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity that arg0 detains"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 桃园))
+                    (NP (NN 地院)))
+                    (VP (NP-TMP (NT 今天)
+                    (NT 凌晨))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ-2 (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 涉嫌)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 索贿)))))
+                    (DEC 的)))
+                    (NP-APP (NP-PN (NR 平正))
+                    (NP (NN 市长)))
+                    (NP-PN (NR 叶步来)))
+                    (VP (VV 收押)
+                    (NP-OBJ (-NONE- *-2)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    桃园 地院          
+                </arg>
+                <arg n="m" f="tmp">
+                    今天 凌晨          
+                </arg>
+                <arg n="1">
+                    涉嫌 索贿 的 平正 市长 叶步来 -> *-2          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

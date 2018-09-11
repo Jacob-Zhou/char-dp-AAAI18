@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撞上 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing that arg0 hits"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 飞机))
+                    (VP (VP (VV 撞上)
+                    (NP-OBJ (NN 建筑)
+                    (NN 设备))) 
+                    
+                </parse>
+                <arg n="0">
+                    飞机          
+                </arg>
+                <arg n="1">
+                    建筑 设备          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

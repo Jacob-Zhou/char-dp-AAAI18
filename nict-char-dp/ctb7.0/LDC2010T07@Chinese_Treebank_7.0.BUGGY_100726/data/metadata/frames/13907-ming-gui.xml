@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 名归 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="entity arg0 deserves"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP-TPC (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 得)
+                    (NP-OBJ (DP (DT 这)
+                    (CLP (M 个)))
+                    (NP (NN 奖)))))
+                    (NP-PN-SBJ (NR 龚航曾))
+                    (VP (ADVP (AD 实))
+                    (VP (VC 是)
+                    (VP (VV 名归)))) 
+                    
+                </parse>
+                <arg n="1">
+                    得 这 个 奖          
+                </arg>
+                <arg n="0">
+                    龚航曾          
+                </arg>
+                <arg n="m" f="adv">
+                    实          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

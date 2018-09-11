@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 畸形 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (DNP (ADJP (JJ 无辜))
+                    (DEG 的))
+                    (NP (NN 新生儿)))
+                    (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 出生)))
+                    (LC 时))
+                    (ADVP (AD 就))
+                    (NP-SBJ (NN 身体))
+                    (VP (VA 畸形))) 
+                    
+                </parse>
+                <arg n="0" f="psr">
+                    无辜 的 新生儿          
+                </arg>
+                <arg n="m" f="tmp">
+                    出生 时          
+                </arg>
+                <arg n="m" f="adv">
+                    就          
+                </arg>
+                <arg n="0" f="pse">
+                    身体          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

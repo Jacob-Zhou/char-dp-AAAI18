@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 乱哄哄 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-LOC (P 在)
+                    (LCP (NP (NN 分局))
+                    (LC 前)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VC 是)
+                    (VP (ADVP (AD 一团))
+                    (VP (VV 乱哄哄))))) 
+                    
+                </parse>
+                <arg n="m" f="loc">
+                    在 分局 前          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    一团          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

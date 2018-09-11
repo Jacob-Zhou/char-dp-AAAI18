@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="44771-wen-ti-n 问题-n">
+
+
+
+<commentary>
+
+
+
+</commentary>
+
+
+
+
+
+
+
+<sense n="1" type="" name="问题, 困难, trouble, mishap, problems, matter, " group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+问题的关键。
+
+the heart of the matter.
+
+
+
+问题的实质
+
+essence of the problem
+
+
+
+一路上没出问题。
+
+The trip went off without mishap.
+
+
+
+解决问题的能手。
+
+trouble shooter.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="doubts, questions,问题, 疑问" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+你有什么问题？
+
+Do you have questions?
+
+
+
+提问题
+
+ask a question.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

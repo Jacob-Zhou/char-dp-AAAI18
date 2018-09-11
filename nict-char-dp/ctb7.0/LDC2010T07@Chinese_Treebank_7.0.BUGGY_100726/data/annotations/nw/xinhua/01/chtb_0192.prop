@@ -1,0 +1,27 @@
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 0 2 gold 清淤-v 清淤.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-LOC
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 0 3 gold 热气腾腾-v 热气腾腾.01 ----- 3:0-rel 0:2-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 0 6 gold 挥镐-v 挥镐.01 ----- 6:0-rel 4:2-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 0 7 gold 流汗-v 流汗.01 ----- 7:0-rel 4:2-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 2 4 gold 活动-n 活动.01 ----- 4:0-rel 0:1-ARGM-LOC 2:1-ARGM-MNR 3:1-ARGM-LOC
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 2 8 gold 引起-v 引起.01 ----- 8:0-rel 0:2-ARG0 5:1-ARGM-LOC 9:2-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 2 gold 劳动-v 劳动.01 ----- 2:0-rel 0:0*1:0*5:1-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 3 gold 归来-v 归来.01 ----- 3:0-rel 0:0*1:0*5:1-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 11 gold 畅谈-v 畅谈.01 ----- 11:0-rel 0:3-ARG0 6:1-ARGM-LOC 12:1-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 14 gold 认为-v 认为.01 ----- 14:0-rel 0:3-ARG0 15:2-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 16 gold 劳动-n 劳动.01 ----- 16:0-rel 15:0-ARGM-MNR
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 17 gold 使-v 使.01 ----- 17:0-rel 15:1-ARG0 18:3-ARG1 21:2-ARG2
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 22 gold 得以-v 得以.01 ----- 22:0-rel
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 23 gold 化为-v 化为.01 ----- 23:0-rel 21:1-ARG1 24:3-ARG2
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 3 29 gold 有-v 有.03 ----- 29:0-rel 15:1-ARG0 28:1-ARGM-ADV 30:1-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 4 3 gold 成-v 成.01 ----- 3:0-rel 2:1-ARG0 4:1-ARG1 5:1-ARGM-EXT
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 4 16 gold 拉开-v 拉开.01 ----- 16:0-rel 0:2-ARG1 14:1-ARGM-TMP 17:1-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 2 gold 便于-v 便于.01 ----- 2:0-rel 1:1-ARG0 3:2-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 5 gold 作业-n 作业.01 ----- 5:0-rel 3:1-ARGM-MNR 4:1-ARGM-PRP
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 15 gold 汇集-v 汇集.02 ----- 15:0-rel 0:1-ARGM-PRP 7:4-ARG0 16:2-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 19 gold 挥镐-v 挥镐.01 ----- 19:0-rel 0:1-ARGM-PRP 7:4-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 20 gold 清除-v 清除.01 ----- 20:0-rel 0:1-ARGM-PRP 7:4-ARG0 21:3-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 25 gold 厚-n 厚.02 ----- 25:0-rel 24:1*30:1-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 5 26 gold 达-v 达.01 ----- 26:0-rel 25:1-ARG0 27:1-ARG1 23:0*24:0*30:1-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 6 5 gold 劳动-n 劳动.01 ----- 5:0-rel 1:2-ARGM-TMP 8:1-ARG0
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 6 10 gold 清理-v 清理.01 ----- 10:0-rel 0:1-ARGM-LOC 8:1-ARG0 9:1-ARGM-ADV 11:3-ARG1
+nw/xinhua/01/chtb_0192@0192@xinhua@nw@ch@on 6 17 gold 占-v 占.01 ----- 17:0-rel 16:1-ARG0 18:4-ARG1

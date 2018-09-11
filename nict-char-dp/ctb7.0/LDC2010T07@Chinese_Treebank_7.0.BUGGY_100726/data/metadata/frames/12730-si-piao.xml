@@ -1,0 +1,55 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 撕票 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity killed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 绑匪))
+                    (VP (VP (VSB (VV 借口)
+                    (VV 说))
+                    (IP-OBJ (NP-SBJ (NN 被害人))
+                    (VP (ADVP (AD 曾经))
+                    (VP (VP (VV 到)
+                    (NP-OBJ (NN 酒店)))
+                    (VP (VCD (VV 砸店)
+                    (VV 闹事)))))))
+                    (PU ，)
+                    (VP (VV 要)
+                    (NP-OBJ (PN 他))
+                    (IP (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VSB (VV 出钱)
+                    (VV 买下))
+                    (NP-OBJ (NN 股权)))
+                    (CC 并且)
+                    (VP (VV 要)
+                    (VP (VV 交出)
+                    (NP-OBJ (QP (CD １２００万))
+                    (NP (NN 赎款))))))))
+                    (PU ，)
+                    (VP (ADVP (AD 否则))
+                    (ADVP (AD 就))
+                    (VP (VV 要)
+                    (VP (VV 撕票))))) 
+                    
+                </parse>
+                <arg n="0">
+                    绑匪          
+                </arg>
+                <arg n="m" f="dis">
+                    否则          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

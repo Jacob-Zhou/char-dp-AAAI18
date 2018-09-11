@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="跳-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to jump through" group="1">
+<commentary>
+</commentary>
+<examples>
+连续 跳 过 十 个 烈 焰 熊熊 的 火圈 、 从 轮胎 中 找出 炸药
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to jump up" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 接到 通知书 ， 我 真 想 跳 起来 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to dance" group="1">
+<commentary>
+</commentary>
+<examples>
+教宗 的 舞技 也 相当 的 不错 ， 包括 了 华尔兹 、 波兰 传统 的 马卡泽舞 和 探戈 都 跳 得 一级 棒
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to change a line of work" group="1">
+<commentary>
+</commentary>
+<examples>
+力劝 业者 要 「 懂得 割舍 」 的 蔡秋雄 ， 自己 跳 出来 兢兢业业 做 了 一 年 ， 是 国内 唯一 一 家 替 布厂 做 微多孔型 透湿 防水 加工 的 专业 业者
+卸下 东莞 台协 会长 职务 后 ， 他 便 接 了 东莞 台商 子弟 学校 筹备 主任 职务 ， 从 「 一 个 小 火坑 ， 跳 到 一 个 大 火坑 ， 」
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="to jump out, to stand out, to show oneself" group="1">
+<commentary>
+</commentary>
+<examples>
+九八年 时 ， 英特尔 不 顾 市场 反应 不 佳 ， 执意 推出 造价 昂贵 的 RAMBUS 规格 主 记忆体 ， 威盛 见 机 不 可 失 ， 跳 出来 呼吁 改用 国际 联盟 制订 、 供 各 厂商 免费 使用 的 开放式 P133 规格 主 记忆体 ， 首 次 挑战 了 英特尔 老大哥 的 权威 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="idiomatic expression as in 吓一跳" group="1">
+<commentary>
+</commentary>
+<examples>
+爸爸 大 喊 一 声 ， 他 吓 了 一 跳
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" type="" name="to jump off, to dive" group="1">
+<commentary>
+</commentary>
+<examples>
+他 听到 喊声 ， 来 不 及 脱掉 衣裤 ， 第一 个 跳 下 水 去
+没 想到 真的 从 ８ 楼 跳 下来
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="8" type="" name="to pass" group="1">
+<commentary>
+</commentary>
+<examples>
+从 子夜 跳 到 今年 凌晨 ， 许多 高雄 市民 包括 两 位 副市长 和 民意 代表 ， 静静 的 在 圆盆寺 的 钟楼 底下 焚香 祝祷
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="9" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="26" ann_1_2_agreement="0.923076923077" />
+</inventory>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="嫌-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to dislike, to complain about" group="1">
+<commentary>
+</commentary>
+<examples>
+要是 嫌 麻烦
+不 要 嫌 钱 少
+如果 这样 还 嫌 ， 乾脆 饿死 好 了
+甚至 有 人 因 没有 行动 电话 ， 被 嫌 不 上道 而 追 不 到 女 朋友
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to be too" group="1">
+<commentary>
+normally the subject is the entity to be described, while the description
+follows the verb
+</commentary>
+<examples>
+曾 任 专业 张老师 十多 年 、 以 生涯 辅导 知名 的 国立 空中 大学 生活 科学 系
+副 教授 张德聪 说 ， 只要 开始 ， 任何 努力 都 不 嫌 迟
+至于 帝王 的 球杆 ， 则 以 纯 金 打造 缘边 ， 顶 上 缀饰 玉器 ， 结束 球戏 后 ， 两 人 的 球具 不 装 在 球袋 而 收藏 在 锦盒 中 ， 所谓 「 盛 以 锦囊 ， 击 以 彩棒 ， 碾玉 缀 顶 ， 饰金 缘 边 」 ， 今天 八 、 九十万 一 套 的 名贵 球具 与 之 相较 起来 恐怕 都 嫌 寒碜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

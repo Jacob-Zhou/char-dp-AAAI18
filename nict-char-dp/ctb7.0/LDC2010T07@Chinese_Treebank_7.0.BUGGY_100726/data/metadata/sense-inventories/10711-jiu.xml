@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="就-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="concerning, with regard to" group="1">
+<commentary>
+</commentary>
+<examples>
+就 片 论 片
+与会 代表 就 有关 项目 的 合作 意向 进行 了 洽谈
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="then (conditional), immediately after (temporal), therefore (causal)" group="1">
+<commentary>
+</commentary>
+<examples>
+如果 改革 措施 不 得力 ， 信心 危机 依然 存在 ， 那么 投资者 就 有 可能 把 注意力 转向 其他 新兴 市场
+崇明县 内 的 单位 足 不 出 岛 就 可以 办理 一切 海关 手续
+使 这些 经济 活动 一 出现 就 被 纳入 法制 轨道
+
+而 台商 谈 生意 不 必 冗长 的 契约 过程 ， 一 通 电话 就 OK ， 关键 就 在 大家 熟悉 的 人际 网络
+
+但 因为 中午 时段 及 六点半 档 多 以 妇女 与 老年 观众群 为 对象 ， 制作 成本 低 ， 题材 又 局限于 市井小民 的 生活 ， 多 以 苦命 养女 或 家庭 笑料 为 剧情 ， 长期 以来 ， 台语剧 就 让 人 有 粗糙 鄙俗 的 印象 。
+在 社会学 里 观察 到 的 「 隔代 关系 」 诸多 特色 ， 也 就 渗透 显露 在 黄春明 的 小说 里
+
+
+台湾 孩子 穿 的 太子龙 制服 一 下水 就 硬梆梆
+她 的 一 双 儿女 在 台湾 念完 小学 以后 ， 就 送到 英国 念 寄宿 学校 。
+「 他们 称 边 拍 边 播 的 戏 为 『 ON 档 戏 』 ， 往往 今天 刚 拍完 ， 隔 两 天 就 播 ， 」 数 届 金马 与 亚太 影后 的 电影 红星 陆小芬 ， 最近 加入 八点 档 《 富 贵 在 天 》 的 演出 ， 却 有 满腹 的 牢骚
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="only, merely" group="1">
+<commentary>
+</commentary>
+<examples>
+但 小孩 以 想 学 台语 为 理由 ， 央求 每 天 就 看 这 一 小时 的 电视
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="soon to happen" group="1">
+<commentary>
+</commentary>
+<examples>
+中国人 常 说 ， 人 是 世间 的 过客 ， 很 快 就 要 消失
+要 开发 的 大鹏湾 风景 特定区 ， 就 快 起步 了
+不久 后 就 可以 欣赏 男人 穿 裙子 了 ?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="(alone)...already (jin..jiu)" group="1">
+<commentary>
+</commentary>
+<examples>
+仅 运量 在 万 吨 上 的 企业 就 有 二千多 家
+仅 去年 中国 银行 就 累计 向 外商 投资 企业 提供 了 六百九十多亿 元 的 人民币 贷款 ， 另外 还 向 外商 投资 企业 发放 外汇 现汇 贷款 四十多亿 美元 ， 这些 贷款 重点 支持 基础 原材料 、 化工 、 机械 等 行业 。
+四点 天 未 亮 就 起身
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" type="" name="originally..already" group="1">
+<commentary>
+</commentary>
+<examples>
+
+平日 两 老 就 爱 煮煮 弄弄 给 家人 吃 ， 这时 更 要 拿出 全 副 看家 本领 ， 从 除夕 前 三 、 四 天 就 开始 准备 这 顿 大餐 。
+
+我们 本来 就 关心 乡里 的 事 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" name="namely, for example" group="1">
+<examples>
+区金蓉 就 不 讳言 ， 前 新华社 香港 分社 台湾 事务 部 副部长 乐美真 曾 鼓励 大专 校友 「 多 做 桥梁 工作 」 。
+「 不 像 香港人 ， 澳门人 不 喜欢 谈 政治 ， 较 重视 经济 ， 」 他 说 ， 像 他 就 是 「 民生 务实派 」 。
+像 经建会 主委 江丙坤 回归 前夕 就 曾 访问 澳门
+旅居 澳门 的 台商 也 常 被 归为 只 管 「 民生 」 的 一 群 ， 澳门 台湾 总商会 会长 陈忠勇 就 是 一 例 。
+陈忠勇 就 认为 ， 澳门 房租 比 香港 低 四分之一 ， 而且 可以 藉助 澳门 与 欧盟 的 关系 享受 免税 及 低税 待遇 、 优渥 的 配额 。
+世界 上 最 早 的 混血儿 就 诞生 在 澳门
+旅美 科学家 、 也 是 散文 名家 的 陈之藩 ， 就 曾 在 一 篇 文章 中 追忆 幼年 因
+为 家庭 贫困 ， 身为 兄长 的 他 ， 为了 替 父亲 还 债 和 为 弟妹 张罗 过 年 的
+吃 穿 ， 在 过年 前 几 天 去 市场 摆 摊子 写 春联 卖 ， 写 得 一 手 好 书法 的
+他 ， 因此 挨 过 了 好 几 个 年关 。
+「 当 孩子 回来 大 唱 中共 国歌 ， 又 大 骂 蒋 匪帮 、 李登辉 是 历史 败类 时
+， 你 如何 处理 ？ 」 一 位 台商 就 碰到 这样 的 事情 。
+
+过 年 ， 就 常 名列 让 国人 产生 压力 的 重要 事件 之 榜
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="8" name="exactly, precisely" group="1">
+<examples>
+这 个 人 就 是 他 哥哥 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="9" name="adverbial particle indicating comparison" group="1">
+<examples>
+其他 「 乡土 小说 」 里 写 了 许多 可怜 、 委屈 、 受难 的 老 人 的 故事 ， 用 这些 故事 来 进行 控诉 ， 要求 改革 ， 黄春明 相对 就 温和 得 多 了
+阿盛 伯 可 就 没有 青番公 的 从容 余裕 了 。
+在 卜 家 两 老 的 心目 中 ， 中国 传统 的 农历 新年 ， 份量 就 是 不 一样
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="10" name="adverbial particle indicating resolve" group="1">
+<examples>
+我 就 要 去 .
+我 就 不 懂
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="11" name="adverbial particle indicating tolerance, resignation" group="1">
+<examples>
+就 这样 吧 大 点 就 大 点 , 买 下 算 了 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="12" name="even if" group="1">
+<examples>
+你 就 送 来 , 我 也 不 要 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="13" name="to complete, accomplish" group="1">
+<examples>
+功 成 业 就 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="14" name="to undertake" group="1">
+<examples>
+就 职
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="15" name="to go with food" group="1">
+<examples>
+就 咸菜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense group="1" n="16" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

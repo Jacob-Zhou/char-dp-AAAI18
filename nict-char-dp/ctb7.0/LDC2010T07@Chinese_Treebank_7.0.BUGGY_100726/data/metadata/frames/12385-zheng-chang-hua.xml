@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 正常化 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity describedd"/>
+        <role argnum="1" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (DNP (PP (P 和)
+                    (NP-PN (NR 美国)))
+                    (DEG 的))
+                    (NP (NN 关系)))
+                    (VP (VV 正常化))))))))) 
+                    
+                </parse>
+                <arg n="1">
+                    *PRO*          
+                </arg>
+                <arg n="0">
+                    和 美国 的 关系          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

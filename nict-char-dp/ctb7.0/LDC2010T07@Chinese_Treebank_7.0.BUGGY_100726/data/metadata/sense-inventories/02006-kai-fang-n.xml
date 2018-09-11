@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="kai-fang,开放-n">
+<commentary></commentary>
+<sense n="1" name="开放, open" group="" type="">
+<commentary>open to public use, or open to traffic.</commentary><examples>这个酒店已向客人开放。
+The hotel is now open to guests.
+
+该诊所对职工，家属， 及公众开放。
+The clinic is open to out siders as well as employees and their families.
+
+开放城市。
+the open cities.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="开放， bloom" group="" type="">
+<commentary>aflower, or the condition of having flowers.</commentary><examples>玫瑰已经开放。
+The roses have come into bloom.
+
+花开放时很美。
+Flowers in bloom are a beutiful sight.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

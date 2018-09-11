@@ -1,0 +1,27 @@
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 0 23 gold 涉及-v 涉及.01 ----- 23:0-rel 22:1-ARG0 24:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 0 40 gold 判刑-v 判刑.01 ----- 40:0-rel 39:1-ARG1 41:2-ARGM-EXT
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 0 42 gold 轻-v 轻.01 ----- 42:0-rel 41:1-ARGM-ADV
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 0 43 gold 引起-v 引起.01 ----- 43:0-rel 37:1-ARG0 38:1-ARGM-PRP 45:3-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 1 gold 指出-v 指出.01 ----- 1:0-rel 0:1-ARG0 3:3-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 11 gold 涉及-v 涉及.01 ----- 11:0-rel 3:1-ARGM-MNR 10:1-ARG0 12:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 16 gold 挪用-v 挪用.01 ----- 16:0-rel 3:1-ARGM-MNR 10:1-ARG0 17:1-ARG1 18:3-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 24 gold 有-v 有.01 ----- 24:0-rel 3:1-ARGM-MNR 10:1-ARG0 23:1-ARGM-ADV 25:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 28 gold 接受-v 接受.01 ----- 28:0-rel 27:1-ARG0 29:5-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 38 gold 是-v 是.01 ----- 38:0-rel
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 39 gold 利用-v 利用.01 ----- 39:0-rel 36:1-ARG0 37:1-ARGM-DIS 40:3-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 44 gold 进行-v 进行.01 ----- 44:0-rel 36:1-ARG0 37:1-ARGM-DIS 45:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 49 gold 死-v 死.01 ----- 49:0-rel 48:1-ARG0
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 58 gold 游说-v 游说.01 ----- 58:0-rel 47:1-ARGM-TMP 53:4-ARG0 57:1-ARGM-ADV 59:2-ARG2
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 60 gold 放-v 放.01 ----- 60:0-rel 59:1-ARG0 61:1-ARG1 62:2-ARG2
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 71 gold 发挥-v 发挥.01 ----- 71:0-rel 66:1-ARGM-DIS 67:2-ARG0 69:1-ARGM-ADV 70:1-ARGM-DIS 73:2-ARG1 76:1-ARGM-ADV
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 82 gold 贪污-v 贪污.01 ----- 82:0-rel 79:1-ARGM-TMP 80:1-ARG0 83:2-ARG1 77:0*77:1*78:0*78:1*88:1-ARG0
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 92 gold 处-v 处.02 ----- 92:0-rel 77:4-ARG1 93:1-ARG2
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 98 gold 贪污-v 贪污.01 ----- 98:0-rel 103:1*95:3-ARG0 99:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 107 gold 是-v 是.01 ----- 107:0-rel 105:1-ARGM-DIS 106:1-ARG0 108:3-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 114 gold 好-v 好.01 ----- 114:0-rel 110:1-ARG0 112:1-ARG0 113:1-ARGM-ADV 108:0*108:1*109:0*109:1*116:1-ARG0
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 120 gold 贪污-v 贪污.01 ----- 120:0-rel 119:1-ARG0 121:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 123 gold 定-v 定.02 ----- 123:0-rel 105:2-ARGM-ADV 117:1-ARG1 118:1-ARGM-PRP 122:1-ARGM-ADV 125:2-ARG2
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 129 gold 执行-v 执行.01 ----- 129:0-rel 125:1-ARG1
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 137 gold 判-v 判.01 ----- 137:0-rel 131:1-ARGM-DIS 132:1-ARG1 136:1-ARGM-ADV 138:1-ARG2
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 142 gold 使得-v 使得.01 ----- 142:0-rel 141:1-ARG0 143:2-ARG1 145:2-ARG2
+bn/cbs/01/cbs_0150@0150@cbs@bn@ch@on 1 146 gold 认为-v 认为.01 ----- 146:0-rel 145:1-ARG0 147:2-ARG1

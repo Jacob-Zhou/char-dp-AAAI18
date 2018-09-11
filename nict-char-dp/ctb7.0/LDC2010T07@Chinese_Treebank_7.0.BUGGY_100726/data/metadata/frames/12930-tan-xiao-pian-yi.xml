@@ -1,0 +1,25 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 贪小便宜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (CD 很多))
+                    (NP (NN 民众)))
+                    (VP (VP (VP (VV 贪小便宜)) 
+                    
+                </parse>
+                <arg n="0">
+                    很多 民众          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

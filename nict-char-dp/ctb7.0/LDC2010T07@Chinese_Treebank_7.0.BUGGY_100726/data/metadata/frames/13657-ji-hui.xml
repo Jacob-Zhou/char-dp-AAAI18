@@ -1,0 +1,49 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 寄回 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="sender"/>
+        <role argnum="1" argrole="thing sended"/>
+        <role argnum="2" argrole="destination"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (LCP-TMP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (BA 把)
+                    (IP (NP-SBJ-1 (NN 调查表))
+                    (VP (VRD (VV 填)
+                    (VA 好))
+                    (NP-OBJ (-NONE- *-1))))))
+                    (LC 之后))
+                    (PP-TMP (P 在)
+                    (LCP (NP (NT １１月)
+                    (NT ３０号))
+                    (LC 之前)))
+                    (ADVP (AD 尽快))
+                    (VP (VV 寄回)))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="tmp">
+                    把 调查表 填好 之后          
+                </arg>
+                <arg n="m" f="tmp">
+                    在 １１月 ３０号 之前          
+                </arg>
+                <arg n="m" f="adv">
+                    尽快          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

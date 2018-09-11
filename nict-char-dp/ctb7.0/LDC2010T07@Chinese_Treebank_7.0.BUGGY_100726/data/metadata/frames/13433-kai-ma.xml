@@ -1,0 +1,45 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 开骂 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-DIR (P 面对)
+                    (NP (DP (DT 这)
+                    (CLP (M 种)))
+                    (NP (NN 情况))))
+                    (PU ，)
+                    (NP-SBJ (NN 旅客))
+                    (VP (VP (VV 不管)
+                    (IP-OBJ (NP-SBJ (-NONE- *pro*))
+                    (VP (VC 是)
+                    (NP-PRD (DNP (NP (PN 谁))
+                    (DEG 的))
+                    (NP (NN 错))))))
+                    (VP (VPT (VV 忍)
+                    (AD 不)
+                    (VV 住)))
+                    (VP (ADVP (AD 就))
+                    (VP (VV 开骂)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    面对 这 种 情况          
+                </arg>
+                <arg n="0">
+                    旅客          
+                </arg>
+                <arg n="m" f="dis">
+                    就          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

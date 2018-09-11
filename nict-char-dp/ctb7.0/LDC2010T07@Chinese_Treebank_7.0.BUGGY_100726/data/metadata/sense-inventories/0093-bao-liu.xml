@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="保留-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to preserve (eg. culture, ruin, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+巴伦西亚 是 西班牙 著名 的 农业区 ， 至今 仍 保留 着 古老 的 阿拉伯式 灌溉 系统 。
+但是 城市 里 那些 象征 宁波 历史 及 传统 的 文化 设施 基本 保留 了 下来 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to keep, to hold on to" group="1">
+<commentary>
+</commentary>
+<examples>
+购并者 多 选择 换股 方式 进行 ， 以便 保留 现金。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="conservative, holding back" group="1">
+<commentary>
+</commentary>
+<examples>
+舆论 就 都 采取 保留 态度 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to save something for someone" group="1">
+<commentary>
+</commentary>
+<examples>
+再 忙 再 累 ， 每 一 天 都 要 保留 一点 亲密 时间 给 配偶 。
+录取 名额 有 一半 以上 保留 给 日本人。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="reservation, restraint, limitation" group="1">
+<commentary>
+</commentary>
+<examples>
+以往 他们 对 这 种 行动 总是 毫 无 保留 地 支持 ， 而 这 回 却 只是 勉强 支持甚至 议论纷纷 的 原因 。
+经济部 作出 了 不 建 核试 的 报告 ， 不过 行政院长 唐飞 的 态度 似乎 还 是 稍有保留 。
+本 星期 早些时候 ， 巴拉克 同意 把 美国 的 折中 建议 作为 谈判 基础 ， 虽然 以方 也 有所 保留 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="55" ann_1_2_agreement="0.854545454545" />
+</inventory>

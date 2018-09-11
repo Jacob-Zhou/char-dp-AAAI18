@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="引发-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to cause, to trigger" group="1">
+<commentary>
+</commentary>
+<examples>
+特别是 有关 香港 回归 后 与 内地 经贸 关系 的 法律 调整 问题 ， 引发 了 与会者 的 积极 讨论 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+</inventory>

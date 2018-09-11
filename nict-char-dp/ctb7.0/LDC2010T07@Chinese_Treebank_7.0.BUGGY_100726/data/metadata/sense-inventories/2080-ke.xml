@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="可-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="may, can" group="1">
+<commentary>VV</commentary>
+<examples>
+今年获利可达两千万元。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to merit, to be worth, to need" group="1">
+<commentary>VV</commentary>
+<examples>
+北京可游览的地方不少。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to suit, to fit" group="1">
+<commentary>VV</commentary>
+<examples>
+这回倒可了她的心。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" name="but" group="1">
+<examples>
+可 也 别 老 窝 在 河 边 流连 ， 不 要 忘记 庇护 着 淡水镇 的 大屯山 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="5" name="adverbial particle for emphasis" group="1">
+<examples>
+他 待 人 可 好 了 .
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense n="6" name="adverbial particle indicating interrogation" group="1">
+<examples>
+他 可 同意 ?
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META/>
+</sense>
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="50" ann_1_2_agreement="0.72" />
+</inventory>

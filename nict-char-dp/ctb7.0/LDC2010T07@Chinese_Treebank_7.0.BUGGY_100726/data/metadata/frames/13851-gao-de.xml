@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 搞得 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="theme"/>
+        <role argnum="2" argrole="result"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+                <mapitem src="other" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 计程车)
+                    (NN 司机))
+                    (VP (SB 被)
+                    (VP (VV 搞得)
+                    (VP-EXT (VV 一头雾水))))) 
+                    
+                </parse>
+                <arg n="1">
+                    计程车司机          
+                </arg>
+                <arg n="2">
+                    一头雾水          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

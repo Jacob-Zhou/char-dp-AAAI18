@@ -1,0 +1,17 @@
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 0 5 gold 逝世-v 逝世.01 ----- 5:0-rel 4:1-ARG0
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 0 6 gold 表示-v 表示.01 ----- 6:0-rel 0:2-ARG0 3:1-ARG3 7:1-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 0 7 gold 哀悼-n 哀悼.01 ----- 7:0-rel 0:2-ARG0 3:1-ARG1 6:0-rel-Sup
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 2 11 gold 病逝-v 病逝.01 ----- 11:0-rel 5:3-ARG0 9:2-ARGM-TMP
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 2 12 gold 表示-v 表示.01 ----- 12:0-rel 0:2-ARG0 3:1-ARGM-TMP 4:1-ARG3 13:1-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 2 13 gold 哀悼-n 哀悼.01 ----- 13:0-rel 0:2-ARG0 3:1-ARGM-TMP 4:1-ARG1 12:0-rel-Sup
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 3 5 gold 回答-v 回答.01 ----- 5:0-rel 4:1-ARG0 6:1-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 3 7 gold 提问-n 提问.01 ----- 7:0-rel 6:0-ARG0
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 3 9 gold 说-v 说.01 ----- 9:0-rel 0:2-ARG0 3:1-ARGM-TMP 11:4-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 3 18 gold 患病-v 患病.01 ----- 18:0-rel 12:3-ARG0 11:0*17:0*19:1-ARGM-TMP
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 3 28 gold 转达-v 转达.01 ----- 28:0-rel 11:3-ARGM-TMP 21:2-ARG0 23:1-ARGM-ADV 24:1-ARGM-MNR 29:1-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 4 3 gold 逝世-n 逝世.01 ----- 3:0-rel 1:1-ARG0
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 4 7 gold 表-v 表.01 ----- 7:0-rel 5:1-ARG0 6:1-ARGM-ADV 8:1-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 4 8 gold 哀悼-n 哀悼.01 ----- 8:0-rel 0:1-ARG1 5:1-ARG0 6:1-ARGM-MNR 7:0-rel-Sup
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 5 5 gold 发-v 发.02 ----- 5:0-rel 0:2-ARG0 4:1-ARGM-ADV 6:1-ARG1
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 5 7 gold 致悼-v 致悼.01 ----- 7:0-rel 0:2-ARG0 4:1-ARGM-ADV
+nw/xinhua/02/chtb_0256@0256@xinhua@nw@ch@on 6 1 gold 完-v 完.01 ----- 1:0-rel

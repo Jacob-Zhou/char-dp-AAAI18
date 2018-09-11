@@ -1,0 +1,29 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 起舞 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="dancer"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 继续)
+                    (VP (PP-ADV (P 随著)
+                    (NP (NN 音乐)))
+                    (VP (VV 起舞))))) 
+                </parse>
+                <arg n="0">
+                    *pro* 
+                </arg>
+                <arg n="m" f="mnr">
+                    随著 音乐 
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

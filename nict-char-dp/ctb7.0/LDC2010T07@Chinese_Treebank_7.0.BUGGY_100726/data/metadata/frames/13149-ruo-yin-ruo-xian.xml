@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 若隐若现 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NT 夜间)
+                    (NN 动物)
+                    (NN 园区))
+                    (DEG 的))
+                    (ADJP (JJ 野生))
+                    (NP (NN 动物)))
+                    (VP (VP (VV 神秘莫测)
+                    (PU ，)
+                    (VV 若隐若现)) 
+                    
+                </parse>
+                <arg n="0">
+                    夜间 动物园区 的 野 动物          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

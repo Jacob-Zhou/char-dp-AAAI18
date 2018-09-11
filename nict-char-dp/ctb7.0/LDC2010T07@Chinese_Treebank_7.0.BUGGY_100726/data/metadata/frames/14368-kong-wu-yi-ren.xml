@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 空无一人 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="location described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-ADV (P 除了)
+                    (LCP (NP (DNP (ADJP (JJ 众多))
+                    (DEC 的))
+                    (NP-PN (NR 以色列))
+                    (NP (NN 军警)))
+                    (LC 之外)))
+                    (PU ，)
+                    (LCP-SBJ (NP (DNP (NP (NP-PN (NR 耶路撒冷))
+                    (ADJP (JJ 老))
+                    (NP (NN 城)))
+                    (DEG 的))
+                    (ADJP (JJ 狭窄))
+                    (NP (NN 街道)))
+                    (LC 上))
+                    (VP (ADVP (AD 几乎))
+                    (VP (VV 空无一人)))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    除了 众多 的 以色列 军警 之外          
+                </arg>
+                <arg n="0">
+                    耶路撒冷 老 城 的 狭窄 街道 上          
+                </arg>
+                <arg n="m" f="adv">
+                    几乎          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

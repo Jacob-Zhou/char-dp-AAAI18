@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+
+<inventory lemma="41467-ren-n 人-n">
+
+<commentary>
+
+</commentary>
+
+
+
+<sense n="1" type="" name="human beings 人类" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+我们都是人。
+
+We are all human beings.
+
+
+
+人人都渴望成功,这是人之常情。
+
+It's human that everyone is eager for success.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="2" type="" name="person 人" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+我们需要有个人帮助我们。
+
+We need a person to help us.
+
+
+
+我买了一部六人汽车。
+
+I bought a six-person car.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="3" type="" name="人, man, character, personality," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+他人很好
+
+He's a nice man.
+
+
+
+为人公正
+
+upright in character.
+
+</examples>
+
+
+
+
+
+<mappings>
+
+<wn version="2.1">
+
+Placeholder
+
+</wn>
+
+<omega></omega><pb></pb>
+
+</mappings>
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="4" type="" name="人，别人，people, other people," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+待人诚恳
+
+treat people sincerely.
+
+
+
+助人为乐
+
+take pleasure in helping people.
+
+</examples>
+
+
+
+
+
+<mappings>
+
+<wn version="2.1">
+
+Placeholder
+
+</wn>
+
+<omega></omega><pb></pb>
+
+</mappings>
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="5" type="" name="人，人手， 人才，manpower, hand," group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+我们这里缺人。
+
+We are shorthanded at the moment.
+
+
+
+他需要人帮忙
+
+He needs a hand.
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.1">
+
+Placeholder
+
+</wn>
+
+<omega></omega><pb></pb>
+
+</mappings>
+<SENSE_META clarity=""/>
+
+</sense>
+
+
+
+<sense n="6" type="" name="body，人的身体，意识，" group="1">
+
+<commentary>
+
+</commentary>
+
+<examples>
+
+
+
+他人在心不在。
+
+His body is here but not his heart.
+
+
+
+这几天我人不舒服。
+
+I haven't been feeling well for several days. (lit. 'my body doesn't feel well)
+
+
+
+</examples>
+
+<mappings>
+
+<wn version="2.0"></wn>
+
+<omega></omega>
+
+<pb></pb>
+
+</mappings>
+
+<SENSE_META clarity=""/>
+
+</sense>
+
+<sense group="1" n="7" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score="-"/>
+
+</inventory>
+

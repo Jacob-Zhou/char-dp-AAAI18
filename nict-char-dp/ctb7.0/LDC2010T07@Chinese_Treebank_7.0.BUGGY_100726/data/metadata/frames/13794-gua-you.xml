@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 挂有 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="location"/>
+        <role argnum="1" argrole="theme"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VV 挂有)
+                    (NP (NP (NP-PN (NR 香港)
+                    (CC 和)
+                    (NR 深圳))
+                    (QP (CD 两))
+                    (NP (NN 地)))
+                    (NP (NN 牌照)))))
+                    (DEC 的)))
+                    (NP (NN 汽车))) 
+                    
+                </parse>
+                <arg n="0">
+                    *T*-2 -> 汽车          
+                </arg>
+                <arg n="1">
+                    香港 和 深圳 两 地 牌照          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

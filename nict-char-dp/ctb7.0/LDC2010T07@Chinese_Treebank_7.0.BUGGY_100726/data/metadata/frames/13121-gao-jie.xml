@@ -1,0 +1,56 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 告戒 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="warner"/>
+        <role argnum="1" argrole="party warned"/>
+        <role argnum="2" argrole="predicate"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                <mapitem src="controlip" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VV 给)
+                    (NP-IO (NN 人们))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 个)))
+                    (DNP (NP (NN 历史))
+                    (DEG 的))
+                    (NP (NN 教训))))
+                    (PU ，)
+                    (VP (VV 告戒)
+                    (NP-IO (NN 人们))
+                    (CP-OBJ (IP (NP-SBJ (DNP (NP (NN 国家)
+                    (NN 利益))
+                    (DEG 的))
+                    (NP (NN 概念)))
+                    (VP (VC 是)
+                    (VP (VV 会)
+                    (VP (PP-MNR (P 随着)
+                    (NP (DNP (NP (NN 历史))
+                    (DEG 的))
+                    (NP (NN 发展))))
+                    (VP (MSP 而)
+                    (VP (VV 变化)))))))
+                    (SP 的))))))))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    人们          
+                </arg>
+                <arg n="2">
+                    国家 利益 的 概念 是 会 随着 历史 的 发展 而 变化 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

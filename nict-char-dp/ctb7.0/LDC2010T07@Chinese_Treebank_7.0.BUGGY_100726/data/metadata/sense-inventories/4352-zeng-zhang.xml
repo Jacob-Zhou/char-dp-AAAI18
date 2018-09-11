@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="增长-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to increase, to lengthen" group="1">
+<commentary>
+</commentary>
+<examples>
+一 至 十月 进出口 总额 六十四点一亿 美元 ， 增长 百分之十三点六
+中国 与 韩国 双边 贸易额 大幅 增长
+该 公司 营业额 从 过去 的 五千万 美元 增长 到 去年 的 二十亿 美元
+西非 经济 和 货币 联盟 各 成员国 的 平均 年 经济 增长率 １９９６年 已 恢复 到百分之五点九 ， １９９７年 增长 到 百分之六点三
+因为 观众 爱 看 ， 所以 新闻 时段 增长 ？
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="growth" group="1">
+<commentary>
+</commentary>
+<examples>
+现代 孩子们 的 身高 、 体重 虽 较 以往 有 长足 的 增长 ， 但 若 无 固定 健检 ， 身体 上 若 有 异常 状况 ， 并 不 容易 得知 。
+浙江省 经济 贸易 委员会 主任 金德水 说 ： “ 我们 浙江 把握 住 新 的 转机 ， 再次 增长 领先
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="597" ann_1_2_agreement="0.814070351759" />
+</inventory>

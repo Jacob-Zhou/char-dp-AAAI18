@@ -1,0 +1,35 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 驳回 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="claim that arg0 overrules"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 波霍热尔斯基)
+                    (NN 法官))
+                    (VP (VV 驳回)
+                    (AS 了)
+                    (NP-OBJ (DNP (NP-PN (NR 波罗金))
+                    (DEG 的))
+                    (NP (NN 保释)
+                    (NN 请求))))) 
+                    
+                </parse>
+                <arg n="0">
+                    波霍热尔斯基 法官          
+                </arg>
+                <arg n="1">
+                    波罗金 的 保释 请求          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

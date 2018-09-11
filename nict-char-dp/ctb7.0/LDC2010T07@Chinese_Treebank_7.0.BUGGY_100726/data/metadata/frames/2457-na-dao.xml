@@ -1,0 +1,79 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拿到 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing obtained"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-BNF (P 为)
+                    (NP-PN (NR 埃斯勒夫队)))
+                    (VP (VV 拿到)
+                    (AS 了)
+                    (QP-OBJ (CD 两)
+                    (CLP (M 分)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro* 	  
+                </arg>
+                <arg n="1">
+                    两 分 	  
+                </arg>
+                <arg n="m" f="bnf">
+                    为 埃斯勒夫队 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing taken"/>
+        <role argnum="2" argrole="destination"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC-2 (DNP (ADJP (JJ 大宗))
+                    (DEG 的))
+                    (NP (NN 邮件)))
+                    (NP-CND (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 正常)))
+                    (DEC 的))))
+                    (NP-SBJ (PN 他))
+                    (VP (VC 是)
+                    (VP (VV 会)
+                    (VP (VP (VV 拿到)
+                    (NP-OBJ (NN 邮局)))
+                    (VP (VV 来)
+                    (VP (VV 交寄)
+                    (NP-OBJ (-NONE- *T*-2)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他	  
+                </arg>
+                <arg n="1">
+                    大宗 的 邮件 	  
+                </arg>
+                <arg n="2">
+                    邮局	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="剪-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="need a name?" group="1">
+<commentary>
+</commentary>
+<examples>
+结果 被 剪 了 二十一 刀
+因此 ， 他 事先 剪 了 许多 纸模 去 合 ， 以 求 形似
+以 铜铁片 剪 出来 的 毛毛人 ， 少 了 冷峻 的 讽刺 ， 多 了 一 种 趣味 的 活力
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+</inventory>

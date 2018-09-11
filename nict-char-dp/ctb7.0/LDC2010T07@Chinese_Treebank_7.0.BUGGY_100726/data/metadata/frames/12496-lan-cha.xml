@@ -1,0 +1,83 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 拦查 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 looks into"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (LCP-TMP (NP (QP (CD 一))
+                    (DP (DT 整))
+                    (NP (NN 夜)))
+                    (LC 下来))
+                    (NP-SBJ (NN 稽查)
+                    (NN 人员))
+                    (VP (VP (PP-LOC (P 在)
+                    (NP (QP (CD 三)
+                    (PU 、)
+                    (CD 四)
+                    (CLP (M 个)))
+                    (NP (NN 地点))))
+                    (VP (VV 拦查))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    一 整 夜 下来          
+                </arg>
+                <arg n="0">
+                    稽查 人员          
+                </arg>
+                <arg n="m" f="loc">
+                    在 三 、 四 个 地点          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+    <frameset id="f2">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing that arg0 found"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 警方))
+                    (VP (VP (ADVP (AD 随后))
+                    (ADVP (AD 也))
+                    (VP (VRD (VV 拦查)
+                    (VV 到))
+                    (NP-OBJ (QP (CD 一)
+                    (CLP (M 辆)))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 可疑)))
+                    (DEC 的)))
+                    (NP (NN 计程车))))) 
+                    
+                </parse>
+                <arg n="0">
+                    警方          
+                </arg>
+                <arg n="m" f="tmp">
+                    随后          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    一 辆 可疑 的 计程车           
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

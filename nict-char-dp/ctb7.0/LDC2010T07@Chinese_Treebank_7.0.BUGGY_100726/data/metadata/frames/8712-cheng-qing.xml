@@ -1,0 +1,74 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 澄清 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing arg0 clarifies"/>
+        <role argnum="2" argrole="party that arg0 clarifies arg1 to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (IP (NP-SBJ (NP-APP (NP-PN (NR 北京)
+                    (NN 社科院))
+                    (NP (NN 近史所)
+                    (NN 研究员)))
+                    (NP-PN (NR 耿云志)))
+                    (VP (ADVP (AD 仍))
+                    (VP (VV 须)
+                    (VP (VV 澄清)
+                    (NP-OBJ (NN 史实)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    北京 社科院 近史所 研究员 耿云志 	  
+                </arg>
+                <arg n="1">
+                    史实 	  
+                </arg>
+                <arg n="m" f="adv">
+                    仍 	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 法国))
+                    (NP (NN 官员)))
+                    (VP (VP (NP-TMP (NT １６号))
+                    (ADVP (AD 从))
+                    (DVP (VP (VA 慎重))
+                    (DEV 的))
+                    (PP-DIR (P 向)
+                    (NP (NN 新闻界)))
+                    (VP (VV 澄清))) 
+                    
+                </parse>
+                <arg n="0">
+                    法国 官员 	  
+                </arg>
+                <arg n="m" f="tmp">
+                    １６号	  
+                </arg>
+                <arg n="m" f="adv">
+                    慎重的	  
+                </arg>
+                <arg n="2">
+                    向 新闻界	  
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

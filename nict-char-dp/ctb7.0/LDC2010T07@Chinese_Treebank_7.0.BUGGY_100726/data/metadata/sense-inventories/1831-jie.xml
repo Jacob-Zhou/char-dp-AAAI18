@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="解-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to understand, to comprehend" group="1">
+<commentary>
+</commentary>
+<examples>
+如 海基会 愿意 了解 此 案 详情 ， 又 真正 体谅 罹难者 家属 之 心情 ， 何以 又 设置 前提 ， 令 人 难 解
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to solve, to explain" group="1">
+<commentary>
+</commentary>
+<examples>
+台湾 水利 沉疴 何 解
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to relieve, to dispel" group="1">
+<commentary>
+</commentary>
+<examples>
+这些 方言 电影 常常 是 工业化 潮流 中 大批 离乡 工作者 一 解 乡愁 的 唯一 途径
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to untie, to unfasten" group="1">
+<commentary>
+</commentary>
+<examples>
+
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="3" ann_1_2_agreement="1.0" />
+</inventory>

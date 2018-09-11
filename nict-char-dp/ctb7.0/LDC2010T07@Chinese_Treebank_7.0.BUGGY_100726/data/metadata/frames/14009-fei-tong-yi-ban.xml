@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 非同一般 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DNP (NP (NP-PN (NR 朝)
+                    (NR 中))
+                    (NP (NP (QP (CD 两))
+                    (NP (NN 党)))
+                    (NP (NP (QP (CD 两))
+                    (NP (NN 国)))
+                    (NP (NN 军队)))))
+                    (DEG 的))
+                    (NP (NN 友谊)))
+                    (VP (VV 非同一般))) 
+                    
+                </parse>
+                <arg n="0">
+                    朝 中 两党 两 国 军队 的 友谊          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

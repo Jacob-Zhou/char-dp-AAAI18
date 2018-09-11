@@ -1,0 +1,36 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 发愁 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="experiencer"/>
+        <role argnum="1" argrole="thing arg0 worries about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 七里淀村))
+                    (VP (ADVP (AD 长年))
+                    (PP-PRP (P 为)
+                    (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 吃水))))
+                    (VP (VV 发愁)))) 
+                    
+                </parse>
+                <arg n="0">
+                    七里淀村          
+                </arg>
+                <arg n="m" f="tmp">
+                    长年          
+                </arg>
+                <arg n="1">
+                    为 吃水          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

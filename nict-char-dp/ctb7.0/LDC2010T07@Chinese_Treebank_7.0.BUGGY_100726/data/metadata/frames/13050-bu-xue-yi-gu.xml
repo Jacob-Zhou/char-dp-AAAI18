@@ -1,0 +1,37 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不屑一顾 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing disdained"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 中国))
+                    (NP (NN 科学家)))
+                    (VP (ADVP (AD 却))
+                    (PP-DIR (P 对)
+                    (NP (PN 此)))
+                    (VP (VV 不屑一顾)))) 
+                    
+                </parse>
+                <arg n="0">
+                    中国 科学家          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="1">
+                    对 此          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

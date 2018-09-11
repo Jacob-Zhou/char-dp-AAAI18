@@ -1,0 +1,28 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 窜烧 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 火苗))
+                    (VP (ADVP (AD 向上))
+                    (VP (VV 窜烧)))) 
+                    
+                </parse>
+                <arg n="0">
+                    火苗          
+                </arg>
+                <arg n="m" f="adv">
+                    向上          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

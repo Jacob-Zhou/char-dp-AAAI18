@@ -1,0 +1,26 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 北扩 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent/cause"/>
+        <role argnum="1" argrole="entity expanded"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 上地)
+                    (NN 基地))
+                    (VP (VV 北扩))) 
+                    
+                </parse>
+                <arg n="1">
+                    上地 基地          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

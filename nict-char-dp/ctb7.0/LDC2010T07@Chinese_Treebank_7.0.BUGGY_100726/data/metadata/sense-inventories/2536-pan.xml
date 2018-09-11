@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="判-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name=" to sentence (for punishment)" group="1">
+<commentary>
+</commentary>
+<examples>
+北京 一 抢劫 邮政 储蓄所 罪犯 被 判 死刑
+伪造 旅行 证件 和 身分证 被 判 入狱
+第二 项 控罪 被 判 入狱 两 个 月
+「 藏有 伪造 身分证 为 严重 罪行 ， 最高 可 被 判 罚 入狱 十 年 及 罚款 十万 元 正
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to differentiate, to distinguish, to discriminate" group="1">
+<commentary>
+</commentary>
+<examples>
+判别
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to judge, to decide (in a sport game)" group="1">
+<commentary>
+</commentary>
+<examples>
+判 卷子
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="26" ann_1_2_agreement="1.0" />
+</inventory>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="阻止-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to stop something" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 能 顺利 查清 已 发现 的 核 材料 走私 ， 并 及时 阻止 新 的 核 材料 走私 活动 ”
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to prevent someone from doing something" group="1">
+<commentary>
+</commentary>
+<examples>
+同时 将 阻止 欠缴 税款 的 纳税人 出境 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="3" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="36" ann_1_2_agreement="0.888888888889" />
+</inventory>

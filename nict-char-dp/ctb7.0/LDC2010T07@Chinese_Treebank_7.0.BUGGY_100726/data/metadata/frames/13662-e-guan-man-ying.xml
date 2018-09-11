@@ -1,0 +1,53 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 恶贯满盈 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TPC (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ-2 (-NONE- *T*-1))
+                    (VP (PP-LOC (P 在)
+                    (LCP (NP (DP (DT 历)
+                    (CLP (M 次)))
+                    (NP (NN 教案)))
+                    (LC 中)))
+                    (VP (SB 被)
+                    (VP (VV 杀)
+                    (NP-OBJ (-NONE- *-2))))))
+                    (DEC 的)))
+                    (NP (NN 传教士)))
+                    (PP-ADV (P 如)
+                    (NP-PN (NR 马赖)
+                    (PU 、)
+                    (NR 郭西泽)
+                    (PU 、)
+                    (NR 刘方继)
+                    (ETC 等)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (ADVP (AD 都))
+                    (VP (VC 是)
+                    (VP (VP (VV 恶贯满盈))
+                    (PU 、)
+                    (VP (VV 劣迹斑斑))))) 
+                    
+                </parse>
+                <arg n="0">
+                    在 历 次 教案 中 被 杀 的 传教士          
+                </arg>
+                <arg n="m" f="adv">
+                    如 马赖 、 郭西泽 、 刘方继 等          
+                </arg>
+                <arg n="m" f="adv">
+                    都          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

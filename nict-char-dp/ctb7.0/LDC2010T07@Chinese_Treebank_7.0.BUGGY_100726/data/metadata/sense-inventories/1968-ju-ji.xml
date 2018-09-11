@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="聚集-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to gather" group="1">
+<commentary>
+</commentary>
+<examples>
+每当 渔汛 来临 ， 中国 沿海 各 省 以及 日本 、 韩国 等 地 的 数万 艘 渔船 便 聚集 这里 ， 张网 作业
+九百万 专业 劳工 聚集 在 高度 都市化 的 城市 中
+他们 最近 出没 台北市 各 大 百货 公司 、 花市 以及 大型 活动 等 人潮 聚集 的 地
+方
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to collect" group="1">
+<commentary>
+</commentary>
+<examples>
+至於 那些 平日 乏 人 照顾 的 老 人 与 街友 ， 则 由 社会 福利 团体 聚集 起来 办桌 招待
+只有 好莱坞 才 能 聚集 那么 多 资金
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to accumulate" group="1">
+<commentary>
+</commentary>
+<examples>
+“ 尽快 聚集 共识 ， 然后 成立 一 个 主流 民意 对话 的 机制
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="30" ann_1_2_agreement="0.966666666667" />
+</inventory>

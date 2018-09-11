@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 同归于尽 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (PP-ADV (P 和)
+                    (NP (NN 妻)
+                    (PU 、)
+                    (NN 儿)))
+                    (VP (VV 同归于尽)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="0" f="crd">
+                    和 妻 、 儿          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

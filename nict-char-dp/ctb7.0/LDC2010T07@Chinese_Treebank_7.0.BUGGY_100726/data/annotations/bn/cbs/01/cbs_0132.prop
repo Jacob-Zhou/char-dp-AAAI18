@@ -1,0 +1,41 @@
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 0 3 gold 设-v 设.01 ----- 3:0-rel 2:1-ARG1 4:1-ARG3 0:0*1:0*7:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 0 14 gold 透露-v 透露.01 ----- 14:0-rel 0:3-ARG0 12:1-ARGM-TMP 15:2-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 0 21 gold 披露-v 披露.01 ----- 21:0-rel 16:1-ARGM-TMP 18:1-ARG0 19:1-ARGM-DIR 22:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 0 32 gold 受到-v 受到.01 ----- 32:0-rel 23:1-ARG0 24:1-ARGM-LOC 22:0*22:1*33:0*33:1*39:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 0 48 gold 送往-v 送往.01 ----- 48:0-rel 15:1-ARGM-TMP 42:1-ARG0 44:1-ARGM-TMP 45:1-ARGM-ADV 47:1-ARG1 49:3-ARG2
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 0 53 gold 恶劣-v 恶劣.01 ----- 53:0-rel 51:1-ARG0 52:1-ARGM-ADV 49:0*49:1*50:0*50:1*55:1-ARG0
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 1 2 gold 呼吁-v 呼吁.02 ----- 2:0-rel 0:1-ARG0 3:2-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 1 5 gold 应该-v 应该.01 ----- 5:0-rel
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 1 6 gold 要-v 要.06 ----- 6:0-rel 3:1-ARG0 7:1-ARGM-ADV
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 1 7 gold 执行-v 执行.01 ----- 7:0-rel 3:1-ARG0 8:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 1 11 gold 释放-v 释放.01 ----- 11:0-rel 3:1-ARG0 10:1-ARGM-ADV 12:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 1 14 gold 保障-v 保障.01 ----- 14:0-rel 3:1-ARG0 15:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 9 gold 披露-v 披露.01 ----- 9:0-rel 0:1-ARG0 1:1-ARGM-TMP 7:1-ARGM-DIR 10:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 20 gold 受到-v 受到.01 ----- 20:0-rel 11:1-ARGM-TMP 15:1-ARG0 16:1-ARGM-LOC 10:0*10:1*21:0*21:1*24:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 27 gold 包括-v 包括.01 ----- 27:0-rel 26:1-ARG0 29:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 32 gold 打伤-v 打伤.01 ----- 32:0-rel 29:1-ARG1 31:1-ARG0 33:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 38 gold 差-v 差.02 ----- 38:0-rel 35:1-ARG0 37:1-ARGM-ADV
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 44 gold 有-v 有.03 ----- 44:0-rel 40:2-ARGM-ADV 42:1-ARG0 43:1-ARGM-ADV 45:3-ARGM-ADV
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 2 47 gold 监视-v 监视.01 ----- 47:0-rel 45:2-ARG0
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 2 gold 指出-v 指出.01 ----- 2:0-rel 0:1-ARG0 3:7-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 4 gold 报道-v 报道.01 ----- 4:0-rel 3:1-ARG0
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 12 gold 表示-v 表示.01 ----- 12:0-rel 3:5-ARGM-TMP 9:1-ARG0 11:1-ARGM-ADV 13:2-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 14 gold 要-v 要.05 ----- 14:0-rel 13:1-ARG0 15:2-ARGM-ADV
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 18 gold 送往-v 送往.01 ----- 18:0-rel 15:1-ARG0 17:1-ARG1 19:3-ARG2
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 34 gold 恶劣-v 恶劣.01 ----- 34:0-rel 27:1-ARGM-DIS 28:4-ARG0 33:1-ARGM-ADV
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 39 gold 有-v 有.05 ----- 39:0-rel 37:1-ARG0 38:1-ARGM-ADV 40:5-ARGM-ADV
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 41 gold 虐待-v 虐待.01 ----- 41:0-rel 40:1-ARG0 42:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 3 45 gold 发生-v 发生.01 ----- 45:0-rel 40:4-ARG0
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 4 6 gold 表示-v 表示.01 ----- 6:0-rel 0:1-ARG0 1:1-ARG3 7:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 4 9 gold 宣布-v 宣布.01 ----- 9:0-rel 0:1-ARG0 10:2-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 4 11 gold 开始-v 开始.01 ----- 11:0-rel 10:1-ARG0 12:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 4 18 gold 在-v 在.01 ----- 18:0-rel 14:1-ARGM-ADV 15:1-ARGM-TMP 16:1-ARG0 17:1-ARGM-ADV 19:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 4 20 gold 发展-v 发展.01 ----- 20:0-rel 19:1-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 2 gold 说-v 说.01 ----- 2:0-rel 0:1-ARG0 4:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 8 gold 作为-v 作为.01 ----- 8:0-rel 4:1-ARG0 6:1-ARG1 9:4-ARG2
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 21 gold 能够-v 能够.01 ----- 21:0-rel
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 29 gold 保障-v 保障.01 ----- 29:0-rel 17:1-ARGM-DIS 18:2-ARG0 20:1-ARGM-ADV 22:1-ARGM-MNR 30:3-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 32 gold 遭到-v 遭到.01 ----- 32:0-rel 33:2-ARG1 30:0*30:1*31:0*31:1*36:1-ARG0
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 40 gold 会-v 会.01 ----- 40:0-rel
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 44 gold 感到-v 感到.01 ----- 44:0-rel 43:1-ARG0 45:2-ARG1
+bn/cbs/01/cbs_0132@0132@cbs@bn@ch@on 5 48 gold 失望-v 失望.01 ----- 48:0-rel 45:1-ARG0 46:2-ARGM-ADV

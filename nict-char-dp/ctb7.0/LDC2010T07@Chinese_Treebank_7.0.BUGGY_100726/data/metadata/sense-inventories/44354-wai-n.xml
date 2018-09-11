@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="wai, 外-n">
+<commentary></commentary>
+<sense n="1" name="外, outside" group="" type="">
+<commentary>Not within or part of something.</commentary><examples>国外
+outside the country
+
+校外
+outside the school
+
+她发现大商场外有很多好衣服.
+Outside of a department store, she had never seen so many lovely clothes.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" name="外, other" group="" type="">
+<commentary>The second of two things or people, or the item or person that is left from a group or ret of things.</commentary><examples>外省
+Other provinces.
+
+外县
+Other country
+
+外来干部
+Cadre transferred from other place.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" name="外, foreign, external, ancient" group="" type="">
+<commentary>Belonging or connected to a country that is not your own or is not the one you are in.</commentary><examples>外商
+Foreign merchants.
+
+对外贸易
+Trade with foreign countries.
+
+古今中外
+Modern or ancient times.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" name="外, (relatives) of one's mother, sisters or daughters" group="" type="">
+<commentary>On one's mother's, sister's or daughter's side.</commentary><examples>外甥
+Daughter's son.
+
+外甥儿
+Sister's son.
+
+外甥女
+Sister's daughter.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" name="外, not of the same organization, class, etc, not closely related," group="" type="">
+<commentary>Not closely related people or items.</commentary><examples>外客
+A guest who is not a relative.
+
+外人
+a stranger
+
+你太见外了.
+You regarded me as an outsider.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="6" name="外, besides, extra, in addition, beyond," group="" type="">
+<commentary>added, additional, or more than expected.</commentary><examples>预算外的开资。
+extra-budgetary expenditure.
+
+除了音响外,我们的新车没有另外东西.
+We didn't get any extras on our new car excfept for the CD player.
+
+他每天工作外加两小时.
+He's been working an extra two hours a day.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="7" name="外, 非官方, 民间,  unofficial," group="" type="">
+<commentary>not connected with or coming from a recognized office or authority.</commentary><examples>外传
+Unofficial biography.
+
+我们把他看作非官方地方学家.
+We think of him as the unofficial town historian.
+
+民间往来
+the unofficial exchanges.
+</examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="8" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

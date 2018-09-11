@@ -1,0 +1,22 @@
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 0 8 gold 拒绝-v 拒绝.01 ----- 8:0-rel 0:2-ARG0 9:2-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 0 10 gold 接受-v 接受.01 ----- 10:0-rel 9:1-ARG0 11:4-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 0 23 gold 打死-v 打死.01 ----- 23:0-rel 20:1-ARGM-TMP 21:2-ARG0 24:2-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 0 26 gold 表示-v 表示.01 ----- 26:0-rel 18:1-ARG0 19:1-ARG3 27:1-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 1 2 gold 代表-v 代表.01 ----- 2:0-rel 3:2-ARG1 0:0*0:1*1:0*1:1*6:1-ARG0
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 1 7 gold 表示-v 表示.01 ----- 7:0-rel 0:3-ARG0 9:1-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 1 14 gold 是-v 是.01 ----- 14:0-rel
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 2 2 gold 誓言-v 誓言.01 ----- 2:0-rel 0:1-ARG0 1:1-ARGM-DIS 3:2-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 2 4 gold 要-v 要.05 ----- 4:0-rel 3:1-ARG0 5:1-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 2 8 gold 送交-v 送交.01 ----- 8:0-rel 3:1-ARG0 6:2-ARG1 9:1-ARG2
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 3 11 gold 发生-v 发生.01 ----- 11:0-rel 7:1-ARGM-TMP 9:2-ARG1 12:0*14:1*6:0-ARG0
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 3 16 gold 表-v 表.01 ----- 16:0-rel 0:1-ARG0 2:1-ARGM-LOC 5:1-ARG1 15:1-ARGM-ADV 17:1-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 4 1 gold 说-v 说.01 ----- 1:0-rel 0:1-ARG0 2:4-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 4 6 gold 留下-v 留下.01 ----- 6:0-rel 2:3-ARG0 7:4-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 5 4 gold 表示-v 表示.01 ----- 4:0-rel 0:1-ARGM-TMP 1:2-ARG0 6:1-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 5 13 gold 伤亡-v 伤亡.01 ----- 13:0-rel 12:1-ARGM-TMP 10:0*10:1*11:0*11:1*15:1-ARG0
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 5 16 gold 树立-v 树立.01 ----- 16:0-rel 7:1-ARG0 8:1-ARGM-ADV 9:1-ARGM-BNF 17:2-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 5 22 gold 设立-v 设立.01 ----- 22:0-rel 7:1-ARG0 8:1-ARGM-ADV 21:1-ARGM-DIS 23:2-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 5 26 gold 纪念-v 纪念.01 ----- 26:0-rel 7:1-ARG0 8:1-ARGM-ADV 21:1-ARGM-DIS 27:1-ARG1
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 6 2 gold 要求-v 要求.02 ----- 2:0-rel 0:1-ARG0 3:1-ARG1 4:2-ARG2
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 6 6 gold 道歉-v 道歉.01 ----- 6:0-rel 4:1-ARG0 5:1-ARGM-ADV
+bn/vom/02/vom_0279@0279@vom@bn@ch@on 6 9 gold 给予-v 给予.01 ----- 9:0-rel 4:1-ARG0 8:1-ARGM-DIS 10:2-ARG1

@@ -1,0 +1,41 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 装置 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing set up"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (PP-MNR (P 用)
+                    (NP (ADJP (JJ 不锈))
+                    (NP (NN 钢条))))
+                    (VP (VV 装置)
+                    (NP-OBJ (-NONE- *T*-2)))))
+                    (DEC 的)))
+                    (NP (NN 底钢))
+                    (NP (VV 摇)
+                    (NN 船座椅))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="mnr">
+                    用 不锈 钢条          
+                </arg>
+                <arg n="1">
+                    *T*-2 -> 摇 船座椅          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

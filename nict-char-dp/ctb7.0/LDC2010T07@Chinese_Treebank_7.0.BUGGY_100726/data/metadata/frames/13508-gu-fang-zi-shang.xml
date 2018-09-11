@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 孤芳自赏 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 而))
+                    (NP-PN-SBJ (NR 青岛)
+                    (NN 啤酒)
+                    (NN 集团))
+                    (VP (VP (ADVP (AD 却))
+                    (ADVP (AD 依然))
+                    (VP (VV 孤芳自赏))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    而          
+                </arg>
+                <arg n="0">
+                    青岛 啤酒 集团          
+                </arg>
+                <arg n="m" f="dis">
+                    却          
+                </arg>
+                <arg n="m" f="adv">
+                    依然          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

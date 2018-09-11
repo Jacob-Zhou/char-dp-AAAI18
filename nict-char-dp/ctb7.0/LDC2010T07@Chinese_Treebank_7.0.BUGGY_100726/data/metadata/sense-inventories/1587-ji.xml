@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="及-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to match" group="1">
+<commentary>
+</commentary>
+<examples>
+虽然 四十 年 的 航天 投资 总额 还 不 及 前 苏联 、 美国 一 年 的 航天 投资 。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to reach, to attain, to come up to" group="1">
+<commentary>
+</commentary>
+<examples>
+才 过 民权 大桥 或 麦帅 二 桥 ， 视线 所 及 就 是 招牌 高 挂 醒目 的 量贩 店 错落 其中
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="conjunction, same as 和" group="1">
+<commentary>
+</commentary>
+<examples>
+中共 驻 联合国 代表 王英凡 ５号 在 联合国 行政 及 预算 委员会 中 表示
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to make it in time" group="1">
+<commentary>
+</commentary>
+<examples>
+连 背 剧本 的 时间 都 来 不 及
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="Vicky" sample_score="-"/>
+
+<ita count="846" ann_1_2_agreement="0.986997635934" />
+</inventory>

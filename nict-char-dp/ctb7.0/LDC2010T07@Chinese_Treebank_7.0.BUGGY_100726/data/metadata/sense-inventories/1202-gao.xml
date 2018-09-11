@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="告-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to accuse, to sue, to seek legal action against" group="1">
+<commentary>
+</commentary>
+<examples>
+第二 被告 ， 二十九 岁 资料 输入员 ， 被 告 协助 和 教唆 他人 使用 虚假 英国 国民 （ 海外 ） 护照 及 香港 身分 证明书 两 罪
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to state, to make known" group="1">
+<commentary>
+</commentary>
+<examples>
+综述 ： 塞浦路斯 导弹 危机 暂 告 平息
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to tell, to inform" group="1">
+<commentary>
+</commentary>
+<examples>
+全 国 人大 常委会 发表 《 告 台湾 同胞 书 》
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="4" ann_1_2_agreement="0.75" />
+</inventory>

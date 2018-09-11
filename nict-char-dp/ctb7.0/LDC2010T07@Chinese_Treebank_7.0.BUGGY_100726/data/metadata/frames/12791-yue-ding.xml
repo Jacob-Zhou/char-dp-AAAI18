@@ -1,0 +1,38 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 约定 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="agreement"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP (NP-APP (NP-PN (NN 治安科))
+                    (NP (NN 技术员)))
+                    (NP-PN (NR 朱守强)))
+                    (CC 和)
+                    (NP (NP-APP (NP-PN (NR 兰州))
+                    (NP (NN 姑娘)))
+                    (NP-PN (NR 刘桂芳))))
+                    (VP (VV 约定)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (NP-TMP (NN 春节))
+                    (VP (VV 结婚)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    治安科 技术员 朱守强 和 兰州 姑娘 刘桂芳          
+                </arg>
+                <arg n="1">
+                    春节 结婚          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,48 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 走下 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="descender"/>
+        <role argnum="1" argrole="descended from"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (QP (ADJP (JJ 最后))
+                    (QP (CD 一)
+                    (CLP (M 辆))))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-LGS (P 由)
+                    (NP-PN (NR 英国)
+                    (NR 罗弗)
+                    (NN 公司)))
+                    (VP (VV 生产)
+                    (NP-OBJ (-NONE- *-2)))))
+                    (DEC 的)))
+                    (ADJP (JJ 微型))
+                    (NP (NN 轿车)))
+                    (VP (NP-TMP (NT ４号))
+                    (VP (VV 走下)
+                    (NP-OBJ (NN 生产线))))) 
+                    
+                </parse>
+                <arg n="0">
+                    最后 一 辆 由 英国 罗弗 公司 生产 的 微型 轿车 ４号          
+                </arg>
+                <arg n="m" f="tmp">
+                    ４号          
+                </arg>
+                <arg n="1">
+                    生产线          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

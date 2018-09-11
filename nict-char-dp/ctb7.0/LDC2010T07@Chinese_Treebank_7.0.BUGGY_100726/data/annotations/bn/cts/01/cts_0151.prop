@@ -1,0 +1,43 @@
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 5 gold 引起-v 引起.01 ----- 5:0-rel 6:1-ARG1 3:0*3:1*4:0*4:1*9:1-ARG0
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 16 gold 停止-v 停止.01 ----- 16:0-rel 0:2-ARGM-TPC 3:3-ARG1 10:1-ARGM-TMP 14:2-ARGM-ADV
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 22 gold 领先-v 领先.01 ----- 22:0-rel 21:1-ARG0
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 25 gold 缩小-v 缩小.01 ----- 25:0-rel 19:3-ARG0 27:1-ARGM-EXT
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 26 gold 到-v 到.01 ----- 26:0-rel
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 34 gold 有-v 有.05 ----- 34:0-rel 30:1-ARGM-DIS 31:1-ARGM-TMP 32:1-ARG0 33:1-ARGM-ADV 35:3-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 39 gold 顾-v 顾.01 ----- 39:0-rel 35:2-ARG0 38:1-ARGM-ADV 40:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 41 gold 决定-v 决定.01 ----- 41:0-rel 35:2-ARG0 42:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 43 gold 要-v 要.05 ----- 43:0-rel 42:1-ARG0 44:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 45 gold 继续-v 继续.01 ----- 45:0-rel 44:1-ARG1 46:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 0 46 gold 进行-v 进行.01 ----- 46:0-rel 44:1-ARG0 47:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 2 gold 作出-v 作出.01 ----- 2:0-rel 0:2-ARG0 3:3-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 6 gold 停止-v 停止.01 ----- 6:0-rel 5:1-ARG0 7:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 12 gold 提醒-v 提醒.01 ----- 12:0-rel 0:2-ARG0 11:1-ARGM-DIS 13:1-ARG1 14:2-ARG2
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 15 gold 适当-v 适当.01 ----- 15:0-rel
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 17 gold 运用-v 运用.01 ----- 17:0-rel 14:1-ARG0 15:2-ARGM-ADV 18:3-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 37 gold 回报-v 回报.01 ----- 37:0-rel 32:1-ARG0 33:1-ARGM-DIR 31:0*38:0*40:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 49 gold 获得-v 获得.01 ----- 49:0-rel 47:2-ARG0 50:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 55 gold 获得-v 获得.01 ----- 55:0-rel 53:1-ARG0 54:1-ARGM-DIS 56:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 68 gold 缩小-v 缩小.01 ----- 68:0-rel 59:3-ARG0 62:1-ARGM-ADV 63:1-ARGM-DIR 70:2-ARGM-EXT
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 69 gold 到-v 到.01 ----- 69:0-rel
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 76 gold 包括-v 包括.01 ----- 76:0-rel 73:1-ARGM-DIS 74:1-ARG0 75:1-ARGM-ADV 77:4-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 82 gold 会-v 会.01 ----- 82:0-rel
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 1 83 gold 截止-v 截止.01 ----- 83:0-rel 79:1-ARGM-TMP 81:1-ARGM-DIS 77:0*77:1*78:0*78:1*85:1-ARG0
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 2 6 gold 宣布-v 宣布.01 ----- 6:0-rel 5:1-ARG0 4:1*7:0*7:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 2 11 gold 表示-v 表示.01 ----- 11:0-rel 0:3-ARG0 3:1-ARGM-TMP 10:1-ARGM-ADV 13:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 2 14 gold 会-v 会.01 ----- 14:0-rel
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 2 15 gold 尊重-v 尊重.01 ----- 15:0-rel 13:1-ARG0 16:3-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 3 6 gold 高-v 高.01 ----- 6:0-rel 2:2-ARG0 5:1-ARGM-ADV 15:1*1:0*1:1*4:0*4:1-ARGM-LOC
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 3 23 gold 完成-v 完成.01 ----- 23:0-rel 18:2-ARG1 20:1-ARGM-ADV 21:1-ARGM-ADV 22:1-ARGM-ADV
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 3 25 gold 准备-v 准备.02 ----- 25:0-rel 0:1-ARGM-DIS 1:3-ARG0 16:1-ARGM-DIS 17:1-ARGM-MNR 26:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 3 33 gold 回报-v 回报.01 ----- 33:0-rel 28:1-ARG0 29:1-ARG2
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 3 38 gold 恢复-v 恢复.02 ----- 38:0-rel 35:1-ARG0 36:1-ARGM-ADV 37:1-ARGM-ADV 39:3-ARG0
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 4 9 gold 下令-v 下令.01 ----- 9:0-rel 0:1-ARGM-ADV 7:1-ARG0 8:1-ARGM-ADV 10:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 4 20 gold 提出-v 提出.01 ----- 20:0-rel 10:1-ARG0 11:1-ARGM-TMP 18:1-ARGM-DIR 21:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 4 31 gold 公布-v 公布.01 ----- 31:0-rel 29:1-ARG0 30:1-ARGM-TMP 28:1*32:1*34:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 4 35 gold 为准-v 为准.01 ----- 35:0-rel 24:1-ARGM-DIS 25:1-ARG0 26:1-ARGM-ADV 27:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 5 5 gold 准备-v 准备.02 ----- 5:0-rel 0:1,3:1-ARG0 4:1-ARGM-DIS 6:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 5 11 gold 双管齐下-v 双管齐下.01 ----- 11:0-rel 6:1-ARG0 7:1-ARG0 9:1-ARGM-ADV
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 5 13 gold 提起-v 提起.01 ----- 13:0-rel 6:1-ARG0 14:1-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 5 16 gold 希望-v 希望.02 ----- 16:0-rel 0:1-ARG0 17:2-ARG1
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 5 18 gold 能够-v 能够.01 ----- 18:0-rel
+bn/cts/01/cts_0151@0151@cts@bn@ch@on 5 22 gold 进行-v 进行.01 ----- 22:0-rel 17:1-ARG0 19:1-ARGM-LOC 23:2-ARG1

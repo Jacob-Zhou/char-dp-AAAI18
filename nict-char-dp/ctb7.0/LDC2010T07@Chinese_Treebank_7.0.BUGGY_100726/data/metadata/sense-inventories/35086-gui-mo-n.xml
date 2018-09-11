@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="规模	35086-gui-mo-n">
+<commentary>This word has only one sense.</commentary>
+<sense n="1" name="规模, scale, scope, dimensions" group="" type="">
+<commentary></commentary><examples></examples>
+<mappings>
+<wn version=""></wn><omega/>
+<pb/>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="gsun" sample_score=""/>
+</inventory>

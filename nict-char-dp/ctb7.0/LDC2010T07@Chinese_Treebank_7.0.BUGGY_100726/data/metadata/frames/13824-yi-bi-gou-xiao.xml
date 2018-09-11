@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 一笔勾销 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing canceled"/>
+        <role argnum="1" argrole="agent/cause"/>
+         
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 结果))
+                    (NP-SBJ (NN 功劳)
+                    (NN 苦劳))
+                    (VP (VV 一笔勾销))) 
+                    
+                </parse>
+                <arg n="m" f="adv">
+                    结果          
+                </arg>
+                <arg n="0">
+                    功劳 苦劳          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

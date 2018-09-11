@@ -1,0 +1,40 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 丢向 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity thrown"/>
+        <role argnum="2" argrole="target"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NN 巴勒斯坦人))
+                    (VP (PP-MNR (P 用)
+                    (NP (NN 石头)
+                    (CC 和)
+                    (NN 玻璃瓶)))
+                    (VP (VV 丢向)
+                    (NP-OBJ (NP-PN (NR 以色列))
+                    (NP (NN 军方)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    巴勒斯坦人          
+                </arg>
+                <arg n="1">
+                    用 石头 和 玻璃瓶          
+                </arg>
+                <arg n="2">
+                    以色列 军方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

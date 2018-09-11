@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="跑-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="to run, to move swiftly (e.g. vehicles, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+现在 他 每 天 要 做 早 锻炼 ， 绕 村子 跑 三千 米 ； 晚上 则 到 村 体育场 去 打 篮球
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="to run around (doing errands, business, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+这 条 路线 原先 有 「 中资 」 的 香港 中旅社 在 跑
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to run away, to flee" group="1">
+<commentary>
+</commentary>
+<examples>
+想 买 东西 的话 ， 上万 元 跑 不 掉
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to run, to operate (e.g. computer programs, etc.)" group="1">
+<commentary>
+</commentary>
+<examples>
+每 天 晚上 到 了 十一点 ， 大夥 就 出去 吃 宵夜 ， 放 着 程式 自己 跑
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="24" ann_1_2_agreement="0.875" />
+</inventory>

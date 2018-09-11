@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="快-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="quick, fast, speedy, rapid" group="1">
+<commentary>
+</commentary>
+<examples>
+发展 速度 快
+化工 重点 项目 建设 进展 较 快
+初级 产品 贸易 增长 较 快
+「 青少年 已经 成为 犯罪率 上升 最 快 的 族群 ， 」
+成立 工作 站 ， 派 一 个 人 全天候 蹲 在 石冈 ， 使得 大隘社 很 快 地 能 进入
+石冈 的 生活
+结果 是 威权 箝制 一旦 松绑 ， 资本主义 很 快 地 攫取 住 这 个 空档
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="soon, shortly" group="1">
+<commentary>
+</commentary>
+<examples>
+一直 到 快 上 国中 的 年龄 ， 对 台语 还是 「 莫 宰羊 」 （ 台语 「 不 知道 」
+之 意 ）
+中国人 常 说 ， 人 是 世间 的 过客 ， 很 快 就 要 消失
+女 状元 的 光环 ， 很 快 就 要 褪 下来 了
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="to be happy, pleased, gratified" group="1">
+<commentary>
+</commentary>
+<examples>
+问问 自己 到底 快 不 快乐
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="to hurry up" group="1">
+<commentary>
+</commentary>
+<examples>
+快 出来 帮忙 把 垃圾 桶 推 进去
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="5" type="" name="almost" group="1">
+<commentary>
+</commentary>
+<examples>
+一 个 教室 最 高 记录 挤 了 快 八十 位 同学
+听 得 快 八十 岁 的 老 镖客 目瞪口呆
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="6" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="49" ann_1_2_agreement="0.734693877551" />
+</inventory>

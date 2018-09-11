@@ -1,0 +1,72 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 提纯 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing purified"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="sbj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-TMP (NT １９９９年)
+                    (NT ９月))
+                    (NP-PN-SBJ (NR 许耀采)
+                    (PU 、)
+                    (NR 黄富咸))
+                    (VP (VP (VV 购进)
+                    (NP-OBJ (QP (CD ３００)
+                    (CLP (M 公斤)))
+                    (NP (NN 麻黄素))))
+                    (PU ，)
+                    (VP (ADVP (AD 并))
+                    (PP-TMP (P 于)
+                    (LCP (LCP (NP (NT １１月))
+                    (LC 底))
+                    (CC 到)
+                    (LCP (NP (NT １２月))
+                    (LC 初))))
+                    (PU ，)
+                    (VP (BA 把)
+                    (IP-OBJ (NP-SBJ (DNP (LCP (IP (NP-SBJ (-NONE- *pro*))
+                    (VP (VV 加工)))
+                    (LC 后))
+                    (DEG 的))
+                    (NP (NN 冰毒)
+                    (NN 半成品)
+                    (NN 溶液)))
+                    (VP (VP (VV 提纯)
+                    (PU 、)
+                    (VV 瓢白)
+                    (PU 、)
+                    (VV 冷藏)
+                    (PU 、)
+                    (VV 结晶))
+                    (PU ，)
+                    (VP (VV 制成)
+                    (NP-OBJ (NN 成品))))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    １９９９年９月          
+                </arg>
+                <arg n="0">
+                    许耀采 、 黄富咸          
+                </arg>
+                <arg n="m" f="dis">
+                    并          
+                </arg>
+                <arg n="m" f="tmp">
+                    于 １１月 底 到 １２月 初          
+                </arg>
+                <arg n="1">
+                    加工 后 的冰毒 半成品溶液          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

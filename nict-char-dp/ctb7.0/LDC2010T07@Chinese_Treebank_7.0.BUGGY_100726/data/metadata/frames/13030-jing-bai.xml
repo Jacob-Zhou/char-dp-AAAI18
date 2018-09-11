@@ -1,0 +1,31 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 敬拜 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="worshiper"/>
+        <role argnum="1" argrole="entity worshiped"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (VP (VRD (VV 敬拜)
+                    (VV 完))
+                    (NP-OBJ (NN 神灵))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    神灵          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

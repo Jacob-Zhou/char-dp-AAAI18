@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 集会 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (DP (DT 这些))
+                    (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (PP-TMP (P 在)
+                    (LCP (IP (NP-SBJ (PN 他))
+                    (VP (VV 执政)))
+                    (LC 期间)))
+                    (VP (VV 支持)
+                    (NP-OBJ (PN 他)))))
+                    (DEC 的)))
+                    (NP (ADJP (JJ 主要))
+                    (NP (NN 势力))))
+                    (PU ，)
+                    (VP (NP-TMP (NT ６号)
+                    (NT 早上))
+                    (PP-LOC (P 在)
+                    (NP-PN (NR 贝尔格勒)))
+                    (VP (VV 集会)))) 
+                    
+                </parse>
+                <arg n="0">
+                    这些 在 他 执政 期间 支持 他 的 主要 势力          
+                </arg>
+                <arg n="m" f="tmp">
+                    ６号 早上          
+                </arg>
+                <arg n="m" f="loc">
+                    在 贝尔格勒          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

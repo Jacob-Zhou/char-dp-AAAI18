@@ -1,0 +1,44 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 不容 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing not allowed"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (PU 《)
+                    (NR 中国)
+                    (NN 环境报)
+                    (PU 》))
+                    (DNP (PP (P 有关)
+                    (NP (NP-PN (NR 重庆))
+                    (NP (NN 医院))
+                    (NP (NN 污水)
+                    (NN 治理))))
+                    (DEG 的))
+                    (NP (NN 报道)))
+                    (VP (ADVP (AD 也))
+                    (VP (VV 不容)
+                    (NP-OBJ (NN 乐观)))) 
+                    
+                </parse>
+                <arg n="0">
+                    《 中国 环境报 》有关 重庆 医院 污水 治理 的报道          
+                </arg>
+                <arg n="m" f="dis">
+                    也          
+                </arg>
+                <arg n="1">
+                    乐观          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

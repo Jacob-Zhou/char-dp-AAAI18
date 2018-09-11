@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 生气 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <role argnum="1" argrole="thing arg0 is angry about"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="dir" trg="arg1"/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-DIR (P 对于)
+                    (NP (NP (DNP (NP (NN 立委))
+                    (DEG 的))
+                    (NP (NN 指控)))
+                    (PU ，)
+                    (PRN (IP (NP-PN-SBJ (NN 外交部))
+                    (VP (ADVP (AD 只))
+                    (VP (VV 会)
+                    (VP (VV 搞)
+                    (NP-OBJ (ADJP (JJ 惊人))
+                    (NP (NN 外交差))))))))))
+                    (PU ，)
+                    (NP-SBJ (PN 他))
+                    (VP (VP (DVP (VP (VA 非常))
+                    (DEV 的))
+                    (VP (VV 生气))) 
+                    
+                </parse>
+                <arg n="1">
+                    对于 立委 的 指控 ， 外交部 只 会 搞 惊人外交差          
+                </arg>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="m" f="adv">
+                    非常 的          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

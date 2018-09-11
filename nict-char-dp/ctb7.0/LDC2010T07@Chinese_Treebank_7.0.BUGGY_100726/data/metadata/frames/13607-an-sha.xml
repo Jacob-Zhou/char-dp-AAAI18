@@ -1,0 +1,32 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 暗杀 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="assassinator"/>
+        <role argnum="1" argrole="people assassinated"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 暗杀)
+                    (NP-OBJ (NP-APP (NP-PN (NR 古巴))
+                    (NP (NN 总统)))
+                    (NP-PN (NR 卡斯特罗)))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    古巴 总统 卡斯特罗          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="可以-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="may, can" group="1">
+<commentary>VV</commentary>
+<examples>
+这间屋子可以住四个人。
+这个问题可以拿来好好研究一番。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="(the speaker) gives permission to someone (to do something)" group="1">
+<commentary>VV</commentary>
+<examples>
+你可以走了。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="not bad, pretty good" group="1">
+<commentary>VA</commentary>
+<examples>
+这篇文章写得还可以。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="4" type="" name="terribly, awfully, very (often preceded by 真) " group="1">
+<commentary>VA</commentary>
+<examples>
+天气真是热得可以。
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="5" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="353" ann_1_2_agreement="0.926345609065" />
+</inventory>

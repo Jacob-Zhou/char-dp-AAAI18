@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 抹 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="entity wiped"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *PRO*))
+                    (VP (VP (VRD (VV 吃)
+                    (VA 干))
+                    (NP-OBJ (-NONE- *RNR*-3)))
+                    (VP (VRD (VV 抹)
+                    (VA 净))
+                    (NP-OBJ-3 (-NONE- *T*-2)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *PRO*          
+                </arg>
+                <arg n="1">
+                    *T*-2          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

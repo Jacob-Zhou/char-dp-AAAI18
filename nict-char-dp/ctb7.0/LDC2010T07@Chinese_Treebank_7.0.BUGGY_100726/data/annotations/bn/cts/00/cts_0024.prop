@@ -1,0 +1,38 @@
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 0 5 gold 成立-v 成立.01 ----- 5:0-rel 0:2-ARG1 3:1-ARGM-TMP 4:1-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 0 12 gold 拿下-v 拿下.01 ----- 12:0-rel 18:1*7:1*8:1-ARG0 9:1-ARGM-LOC 14:2-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 0 19 gold 主持-v 主持.01 ----- 19:0-rel 7:3-ARG0 21:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 0 27 gold 呼吁-v 呼吁.01 ----- 27:0-rel 23:1-ARG0 24:1-ARGM-ADV 25:2-ARGM-ADV 29:3-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 0 32 gold 要-v 要.06 ----- 32:0-rel 29:2-ARG0 31:1-ARGM-ADV 33:1-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 0 33 gold 沦为-v 沦为.01 ----- 33:0-rel 29:2-ARG0 31:1-ARGM-ADV 34:4-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 1 2 gold 热热闹闹-v 热热闹闹.01 ----- 2:0-rel 0:0*0:1*1:0*1:1*4:1-ARG0
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 1 15 gold 成立-v 成立.01 ----- 15:0-rel 0:3-ARGM-ADV 8:1-ARGM-TMP 9:3-ARG1 12:1-ARGM-TMP 13:1-ARGM-LOC
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 1 24 gold 拿下-v 拿下.01 ----- 24:0-rel 17:1*18:1*29:1-ARG0 19:2-ARGM-TMP 22:1-ARGM-LOC 25:2-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 1 33 gold 到场-v 到场.01 ----- 33:0-rel 17:3-ARG0 31:1-ARGM-ADV 32:1-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 1 34 gold 主持-v 主持.01 ----- 34:0-rel 17:3-ARG0 31:1-ARGM-ADV 32:1-ARGM-ADV 35:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 2 2 gold 热热闹闹-v 热热闹闹.01 ----- 2:0-rel 0:0*0:1*1:0*1:1*4:1-ARG0
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 2 15 gold 成立-v 成立.01 ----- 15:0-rel 0:3-ARGM-ADV 8:1-ARGM-TMP 9:3-ARG1 12:1-ARGM-TMP 13:1-ARGM-LOC
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 2 24 gold 拿下-v 拿下.01 ----- 24:0-rel 17:1*18:1*29:1-ARG0 19:2-ARGM-TMP 22:1-ARGM-LOC 25:2-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 2 33 gold 到场-v 到场.01 ----- 33:0-rel 17:3-ARG0 31:1-ARGM-ADV 32:1-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 2 34 gold 主持-v 主持.01 ----- 34:0-rel 17:3-ARG0 31:1-ARGM-ADV 32:1-ARGM-ADV 35:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 6 gold 呼吁-v 呼吁.01 ----- 6:0-rel 0:1-ARGM-MNR 4:1-ARG0 5:1-ARGM-ADV 8:4-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 12 gold 重组-v 重组.01 ----- 12:0-rel 11:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 15 gold 自称-v 自称.01 ----- 15:0-rel 8:2-ARG0 10:1-ARGM-TMP 17:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 16 gold 是-v 是.01 ----- 16:0-rel 8:2-ARG0 10:1-ARGM-TMP 17:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 22 gold 希望-v 希望.02 ----- 22:0-rel 20:1-ARGM-DIS 21:1-ARG0 23:2-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 25 gold 要-v 要.06 ----- 25:0-rel 23:1-ARG0 24:1-ARGM-ADV 26:1-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 3 26 gold 沦为-v 沦为.01 ----- 26:0-rel 23:1-ARG0 24:1-ARGM-ADV 27:4-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 4 4 gold 能-v 能.01 ----- 4:0-rel 1:1-ARG0 2:1-ARGM-ADV 3:1-ARGM-ADV 5:3-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 4 10 gold 服务-v 服务.01 ----- 10:0-rel 1:1-ARG0 2:1-ARGM-TMP 3:1-ARGM-ADV 5:2-ARGM-ADV 7:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 4 13 gold 要-v 要.06 ----- 13:0-rel 1:1-ARG0 12:1-ARGM-ADV 14:2-ARGM-ADV
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 4 15 gold 变成-v 变成.01 ----- 15:0-rel 1:1-ARG1 12:1-ARGM-ADV 14:1-ARGM-TMP 16:4-ARG2
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 4 27 gold 为-v 为.01 ----- 27:0-rel 21:5-ARG0 28:5-ARGM-PRD
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 4 gold 成立-v 成立.01 ----- 4:0-rel 2:1-ARGM-TMP 3:1-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 7 gold 表示-v 表示.01 ----- 7:0-rel 0:1-ARG0 1:1-ARGM-TMP 6:1-ARGM-ADV 9:3-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 13 gold 会-v 会.01 ----- 13:0-rel
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 15 gold 推出-v 推出.01 ----- 15:0-rel 9:1-ARGM-TMP 10:1-ARGM-TPC 12:1-ARG0 14:1-ARGM-ADV 16:3-ARG1 21:2-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 18 gold 优秀-v 优秀.01 ----- 18:0-rel 16:0*16:1*17:0*17:1*20:1-ARG0
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 22 gold 参选-v 参选.01 ----- 22:0-rel 21:1-ARG0
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 28 gold 组党-v 组党.01 ----- 28:0-rel 27:1-ARG0
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 31 gold 希望-v 希望.02 ----- 31:0-rel 24:1-ARGM-DIS 25:1-ARG0 26:1-ARGM-TMP 32:2-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 33 gold 延续-v 延续.01 ----- 33:0-rel 32:1-ARG0 34:3-ARG1
+bn/cts/00/cts_0024@0024@cts@bn@ch@on 5 42 gold 扎根-v 扎根.01 ----- 42:0-rel 24:1-ARGM-DIS 25:1-ARG0 26:1-ARGM-TMP 39:1-ARGM-ADV 40:1-ARG1

@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 特许 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing permitted"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="npobj" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (NP-PN (NR 英国))
+                    (NP (NN 皇家)))
+                    (VP (VV 特许)
+                    (NP-OBJ (-NONE- *T*-2))))
+                    (DEC 的)))
+                    (NP (DP (DT 全))
+                    (NP-PN (NR 英)))
+                    (QP (CD ２０)
+                    (CLP (M 所)))
+                    (ADJP (JJ 名牌))
+                    (NP (NN 大学))) 
+                    
+                </parse>
+                <arg n="0">
+                    英国 皇家          
+                </arg>
+                <arg n="1">
+                    *T*-2 -> 全 英 ２０ 所 名牌 大学          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

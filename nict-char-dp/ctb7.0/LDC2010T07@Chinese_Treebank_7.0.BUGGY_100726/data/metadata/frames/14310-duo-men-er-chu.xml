@@ -1,0 +1,33 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 夺门而出 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-PN-SBJ (NR 李静))
+                    (VP (VP (VV 觉得)
+                    (IP-OBJ (NP-SBJ (-NONE- *PRO*))
+                    (VP (VV 受到)
+                    (NP-OBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VA 严重)))
+                    (DEC 的)))
+                    (NP (NN 屈辱))))))
+                    (PU ，)
+                    (VP (VV 夺门而出))) 
+                    
+                </parse>
+                <arg n="0">
+                    李静          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

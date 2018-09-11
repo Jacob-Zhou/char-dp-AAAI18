@@ -1,0 +1,39 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 无功而返 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (ADVP (AD 不过))
+                    (PP-PRP (P 因为)
+                    (IP (NP-TMP (NT 当时))
+                    (NP-LOC (NN 海上))
+                    (NP-SBJ (NN 风浪))
+                    (VP (ADVP (AD 很))
+                    (VP (VA 大)))))
+                    (PU ，)
+                    (NP-PN-SBJ (NN 海巡署))
+                    (VP (VC 是)
+                    (VP (VV 无功而返))) 
+                    
+                </parse>
+                <arg n="m" f="dis">
+                    不过          
+                </arg>
+                <arg n="m" f="prp">
+                    因为当时 海上 风浪 很大          
+                </arg>
+                <arg n="0">
+                    海巡署          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

@@ -1,0 +1,27 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 失事 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="thing described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (NP-PN (NR 俄罗斯))
+                    (QP (CD 一)
+                    (CLP (M 架)))
+                    (NP (NN 飞机)))
+                    (VP (VV 失事)))) 
+                    
+                </parse>
+                <arg n="0">
+                    俄罗斯 一 架 飞机          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

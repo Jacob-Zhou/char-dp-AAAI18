@@ -1,0 +1,61 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 报案 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="authority that arg0 reports a crime to"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="dir" trg="arg1"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 他))
+                    (VP (VP (VV 接到)
+                    (AS 了)
+                    (NP-OBJ (ADJP (JJ 恐吓))
+                    (NP (NN 电话))))
+                    (VP (ADVP (AD 已经))
+                    (PP-DIR (P 向)
+                    (NP (NN 警方)))
+                    (VP (VV 报案)))))))) 
+                    
+                </parse>
+                <arg n="0">
+                    他          
+                </arg>
+                <arg n="1">
+                    向 警方          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (PN 您))
+                    (VP (ADVP (CS 只要))
+                    (ADVP (AD 一))
+                    (VP (VV 报案)))) 
+                    
+                </parse>
+                <arg n="0">
+                    您          
+                </arg>
+                <arg n="m" f="dis">
+                    只要          
+                </arg>
+                <arg n="m" f="dis">
+                    一          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

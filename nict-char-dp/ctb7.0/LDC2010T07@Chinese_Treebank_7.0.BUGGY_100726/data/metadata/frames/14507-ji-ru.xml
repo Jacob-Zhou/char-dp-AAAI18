@@ -1,0 +1,46 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 计入 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="agent"/>
+        <role argnum="1" argrole="thing calculated"/>
+        <role argnum="2" argrole="calculated as"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+                <mapitem src="other" trg="arg1"/>
+                <mapitem src="npobj" trg="arg2"/>
+                 
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (BA 将)
+                    (IP-OBJ (NP-SBJ (DNP (NP (NP-PN-APP (NR 棕榈滩)
+                    (ETC 等))
+                    (NP (NN 县)))
+                    (DEG 的))
+                    (NP (NN 人工)
+                    (NN 计票)
+                    (NN 结果)))
+                    (VP (VV 计入)
+                    (NP-OBJ (NP-PN (NR 佛州))
+                    (ADJP (JJ 总))
+                    (NP (NN 票数))))) 
+                    
+                </parse>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="1">
+                    棕榈滩 等 县 的 人工 计票 结果          
+                </arg>
+                <arg n="2">
+                    佛州 总 票数          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

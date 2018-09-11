@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE inventory SYSTEM "inventory.dtd">
+<inventory lemma="独立-v">
+<commentary>
+</commentary>
+<sense n="1" type="" name="(adj) to be autonumous (politics, military)" group="1">
+<commentary>
+</commentary>
+<examples>
+吉尔吉斯 独立 以后 两 国 关系 发展 顺利
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="2" type="" name="(adj) to be independent, to be one's own master (of personality)" group="1">
+<commentary>
+</commentary>
+<examples>
+编剧 赋予 她们 独立 坚强 的 生命力
+作家 林文月 则 因为 儿女 都 已 独立 、 成家
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense n="3" type="" name="(adv) on one's own, independently" group="1">
+<commentary>
+</commentary>
+<examples>
+下一步 独立 开发 生产 高 清晰度 玻壳 和 宽 屏幕 彩电 玻壳
+新党 立委 谢启大 独立 调查 之 后续 行动
+市属 独立 研究 机构
+独立 总统 参选人 宋楚瑜
+</examples>
+<mappings>
+<wn version="1.7"></wn>
+<omega></omega>
+<pb></pb>
+</mappings>
+<SENSE_META clarity=""/>
+</sense>
+<sense group="1" n="4" name="none of the above" type="">
+<commentary>
+Automatically generated NOTA sense (bbn)
+</commentary>
+<examples>
+</examples>
+<mappings>
+<wn version="2.1"></wn><omega></omega><pb></pb>
+<fn></fn>
+</mappings><SENSE_META clarity=""/>
+</sense>
+<WORD_META authors="none" sample_score="-"/>
+
+<ita count="9" ann_1_2_agreement="0.888888888889" />
+</inventory>

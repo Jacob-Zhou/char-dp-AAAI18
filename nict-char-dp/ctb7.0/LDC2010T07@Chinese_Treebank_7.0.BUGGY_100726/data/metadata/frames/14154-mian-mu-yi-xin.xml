@@ -1,0 +1,50 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 面目一新 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (NP-SBJ (CP (WHNP-1 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-1))
+                    (VP (VV 走过)
+                    (NP-OBJ (QP (ADVP (AD 近))
+                    (QP (CD 百)
+                    (CLP (M 年))))
+                    (NP (NN 历史)))))
+                    (DEC 的)))
+                    (NP-PN (NR 青岛)
+                    (NN 啤酒)
+                    (NN 集团)
+                    (NN 公司)))
+                    (VP (QP-TMP (NP (NT 最近))
+                    (QP (CD ４)
+                    (CLP (M 年))))
+                    (PP-MNR (P 以)
+                    (NP (CP (WHNP-2 (-NONE- *OP*))
+                    (CP (IP (NP-SBJ (-NONE- *T*-2))
+                    (VP (VA 惊人)))
+                    (DEC 的)))
+                    (NP (NN 跨越))))
+                    (VP (VV 面目一新)))) 
+                    
+                </parse>
+                <arg n="0">
+                    走过 近 百 年 历史 的 青岛 啤酒集团公司          
+                </arg>
+                <arg n="m" f="tmp">
+                    最近４ 年          
+                </arg>
+                <arg n="m" f="mnr">
+                    以惊人 跨越          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>

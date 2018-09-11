@@ -1,0 +1,34 @@
+<!DOCTYPE verb SYSTEM "verb.dtd">
+<verb>
+    <id> 回天乏术 </id>
+    <frameset id="f1">
+        <role argnum="0" argrole="entity described"/>
+        <frame>
+            <mapping>
+                <V/>
+                <mapitem src="sbj" trg="arg0"/>
+            </mapping>
+            <example>
+                <parse>
+                    (PP-MNR (P 经过)
+                    (NP (NN 现场)
+                    (NN 急救)))
+                    (NP-SBJ (-NONE- *pro*))
+                    (VP (ADVP (AD 还是))
+                    (VP (VV 回天乏术)))) 
+                    
+                </parse>
+                <arg n="m" f="tmp">
+                    经过 现场 急救          
+                </arg>
+                <arg n="0">
+                    *pro*          
+                </arg>
+                <arg n="m" f="adv">
+                    还是          
+                </arg>
+                <V/>
+            </example>
+        </frame>
+    </frameset>
+</verb>
